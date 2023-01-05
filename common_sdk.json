@@ -8543,6 +8543,16 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/Weapons/grenades/w_cryo_grenade_projectile.rmdl",
+      "usePhysics": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/grenades/w_cryo_grenade.rmdl",
+      "usePhysics": true
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/weapons/grenades/ptpov_smoke_grenade.rmdl",
       "usePhysics": false,
       "animrigs": ["animrig/weapons/grenades/ptpov_smoke_grenade.rrig"]
