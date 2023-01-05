@@ -1,13 +1,35 @@
-Main assets rpaks for R5Reloaded Modded Apex Project, used for custom assets. (Models, ui icons and many more)
-If you wanna add any asset send me a message on discord (KralRindo#0797)
+Main asset rpaks for R5Reloaded Modded Apex Project. Used for Models, materials, loadscreens and many more.
 
-Made by @KralRindo, also gonna credit Zer0Bytes#4428 for his helps on repak, and some assets that can be found in here.
+Made by @KralRindo
 
-Usage: Download the repo, drop "ui_sdk.json" and "common_sdk.json" into repak.exe. 
-It will create asset rpaks in "build" folder, copy them and drop into "r5reloaded/paks/win64" folder.
+Other credits:
 
-Update your scripts and launch the game.
-If you wanna modify and add your own asset, here is some useful info below
+Repak, 010 Respawn Templates, Legion and Model Converter: rexx#1287, IcePixelx#4931, Rika#1525
+Better Repak and Legion Improvements and some assets: Zer0Bytes#4428
+
+
+How to use REPak to make custom asset rpaks for R5Reloaded. Note: This part is for how to port Season 4-6 Apex assets, not for custom models
+
+Required Tools
+Repak: https://github.com/DataCluster0/RePak
+Respawn-mdl Templates: https://github.com/IJARika/respawn-mdl
+010 Editor: https://www.sweetscape.com/010editor/
+LegionPlus: https://github.com/DataCluster0/LegionPlus
+
+R5Reloaded supports season 2.1-6 all asset types. For models they need to be exported with legion as RMDL format.
+
+dtbl: You can export from legion, edit the way you want and port it to a rpak, but it's limited by one datatable per pak right now.
+shds: Thats actually used for shader merge, you can export shadersets from legion, get their vertex and pixel shader guid and merge two shadersets together.
+txtrlist: This is actually txtr(texture) but it's something zero made, it's not actually asset. You can add multiple textures to it and it will add them as txtr, and merge pages together. It saves so much time and space in the json.
+matl: Materials, legion prints the data it needs in console(Zero's Legion), you add the flags, shaderset, cpudata and textures, albedo res and thats basically it. But every texture you add to a material needs to be in txtrlist as well or game will loop.
+aseqlist: This is also something zero made, you can add animation seqs without a rig. It's literally like txtrlist but for animations. Used for models that doesnt have any animrig but does have animations.
+arig: Animation rigs that legion exports, you add the animations that also comes with rig itself and thats basically it. But there is something that you must do when adding it. Animation order needs to be same with what you see in the legion console.
+rmdl: Respawn's mdl format, you can export and port from s2-s3-s4-s5-s6, or make one yourself with crowbar, blender source tools or export the models as smd with legion and use crowbar to convert them to mdl format. Then rexx's converter does the rest of it.
+uimg: This is used for ui images, minimaps and loadscreens, check my jsons to see more details.)
+
+Asset order in a json: datatable > txtrlist or txtr > matl > aseqlist > arig > rmdl > uimg
+
+Some extra information regarding season 3 apex assets.
 
 //========================================================
 //			Material Slots			//
