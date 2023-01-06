@@ -997,7 +997,6 @@
         "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_ao",
         "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_thk",
 
-
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_col",
@@ -1006,7 +1005,23 @@
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_nml",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm_mult",
-        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc"
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
+
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_col",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_gls",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_nml",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_spc",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_ilm",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_ao",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_cav",
+
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_col",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_gls",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_nml",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_spc",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_ilm",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_ao",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_cav"
       ]
     },
     {
@@ -1047,6 +1062,40 @@
         "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ilm",
         "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ao",
         "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_charms/charms_bp/r5reloaded_badge_parts",
+      "type": "sknp",
+      "shaderset": 12024133449294937,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_col",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_gls",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_nml",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_spc",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_ilm",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_ao",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_charms/charms_bp/r5reloaded_badge_main_logo",
+      "type": "sknp",
+      "shaderset": 12024133449294937,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_col",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_gls",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_nml",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_spc",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_ilm",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_ao",
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_main_logo/r5reloaded_badge_main_logo_cav"
       ]
     },
     {
@@ -1249,13 +1298,13 @@
       "$type": "matl",
       "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade",
       "type": "rgdp",
-      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade",
+      "cpu": "texture/models/weapons/misc_cryo_grenade/cryo_grenade",
       "shaderset": 11040882243611724257,
-      "flags" : 1901312,
-      "flags2" : 1442841632,
-      "visflags" : 23,
-      "drawflags" : 6,
-      "unkflags" : 4,
+      "flags": 1901312,
+      "flags2": 1442841632,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
       "width": 2048,
       "height": 2048,
       "textures": [
@@ -1272,13 +1321,13 @@
       "$type": "matl",
       "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade",
       "type": "sknp",
-      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade",
-      "shaderset": 11505891628736787600,
-      "flags" : 1901312,
-      "flags2" : 1442841632,
-      "visflags" : 23,
-      "drawflags" : 6,
-      "unkflags" : 4,
+      "cpu": "texture/models/weapons/misc_cryo_grenade/cryo_grenade",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442841632,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
       "width": 2048,
       "height": 2048,
       "textures": [
@@ -1295,13 +1344,13 @@
       "$type": "matl",
       "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade_on",
       "type": "sknp",
-      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
-      "shaderset": 6639499678442549472,
-      "flags" : 1901312,
-      "flags2" : 1442841632,
-      "visflags" : 23,
-      "drawflags" : 6,
-      "unkflags" : 4,
+      "cpu": "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442841632,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
       "width": 2048,
       "height": 2048,
       "textures": [
@@ -1311,13 +1360,7 @@
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
-        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav",
-        "",
-        "",
-        "",
-        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm_mult",
-        "",
-        ""
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav"
       ]
     },
     {
@@ -9274,6 +9317,10 @@
       "path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl",
       "usePhysics": true,
       "animrigs": ["animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/props/charm/charm_r5r.rmdl"
     }
   ]
 }
