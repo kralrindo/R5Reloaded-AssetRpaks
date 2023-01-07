@@ -1344,13 +1344,13 @@
       "$type": "matl",
       "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade_on",
       "type": "sknp",
-      "cpu": "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
-      "shaderset": 8213833473093334948,
-      "flags": 1901312,
-      "flags2": 1442841632,
-      "visflags": 23,
-      "drawflags": 6,
-      "unkflags": 4,
+      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
+      "shaderset": 6639499678442549472,
+      "flags" : 1901312,
+      "flags2" : 1442841632,
+      "visflags" : 23,
+      "drawflags" : 6,
+      "unkflags" : 4,
       "width": 2048,
       "height": 2048,
       "textures": [
@@ -1360,7 +1360,13 @@
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
-        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav"
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav",
+        "",
+        "",
+        "",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm_mult",
+        "",
+        ""
       ]
     },
     {
