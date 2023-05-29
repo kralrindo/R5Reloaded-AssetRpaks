@@ -233,43 +233,50 @@
       "textures": [
         {
           "path": "rui/ordnance_icons/grenade_cryo",
-          "posX": 10,
-          "posY": 10,
+          "posX": 7,
+          "posY": 7,
           "width": 512,
           "height": 512
         },
         {
           "path": "rui/hud/ultimate_icons/ultimate_vantage",
-          "posX": 542,
-          "posY": 10,
+          "posX": 533,
+          "posY": 7,
           "width": 512,
           "height": 512
         },
         {
+          "path": "rui/hud/gametype_icons/survival/mobile_respawn_beacon_icon",
+          "posX": 1059,
+          "posY": 7,
+          "width": 128,
+          "height": 128
+        },
+        {
           "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
-          "posX": 10,
-          "posY": 542,
+          "posX": 1059,
+          "posY": 149,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
-          "posX": 158,
-          "posY": 542,
+          "posX": 1059,
+          "posY": 291,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/custom_badges/r5r_badge",
-          "posX": 306,
-          "posY": 542,
+          "posX": 1059,
+          "posY": 433,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/pilot_loadout/ordnance/satchel",
-          "posX": 454,
-          "posY": 542,
+          "posX": 7,
+          "posY": 533,
           "width": 128,
           "height": 128
         }

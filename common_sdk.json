@@ -1021,7 +1021,21 @@
         "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_spc",
         "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_ilm",
         "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_ao",
-        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_cav"
+        "texture/models/weapons_r5/misc_charms/r5reloaded_badge_parts/r5reloaded_badge_parts_cav",
+
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_col",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_nml",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_gls",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_spc",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_ilm",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_ao",
+
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_col",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_nml",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_gls",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_spc",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_ilm",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_ao"
       ]
     },
     {
@@ -1344,13 +1358,13 @@
       "$type": "matl",
       "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade_on",
       "type": "sknp",
-      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
-      "shaderset": 6639499678442549472,
-      "flags" : 1901312,
-      "flags2" : 1442841632,
-      "visflags" : 23,
-      "drawflags" : 6,
-      "unkflags" : 4,
+      "cpu": "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442841632,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
       "width": 2048,
       "height": 2048,
       "textures": [
@@ -1360,13 +1374,7 @@
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm",
         "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
-        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav",
-        "",
-        "",
-        "",
-        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm_mult",
-        "",
-        ""
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav"
       ]
     },
     {
@@ -3659,6 +3667,40 @@
     },
     {
       "$type": "matl",
+      "path": "models/props/mobile_respawn_beacon/mobile_respawn_capsule",
+      "type": "rgdp",
+      "shaderset": 3039282842564146133,
+      "cpu": "texture/props/mobile_respawn_capsule/mobile_respawn_capsule",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_col",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_nml",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_gls",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_spc",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_ilm",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_capsule_ao"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/props/mobile_respawn_beacon/mobile_respawn_beacon",
+      "type": "sknp",
+      "shaderset": 8403185417549714111,
+      "cpu": "texture/props/mobile_respawn_beacon/mobile_respawn_beacon",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_col",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_nml",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_gls",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_spc",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_ilm",
+        "texture/props/mobile_respawn_beacon/mobile_respawn_beacon_ao"
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/weapons_r5/at_softball/at_softball",
       "type": "sknp",
       "cputype": "weapon",
@@ -4882,7 +4924,15 @@
         "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_indoor.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_spin.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect1.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect2.rseq"
+        "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect2.rseq",
+
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_closed.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_destruction.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_idle.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_land.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_destruction.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_idle.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_land.rseq"
       ]
     },
     {
@@ -9327,6 +9377,25 @@
     {
       "$type": "rmdl",
       "path": "mdl/props/charm/charm_r5r.rmdl"
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/beacon_capsule_01/beacon_capsule_01.rmdl",
+      "usePhysics": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/props/mobile_respawn_beacon/mobile_respawn_beacon_animated.rmdl",
+      "usePhysics": true,
+      "animseqs": [
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_closed.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_destruction.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_idle.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_land.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_destruction.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_idle.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_land.rseq"
+      ]
     }
   ]
 }
