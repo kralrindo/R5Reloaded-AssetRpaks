@@ -1936,6 +1936,14 @@
       "_type": "dtbl",
       "_path": "datatable/colorpalette_table.rpak"//R5 COLOR PALETTE
     },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/dialogue/blood_tt_dialogue.rpak"//BH_TT
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/dialogue/blood_tt_announcer_dialogue.rpak"//BH_TT
+    },
     /////////////////////////SHADERS///////////////////////////
     {
       "_type": "shdr",

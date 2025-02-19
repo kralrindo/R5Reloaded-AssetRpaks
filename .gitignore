@@ -22,3 +22,7 @@ map_depot/repak.exe
 *.starpak
 /map_depot/assetss9pc
 /map_depot/assetss9c
+/map_depot/assets_common/material
+/map_depot/assets_common/shader
+/map_depot/assets_common/shaderset
+/map_depot/assets_common
