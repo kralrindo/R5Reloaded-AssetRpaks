@@ -4,7 +4,7 @@
   "name": "mp_lobby",
   "streamFileMandatory": "paks/Win64/mp_lobby.starpak",
   "streamFileOptional": "paks/Win64/mp_lobby.opt.starpak",
-  "assetsDir": "map_depot/assetss4/",
+  "assetsDir": "map_depot/assets_common/",
   "outputDir": "./build/",
   "compressLevel": 0,
   "compressWorkers": 16,
