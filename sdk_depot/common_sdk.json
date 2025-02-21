@@ -2333,7 +2333,42 @@
       "_path": "shader/0xB4DBC66A036CB8C9.rpak",
       "$guid": "0xB4DBC66A036CB8C9"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x647CF89A107FF506.rpak",
+      "$guid": "0x647CF89A107FF506"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x95E203FAD261ED84.rpak",
+      "$guid": "0x95E203FAD261ED84"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC7EA21F08B580ADD.rpak",
+      "$guid": "0xC7EA21F08B580ADD"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF6D5DE96C745CA35.rpak",
+      "$guid": "0xF6D5DE96C745CA35"
+    },
     ////////////////////////SHADERSETS//////////////////////////
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3B3F945C717B162B.rpak",
+      "$guid": "0x3B3F945C717B162B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC79C9FA7864F2CE5.rpak",
+      "$guid": "0xC79C9FA7864F2CE5"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xFD52F435A7FA4B59.rpak",
+      "$guid": "0xFD52F435A7FA4B59"
+    },
     {
       "_type": "shds",
       "_path": "shaderset/0xA195C0D334FB4E8C.rpak",
@@ -2740,6 +2775,41 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1A186F055B289BE5.rpak",
+      "$guid": "0x1A186F055B289BE5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3D94080180E8D9AB.rpak",
+      "$guid": "0x3D94080180E8D9AB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x41ED4ABC6B063E5A.rpak",
+      "$guid": "0x41ED4ABC6B063E5A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6C999A06688790E9.rpak",
+      "$guid": "0x6C999A06688790E9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x77C1AE59F1D2C00A.rpak",
+      "$guid": "0x77C1AE59F1D2C00A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x983410BD21DC4EA.rpak",
+      "$guid": "0x983410BD21DC4EA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC7E0AED42561B34B.rpak",
+      "$guid": "0xC7E0AED42561B34B"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x13D144489C128755.rpak",
@@ -9297,6 +9367,30 @@
       "_type": "matl",
       "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_viewmodel_arms_sknp.rpak"
     },///////CUSTOM SKINS ENDING
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_rgdp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_02_colpass_sknp.rpak"
@@ -22672,6 +22766,10 @@
       ]
     },
     /////////////////////////MODELS//////////////////////////////
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/at_charge_rifle/w_at_charge_rifle_miningtool_holo.rmdl"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/Humans/class/light/pilot_light_wattson_custom1.rmdl",//CUSTOM WATTSON SKIN BASE

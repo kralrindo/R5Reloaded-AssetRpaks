@@ -1,0 +1,40 @@
+{
+	"name": "depth/models/weapons_r5/at_charge_rifle/at_charge_rifle_miningtool_holo_tightshadow",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x10300200",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x46",
+	"uberBufferFlags": "0x0",
+	"features": "0xB9CE220",
+	"samplers": "0x1A",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xC79C9FA7864F2CE5",
+	"$textures": {
+		"0": "0xC7E0AED42561B34B"
+	},
+	"$textureTypes": {
+		"0": "unavailable"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

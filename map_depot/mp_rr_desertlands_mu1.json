@@ -9481,6 +9481,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x454931D6C00FDB2F.rpak",
+      "$guid": "0x454931D6C00FDB2F"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x454C03603EA36F03.rpak",
       "$guid": "0x454C03603EA36F03"
     },
@@ -13213,6 +13218,11 @@
       "_type": "txtr",
       "_path": "texture/0x7BD6D519A3785FC2.rpak",
       "$guid": "0x7BD6D519A3785FC2"
+    },
+	{
+      "_type": "txtr",
+      "_path": "texture/0x7C0E539F26CBD5FC.rpak",
+      "$guid": "0x7C0E539F26CBD5FC"
     },
     {
       "_type": "txtr",
@@ -17968,6 +17978,11 @@
       "_type": "txtr",
       "_path": "texture/0xBDE2486EF06C7502.rpak",
       "$guid": "0xBDE2486EF06C7502"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBDE75A535C867595.rpak",
+      "$guid": "0xBDE75A535C867595"
     },
     {
       "_type": "txtr",
@@ -23141,6 +23156,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/icelandic_ground_plant_orange_02_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/ivy_green_large_hanging_01_shadow_rgdp.rpak"
     },
     {
@@ -23674,6 +23693,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/foliage/icelandic_ground_plant_02_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/icelandic_ground_plant_orange_02_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -24213,6 +24236,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/icelandic_ground_plant_orange_02_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/ivy_green_large_hanging_01_vsm_rgdp.rpak"
     },
     {
@@ -24746,6 +24773,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/foliage/icelandic_ground_plant_02_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/icelandic_ground_plant_orange_02_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -25817,6 +25848,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/icelandic_ground_plant_orange_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/ivy_green_large_hanging_01_colpass_rgdp.rpak"
     },
     {
@@ -26586,6 +26621,10 @@
     {
       "_type": "matl",
       "_path": "material/models/outpost207/gondola_wires_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/phones/ares_phone_screen_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -30901,6 +30940,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/icelandic_ground_plant_orange_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/ivy_green_large_hanging_01_rgdp.rpak"
     },
     {
@@ -31746,6 +31789,10 @@
     {
       "_type": "matl",
       "_path": "material/models/outpost207/gondola_wires_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/phones/ares_phone_screen_rgdp.rpak"
     },
     {
       "_type": "matl",
