@@ -785,6 +785,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/gcard_frame/loba/s05bp_epic_01.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/gcard_stance/loba/common_01.rpak"
     },
     {

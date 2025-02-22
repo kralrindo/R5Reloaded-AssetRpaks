@@ -1,0 +1,32 @@
+{
+  "version": 8,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+
+  "name": "gcard_frame_loba_s05bp_epic_01",
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/gcard_frame_loba_s05bp_epic_01",
+      "atlas": "texture/ui_atlas/gcards/loba/gcard_frame_loba_s05bp_epic_01.rpak",
+      "images": [
+        {
+          "path": "rui/gladiator_cards/frames/loba/s05bp_epic_01_bg",
+          "posX": 0,
+          "posY": 0,
+          "width": 422,
+          "height": 762
+        },
+        {
+          "path": "rui/gladiator_cards/frames/loba/s05bp_epic_01_fg",
+          "posX": 422,
+          "posY": 0,
+          "width": 422,
+          "height": 762
+        }
+      ]
+    }
+  ]
+}

@@ -671,6 +671,10 @@
 			{
 				"flavor": "settings/itemflav/gcard_frame/loba/rare_05.rpak",
 				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/loba/s05bp_epic_01.rpak",
+				"featureFlag": ""
 			}
 		],
 		"gcardBadges": [
