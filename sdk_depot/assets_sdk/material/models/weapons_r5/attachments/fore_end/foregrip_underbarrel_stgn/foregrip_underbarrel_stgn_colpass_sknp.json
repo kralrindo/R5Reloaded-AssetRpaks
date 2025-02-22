@@ -1,0 +1,50 @@
+{
+	"name": "models/weapons_r5/attachments/fore_end/foregrip_underbarrel_stgn/foregrip_underbarrel_stgn_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x1D9FFF314E152725",
+	"$textures": {
+		"0": "0xE5D93FC10DFA9E14",
+		"1": "0x7CD0A25CF1F80FA8",
+		"2": "0xC698DBEC4AEE92C0",
+		"3": "0x2BB18151BBAD50DB",
+		"5": "0x538DEFC1995EE922",
+		"6": "0xE9A30E2DEE425B7A"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

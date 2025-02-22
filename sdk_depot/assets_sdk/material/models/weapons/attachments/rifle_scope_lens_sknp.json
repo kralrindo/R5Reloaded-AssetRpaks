@@ -1,0 +1,50 @@
+{
+	"name": "models/weapons/attachments/rifle_scope_lens",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000122",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xCB237609544B1057",
+	"$textures": {
+		"0": "0x66AB540FD58E2FD",
+		"1": "0xFD2A3EADC3B86343",
+		"2": "0x3F4500693B712207",
+		"3": "0x6BF7DB746CC2B866",
+		"5": "0xA90E328FCB500CA6",
+		"7": "0x1F70CA9EC156042A"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

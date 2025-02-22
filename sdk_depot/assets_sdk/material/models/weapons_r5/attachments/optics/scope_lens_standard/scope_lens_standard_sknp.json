@@ -32,6 +32,13 @@
 		"3": "0x91647361474747A",
 		"7": "0xB652A8AC1F500F31"
 	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"7": "opacityMultiplyTexture"
+	},
 	"$depthShadowMaterial": "0x0",
 	"$depthPrepassMaterial": "0x0",
 	"$depthVSMMaterial": "0x0",

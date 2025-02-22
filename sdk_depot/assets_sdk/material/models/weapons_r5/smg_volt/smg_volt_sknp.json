@@ -1,0 +1,52 @@
+{
+	"name": "models/weapons_r5/smg_volt/smg_volt",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x2AB7E2BAFA2459",
+	"$textures": {
+		"0": "0x2201B4539EA28F95",
+		"1": "0x18C13DC04C32B817",
+		"2": "0x5ADBFF7BF58A2663",
+		"3": "0x878EDA871A7410E0",
+		"4": "0xDF8ECB86693C9096",
+		"5": "0x8741E81FB31BE93B",
+		"6": "0x33D0F5C46CB5244C"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x5279A14040334A88",
+	"$textureAnimation": "0x0"
+}
