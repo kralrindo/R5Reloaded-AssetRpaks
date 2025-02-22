@@ -1,0 +1,90 @@
+{
+	"layoutAsset": "settings_layout/settings_base_itemflavor_list_layout.rpak",
+	"settings": {
+		"assetName": "settings/base_itemflavors.rpak",
+		"calevents": [
+		],
+		"ranked2Pt0Periods": [
+		],
+		"entitlements": [
+		],
+		"characters": [
+		],
+		"weapons": [
+		],
+		"meleeWeapons": [
+		],
+		"weaponCategories": [
+		],
+		"loadscreens": [
+		],
+		"images2D": [
+		],
+		"featureUnlockTokens": [
+		],
+		"musicPacks": [
+		],
+		"diveTrails": [
+			{
+				"flavor": "settings/itemflav/skydive_trail/default.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_trail/shadow_default.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_trail/rankedperiod_01_apex.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_trail/rankedperiod_01_diamond.rpak",
+				"featureFlag": ""
+			}
+		],
+		"stickers": [
+		],
+		"vouchers": [
+		],
+		"packs": [
+		],
+		"currencyBundles": [
+		],
+		"apexCoinAmounts": [
+		],
+		"pings": [
+		],
+		"clubLogoElements": [
+		],
+		"clubSearchTags": [
+		],
+		"classes": [
+		],
+		"battlepassPresaleVouchers": [
+		],
+		"battlepassPurchasableXP": [
+		],
+		"boostTypes": [
+		],
+		"boostEvents": [
+		],
+		"eventAbilities": [
+		],
+		"keplerScenarios": [
+		],
+		"rewardSetTrackers": [
+		],
+		"challengeCollections": [
+		],
+		"challengeTiles": [
+		],
+		"nonSeasonalPasses": [
+		],
+		"accountFlags": [
+		],
+		"cosmeticSets": [
+		],
+		"bonusMeterConfigs": [
+		]
+	}
+}

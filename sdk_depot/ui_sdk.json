@@ -12,6 +12,48 @@
   "files": [
     {
       "_type": "uimg",
+      "_path": "ui_image_atlas/rui/death_recap/death_recap_atlas",
+      "atlas": "texture/ui_atlas/rui/death_recap/death_recap_atlas.rpak",
+      "images": [
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_prowler",
+          "posX": 0,
+          "posY": 0,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_spider_melee",
+          "posX": 381,
+          "posY": 0,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_spider_ranged",
+          "posX": 0,
+          "posY": 519,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_toxin",
+          "posX": 381,
+          "posY": 519,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcases_vault_defences",
+          "posX": 762,
+          "posY": 0,
+          "width": 381,
+          "height": 519
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
       "_path": "ui_image_atlas/rui/gamemodes/shadow_squad",
       "atlas": "texture/ui_atlas/rui/gamemodes/shadow_squad/shadowfall.rpak",
       "images": [

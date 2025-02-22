@@ -44,6 +44,10 @@
       "_type": "stgs",
       "_path": "settings/itemflav/character_skin/wattson/custom1.rpak"//CUSTOM WATTSON SKIN1
     },
+    {
+      "_type": "stgs",
+      "_path": "settings/base_itemflavors.rpak"//CONTAINS EVERY STGS DATA
+    },
     ////////////////VOLT SMG SETTING ASSETS///////////////
     {
       "_type": "stgs",

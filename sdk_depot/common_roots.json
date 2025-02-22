@@ -16,6 +16,10 @@
     {
       "_type": "stlt",
       "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_base_itemflavor_list_layout.rpak"
     }
   ]
 }
