@@ -1,5 +1,6 @@
 **SDK RPAKs for R5Reloaded Modded Apex Project**  
 Created by: @KralRindo  
+Download latest compiled rpaks from [here](https://drive.google.com/file/d/1WdlWe12A2N8_LV30rmHg94thRjnwitH2/view?usp=sharing)  
   
 **Credits**  
 Repak, 010 Respawn Templates, RSX, and Model Converter: rexx, IcePixelx, Rika, AmosModz  
