@@ -1,0 +1,32 @@
+{
+  "version": 8,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+
+  "name": "gcard_frame_loba_rare_02",
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/gcard_frame_loba_rare_02",
+      "atlas": "texture/ui_atlas/gcards/loba/gcard_frame_loba_rare_02.rpak",
+      "images": [
+        {
+          "path": "rui/gladiator_cards/frames/loba/rare_02_bg",
+          "posX": 0,
+          "posY": 0,
+          "width": 264,
+          "height": 720
+        },
+        {
+          "path": "rui/gladiator_cards/frames/loba/rare_02_fg",
+          "posX": 264,
+          "posY": 0,
+          "width": 264,
+          "height": 720
+        }
+      ]
+    }
+  ]
+}

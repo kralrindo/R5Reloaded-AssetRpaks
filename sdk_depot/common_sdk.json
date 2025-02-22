@@ -765,26 +765,6 @@
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/gcard_frame/loba/legendary_01.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/gcard_frame/loba/legendary_02.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/gcard_frame/loba/legendary_03.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/gcard_frame/loba/legendary_04.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/gcard_frame/loba/legendary_05.rpak"
-    },
-    {
-      "_type": "stgs",
       "_path": "settings/itemflav/gcard_frame/loba/rare_01.rpak"
     },
     {
@@ -802,10 +782,6 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/gcard_frame/loba/rare_05.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/gcard_frame/loba/s05bp_epic_01.rpak"
     },
     {
       "_type": "stgs",
