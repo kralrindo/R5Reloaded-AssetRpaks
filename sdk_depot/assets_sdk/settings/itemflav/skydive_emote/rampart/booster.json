@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1614355250,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/rampart/booster.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_014",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_booster",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_rampart_booster",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_rampart/rampart_freefall_emote_booster.rseq",
+		"video": "media/skydive_emotes/rampart_booster",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

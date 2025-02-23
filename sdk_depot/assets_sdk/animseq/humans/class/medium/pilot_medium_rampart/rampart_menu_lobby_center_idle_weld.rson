@@ -1,0 +1,11 @@
+models:
+[
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_turret_rampart_menu_lobby_center_idle_weld.rpak
+	settings\scriptAnimWindow\prop_welder_rampart_menu_lobby_center_idle_weld.rpak
+]
+effects:
+[
+]

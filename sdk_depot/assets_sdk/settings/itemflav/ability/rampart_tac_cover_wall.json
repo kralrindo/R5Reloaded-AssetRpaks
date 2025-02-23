@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 811409155,
+	"settings": {
+		"assetName": "settings/itemflav/ability/rampart_tac_cover_wall.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_COVER_WALL",
+		"localizationKey_NAME_SHORT": "#WPN_COVER_WALL",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_COVER_WALL_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_COVER_WALL_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_rampart",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_cover_wall",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

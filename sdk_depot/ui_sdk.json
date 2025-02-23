@@ -12,6 +12,104 @@
   "files": [
     {
       "_type": "uimg",
+      "_path": "ui_image_atlas/rui/contributors",
+      "atlas": "texture/ui_atlas/rui/contributors/contributors.rpak",
+      "images": [
+        {
+          "path": "rui/contributors/cafefps",
+          "posX": 20,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/amos",
+          "posX": 20,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/icepixel",
+          "posX": 20,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/julefox",
+          "posX": 20,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/kralrindo",
+          "posX": 520,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/mkos",
+          "posX": 1020,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/mostlyfireproof",
+          "posX": 1520,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/neeflow",
+          "posX": 520,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/orobotic",
+          "posX": 520,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/reglitched",
+          "posX": 520,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/rexx",
+          "posX": 1020,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/sal",
+          "posX": 1520,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/zee",
+          "posX": 1020,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
       "_path": "ui_image_atlas/rui/death_recap/death_recap_atlas",
       "atlas": "texture/ui_atlas/rui/death_recap/death_recap_atlas.rpak",
       "images": [

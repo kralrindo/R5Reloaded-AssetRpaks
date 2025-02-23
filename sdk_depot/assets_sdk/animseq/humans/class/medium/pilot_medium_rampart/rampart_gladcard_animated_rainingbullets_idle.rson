@@ -1,0 +1,11 @@
+models:
+[
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_turret_rampart_gladcard_animated_rainingbullets_idle.rpak
+	settings\scriptAnimWindow\prop_bullet01_rampart_gladcard_animated_rainingbullets_idle.rpak
+]
+effects:
+[
+]

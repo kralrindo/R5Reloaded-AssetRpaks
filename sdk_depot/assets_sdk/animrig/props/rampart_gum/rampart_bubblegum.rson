@@ -1,0 +1,15 @@
+seqs:
+[
+	animseq\props\rampart_gum\rampart_bubblegum\prop_bubblegum_rampart_menu_lobby_center_idle.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_bubblegum_rampart_menu_lobby_center_idle_gunRev.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_bubblegum_rampart_menu_lobby_select_idle.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_rampart_bubble_small.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_rampart_bubblegum_finisher_base_begging.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_rampart_crouch_rifle_bubble.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_rampart_crouch_UA_bubble.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\prop_rampart_idle_UA_bubble.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\rampart_bubblegum_gladcard_animated_gum.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\rampart_bubblegum_gladcard_animated_gum_idle.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\rampart_bubblegum_gladcard_static_mechanic.rseq
+	animseq\props\rampart_gum\rampart_bubblegum\rampart_bubblegum_gladcard_static_wink.rseq
+]

@@ -1,0 +1,13 @@
+models:
+[
+	mdl\props\lifeline_drone\lifeline_drone.rmdl
+	mdl\props\rampart_cover_wall\rampart_cover_wall.rmdl
+	mdl\props\rampart_gum\rampart_bubblegum.rmdl
+	mdl\props\wrench\wrench.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

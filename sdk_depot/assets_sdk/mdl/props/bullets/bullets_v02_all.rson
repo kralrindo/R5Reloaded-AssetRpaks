@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\bullets\prop_rampart_bullet_v01_gladcard_animated_rainingbullets.rseq
+	animseq\props\bullets\prop_rampart_bullet_v01_gladcard_animated_rainingbullets_idle.rseq
+]

@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 439205869,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/rampart/tactical_bullets_amped.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_rampart_tactical_bullets_amped_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_rampart_tactical_bullets_amped_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_rampart_tactical_bullets_amped",
+		"ownershipTarget": "",
+		"statRef": "stats.rampart_tactical_bullets_amped",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isTheEmpty": false
+	}
+}

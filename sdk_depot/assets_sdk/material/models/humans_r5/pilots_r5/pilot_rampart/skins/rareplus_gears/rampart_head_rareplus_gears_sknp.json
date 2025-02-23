@@ -1,0 +1,52 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_rampart/skins/rareplus_gears/rampart_head_rareplus_gears",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000460",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xC860B93C913EB69C",
+	"$textures": {
+		"0": "0x59ECDC151218BCAD",
+		"1": "0x16BF7D01858F0F80",
+		"2": "0x78EC2D7BCBAA6A66",
+		"3": "0x3FD393F7BF9531A9",
+		"5": "0x71B3E8257EF9B4F5",
+		"6": "0x920860D7F14E4A3A",
+		"13": "0xFE27AE95D265CB49"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture",
+		"13": "scatterThicknessTexture"
+	},
+	"$depthShadowMaterial": "0x468B188A74AD5E6F",
+	"$depthPrepassMaterial": "0xCC5F48FDB57D4539",
+	"$depthVSMMaterial": "0xA3F2869F238F5F6B",
+	"$depthShadowTightMaterial": "0x46BF790CC0284E29",
+	"$colpassMaterial": "0x6F14547BD0872C1B",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,42 @@
+{
+	"name": "depth/models/humans_r5/pilots_r5/pilot_rampart/skins/legendary_traditional_rt_02/rampart_hair_legendary_traditional_rt_02_prepass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x10200410",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0xAC1A5D6F",
+	"samplers": "0x1D",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xC2F9F0E4E9C995C1",
+	"$textures": {
+		"0": "0x1859B2349D91F8B9",
+		"7": "0x70E7B7B57E1C2DCC"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

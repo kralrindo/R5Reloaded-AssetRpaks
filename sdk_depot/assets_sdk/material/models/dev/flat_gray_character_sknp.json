@@ -1,0 +1,40 @@
+{
+	"name": "models/dev/flat_gray_character",
+	"width": 4,
+	"height": 4,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xE9326B69CB36518C",
+	"$textures": {
+		"0": "0xD2AA8FF26FF513F9"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0x9405C1D696D0D49C",
+	"$depthPrepassMaterial": "0xD1C918A622800111",
+	"$depthVSMMaterial": "0xB85680DFFFF17514",
+	"$depthShadowTightMaterial": "0x7BA2A37D3B97D245",
+	"$colpassMaterial": "0x2A5267564AAAB302",
+	"$textureAnimation": "0x0"
+}

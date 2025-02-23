@@ -1,0 +1,22 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_turret_rampart_menu_lobby_center_idle_weld.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/rampart_turret/rampart_turret_lobby.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/rampart_turret/rampart_turret/prop_rampart_turret_menu_lobby_idle_weld.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+			{
+				"bodygroup": "base",
+				"index": 1
+			}
+		],
+		"syncCycle": true
+	}
+}

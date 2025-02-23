@@ -1,0 +1,52 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_rampart/skins/legendary_racecar_rt_02/rampart_body_legendary_racecar_rt_02_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xF58E1F7D5EF5FC70",
+	"$textures": {
+		"0": "0xCBD58F7639BC17FF",
+		"1": "0x2A4DEBECCAE5ED37",
+		"2": "0x4AFDA9E71A08118",
+		"3": "0x3162B5A9AF59C359",
+		"4": "0x8962A6A8EB86C13C",
+		"5": "0x8D3AB2316D9B7DD9",
+		"6": "0x455DA3F0FE03DB3F"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x548C04D630E06CC8",
+	"$depthPrepassMaterial": "0xD0B5E44394F1BC39",
+	"$depthVSMMaterial": "0xE02F83DA60BE907F",
+	"$depthShadowTightMaterial": "0x2E4EDB3814E2860",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

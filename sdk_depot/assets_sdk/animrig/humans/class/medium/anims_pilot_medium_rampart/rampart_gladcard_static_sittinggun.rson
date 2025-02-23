@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\wrench\wrench.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_rampart_turret_gladcard_static_sittinggun.rpak
+]
+effects:
+[
+]

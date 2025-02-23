@@ -1,0 +1,52 @@
+{
+	"name": "models/weapons_r5/assault_g2a6/assault_g2a6_bullet",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "weapon",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xF77329F3EE687BA8",
+	"$textures": {
+		"0": "0x4C8A94A17AAB4411",
+		"1": "0x434A1E0E283B6C93",
+		"2": "0x8564DFC99FF42B57",
+		"3": "0xB217BAD4C4DE15D4",
+		"4": "0xA17ABD445454512",
+		"5": "0x51A30BAC2BD1AF3",
+		"6": "0x5E59D61248BDD8C8"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x7C1BFEA22FDE7FED",
+	"$depthPrepassMaterial": "0x647575D34297B158",
+	"$depthVSMMaterial": "0xECCF2D061EA22DB6",
+	"$depthShadowTightMaterial": "0xB0CFFA40AE9A2FF4",
+	"$colpassMaterial": "0x601EE4DE480002CA",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\welder\welder.rmdl
+	mdl\props\wrench\wrench.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

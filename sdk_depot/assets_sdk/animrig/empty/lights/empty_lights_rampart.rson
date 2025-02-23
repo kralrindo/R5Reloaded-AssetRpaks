@@ -1,0 +1,23 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_fixing_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_fixing_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_gum_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_gum_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_myfavorite_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_myfavorite_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_rainingbullets_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_rainingbullets_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_revup_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_animated_revup_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_bigsheila_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_fireaway_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_friend_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_gunjump_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_lookingup_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_mechanic_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_peace_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_sittinggun_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_taunting_light.rseq
+	animseq\humans\class\medium\pilot_medium_rampart\rampart_gladcard_static_wink_light.rseq
+]

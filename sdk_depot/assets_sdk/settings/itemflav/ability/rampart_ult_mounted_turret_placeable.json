@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 702699621,
+	"settings": {
+		"assetName": "settings/itemflav/ability/rampart_ult_mounted_turret_placeable.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_MOUNTED_TURRET_PLACEABLE",
+		"localizationKey_NAME_SHORT": "#WPN_MOUNTED_TURRET_PLACEABLE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_MOUNTED_TURRET_PLACEABLE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_MOUNTED_TURRET_PLACEABLE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_rampart",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_mounted_turret_placeable",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}
