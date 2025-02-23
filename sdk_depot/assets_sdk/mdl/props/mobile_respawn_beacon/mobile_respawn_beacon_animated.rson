@@ -1,0 +1,13 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_closed.rseq
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_destruction.rseq
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_idle.rseq
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_land.rseq
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_slope_destruction.rseq
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_slope_idle.rseq
+	animseq\props\mobile_respawn_beacon\mobile_respawn_beacon_animated\mobile_respawn_beacon_slope_land.rseq
+]

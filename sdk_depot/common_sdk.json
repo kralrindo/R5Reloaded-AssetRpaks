@@ -15,6 +15,10 @@
   "compressWorkers": 16,
 
   "files": [
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_mobile_respawn_destruction.rpak"
+    },
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
     {
       "_type": "stgs",
@@ -3823,6 +3827,141 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x136B4B5598C3286E.rpak",
+      "$guid": "0x136B4B5598C3286E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1B77FDB6EBDC4120.rpak",
+      "$guid": "0x1B77FDB6EBDC4120"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x55860D11421A96BA.rpak",
+      "$guid": "0x55860D11421A96BA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8238E81C5A9CD555.rpak",
+      "$guid": "0x8238E81C5A9CD555"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC5066E65BC3A1082.rpak",
+      "$guid": "0xC5066E65BC3A1082"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD90514E9DBAD45C7.rpak",
+      "$guid": "0xD90514E9DBAD45C7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x34E0827D80FA47E2.rpak",
+      "$guid": "0x34E0827D80FA47E2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3806010690F7F16B.rpak",
+      "$guid": "0x3806010690F7F16B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x63992375E28F797C.rpak",
+      "$guid": "0x63992375E28F797C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6DDA64A417C4731B.rpak",
+      "$guid": "0x6DDA64A417C4731B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x82CA7B26EEA9D7.rpak",
+      "$guid": "0x82CA7B26EEA9D7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDDFA08BD4C524AB1.rpak",
+      "$guid": "0xDDFA08BD4C524AB1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x54FC52EFF881337D.rpak",
+      "$guid": "0x54FC52EFF881337D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA6686507C770F9C1.rpak",
+      "$guid": "0xA6686507C770F9C1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC4823A75DD87F244.rpak",
+      "$guid": "0xC4823A75DD87F244"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEFE3AD8AA6C5A317.rpak",
+      "$guid": "0xEFE3AD8AA6C5A317"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF24115F8F08B211.rpak",
+      "$guid": "0xF24115F8F08B211"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6C1F00C1F3AFFC98.rpak",
+      "$guid": "0x6C1F00C1F3AFFC98"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8805EF29C928EEFA.rpak",
+      "$guid": "0x8805EF29C928EEFA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x99C91A8CEE2799A9.rpak",
+      "$guid": "0x99C91A8CEE2799A9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA0BF52E9B45CB751.rpak",
+      "$guid": "0xA0BF52E9B45CB751"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA5379A45DA8E31AF.rpak",
+      "$guid": "0xA5379A45DA8E31AF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF55767CA0C74A22A.rpak",
+      "$guid": "0xF55767CA0C74A22A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x57C9721496A33542.rpak",
+      "$guid": "0x57C9721496A33542"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x73B0607CB68A2EF0.rpak",
+      "$guid": "0x73B0607CB68A2EF0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x87DB1443A897A7AF.rpak",
+      "$guid": "0x87DB1443A897A7AF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x90E20B98C7EF71A5.rpak",
+      "$guid": "0x90E20B98C7EF71A5"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x1911A33B4A6C390F.rpak",
@@ -12234,6 +12373,62 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/beacon_trigger_01/beacon_trigger_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/beacon_trigger_01/beacon_trigger_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/mobile_respawn_beacon/mobile_respawn_capsule_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/mobile_respawn_beacon/mobile_respawn_capsule_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/titan_brain/titan_battery_b1_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/titan_brain/titan_battery_b1_red_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/titan_brain/titan_battery_b1_yellow_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/titan_brain/titan_battery_b1_red_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/titan_brain/titan_battery_b1_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/titan_brain/titan_battery_b1_yellow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/mobile_respawn_beacon/mobile_respawn_beacon_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/mobile_respawn_beacon/mobile_respawn_beacon_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/colony_concrete_panel_c_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/colony_concrete_panel_c_rgdp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_shadow_sknp.rpak"
@@ -28451,6 +28646,80 @@
       ]
     },
     /////////////////////////MODELS//////////////////////////////
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/clacker_detonator/ptpov_proximity_detonator.rmdl",
+      "$sequences": [
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/attack_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/attack_onehanded_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/attack_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/attack_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_onehanded_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_to_sprint_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/holster_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/holster_onehanded_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/holster_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/holster_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/idle_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/idle_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/lower_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/lower_onehanded_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/lower_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/lower_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/melee_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/melee_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_onehanded.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_onehanded_mrb_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_sprinting.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_sprinting_onehanded.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/sprint_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/sprint_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/sprintraise.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/sprintraise_onehanded.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_sprinting_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_sprinting_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_overhead_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_overhead_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_pullout_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_pullout_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_seq.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/beacon_capsule_01/beacon_capsule_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/titans/medium/titan_medium_battery_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/mobile_respawn_beacon/mobile_respawn_beacon_animated.rmdl",
+      "$sequences": [
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_closed.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_destruction.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_idle.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_land.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_destruction.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_idle.rseq",
+        "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_land.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/test/davis_test/charge_pylong_ping_proxy.rmdl"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/props/bullets/bullets_v02_all.rmdl",

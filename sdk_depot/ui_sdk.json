@@ -857,66 +857,80 @@
 		  "images": [
 			{
 			  "path": "rui/ordnance_icons/grenade_cryo",
-        "posX": 14,
-        "posY": 14,
+        "posX": 0,
+        "posY": 0,
         "width": 512,
         "height": 512
 			},
 			{
 			  "path": "rui/hud/ultimate_icons/ultimate_vantage",
-        "posX": 554,
-        "posY": 14,
+        "posX": 512,
+        "posY": 0,
         "width": 512,
         "height": 512
 			},
+      {
+        "path": "rui/hud/gametype_icons/survival/sur_ammo_kraber",
+        "posX": 0,
+        "posY": 512,
+        "width": 180,
+        "height": 180
+      },
 			{
 			  "path": "rui/pilot_loadout/mods/hopup_kickback",
-        "posX": 222,
-        "posY": 554,
+        "posX": 180,
+        "posY": 512,
         "width": 160,
         "height": 160
 			},
 			{
 			  "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
-        "posX": 770,
-        "posY": 554,
+        "posX": 772,
+        "posY": 512,
         "width": 128,
         "height": 128
 			},
 			{
 			  "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
-        "posX": 926,
-        "posY": 554,
+        "posX": 0,
+        "posY": 692,
         "width": 128,
         "height": 128
 			},
 			{
 			  "path": "rui/hud/custom_badges/r5r_badge",
-        "posX": 14,
-        "posY": 762,
+        "posX": 128,
+        "posY": 692,
         "width": 128,
         "height": 128
 			},
 			{
 			  "path": "rui/pilot_loadout/ordnance/satchel",
-        "posX": 170,
-        "posY": 762,
+        "posX": 256,
+        "posY": 672,
         "width": 128,
         "height": 128
 			},
       {
         "path": "rui/pilot_loadout/mods/sniper_mag",
-        "posX": 590,
-        "posY": 554,
+        "posX": 492,
+        "posY": 512,
         "width": 152,
         "height": 152
       },
       {
         "path": "rui/pilot_loadout/mods/empty_mag_sniper",
-        "posX": 410,
-        "posY": 554,
+        "posX": 340,
+        "posY": 512,
         "width": 152,
         "height": 152
+      },
+      {
+        "path": "rui/hud/gametype_icons/survival/mobile_respawn_beacon_icon",
+        "posX": 644,
+        "posY": 512,
+        "width": 128,
+        "height": 128
       }
     ]
   },
