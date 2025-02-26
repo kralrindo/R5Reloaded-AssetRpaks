@@ -1115,6 +1115,181 @@
           "height": 1080
         }
       ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_atlas/rui/menu/gamemodes_menu/all",
+      "atlas": "texture/ui_atlas/rui/menu/gamemodes_menu/all.rpak",
+      "images": [
+        {
+          "path": "rui/menu/gamemodes_menu/aim_trainer",
+          "posX": 5,
+          "posY": 5,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/map_not_found",
+          "posX": 1039,
+          "posY": 5,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_aqueduct",
+          "posX": 5,
+          "posY": 1039,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_arena_composite",
+          "posX": 1039,
+          "posY": 1039,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_arena_skygarden",
+          "posX": 2073,
+          "posY": 5,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_ashs_redemption",
+          "posX": 2073,
+          "posY": 1039,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_64k_x_64k",
+          "posX": 5,
+          "posY": 2073,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_mu1",
+          "posX": 1039,
+          "posY": 2073,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_mu1_night",
+          "posX": 2073,
+          "posY": 2073,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_mu2",
+          "posX": 3107,
+          "posY": 5,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_mu2_mv",
+          "posX": 3107,
+          "posY": 1039,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_mu2_tt",
+          "posX": 3107,
+          "posY": 2073,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_mu2_ufo",
+          "posX": 5,
+          "posY": 3107,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_canyonlands_staging",
+          "posX": 1039,
+          "posY": 3107,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_64k_x_64k",
+          "posX": 2073,
+          "posY": 3107,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_64k_x_64k_nx",
+          "posX": 3107,
+          "posY": 3107,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_64k_x_64k_tt",
+          "posX": 4141,
+          "posY": 5,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_holiday",
+          "posX": 4141,
+          "posY": 1039,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_mu1",
+          "posX": 4141,
+          "posY": 2073,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_mu1_tt",
+          "posX": 4141,
+          "posY": 3107,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_desertlands_mu2",
+          "posX": 5,
+          "posY": 4141,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_olympus",
+          "posX": 1039,
+          "posY": 4141,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/mp_rr_party_crasher",
+          "posX": 2073,
+          "posY": 4141,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/gamemodes_menu/select_map",
+          "posX": 3107,
+          "posY": 4141,
+          "width": 1024,
+          "height": 1024
+        }
+      ]
     }
   ]
 }
