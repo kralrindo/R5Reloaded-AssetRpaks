@@ -46,6 +46,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/weapon_charm/charm_rampartr5r.rpak"//ADD NEW CUSTOM CHARM
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/character_skin/wattson/custom1.rpak"//CUSTOM WATTSON SKIN1
     },
     {
@@ -12373,6 +12377,14 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/beacon_trigger_01/beacon_trigger_01_colpass_sknp.rpak"
@@ -30173,6 +30185,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/charm/charm_rampartr5r.rmdl"
     },
     {
       "_type": "mdl_",

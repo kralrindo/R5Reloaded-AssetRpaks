@@ -1,0 +1,52 @@
+{
+	"name": "models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_colpass",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "chain",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x749E1C9D82CB12BF",
+	"$textures": {
+		"0": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_col.rpak",
+		"1": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_nml.rpak",
+		"2": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_gls.rpak",
+		"3": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_spc.rpak",
+		"4": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_ilm.rpak",
+		"5": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_ao.rpak",
+		"6": "texture/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_cav.rpak"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}
