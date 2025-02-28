@@ -1,0 +1,48 @@
+{
+	"name": "world/s2s/s2s_decals_01",
+	"width": 512,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x72000003",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x16",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x237DEEC2A99BAB06",
+	"$textures": {
+		"0": "0xB1322E5FB5AF6AA1",
+		"1": "0xA9257BFE94350177",
+		"2": "0xEB403DBA0BEDC03B",
+		"3": "0x17F318C53D3F569A",
+		"7": "0xCB6C07EF91D2A25E"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

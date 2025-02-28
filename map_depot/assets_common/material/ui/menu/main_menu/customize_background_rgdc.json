@@ -1,0 +1,44 @@
+{
+	"name": "ui/menu/main_menu/customize_background",
+	"width": 2048,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x10000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdc",
+	"shaderSet": "0x1DE8A19A366E85CE",
+	"$textures": {
+		"0": "0xC200FB927A693BD",
+		"8": "0xFE77B23DA0B3972",
+		"11": "0x18D91D53A31CAD7F"
+	},
+	"$textureTypes": {
+		"0": "unavailable",
+		"8": "unavailable",
+		"11": "unavailable"
+	},
+	"$depthShadowMaterial": "0xF70473F27EA6590",
+	"$depthPrepassMaterial": "0x73C19A227697E559",
+	"$depthVSMMaterial": "0x4F92D7BFA5CBE5A8",
+	"$depthShadowTightMaterial": "0x85605A57BFE33042",
+	"$colpassMaterial": "0x6611B4BA74EFC6BC",
+	"$textureAnimation": "0x0"
+}

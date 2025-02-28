@@ -1,0 +1,48 @@
+{
+	"name": "models/foliage/vines_decal_01",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x560000b0",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "foliage",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xE6EB0816E6801AF6",
+	"$textures": {
+		"0": "0xD7D0CEE31E78D97A",
+		"1": "0xE993FA4643778429",
+		"2": "0xF50279FF2FDE1C2F",
+		"3": "0xBBE9E07B48FFE718",
+		"11": "0xA4FAEAE374AD7CE9"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"11": "uvDistortionTexture"
+	},
+	"$depthShadowMaterial": "0xDC95BCB2CCB3E776",
+	"$depthPrepassMaterial": "0xB0E99B88C0795918",
+	"$depthVSMMaterial": "0x7831F419958D80EE",
+	"$depthShadowTightMaterial": "0xC828952AB4141DE9",
+	"$colpassMaterial": "0xA2AB27EFC6B9C6FD",
+	"$textureAnimation": "0x0"
+}

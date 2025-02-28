@@ -1,0 +1,44 @@
+{
+	"name": "depth/models/foliage/tree_leaves_branch_02_prepass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x10200090",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0xAC1A5D6F",
+	"samplers": "0x1D",
+	"surfaceProp": "foliage",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x34A7F20582C02959",
+	"$textures": {
+		"0": "0x2AFE9EAF37D0243B",
+		"11": "0xA4FAEAE374AD7CE9",
+		"12": "0xB79CDE3BE1D105FE"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"11": "uvDistortionTexture",
+		"12": "uvDistortion2Texture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

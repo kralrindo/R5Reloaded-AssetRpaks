@@ -1,0 +1,46 @@
+{
+	"name": "models/lamps/candle_on_01_colpass",
+	"width": 64,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x560000e0",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "plastic",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xE121A9D5881AA5AD",
+	"$textures": {
+		"0": "0x4CAFB4AE8CA6F1E3",
+		"1": "0x5FF3954FD3C881F2",
+		"4": "0x6783AFC5B8AC2CB5",
+		"13": "0xA21184CAC3BF987A"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"4": "emissiveTexture",
+		"13": "scatterThicknessTexture"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0x38B6D4F669CD3A83",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

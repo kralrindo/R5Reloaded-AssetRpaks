@@ -4,7 +4,6 @@
 /assetss6
 /assetss7
 /build
-/assets_common
 /map_depot/assetss5
 /map_depot/assetss4
 /map_depot/assetss6
@@ -18,11 +17,6 @@ R5SDK-Asset-Rpaks.7z.tmp
 /map_depot/assetss9
 /map_depot/cache
 map_depot/repak.exe
-/map_depot/assets_common/mdl
 *.starpak
 /map_depot/assetss9pc
 /map_depot/assetss9c
-/map_depot/assets_common/material
-/map_depot/assets_common/shader
-/map_depot/assets_common/shaderset
-/map_depot/assets_common

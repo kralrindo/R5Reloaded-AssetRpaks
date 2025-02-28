@@ -1,0 +1,40 @@
+{
+	"name": "depth/world/ivy/vine_exo_01_tightshadow",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x10200090",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x42",
+	"uberBufferFlags": "0x0",
+	"features": "0xAC1A5D6F",
+	"samplers": "0x1D",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xC01DE854AD39157",
+	"$textures": {
+		"0": "0x86873FAFE4803C0B"
+	},
+	"$textureTypes": {
+		"0": "unavailable"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

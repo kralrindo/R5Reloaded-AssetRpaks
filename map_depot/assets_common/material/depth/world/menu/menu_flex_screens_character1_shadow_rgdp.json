@@ -1,0 +1,52 @@
+{
+	"name": "depth/world/menu/menu_flex_screens_character1_shadow",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x10200290",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x22",
+	"uberBufferFlags": "0x0",
+	"features": "0x73A9C01D",
+	"samplers": "0x1A1D",
+	"surfaceProp": "plastic",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x50E41F47B7CDB314",
+	"$textures": {
+		"0": "0x8C5F50048984EF25",
+		"7": "0xD7B91CB1E47E24E5",
+		"11": "0x5549E320A9BC3B5C",
+		"12": "0x5549E320A9BC3B5C",
+		"13": "0x789636B82BFD9892",
+		"24": "0x5549E320A9BC3B5C",
+		"25": "0x5549E320A9BC3B5C"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"7": "opacityMultiplyTexture",
+		"11": "unavailable",
+		"12": "unavailable",
+		"13": "unavailable",
+		"24": "unavailable",
+		"25": "unavailable"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

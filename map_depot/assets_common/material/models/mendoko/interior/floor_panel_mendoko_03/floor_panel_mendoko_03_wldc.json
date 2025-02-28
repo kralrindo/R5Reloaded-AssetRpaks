@@ -1,0 +1,48 @@
+{
+	"name": "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03",
+	"width": 512,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x72000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metalpanel",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x94AB808CFB7EDF5C",
+	"$textures": {
+		"0": "0x72C6A0E80217CA39",
+		"1": "0x85BD907D0D9DDBF0",
+		"2": "0x8FF84C04137D0CEE",
+		"3": "0x56DFB27FD5C924A9",
+		"5": "0xE14BDDB9E17CDD25"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture"
+	},
+	"$depthShadowMaterial": "0x435FA77E363BEA48",
+	"$depthPrepassMaterial": "0xF734F96BE92E0E71",
+	"$depthVSMMaterial": "0xD306370918620EC0",
+	"$depthShadowTightMaterial": "0xDAB17AEAD2D3387A",
+	"$colpassMaterial": "0x7826C2AA09B3FF89",
+	"$textureAnimation": "0x0"
+}

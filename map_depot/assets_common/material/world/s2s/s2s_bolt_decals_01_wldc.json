@@ -1,0 +1,50 @@
+{
+	"name": "world/s2s/s2s_bolt_decals_01",
+	"width": 512,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x72000003",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x16",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x32E65B61809BE65B",
+	"$textures": {
+		"0": "0xB9AC727C2C65A987",
+		"1": "0x8F9A054AF0895AF4",
+		"2": "0xC56E68E87755DCA4",
+		"3": "0x572FFB9A70703948",
+		"5": "0x8AA6E077008CC0EE",
+		"7": "0x5ED124EC8D992F6"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}
