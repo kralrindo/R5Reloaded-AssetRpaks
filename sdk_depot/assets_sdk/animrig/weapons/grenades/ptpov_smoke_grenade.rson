@@ -1,0 +1,45 @@
+seqs:
+[
+	animseq\weapons\grenades\ptpov_smoke_grenade\holster_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\holster_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_onehanded_seq_air.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_onehanded_seq_slide.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_onehanded_seq_wallrun.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_seq_air.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\idle_seq_crouch.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\melee_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\melee_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_onehanded_01.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_onehanded_02.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_onehanded_03.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_onehanded_04.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_twohanded_01.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_twohanded_02.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_twohanded_03.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\pullout_transition_twohanded_04.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\raise_melee.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\regrip_1_2.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\regrip_2_1.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\regrip_crouch_1.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\regrip_crouch_2.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\run_layer_wall.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\run_layer_wall.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\sprinting_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\sprinting_seq_heavy.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\switch_to_jump.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\switch_to_jump_onehanded.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\switch_to_jump_onehanded_wallrun.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\switch_to_land.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\switch_to_land_onehanded.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_hold_sprinting_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_overhead_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_prep_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_prep_pullout_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_prep_seq.rseq
+	animseq\weapons\grenades\ptpov_smoke_grenade\toss_seq.rseq
+]
