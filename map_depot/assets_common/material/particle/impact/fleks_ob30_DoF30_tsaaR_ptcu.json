@@ -1,0 +1,40 @@
+{
+	"name": "particle/impact/fleks_ob30_DoF30_tsaaR",
+	"width": 256,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x28082",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0xB",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x4",
+	"features": "0x75C8DF6F",
+	"samplers": "0x1D02",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "ptcu",
+	"shaderSet": "0x79635266993D7CF5",
+	"$textures": {
+		"0": "0xA078E98C2B34DD0E"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x8F58926A1C2CC452"
+}

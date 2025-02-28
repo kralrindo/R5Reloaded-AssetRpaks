@@ -1,0 +1,40 @@
+{
+	"name": "world/menu/armory_BG_colpass",
+	"width": 128,
+	"height": 128,
+	"depth": 0,
+	"glueFlags": "0x10000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdc",
+	"shaderSet": "0xC8430F1C198DF403",
+	"$textures": {
+		"0": "0x796EAD90729D9551"
+	},
+	"$textureTypes": {
+		"0": "unavailable"
+	},
+	"$depthShadowMaterial": "0xF70473F27EA6590",
+	"$depthPrepassMaterial": "0x73C19A227697E559",
+	"$depthVSMMaterial": "0x4F92D7BFA5CBE5A8",
+	"$depthShadowTightMaterial": "0x85605A57BFE33042",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

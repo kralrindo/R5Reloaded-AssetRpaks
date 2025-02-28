@@ -1,0 +1,44 @@
+{
+	"name": "world/ivy/vine_exo_01",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x560000b0",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xF37ED1D35D27022E",
+	"$textures": {
+		"0": "0x86873FAFE4803C0B",
+		"1": "0x9AB1F376D68DB4CA",
+		"2": "0xA4ECAEFDDC6CE5C8"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture"
+	},
+	"$depthShadowMaterial": "0x9C19D61E7993D482",
+	"$depthPrepassMaterial": "0x20DCB7A96772D82B",
+	"$depthVSMMaterial": "0xC1A09732387C88E3",
+	"$depthShadowTightMaterial": "0xC398381C16063CE4",
+	"$colpassMaterial": "0x3F7BD3003E330B05",
+	"$textureAnimation": "0x0"
+}

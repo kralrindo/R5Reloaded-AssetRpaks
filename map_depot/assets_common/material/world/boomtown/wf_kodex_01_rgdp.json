@@ -1,0 +1,48 @@
+{
+	"name": "world/boomtown/wf_kodex_01",
+	"width": 512,
+	"height": 128,
+	"depth": 0,
+	"glueFlags": "0x56000023",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x16",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x501D87F12394ABEA",
+	"$textures": {
+		"0": "0xEA886778DCDEF154",
+		"1": "0x82669D3A2DC1F02E",
+		"2": "0xCC7BC7D6068E22F9",
+		"3": "0x3060A90971C24C57",
+		"7": "0x52BB3E54A9620394"
+	},
+	"$textureTypes": {
+		"0": "unavailable",
+		"1": "unavailable",
+		"2": "unavailable",
+		"3": "unavailable",
+		"7": "unavailable"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

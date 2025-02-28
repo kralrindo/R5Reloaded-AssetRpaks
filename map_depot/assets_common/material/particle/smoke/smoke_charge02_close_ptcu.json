@@ -1,0 +1,42 @@
+{
+	"name": "particle/smoke/smoke_charge02_close",
+	"width": 256,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x28082",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0xB",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x4",
+	"features": "0x75C8DF6F",
+	"samplers": "0x1D02",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "ptcu",
+	"shaderSet": "0xFB2EC204129CB461",
+	"$textures": {
+		"0": "0xE16DB8CFB975BC77",
+		"1": "0x615F785F066D7436"
+	},
+	"$textureTypes": {
+		"0": "unavailable",
+		"1": "unavailable"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x10E360F24FD81D0D"
+}

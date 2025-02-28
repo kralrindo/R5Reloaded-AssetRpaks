@@ -1,0 +1,42 @@
+{
+	"name": "world/menu/rafter_lights",
+	"width": 128,
+	"height": 64,
+	"depth": 0,
+	"glueFlags": "0x10000006",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xA3253F9FB28C84E7",
+	"$textures": {
+		"0": "0x61FFAF6F9DF91D3E",
+		"4": "0xDCFA76CFE2304A33"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"4": "emissiveTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

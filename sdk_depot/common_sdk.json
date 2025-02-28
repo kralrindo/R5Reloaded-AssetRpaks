@@ -2863,6 +2863,10 @@
     },
     {
       "_type": "dtbl",
+      "_path": "datatable/survival_loot_sdk_firingrange.rpak"//SDK LOOT DATATABLE
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/battle_chatter_dialogue.rpak"//SEASON 4 BATTLE CHATTER
     },
     {

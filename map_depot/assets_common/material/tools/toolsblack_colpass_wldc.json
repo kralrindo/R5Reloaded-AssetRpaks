@@ -1,0 +1,40 @@
+{
+	"name": "tools/toolsblack_colpass",
+	"width": 128,
+	"height": 128,
+	"depth": 0,
+	"glueFlags": "0x10000000",
+	"glueFlags2": "0x100020",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x4BB66E658C241D1B",
+	"$textures": {
+		"0": "0xEE36AC8707401945"
+	},
+	"$textureTypes": {
+		"0": "unavailable"
+	},
+	"$depthShadowMaterial": "0x435FA77E363BEA48",
+	"$depthPrepassMaterial": "0xF734F96BE92E0E71",
+	"$depthVSMMaterial": "0xD306370918620EC0",
+	"$depthShadowTightMaterial": "0xDAB17AEAD2D3387A",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

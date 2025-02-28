@@ -1,0 +1,46 @@
+{
+	"name": "world/decal/signage_building_02",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x72000003",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x16",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "plastic",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x3EFE329C2955BC31",
+	"$textures": {
+		"0": "0xD655D2B80CC95164",
+		"1": "0x6D4D3553BF281370",
+		"2": "0xB7156EE3181E9688",
+		"7": "0x69A3A927CCB6287D"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "unavailable",
+		"2": "glossTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

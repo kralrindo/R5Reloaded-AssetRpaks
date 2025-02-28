@@ -1,0 +1,40 @@
+{
+	"name": "particle/glows/flare_hex_close_DB10_tsaaR",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x28086",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138086",
+		"0xF0138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0xB",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x4",
+	"features": "0x75C8DF6F",
+	"samplers": "0x1D02",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "ptcu",
+	"shaderSet": "0xF1696DA0B9C15BCF",
+	"$textures": {
+		"0": "0xEB5B4FBD31421A0D"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}
