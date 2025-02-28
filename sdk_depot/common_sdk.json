@@ -2863,7 +2863,11 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/survival_loot_sdk_firingrange.rpak"//SDK LOOT DATATABLE
+      "_path": "datatable/survival_loot_sdk_firingrange.rpak"//SDK LOOT DATATABLE FIRING RANGE ONLY
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/weapon_attachment_matrix.rpak"//ATTACHMENT METRIX
     },
     {
       "_type": "dtbl",

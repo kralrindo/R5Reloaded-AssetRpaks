@@ -733,7 +733,7 @@
 		"jetpackToggleOff": true,
 		"jetpackPitchMovement": false,
 		"jetpackFloatLook": false,
-		"jetpackZeroVerticalVelocityOnActivation": true,
+		"jetpackZeroVerticalVelocityOnActivation": false,
 		"jetpackZeroVerticalVelocityOnDeactivation": false,
 		"jetpackAfterburnerTouchesGround": false,
 		"jetpackAfterburnerBoundToJump": false,
