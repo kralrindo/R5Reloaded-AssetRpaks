@@ -2867,6 +2867,14 @@
     },
     {
       "_type": "dtbl",
+      "_path": "datatable/weapon_mods_sdk.rpak"//SDK ATTACHMENT DATATABLE
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/weapon_mods_sdk_firing_range.rpak"//SDK ATTACHMENT DATATABLE, FIRING RANGE ONLY
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/weapon_attachment_matrix.rpak"//ATTACHMENT METRIX
     },
     {
