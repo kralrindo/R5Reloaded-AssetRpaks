@@ -22293,6 +22293,29 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
+      "_path": "animrig/weapons/empty_handed/ptpov_timeshift_device_stasis.rrig",
+      "$sequences": [
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/ads_in_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/attack_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/charge_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/draw_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/holster_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/idle_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/idle_seq_noanim.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/reload_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/run_layer.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/run_layer.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/sprint_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/toss_hold_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/toss_hold_sprinting_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/toss_overhead_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/toss_prep_pullout_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/toss_prep_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/toss_seq.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/humans/class/medium/pilot_medium_stim.rrig",
       "$sequences": [
         "animseq/humans/class/medium/pilot_medium_stim/AIM_octane_crouch_shadow.rseq",
@@ -28674,6 +28697,13 @@
       ]
     },
     /////////////////////////MODELS//////////////////////////////
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/empty_handed/ptpov_timeshift_device_stasis.rmdl",
+      "$animrigs": [
+        "animrig/weapons/empty_handed/ptpov_timeshift_device_stasis.rrig"
+      ]
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/weapons/clacker_detonator/ptpov_proximity_detonator.rmdl",
