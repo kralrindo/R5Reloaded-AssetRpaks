@@ -3360,7 +3360,17 @@
       "_path": "shader/0x94AD05B3824ADC24.rpak",
       "$guid": "0x94AD05B3824ADC24"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x430B7390A856E476.rpak",//S7 SHADER FOR TRIDENT
+      "$guid": "0x430B7390A856E476"
+    },
     ////////////////////////SHADERSETS//////////////////////////
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x24E72217B75E1E4D.rpak",//S7 SHADER FOR TRIDENT
+      "$guid": "0x24E72217B75E1E4D"
+    },
     {
       "_type": "shds",
       "_path": "shaderset/0xD69E3C010AD0B153.rpak",
@@ -3847,6 +3857,106 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x168CAF40ABC60C82.rpak",
+      "$guid": "0x168CAF40ABC60C82"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2BFB69334883C464.rpak",
+      "$guid": "0x2BFB69334883C464"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2C0111CD8E1F3DCE.rpak",
+      "$guid": "0x2C0111CD8E1F3DCE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x35A74D51F41154C2.rpak",
+      "$guid": "0x35A74D51F41154C2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x433F8A4BC4484B1D.rpak",
+      "$guid": "0x433F8A4BC4484B1D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x476EEE0899289FAB.rpak",
+      "$guid": "0x476EEE0899289FAB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x56CE1E6B6A60A89D.rpak",
+      "$guid": "0x56CE1E6B6A60A89D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5AD9473054EDA214.rpak",
+      "$guid": "0x5AD9473054EDA214"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5D83BBC1E45E6EDC.rpak",
+      "$guid": "0x5D83BBC1E45E6EDC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x653A7B3D6C32E65C.rpak",
+      "$guid": "0x653A7B3D6C32E65C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x86797D50D5F13D73.rpak",
+      "$guid": "0x86797D50D5F13D73"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA5C716F10A622277.rpak",
+      "$guid": "0xA5C716F10A622277"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB68E0CF372053C0C.rpak",
+      "$guid": "0xB68E0CF372053C0C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD08EA7ECAEBD703E.rpak",
+      "$guid": "0xD08EA7ECAEBD703E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD471ED85026E9E36.rpak",
+      "$guid": "0xD471ED85026E9E36"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD5AEC173F16ABE67.rpak",
+      "$guid": "0xD5AEC173F16ABE67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDDB264186DADCD78.rpak",
+      "$guid": "0xDDB264186DADCD78"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEF81A58979C6BD99.rpak",
+      "$guid": "0xEF81A58979C6BD99"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEFCF0BC190CCA947.rpak",
+      "$guid": "0xEFCF0BC190CCA947"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF398DA2E26A65F61.rpak",
+      "$guid": "0xF398DA2E26A65F61"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x136B4B5598C3286E.rpak",
@@ -12393,6 +12503,50 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_off_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_off_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_glass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_colpass_sknp.rpak"
@@ -22293,6 +22447,26 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
+      "_path": "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig",
+      "$sequences": [
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_chase.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_hover.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_breaking_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_chase_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_damage_large.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_damage_small.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_deactivate.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_grounded_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_hover_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_Rside_mount_across.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_strafe_Left.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_strafe_Right.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_turn_Left.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_turn_Right.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/weapons/empty_handed/ptpov_timeshift_device_stasis.rrig",
       "$sequences": [
         "animseq/weapons/empty_handed/ptpov_timeshift_device_stasis/ads_in_seq.rseq",
@@ -28744,6 +28918,13 @@
         "animseq/weapons/grenades/ptpov_smoke_grenade/toss_prep_seq.rseq",
         "animseq/weapons/grenades/ptpov_smoke_grenade/toss_seq.rseq"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl"/*,
+      "$animrigs": [
+        "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig"
+      ]*/
     },
     {
       "_type": "mdl_",

@@ -1,0 +1,17 @@
+seqs:
+[
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_activate_chase.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_activate_hover.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_breaking_idle.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_chase_idle.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_damage_large.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_damage_small.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_deactivate.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_grounded_idle.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_hover_idle.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_Rside_mount_across.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_strafe_Left.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_strafe_Right.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_turn_Left.rseq
+	animseq\vehicle\olympus_hovercraft\olympus_hovercraft\hovercraft_turn_Right.rseq
+]
