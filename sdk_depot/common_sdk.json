@@ -28921,10 +28921,10 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl"/*,
+      "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl",
       "$animrigs": [
         "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig"
-      ]*/
+      ]
     },
     {
       "_type": "mdl_",
