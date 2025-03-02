@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1086545987,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/3030repeater/common_15.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_49",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_3030repeater_common_15",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/3030repeater/w_3030repeater.rmdl",
+		"viewModel": "mdl/weapons/3030repeater/ptpov_3030repeater.rmdl",
+		"skinName": "common/rare mask",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 14,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

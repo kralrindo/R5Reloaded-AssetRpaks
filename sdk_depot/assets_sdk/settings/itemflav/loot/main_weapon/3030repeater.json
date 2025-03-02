@@ -1,0 +1,253 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loot_main_weapon_layout.rpak",
+	"uniqueId": 1408780340,
+	"settings": {
+		"assetName": "settings/itemflav/loot/main_weapon/3030repeater.rpak",
+		"itemType": "loot_main_weapon",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_3030",
+		"localizationKey_NAME_SHORT": "#WPN_3030_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_3030_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_3030_DESC",
+		"quality": "NONE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_weapon_3030",
+		"grxMode": "NONE",
+		"entityClassname": "mp_weapon_3030",
+		"category": "settings/itemflav/weapon_category/marksman.rpak",
+		"statsCategory": "marksman",
+		"tags": [
+		],
+		"armoryScale": 0.777000,
+		"lootCeremonyScale": 1.000000,
+		"battlePassScale": 1.320000,
+		"skins": [
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/factory_issue.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/epic_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/epic_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/epic_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/epic_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/s08bp_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/s08bp_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/s08e02_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/3030repeater/s09bp_rare_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"charms": [
+			{
+				"flavor": "settings/itemflav/weapon_charm/none.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_gold.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_platinum.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_diamond.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_predator.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/nessy.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/fireball.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/gas_canister.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/yeti.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/lifeline_drone.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_jackolantern.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/clownhead.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_witchhat.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/crow.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/jester.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_nessyghost.rpak",
+				"featureFlag": ""
+			}
+		],
+		"shippingWeapon": true
+	}
+}

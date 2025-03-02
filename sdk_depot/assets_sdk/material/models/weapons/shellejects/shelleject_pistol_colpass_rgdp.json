@@ -1,0 +1,48 @@
+{
+	"name": "models/weapons/shellejects/shelleject_pistol_colpass",
+	"width": 128,
+	"height": 128,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "shellcasing_small",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x2A1140474660B075",
+	"$textures": {
+		"0": "0x13B028778CA3362F",
+		"1": "0xE73632E2C1BE74F6",
+		"2": "0x1D0A96805B267879",
+		"3": "0xB099CF7CF005943F",
+		"4": "0xE2DCF027AC3636B0"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "aoTexture"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

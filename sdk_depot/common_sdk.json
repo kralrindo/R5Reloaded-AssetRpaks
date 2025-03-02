@@ -17,6 +17,179 @@
   "files": [
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/common_15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/epic_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/epic_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/epic_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/epic_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/epic_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/rare_15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/s08bp_epic_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/s08bp_rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/s08e02_epic_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/s09bp_rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_category/marksman.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflavlist/weapon_categories.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/3030repeater/factory_issue.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loot/main_weapon/3030repeater.rpak"
+    },
+    //////
+    {
+      "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_mobile_respawn_destruction.rpak"
     },
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
@@ -3367,8 +3540,13 @@
     },
     ////////////////////////SHADERSETS//////////////////////////
     {
+      "_type": "txan",
+      "_path": "texture_anim/0x10E360F24FD81D0D.rpak",//S8 TXAN, IS IT COMPATIBLE?
+      "$guid": "0x10E360F24FD81D0D"
+    },
+    {
       "_type": "shds",
-      "_path": "shaderset/0x24E72217B75E1E4D.rpak",//S7 SHADER FOR TRIDENT
+      "_path": "shaderset/0x24E72217B75E1E4D.rpak",//S7 SHADERSET FOR TRIDENT
       "$guid": "0x24E72217B75E1E4D"
     },
     {
@@ -3857,6 +4035,191 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1EBF4C15100CDEAE.rpak",
+      "$guid": "0x1EBF4C15100CDEAE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x246A3445D1CA2344.rpak",
+      "$guid": "0x246A3445D1CA2344"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x26C3B416C7F543F6.rpak",
+      "$guid": "0x26C3B416C7F543F6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2C56238CE5A7E996.rpak",
+      "$guid": "0x2C56238CE5A7E996"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2F7BA215CA3AB988.rpak",
+      "$guid": "0x2F7BA215CA3AB988"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3D7BC85DE0C2C005.rpak",
+      "$guid": "0x3D7BC85DE0C2C005"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x419C7ACF02A597D5.rpak",
+      "$guid": "0x419C7ACF02A597D5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x45ED98E426F0F56F.rpak",
+      "$guid": "0x45ED98E426F0F56F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4C46A2B5ED8216F5.rpak",
+      "$guid": "0x4C46A2B5ED8216F5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x59892F4C49E25276.rpak",
+      "$guid": "0x59892F4C49E25276"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B0EC48559D89D03.rpak",
+      "$guid": "0x5B0EC48559D89D03"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E294C906A28773A.rpak",
+      "$guid": "0x5E294C906A28773A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x605966EAF2EC1AC3.rpak",
+      "$guid": "0x605966EAF2EC1AC3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x655005B37C7214CF.rpak",
+      "$guid": "0x655005B37C7214CF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6B25E229007160BC.rpak",
+      "$guid": "0x6B25E229007160BC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7115BFAA51785B1F.rpak",
+      "$guid": "0x7115BFAA51785B1F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x73BA88D5F2EF2223.rpak",
+      "$guid": "0x73BA88D5F2EF2223"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x74A2822BE59D5C17.rpak",
+      "$guid": "0x74A2822BE59D5C17"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x766DE95BB0070BE1.rpak",
+      "$guid": "0x766DE95BB0070BE1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9489FDE4D57F6F26.rpak",
+      "$guid": "0x9489FDE4D57F6F26"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9C15DB633010F07.rpak",
+      "$guid": "0x9C15DB633010F07"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9D4A89844BBFB372.rpak",
+      "$guid": "0x9D4A89844BBFB372"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA4B2D3C980400C10.rpak",
+      "$guid": "0xA4B2D3C980400C10"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAEA723EB483AD7CF.rpak",
+      "$guid": "0xAEA723EB483AD7CF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAF98F9BD9FD03873.rpak",
+      "$guid": "0xAF98F9BD9FD03873"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBE1DCAAE935355E5.rpak",
+      "$guid": "0xBE1DCAAE935355E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC41204E8AF20347A.rpak",
+      "$guid": "0xC41204E8AF20347A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC6DAA7EC5B8F561E.rpak",
+      "$guid": "0xC6DAA7EC5B8F561E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCC663D19884C1E04.rpak",
+      "$guid": "0xCC663D19884C1E04"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD2F8547332F96F9E.rpak",
+      "$guid": "0xD2F8547332F96F9E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD56FA9CCAACC1674.rpak",
+      "$guid": "0xD56FA9CCAACC1674"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDE2068C6C8AC4AA1.rpak",
+      "$guid": "0xDE2068C6C8AC4AA1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDE91F2B5621DCBE7.rpak",
+      "$guid": "0xDE91F2B5621DCBE7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE25BC12229963189.rpak",
+      "$guid": "0xE25BC12229963189"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE72F209EC17C3F81.rpak",
+      "$guid": "0xE72F209EC17C3F81"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF7F86B8A8B9C4B8B.rpak",
+      "$guid": "0xF7F86B8A8B9C4B8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFED67D1354F10944.rpak",
+      "$guid": "0xFED67D1354F10944"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x168CAF40ABC60C82.rpak",
@@ -12503,6 +12866,94 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/repeater3030_base_main_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/repeater3030_base_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/camomask/shared/repeater3030_camomask_shared01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic02_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic03_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic04_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic05_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epicplus/v21_warlord/repeater3030_epicp_v21_warlord_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epicplus/v21_warlord02/repeater3030_epicp_v21_warlord02_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/legendary/v21_bullettrain/repeater3030_lgnd_v21_bullettrain_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/repeater3030_base_main_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/repeater3030_base_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/camomask/shared/repeater3030_camomask_shared01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic02_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic03_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic04_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epic/repeater3030_epic_epic05_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epicplus/v21_warlord/repeater3030_epicp_v21_warlord_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/skins/epicplus/v21_warlord02/repeater3030_epicp_v21_warlord02_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/assault/repeater3030/legendary/v21_bullettrain/repeater3030_lgnd_v21_bullettrain_main_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_off_colpass_sknp.rpak"
@@ -22447,7 +22898,105 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
-      "_path": "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig",
+      "_path": "animrig/weapons/3030repeater/ptpov_3030repeater.rrig",//CONVERTED RIG/RSEQS, CONVERT AGAIN ONCE WE GET CONVERTER
+      "$sequences": [
+        "animseq/weapons/3030repeater/ptpov_3030repeater/draw.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/draw_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/drawfirst.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/drawfirst_gibraltar.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/drawfirst_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/fire_select_off.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/fire_select_on.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/hammer_layer.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/holster.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/holster_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/inspect.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/lower.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/lower_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/meleeraise.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/raise.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/raise_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/rechamber.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/rechamber_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_empty_late1.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_empty_onehanded_late1.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_empty_onehanded_segEnd.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_empty_onehanded_segStart.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_empty_segEnd.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_empty_segStart.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_onehanded_segEnd.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_onehanded_segLoop.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_onehanded_segStart.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segEnd.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segLoop.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segLoop_02.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segLoop_03.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segStart.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/run_layer_reload.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/run_layer_reload.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprint_althand_anim.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprint_althand_seq.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintdraw.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintholster.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintjump.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintraise.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintraise_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintraise_regrip.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintslide.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/sprintslide_onehanded.rseq",
+        "animseq/weapons/3030repeater/ptpov_3030repeater/zipline_mount.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/ads_in.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/ads_in_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/ads_out.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/ads_out_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/ads_out_wallrun_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/charge_increase.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/crouch.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/crouch_to_idle.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/doublejump.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire_02.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire_regrip.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire_regrip_02.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire_select_off.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/fire_select_on.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/idle.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/idle_check.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/idle_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/idle_to_crouch.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/jump.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/jump_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/land.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/land_high.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/land_low.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/land_med.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/land_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/mod_add.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/mod_remove.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/optic_add.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/optic_remove.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/run_layer_wall.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/run_wall_layer.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/sprint.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/sprint_heavy.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/sprint_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/switch_to_onehanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/switch_to_twohanded.rseq",
+        "animseq_derived/weapons/3030repeater/ptpov_3030repeater/wind_effect_layer.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/3030repeater/w_3030repeater.rrig",//CONVERTED RIG/RSEQS, CONVERT AGAIN ONCE WE GET CONVERTER
+      "$sequences": [
+        "animseq/weapons/3030repeater/w_3030repeater/attack_seq.rseq",
+        "animseq/weapons/3030repeater/w_3030repeater/idle_seq.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig",//CONVERTED RIG/RSEQS, CONVERT AGAIN ONCE WE GET CONVERTER
       "$sequences": [
         "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_chase.rseq",
         "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_hover.rseq",
@@ -28870,7 +29419,6 @@
         "animseq/humans/class/medium/pilot_medium_rampart/TMP_mp_pt_medium_crouch_high_idle_AIM.rseq"
       ]
     },
-    /////////////////////////MODELS//////////////////////////////
     {
       "_type": "arig",
       "_path": "animrig/weapons/grenades/ptpov_smoke_grenade.rrig",
@@ -28919,9 +29467,28 @@
         "animseq/weapons/grenades/ptpov_smoke_grenade/toss_seq.rseq"
       ]
     },
+    /////////////////////////MODELS//////////////////////////////
     {
       "_type": "mdl_",
-      "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl",
+      "_path": "mdl/Weapons/3030repeater/ptpov_3030repeater.rmdl",//converted model
+      "$animrigs": [
+        "animrig/weapons/3030repeater/ptpov_3030repeater.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/3030repeater/w_3030repeater.rmdl",//converted model
+      "$animrigs": [
+        "animrig/weapons/3030repeater/w_3030repeater.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/shellejects/shelleject_repeater3030.rmdl"//converted model
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl",//converted model
       "$animrigs": [
         "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig"
       ]

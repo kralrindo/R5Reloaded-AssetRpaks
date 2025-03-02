@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1904139657,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/3030repeater/s08bp_epic_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_835",
+		"localizationKey_NAME_SHORT": "#SKIN_835",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_835",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_835",
+		"quality": "EPIC",
+		"icon": "rui/events/s08bp/8080",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_3030repeater_s08bp_epic_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/3030repeater/w_3030repeater.rmdl",
+		"viewModel": "mdl/weapons/3030repeater/ptpov_3030repeater.rmdl",
+		"skinName": "s08_bp_epicplus_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

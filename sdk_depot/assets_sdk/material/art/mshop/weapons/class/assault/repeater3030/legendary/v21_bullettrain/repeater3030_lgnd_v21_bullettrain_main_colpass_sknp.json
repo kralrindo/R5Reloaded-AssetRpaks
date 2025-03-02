@@ -1,0 +1,52 @@
+{
+	"name": "art/mshop/weapons/class/assault/repeater3030/legendary/v21_bullettrain/repeater3030_lgnd_v21_bullettrain_main_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xEEDBEEC9F345E71",
+	"$textures": {
+		"0": "0x59892F4C49E25276",
+		"1": "0x6B25E229007160BC",
+		"2": "0x766DE95BB0070BE1",
+		"3": "0x3D7BC85DE0C2C005",
+		"4": "0xC6DAA7EC5B8F561E",
+		"5": "0xE72F209EC17C3F81",
+		"6": "0x5E294C906A28773A"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "aoTexture",
+		"5": "cavityTexture",
+		"6": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}
