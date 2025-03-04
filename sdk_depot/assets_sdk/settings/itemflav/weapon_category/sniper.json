@@ -1,20 +1,20 @@
 {
 	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
-	"uniqueId": 813223299,
+	"uniqueId": 143499586,
 	"settings": {
-		"assetName": "settings/itemflav/weapon_category/titanfall.rpak",
+		"assetName": "settings/itemflav/weapon_category/sniper.rpak",
 		"itemType": "weapon_category",
 		"devDescription": "PLEASE DESCRIBE",
-		"localizationKey_NAME": "#weapon_category_titanfall_NAME",
+		"localizationKey_NAME": "#weapon_category_sniper_NAME",
 		"localizationKey_NAME_SHORT": "",
 		"localizationKey_DESCRIPTION_LONG": "",
 		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "NONE",
-		"icon": "rui/menu/buttons/weapon_categories/titanfall",
+		"icon": "rui/menu/buttons/weapon_categories/sniper_new",
 		"grxMode": "NONE",
-		"statsKey": "titanfall",
+		"statsKey": "sniper",
 		"tags": [
 		],
-		"menuZoomOffset": "<6.000000,0.000000,4.000000>"
+		"menuZoomOffset": "<6.000000,0.000000,0.000000>"
 	}
 }

@@ -177,6 +177,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/weapon_category/sniper.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflavlist/weapon_categories.rpak"
     },
     {
@@ -3034,10 +3038,10 @@
       "_path": "settings/itemflav/character/revenant.rpak"
     },
     ////////////////////////DATATABLES/////////////////////
-    {
+   /*{
       "_type": "dtbl",
       "_path": "datatable/precache_sdk.rpak"//CALL IN MODELS EARLY AND PRECACHE TO MAKE SURE THEY ARE READY BEFORE SCRIPTS BEING LOADED
-    },
+    },*/
     {
       "_type": "dtbl",
       "_path": "datatable/survival_loot_sdk.rpak"//SDK LOOT DATATABLE
