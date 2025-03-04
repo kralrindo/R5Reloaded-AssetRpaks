@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 807604383,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/s04e02.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MUSICPACK_006",
+		"localizationKey_NAME_SHORT": "#MUSICPACK_006",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "musicpack_s04e02",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Season4_2",
+		"musicMainMenuToLobby": "mainmenu_music_Season4_2",
+		"musicLobby": "Music_Lobby_Season4_2",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect_Season4_2",
+		"musicCharacterSelect": "Music_CharacterSelect_Season4_2",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Season4_2_Solo",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Season4_2_Duos",
+		"musicSkydive": "Music_Jump_Season4_2",
+		"musicWin": "Music_EndGame_Win_Season4_2",
+		"musicLoss": "Music_EndGame_Loss_Season4_2",
+		"character": "",
+		"portraitImage": "rui/events/s04e02/musicpack_portrait",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s04e02.rpak"
+			}
+		],
+		"portraitBlend": 1.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": false
+	}
+}

@@ -1269,6 +1269,69 @@
           "height": 360
         }
       ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/menu/icons",
+      "atlas": "texture/ui_atlas/rui/menu/icons/tags_n_icons.rpak",
+      "images": [
+        {
+          "path": "rui/menu/battlepass/s04/musicpack_portrait",
+          "posX": 20,
+          "posY": 20,
+          "width": 560,
+          "height": 303
+        },
+        {
+          "path": "rui/events/s04e01/musicpack_portrait",
+          "posX": 20,
+          "posY": 363,
+          "width": 560,
+          "height": 303
+        },
+        {
+          "path": "rui/events/s04e02/musicpack_portrait",
+          "posX": 620,
+          "posY": 20,
+          "width": 407,
+          "height": 237
+        },
+        {
+          "path": "rui/events/s03e02/item_source_icon",
+          "posX": 620,
+          "posY": 297,
+          "width": 96,
+          "height": 96
+        },
+        {
+          "path": "rui/events/s04bp/item_source_icon",
+          "posX": 620,
+          "posY": 433,
+          "width": 96,
+          "height": 96
+        },
+        {
+          "path": "rui/events/s04e01/item_source_icon",
+          "posX": 620,
+          "posY": 569,
+          "width": 96,
+          "height": 96
+        },
+        {
+          "path": "rui/events/s04e02/item_source_icon",
+          "posX": 756,
+          "posY": 297,
+          "width": 96,
+          "height": 96
+        },
+        {
+          "path": "rui/custom/sdk/item_source_icon",
+          "posX": 892,
+          "posY": 297,
+          "width": 96,
+          "height": 96
+        }
+      ]
     }
   ]
 }

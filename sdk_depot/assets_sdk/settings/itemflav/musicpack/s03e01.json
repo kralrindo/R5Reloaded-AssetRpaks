@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 847027411,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/s03e01.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MUSICPACK_002",
+		"localizationKey_NAME_SHORT": "#MUSICPACK_002",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "musicpack_s03e01",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Event3",
+		"musicMainMenuToLobby": "mainmenu_music_Event3",
+		"musicLobby": "Music_Lobby_Event3",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect_Event3",
+		"musicCharacterSelect": "Music_CharacterSelect_Event3",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Event3_Solo",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Event3_Duos",
+		"musicSkydive": "Music_Jump_Event3",
+		"musicWin": "Music_EndGame_Win_Event3",
+		"musicLoss": "Music_EndGame_Loss_Event3",
+		"character": "",
+		"portraitImage": "rui/events/s03e01/musicpack_portrait",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s03e01.rpak"
+			}
+		],
+		"portraitBlend": 1.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": false
+	}
+}

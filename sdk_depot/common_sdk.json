@@ -199,6 +199,62 @@
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/tag/source_battlepass_season04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/tag/source_r5reloaded_custom.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/tag/source_s03e03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/tag/source_s04e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/tag/source_s04e02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/tag/source_s03e02.rpak"//HOLO DAY BASH EVENT TAG
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04bp_revenant.rpak"//NEWER MUSIC PACK, PORTED BACK
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04bp_assimilation.rpak"//NEWER MUSIC PACK, PORTED BACK
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04e02.rpak"//NEWER MUSIC PACK, PORTED BACK
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04e01.rpak"//NEWER MUSIC PACK, PORTED BACK
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s03e02.rpak"//NEWER MUSIC PACK, PORTED BACK
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s03e01.rpak"//REPLACED TO MAKE MUSIC PACK NON GRX
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loot/main_weapon/g7.rpak"//REPLACED TO MOVE WEAPON CATEGORY INTO MARKSMAN
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loot/main_weapon/tripletake.rpak"//REPLACED TO MOVE WEAPON CATEGORY INTO MARKSMAN
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/character/bangalore.rpak"//EDITED TO REMOVE PROTOTYPE EXECUTION
     },
     {

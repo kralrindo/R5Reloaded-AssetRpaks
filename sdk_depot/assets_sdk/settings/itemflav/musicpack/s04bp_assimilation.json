@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 1136866898,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/s04bp_assimilation.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MUSICPACK_004",
+		"localizationKey_NAME_SHORT": "#MUSICPACK_004",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_s04bp_assimilation",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Season4",
+		"musicMainMenuToLobby": "mainmenu_music_Season4",
+		"musicLobby": "Music_Lobby_Season4",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect_Season4",
+		"musicCharacterSelect": "Music_CharacterSelect_Season4",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Season4_Solo",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Season4_Duos",
+		"musicSkydive": "Music_Jump_Season4",
+		"musicWin": "Music_EndGame_Win_Season4",
+		"musicLoss": "Music_EndGame_Loss_Season4",
+		"character": "",
+		"portraitImage": "rui/menu/battlepass/s04/musicpack_portrait",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season04.rpak"
+			}
+		],
+		"portraitBlend": 1.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": false
+	}
+}

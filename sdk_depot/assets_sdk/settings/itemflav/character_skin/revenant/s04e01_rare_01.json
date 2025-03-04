@@ -24,6 +24,9 @@
 		"customCharSelectReadyIntroAnim": "",
 		"customCharSelectReadyIdleAnim": "",
 		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s04e01.rpak"
+			}
 		],
 		"camoIndex": 0,
 		"shouldHideIfLocked": false

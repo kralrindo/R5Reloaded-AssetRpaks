@@ -24,6 +24,9 @@
 		"customCharSelectReadyIntroAnim": "",
 		"customCharSelectReadyIdleAnim": "",
 		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_r5reloaded_custom.rpak"
+			}
 		],
 		"camoIndex": 0,
 		"shouldHideIfLocked": false
