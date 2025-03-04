@@ -3032,6 +3032,10 @@
     ////////////////////////DATATABLES/////////////////////
     {
       "_type": "dtbl",
+      "_path": "datatable/precache_sdk.rpak"//CALL IN MODELS EARLY AND PRECACHE TO MAKE SURE THEY ARE READY BEFORE SCRIPTS BEING LOADED
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/survival_loot_sdk.rpak"//SDK LOOT DATATABLE
     },
     {
@@ -28181,6 +28185,7 @@
         "animseq/creatures/prowler/ai_prowler_core/pr_lunge_attack_titan_success.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_react_bullet_threat.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_react_bullet_threat_far.rseq",
+        "animseq/creatures/prowler/ai_prowler_core/pr_react_jumped_over.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_react_surprised_threat.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_react_surprised_threat_back_l.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_react_surprised_threat_back_r.rseq",
@@ -28211,9 +28216,6 @@
         "animseq/creatures/prowler/ai_prowler_core/pr_stand_2_walk_90_left.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_stand_2_walk_90_right.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_stand_2_walk_forward.rseq",
-        "animseq/creatures/prowler/ai_prowler_core/pr_taunt_enemy.rseq",
-        "animseq/creatures/prowler/ai_prowler_core/pr_taunt_enemy_02.rseq",
-        "animseq/creatures/prowler/ai_prowler_core/pr_taunt_enemy_03_long.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_threat_bite_attack.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_traverse_across_1024.rseq",
         "animseq/creatures/prowler/ai_prowler_core/pr_traverse_across_1024_back.rseq",
