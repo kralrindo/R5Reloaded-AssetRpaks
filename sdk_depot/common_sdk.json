@@ -195,6 +195,10 @@
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/character/bangalore.rpak"//EDITED TO REMOVE PROTOTYPE EXECUTION
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/character_execution/mirage/default.rpak"//MAKE MIRAGE COMPATIBLE WITH S5 CORE RIGS
     },
     {
