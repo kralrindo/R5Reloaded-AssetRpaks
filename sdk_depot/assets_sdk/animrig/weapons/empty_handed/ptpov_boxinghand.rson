@@ -1,0 +1,37 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_boxinghand\crouch.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\draw.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\drawfirst.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\holster.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\idle.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\idle_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\inspect_01.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\jump.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\land.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\lower.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_kick.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_punch.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_punch1.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_punch2.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_uppercut.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_uppercut_gibraltar.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\melee_uppercut_pathfinder.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\meleeraise.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\raise.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\regrip_to_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\regrip_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprint_heavy.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprint_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprint_onehanded_heavy.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprint_onehanded_octane.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprintdraw.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprintholster.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprintjump.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprintraise.rseq
+	animseq\weapons\empty_handed\ptpov_boxinghand\sprintslide.rseq
+]
