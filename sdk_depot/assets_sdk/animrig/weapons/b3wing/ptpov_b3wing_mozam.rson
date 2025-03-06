@@ -1,0 +1,21 @@
+seqs:
+[
+	animseq\weapons\b3wing\ptpov_b3wing\ads_out_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\draw_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\fire_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\holster_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\idle_crouch_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\idle_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\lower_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\raise_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\reload_empty_late1_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\reload_empty_late2_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\reload_empty_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\reload_late1_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\reload_late2_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\reload_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\sprint_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\sprint_lefthand_anim.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\sprintraise_lefthand.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\sprintslide_lefthand.rseq
+]
