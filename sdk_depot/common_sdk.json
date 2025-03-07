@@ -199,6 +199,14 @@
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/loot/main_weapon/flatline.rpak"//OVERWRITE FLATLINE STGS FOR CUSTOM SKINS
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/flatline/epic_covid_bykral.rpak"//COVID FLATLINE
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/tag/source_battlepass_season04.rpak"
     },
     {
@@ -3606,11 +3614,21 @@
       "_path": "shader/0x430B7390A856E476.rpak",//S7 SHADER FOR TRIDENT
       "$guid": "0x430B7390A856E476"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x6B35A21F9A1AE834.rpak",
+      "$guid": "0x6B35A21F9A1AE834"
+    },
     ////////////////////////SHADERSETS//////////////////////////
     {
       "_type": "txan",
       "_path": "texture_anim/0x10E360F24FD81D0D.rpak",//S8 TXAN, IS IT COMPATIBLE?
       "$guid": "0x10E360F24FD81D0D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xAF5D72C74BBF5646.rpak",
+      "$guid": "0xAF5D72C74BBF5646"
     },
     {
       "_type": "shds",
@@ -4103,6 +4121,31 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x35D71961176BD78B.rpak",
+      "$guid": "0x35D71961176BD78B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x36256EC0321A53AA.rpak",
+      "$guid": "0x36256EC0321A53AA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x716000585AC887A7.rpak",
+      "$guid": "0x716000585AC887A7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8F6C9FFB49E8ADC6.rpak",
+      "$guid": "0x8F6C9FFB49E8ADC6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD544E18BC5FCB105.rpak",
+      "$guid": "0xD544E18BC5FCB105"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x1EBF4C15100CDEAE.rpak",
@@ -12934,6 +12977,14 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/weapons/flatline/covidepic_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/weapons/flatline/covidepic_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/art/mshop/weapons/class/assault/repeater3030/base/repeater3030_base_main_colpass_rgdp.rpak"
@@ -29653,7 +29704,21 @@
     /////////////////////////MODELS//////////////////////////////
     {
       "_type": "mdl_",
-      "_path": "mdl/weapons/pstl_sa3/ptpov_pstl_sa3.rmdl",
+      "_path": "mdl/weapons/vinson/ptpov_vinson_set1.rmdl",//FLATLINE CUSTOM SKIN MODEL
+      "$animrigs": [
+        "animrig/weapons/vinson/ptpov_vinson.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/vinson/w_vinson_set1.rmdl",//FLATLINE CUSTOM SKIN MODEL
+      "$animrigs": [
+        "animrig/weapons/vinson/w_vinson.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/pstl_sa3/ptpov_pstl_sa3.rmdl",//REPLACE ORIGINAL S3 MOZAMBIQUE FOR LEFTHAND ANIMS
       "$animrigs": [
         "animrig/weapons/pstl_sa3/ptpov_pstl_sa3.rrig",
         "animrig/weapons/b3wing/ptpov_b3wing_mozam.rrig"
