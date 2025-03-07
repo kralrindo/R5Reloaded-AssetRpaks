@@ -1,0 +1,50 @@
+{
+	"name": "models/weapons_r5/misc_crypto_drone/crypto_drone_transparent",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000422",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metalpanel",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x9183A47C26D193C9",
+	"$textures": {
+		"0": "0xDFA692D16C872ACB",
+		"1": "0xD6661C3E0147FB89",
+		"2": "0x1880DDF97900BA4D",
+		"3": "0x4533B904CF895452",
+		"4": "0x9D33AA041E51D408",
+		"5": "0x3CB56442B9806CCB"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

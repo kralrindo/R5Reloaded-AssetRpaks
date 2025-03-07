@@ -1,0 +1,40 @@
+{
+	"name": "models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_colpass",
+	"width": 1024,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x10000400",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xD0EC00022D7A6575",
+	"$textures": {
+		"0": "0xFBBBE83EEAF507F1"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0xD893CD969A23B4E4",
+	"$depthPrepassMaterial": "0xFBBC5255008DB132",
+	"$depthVSMMaterial": "0xD256D79EF291D677",
+	"$depthShadowTightMaterial": "0x3FF415FA1F675350",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

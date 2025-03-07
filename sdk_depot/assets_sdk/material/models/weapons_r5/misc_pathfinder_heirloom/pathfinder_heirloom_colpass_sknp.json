@@ -1,0 +1,50 @@
+{
+	"name": "models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB6881CF04941246A",
+	"$textures": {
+		"0": "0xF5E268C99CFC6E52",
+		"1": "0x8CD9CB65682A8822",
+		"2": "0xD6A204F4D9F062FE",
+		"3": "0x3BBAAA5A3E477537",
+		"4": "0x639718CA1BF90D7E",
+		"5": "0xF9AC37361A06CCA8"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "aoTexture",
+		"5": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B996C15A6F0C435",
+	"$depthPrepassMaterial": "0xDED62BF7A5E9D951",
+	"$depthVSMMaterial": "0x3200B20AAE04C4B5",
+	"$depthShadowTightMaterial": "0xC1C38F5FF3BE0762",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

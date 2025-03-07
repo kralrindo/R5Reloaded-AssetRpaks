@@ -1,0 +1,40 @@
+{
+	"name": "models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote",
+	"width": 1024,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x10000400",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xD0EC00022D7A6575",
+	"$textures": {
+		"0": "0x9CD4337ABBE7F35D"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0x12896E8390343B94",
+	"$depthPrepassMaterial": "0x49B374D169A1F133",
+	"$depthVSMMaterial": "0x96EE2EC755DF39C6",
+	"$depthShadowTightMaterial": "0xBA9D44F6EF0991C0",
+	"$colpassMaterial": "0x6862A582092F0F8",
+	"$textureAnimation": "0x0"
+}

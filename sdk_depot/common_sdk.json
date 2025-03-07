@@ -196,7 +196,27 @@
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_mobile_respawn_destruction.rpak"
     },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/prop_pathfinder_gloves_gladcard_animated_heirloom.rpak"//BOXING GLOVES
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/prop_pathfinder_gloves_gladcard_animated_heirloom_idle.rpak"//BOXING GLOVES
+    },
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character/pathfinder.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/gcard_stance/pathfinder/heirloom_01.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/melee_skin/pathfinder_gloves.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
+    },
     {
       "_type": "stgs",
       "_path": "settings/itemflav/loot/main_weapon/flatline.rpak"//OVERWRITE FLATLINE STGS FOR CUSTOM SKINS
@@ -3619,11 +3639,21 @@
       "_path": "shader/0x6B35A21F9A1AE834.rpak",
       "$guid": "0x6B35A21F9A1AE834"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5EF7241347338DF2.rpak",//WAS 0x5EF7241347338DF1
+      "$guid": "0x5EF7241347338DF2"
+    },
     ////////////////////////SHADERSETS//////////////////////////
     {
       "_type": "txan",
       "_path": "texture_anim/0x10E360F24FD81D0D.rpak",//S8 TXAN, IS IT COMPATIBLE?
       "$guid": "0x10E360F24FD81D0D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB6881CF04941246A.rpak",//WAS 0xB6881CF04941246E
+      "$guid": "0xB6881CF04941246A"
     },
     {
       "_type": "shds",
@@ -4121,6 +4151,71 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x10B0BBBF63B82614.rpak",
+      "$guid": "0x10B0BBBF63B82614"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x20C134F1D63BA462.rpak",
+      "$guid": "0x20C134F1D63BA462"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3BBAAA5A3E477537.rpak",
+      "$guid": "0x3BBAAA5A3E477537"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5EC22D28A1AA61FD.rpak",
+      "$guid": "0x5EC22D28A1AA61FD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x639718CA1BF90D7E.rpak",
+      "$guid": "0x639718CA1BF90D7E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6E70B49670C5660.rpak",
+      "$guid": "0x6E70B49670C5660"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8CD9CB65682A8822.rpak",
+      "$guid": "0x8CD9CB65682A8822"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9CD4337ABBE7F35D.rpak",
+      "$guid": "0x9CD4337ABBE7F35D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD6A204F4D9F062FE.rpak",
+      "$guid": "0xD6A204F4D9F062FE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF5E268C99CFC6E52.rpak",
+      "$guid": "0xF5E268C99CFC6E52"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF830B4F4B06D52DC.rpak",
+      "$guid": "0xF830B4F4B06D52DC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF9AC37361A06CCA8.rpak",
+      "$guid": "0xF9AC37361A06CCA8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFBBBE83EEAF507F1.rpak",
+      "$guid": "0xFBBBE83EEAF507F1"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x35D71961176BD78B.rpak",
@@ -12977,6 +13072,198 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_pathfinder/emote_laugh_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_glitch_emote_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_ouch_emote_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_pow_emote_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_pathfinder/emote_laugh_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_glitch_emote_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_ouch_emote_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_pow_emote_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_pathfinder/emote_laugh_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_glitch_emote_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_ouch_emote_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_pow_emote_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_pathfinder/emote_laugh_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_glitch_emote_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_ouch_emote_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_pow_emote_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_pathfinder/emote_laugh_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_glitch_emote_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_ouch_emote_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_pow_emote_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_pathfinder/emote_laugh_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_glitch_emote_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_oops_emote_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_ouch_emote_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_pow_emote_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_wham_emote_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/custom_r5/weapons/flatline/covidepic_colpass_sknp.rpak"
@@ -23017,6 +23304,121 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
+      "_path": "animrig/empty/lights/empty_lights_pathfinder.rrig",
+      "$sequences": [
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_animated_pose_emotes_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_animated_pose_emotes_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_birdattack_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_crash_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_heirloom_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_heirloom_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_pose_birdattack_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_pose_crash_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_pose_punchout_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_pose_spiderman_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_punchout_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_animated_spiderman_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_assimilation_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_assimilation_super_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_01_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_disco_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_fightme_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_KO_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_love_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_proud_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_sad_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_strong_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_super_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_gladcard_common_pose_swing_light.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/pathfinder_gloves/ptpov_gloves_pathfinder.rrig",
+      "$sequences": [
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/crouch.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_airsprint_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_sprinting.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_sprinting_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_airsprint_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_sprinting.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_sprinting_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_onehanded_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_onehanded_sprinting.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/inspect.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/jump.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/jump_sprinting.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint_high.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint_low.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint_med.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_high.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_low.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_med.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_airsprint_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_sprinting.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_sprinting_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_crouch_01.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_crouch_02.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_crouch_03.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_door.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_01.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_02.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_03.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_04.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_05.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_06.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_07.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_01.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_02.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_03.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_airsprint_01.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_airsprint_02.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_airsprint_03.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_slide.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_sprinting_01.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_sprinting_02.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_sprinting_03.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/meleeraise.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/meleeraise_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_airsprint_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_sprinting.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_sprinting_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/regrip_to_crouch.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/regrip_to_idle.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprint_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintjump.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintjump_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintraise.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintraise_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintslide.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintslide_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/switch_to_onehanded.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/switch_to_onehanded_crouch.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/zipline_mount.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/zipline_mount_airsprint.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/zipline_mount_sprinting.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/weapons/b3wing/ptpov_b3wing_mozam.rrig",
       "$sequences": [
         "animseq/weapons/b3wing/ptpov_b3wing/ads_out_lefthand.rseq",
@@ -29704,6 +30106,87 @@
     /////////////////////////MODELS//////////////////////////////
     {
       "_type": "mdl_",
+      "_path": "mdl/creatures/bird/bird.rmdl",//REPLACE S3 BIRD FOR PATH HEIRLOOM
+      "$sequences": [
+        "animseq/creatures/bird/bird/Bird_casual_idle.rseq",
+        "animseq/creatures/bird/bird/Bird_casual_skit_A.rseq",
+        "animseq/creatures/bird/bird/Bird_casual_skit_B.rseq",
+        "animseq/creatures/bird/bird/Bird_cleaning_idle.rseq",
+        "animseq/creatures/bird/bird/Bird_cleaning_skit_A.rseq",
+        "animseq/creatures/bird/bird/Bird_cleaning_skit_B.rseq",
+        "animseq/creatures/bird/bird/Bird_cleaning_skit_C.rseq",
+        "animseq/creatures/bird/bird/Bird_eating_idle.rseq",
+        "animseq/creatures/bird/bird/Bird_fly_cycle_long.rseq",
+        "animseq/creatures/bird/bird/Bird_fly_cycle_short.rseq",
+        "animseq/creatures/bird/bird/Bird_fly_skit_A.rseq",
+        "animseq/creatures/bird/bird/Bird_fly_skit_B.rseq",
+        "animseq/creatures/bird/bird/Bird_fly_skit_C.rseq",
+        "animseq/creatures/bird/bird/bird_gladcard_animated_bird.rseq",
+        "animseq/creatures/bird/bird/bird_gladcard_animated_bird_idle.rseq",
+        "animseq/creatures/bird/bird/bird_gloves_inspect.rseq",
+        "animseq/creatures/bird/bird/bird_Pathfinder_emote_stubborn.rseq",
+        "animseq/creatures/bird/bird/bird_Pathfinder_gladcard_animated_01.rseq",
+        "animseq/creatures/bird/bird/bird_Pathfinder_gladcard_animated_pose01.rseq",
+        "animseq/creatures/bird/bird/Bird_react_fly.rseq",
+        "animseq/creatures/bird/bird/Bird_react_fly_small.rseq",
+        "animseq/creatures/bird/bird/Bird_react_fly_small_skit_A.rseq",
+        "animseq/creatures/bird/bird/Bird_react_fly_small_skit_B.rseq",
+        "animseq/creatures/bird/bird/Bird_react_fly_small_skit_C.rseq",
+        "animseq/creatures/bird/bird/bloodhound_raven_menu_lobby_center_coo.rseq",
+        "animseq/creatures/bird/bird/bloodhound_raven_menu_lobby_center_idle.rseq",
+        "animseq/creatures/bird/bird/bloodhound_raven_menu_lobby_center_pet.rseq",
+        "animseq/creatures/bird/bird/bloodhound_raven_menu_lobby_center_readyup.rseq",
+        "animseq/creatures/bird/bird/bloodhound_raven_menu_lobby_right_idle.rseq",
+        "animseq/creatures/bird/bird/caustic_bird_gladcard_static_deadbird.rseq",
+        "animseq/creatures/bird/bird/freefall_bird02_bloodhound_summoncrow.rseq",
+        "animseq/creatures/bird/bird/freefall_bird03_bloodhound_summoncrow.rseq",
+        "animseq/creatures/bird/bird/freefall_bird04_bloodhound_summoncrow.rseq",
+        "animseq/creatures/bird/bird/freefall_bird05_bloodhound_summoncrow.rseq",
+        "animseq/creatures/bird/bird/freefall_bird06_bloodhound_summoncrow.rseq",
+        "animseq/creatures/bird/bird/freefall_bird_bloodhound_summoncrow.rseq",
+        "animseq/creatures/bird/bird/freefall_bird_pathfinder_birdattack_idle.rseq",
+        "animseq/creatures/bird/bird/freefall_bird_pathfinder_swinging.rseq",
+        "animseq/creatures/bird/bird/mirage_bird_gladcard_animated_crow.rseq",
+        "animseq/creatures/bird/bird/mirage_bird_gladcard_animated_crow_idle.rseq",
+        "animseq/creatures/bird/bird/mp_bird_loot_idle.rseq",
+        "animseq/creatures/bird/bird/mp_pt_raven_bloodhound_menu_ready_up.rseq",
+        "animseq/creatures/bird/bird/mp_pt_raven_bloodhound_menu_ready_up_idle.rseq",
+        "animseq/creatures/bird/bird/mp_pt_raven_bloodhound_menu_select.rseq",
+        "animseq/creatures/bird/bird/mp_pt_raven_training_intro_start.rseq",
+        "animseq/creatures/bird/bird/mp_pt_raven_training_intro_start_idle.rseq",
+        "animseq/creatures/bird/bird/raven_bloodhound_execution_raven.rseq",
+        "animseq/creatures/bird/bird/raven_bloodhound_execution_raven_loot.rseq",
+        "animseq/creatures/bird/bird/raven_gladcard_common_pose_01_prop.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/pathfinder_gloves/ptpov_pathfinder_gloves.rmdl",
+      "$animrigs": [
+        "animrig/weapons/pathfinder_gloves/ptpov_gloves_pathfinder.rrig"
+      ],
+      "$sequences": [
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/menu_pose.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/pathfinder_gloves/ptpov_pathfinder_gloves_gladcard.rmdl",
+      "$sequences": [
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/pathfinder_gloves_gladcard_animated_heirloom.rseq",
+        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/pathfinder_gloves_gladcard_animated_heirloom_idle.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/pathfinder_gloves/w_pathfinder_gloves.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/pathfinder_gloves/w_pathfinder_glove_left.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/weapons/vinson/ptpov_vinson_set1.rmdl",//FLATLINE CUSTOM SKIN MODEL
       "$animrigs": [
         "animrig/weapons/vinson/ptpov_vinson.rrig"
@@ -31112,7 +31595,49 @@
         "animseq/humans/class/heavy/pilot_heavy_pathfinder/prop_revenant_gladcard_animated_assassin_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_pathfinder/prop_revenant_gladcard_animated_beatdown.rseq",
         "animseq/humans/class/heavy/pilot_heavy_pathfinder/prop_revenant_gladcard_animated_beatdown_idle.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_pathfinder/Revenant_finisher_lurk_pathfinder_vic.rseq"
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/Revenant_finisher_lurk_pathfinder_vic.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_crouch_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_crouchLoot_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_crouchWalk_gloves_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_crouchWalk_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_float_gloves_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_float_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_idle_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_idleLoot_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_jump_gloves_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_jump_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_high_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_high_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_high_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_low_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_low_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_low_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_med.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_med_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_med_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_land_gloves_med_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_meleeCrouch_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_meleeJump_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_meleeSlide_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_meleeStand_01_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_run_gloves_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_run_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_slide_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_slideEnd_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_slideEnd_gloves_L.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_slideEnd_gloves_R.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_sprint_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_walk_gloves_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_walk_gloves_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_ziplineIdle_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_ziplineIdle_gloves_vertical.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_ziplineMount_gloves.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfinder_ziplineMount_gloves_vertical.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_pathfinder/pathfiner_land_gloves_low.rseq"
       ]
     },
     {

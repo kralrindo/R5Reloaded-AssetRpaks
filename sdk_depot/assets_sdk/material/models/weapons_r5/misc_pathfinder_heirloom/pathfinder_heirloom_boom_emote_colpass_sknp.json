@@ -1,0 +1,40 @@
+{
+	"name": "models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_boom_emote_colpass",
+	"width": 1024,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x10000400",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xD0EC00022D7A6575",
+	"$textures": {
+		"0": "0x20C134F1D63BA462"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0xD9A5813A95DCFDD0",
+	"$depthPrepassMaterial": "0x4CF3B62CD88E7D18",
+	"$depthVSMMaterial": "0xD3417E3D2895E476",
+	"$depthShadowTightMaterial": "0x55B0458B95133986",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

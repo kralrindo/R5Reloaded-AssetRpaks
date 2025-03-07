@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_pathfinder_gloves_gladcard_animated_heirloom_idle.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/Weapons/pathfinder_gloves/ptpov_pathfinder_gloves_gladcard.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/pathfinder_gloves_gladcard_animated_heirloom_idle.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+		],
+		"syncCycle": true
+	}
+}

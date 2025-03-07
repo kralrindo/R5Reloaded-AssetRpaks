@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\pathfinder_gloves\ptpov_gloves_pathfinder.rrig
+]
+seqs:
+[
+	animseq\weapons\pathfinder_gloves\ptpov_gloves_pathfinder\menu_pose.rseq
+]

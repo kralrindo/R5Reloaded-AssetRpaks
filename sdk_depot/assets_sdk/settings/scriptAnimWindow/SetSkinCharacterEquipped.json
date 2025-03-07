@@ -1,0 +1,11 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/SetSkinCharacterEquipped.rpak",
+		"devDescription": "",
+		"type": "SetSkin",
+		"selectFlavorFrom": "PLAYER_EQUIPPED",
+		"flavor": "",
+		"isStreamHint": false
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_bloodhound/crow/Crow",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x560004b0",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x76A97C1F55E47EA0",
+	"$textures": {
+		"0": "0x6CEFD13D77DE8A26",
+		"1": "0x80CD93F8091980E7",
+		"2": "0x8C3C13B0AB1211A1",
+		"3": "0x53237A2CDD03344E",
+		"4": "0xDCA8D2416F69B3A2",
+		"5": "0xFCFD4AF3BC874541",
+		"6": "0x59A72B4F07F83393"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "aoTexture",
+		"5": "cavityTexture",
+		"6": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x91A0C5830B9C0B8B",
+	"$depthPrepassMaterial": "0xE4C6AB4BD1F8B6F6",
+	"$depthVSMMaterial": "0xC904FFFBA510C482",
+	"$depthShadowTightMaterial": "0x60F7AF6013629066",
+	"$colpassMaterial": "0xCA2553F093FC63D3",
+	"$textureAnimation": "0x0"
+}

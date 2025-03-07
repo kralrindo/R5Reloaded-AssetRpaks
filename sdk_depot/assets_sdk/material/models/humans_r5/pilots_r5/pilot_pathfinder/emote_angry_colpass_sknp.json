@@ -1,0 +1,40 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_pathfinder/emote_angry_colpass",
+	"width": 512,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x10000400",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal_spectre",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xD0EC00022D7A6575",
+	"$textures": {
+		"0": "0x5F4878378F215383"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture"
+	},
+	"$depthShadowMaterial": "0x1E4498AD722E15B0",
+	"$depthPrepassMaterial": "0xD26F41320306A1B9",
+	"$depthVSMMaterial": "0xE484ACD6B9B1ABC0",
+	"$depthShadowTightMaterial": "0x9DEBE99FF3D7495F",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

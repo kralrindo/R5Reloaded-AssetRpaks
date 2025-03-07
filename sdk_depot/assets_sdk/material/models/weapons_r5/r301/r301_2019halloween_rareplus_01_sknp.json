@@ -1,0 +1,52 @@
+{
+	"name": "models/weapons_r5/r301/r301_2019halloween_rareplus_01",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "Wpn_AR",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x2AB7E2BAFA2459",
+	"$textures": {
+		"0": "0x203EC9EB4BF51A9A",
+		"1": "0x341C8CA5C460B997",
+		"2": "0x3D2383FAE3B8838D",
+		"3": "0x40AEA76B26C472A",
+		"4": "0x3B12C502A3652F03",
+		"5": "0x8FF7CAEF2AB0EC52",
+		"6": "0xADE4BB3DC38F07A5"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xA9DAF184EB98E6B",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\rspn101\w_rspn101\attack_seq.rseq
+	animseq\weapons\rspn101\w_rspn101\attack_seq_alt1.rseq
+	animseq\weapons\rspn101\w_rspn101\attack_seq_alt2.rseq
+	animseq\weapons\rspn101\w_rspn101\attack_seq_alt3.rseq
+	animseq\weapons\rspn101\w_rspn101\idle_seq.rseq
+	animseq\weapons\rspn101\w_rspn101\rspn101_bangalore_execution_disarm.rseq
+]

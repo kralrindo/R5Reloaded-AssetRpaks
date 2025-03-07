@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\pathfinder_gloves\ptpov_gloves_pathfinder\pathfinder_gloves_gladcard_animated_heirloom.rseq
+	animseq\weapons\pathfinder_gloves\ptpov_gloves_pathfinder\pathfinder_gloves_gladcard_animated_heirloom_idle.rseq
+]

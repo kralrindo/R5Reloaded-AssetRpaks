@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"selectFlavorFrom","string","0","How to source the model to be used."
+"flavor","asset","0","The skin being applied."
+"isStreamHint","bool","0","Load the skin for streaming, rather than applying it.  This should happen 1-2 seconds before display."
