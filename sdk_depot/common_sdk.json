@@ -207,6 +207,50 @@
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
     {
       "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_barricade.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_closer.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_crypto.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_firesupport.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_gas.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_grapple.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_gunner.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_holopilot.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_medic.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_stim.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_tracker.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/character/pathfinder.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
     },
     {

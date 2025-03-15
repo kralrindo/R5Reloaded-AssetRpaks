@@ -9546,12 +9546,53 @@
       "$guid": "0xFFD902DC69CBC2C1"
     },
     {
+      "_type": "txtr",
+      "_path": "texture/0x1D13EC6C2C2946A2.rpak",
+      "$guid": "0x1D13EC6C2C2946A2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x453CB05B4AA87E6B.rpak",
+      "$guid": "0x453CB05B4AA87E6B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B14F1EBDF8BD96E.rpak",
+      "$guid": "0x8B14F1EBDF8BD96E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB2F1605BC9A51D97.rpak",
+      "$guid": "0xB2F1605BC9A51D97"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDAB35DB8A945AB8F.rpak",
+      "$guid": "0xDAB35DB8A945AB8F"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mcor/mcor_floor_panel_02_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mcor/mcor_floor_panel_02_wldc.rpak"
+    },
+    {
       "_type": "matl",
       "_path": "material/world/s2s/s2s_wall_trim_02_vc_colpass_rgdc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/s2s/s2s_wall_trim_02_vc_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_wldc.rpak"
     },
     {
       "_type": "matl",
