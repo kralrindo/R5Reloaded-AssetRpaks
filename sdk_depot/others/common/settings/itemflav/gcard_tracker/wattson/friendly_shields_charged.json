@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 505855570,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/wattson/friendly_shields_charged.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_wattson_friendly_shields_charged_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_wattson_friendly_shields_charged_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_wattson_friendly_shields_charged",
+		"ownershipTarget": "",
+		"statRef": "stats.wattson_friendly_shields_charged",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isTheEmpty": false
+	}
+}

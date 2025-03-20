@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 337086448,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/none.rpak",
+		"itemType": "weapon_charm",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_charm_none_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"charmModel": "",
+		"attachmentName": "CHARM",
+		"tags": [
+		],
+		"isTheEmpty": true
+	}
+}

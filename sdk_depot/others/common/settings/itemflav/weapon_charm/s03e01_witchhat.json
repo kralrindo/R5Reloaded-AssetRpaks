@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 1818659779,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/s03e01_witchhat.rpak",
+		"itemType": "weapon_charm",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_charm_s03e01_witchhat_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_s03e01_witchhat",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_witch.rmdl",
+		"attachmentName": "CHARM",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s03e01.rpak"
+			}
+		],
+		"isTheEmpty": false
+	}
+}

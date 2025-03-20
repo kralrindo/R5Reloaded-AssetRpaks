@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 2073139862,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/r301/shop_legendary_03.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_294",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_r301_intelligentdesign",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_r301_shop_legendary_03",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/rspn101/w_rspn101_legendary_02.rmdl",
+		"viewModel": "mdl/Weapons/rspn101/ptpov_rspn101_legendary_02.rmdl",
+		"skinName": "rc_legendary02",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

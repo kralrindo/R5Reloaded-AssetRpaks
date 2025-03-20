@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\props\health_packs\healthpack2_gladcard_animated_baddog.rseq
+	animseq\props\health_packs\healthpack2_gladcard_animated_baddog_idle.rseq
+]

@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1064088158,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wraith_pas_voices.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_VOICES",
+		"localizationKey_NAME_SHORT": "#GEAR_VOICES",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_VOICES_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_VOICES_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_wraith",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_VOICES",
+		"tags": [
+		]
+	}
+}

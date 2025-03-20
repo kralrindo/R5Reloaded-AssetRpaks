@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 444245453,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/peacekeeper/legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_peacekeeper_legendary_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_peacekeeper_lonestar",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_peacekeeper_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/peacekeeper/w_peacekeeper_legendary_01.rmdl",
+		"viewModel": "mdl/Weapons/peacekeeper/ptpov_peacekeeper_legendary_01.rmdl",
+		"skinName": "lonestar",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

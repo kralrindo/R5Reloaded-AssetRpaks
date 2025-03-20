@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1397562845,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wraith_ult_phase_tunnel.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_PHASE_TUNNEL",
+		"localizationKey_NAME_SHORT": "#WPN_PHASE_TUNNEL",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_PHASE_TUNNEL_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_PHASE_TUNNEL_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_wraith",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_phase_tunnel",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1488777442,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/_empty.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge__empty_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge__empty_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/gladiator_cards/badge_empty",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+		],
+		"isTheEmpty": true,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

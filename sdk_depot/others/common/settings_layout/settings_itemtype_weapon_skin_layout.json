@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_weapon_skin_layout/tags.csv",
+		"settings_layout/settings_itemtype_weapon_skin_layout/featureReactsToKillsLevels.csv"
+	]
+}

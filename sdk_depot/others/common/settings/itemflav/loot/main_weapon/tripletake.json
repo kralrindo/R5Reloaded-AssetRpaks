@@ -1,0 +1,293 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loot_main_weapon_layout.rpak",
+	"uniqueId": 1603172346,
+	"settings": {
+		"assetName": "settings/itemflav/loot/main_weapon/tripletake.rpak",
+		"itemType": "loot_main_weapon",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_DOUBLETAKE",
+		"localizationKey_NAME_SHORT": "#WPN_DOUBLETAKE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_DOUBLETAKE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_DOUBLETAKE_DESC",
+		"quality": "NONE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_tripletake",
+		"grxMode": "NONE",
+		"entityClassname": "mp_weapon_doubletake",
+		"category": "settings/itemflav/weapon_category/sniper.rpak",
+		"statsCategory": "sniper",
+		"tags": [
+		],
+		"armoryScale": 0.785000,
+		"lootCeremonyScale": 1.000000,
+		"battlePassScale": 1.360000,
+		"skins": [
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/factory_issue.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/rare_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/epic_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/epic_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/epic_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/epic_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/legendary_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/legendary_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/legendary_shop_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/season01_rare_c.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/beasthunter_legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/season02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/shop_legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/psplus04_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/season02_event01_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/shop_legendary_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/s03bp_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/tripletake/s03e01_legendary_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"charms": [
+			{
+				"flavor": "settings/itemflav/weapon_charm/none.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_gold.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_platinum.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_diamond.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_predator.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/nessy.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/fireball.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/gas_canister.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/yeti.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/lifeline_drone.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_jackolantern.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/clownhead.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_witchhat.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/crow.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/jester.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_nessyghost.rpak",
+				"featureFlag": ""
+			}
+		],
+		"shippingWeapon": true
+	}
+}

@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\health_injector\w_health_injector\attack_seq.rseq
+	animseq\weapons\health_injector\w_health_injector\attack_seq_alt1.rseq
+	animseq\weapons\health_injector\w_health_injector\attack_seq_alt2.rseq
+	animseq\weapons\health_injector\w_health_injector\attack_seq_alt3.rseq
+	animseq\weapons\health_injector\w_health_injector\idle_seq.rseq
+	animseq\weapons\health_injector\w_health_injector\mp_pt_firesupport_execution_medium_rspn101_attacker.rseq
+]

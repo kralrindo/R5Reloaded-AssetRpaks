@@ -1,0 +1,17 @@
+seqs:
+[
+	animseq\weapons\health_injector\ptpov_health_injector\idle_onehanded.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\idle_onehanded_seq.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\idle_onehanded_seq_air.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\idle_onehanded_seq_slide.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\idle_onehanded_seq_wallrun.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\idle_seq_air.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\idle_seq_crouch.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\ptpov_health_injector_end.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\ptpov_health_injector_heal_idle.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\ptpov_health_injector_lower.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\ptpov_health_injector_raise.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\raise_onehanded.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\run_layer_wall.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\toss_prep_pullout_onehanded_seq.rseq
+]

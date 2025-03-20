@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 481026934,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/ar.rpak",
+		"itemType": "weapon_category",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_ar_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/weapon_categories/ar",
+		"grxMode": "NONE",
+		"statsKey": "ar",
+		"tags": [
+		],
+		"menuZoomOffset": "<6.000000,0.000000,2.000000>"
+	}
+}

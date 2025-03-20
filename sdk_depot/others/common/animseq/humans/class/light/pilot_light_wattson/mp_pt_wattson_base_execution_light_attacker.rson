@@ -1,0 +1,12 @@
+models:
+[
+	mdl\props\wattson_electric_fence\wattson_electric_fence_fx.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_wattson_base_execution_electric_fence_01.rpak
+	settings\scriptAnimWindow\prop_wattson_base_execution_electric_fence_02.rpak
+]
+effects:
+[
+]

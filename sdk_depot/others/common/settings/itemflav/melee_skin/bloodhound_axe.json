@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1195204293,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/bloodhound_axe.rpak",
+		"itemType": "melee_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_BLOODHOUND_AXE_NAME",
+		"localizationKey_NAME_SHORT": "#MELEE_SKIN_BLOODHOUND_AXE_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_BLOODHOUND_AXE_NAME",
+		"quality": "HEIRLOOM",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_bloodhound_axe",
+		"ownershipTarget": "",
+		"mainWeaponClassname": "mp_weapon_bloodhound_axe_primary",
+		"offhandWeaponClassname": "melee_bloodhound_axe",
+		"menuAnimSeq": "",
+		"tags": [
+		],
+		"menuMdlRot": "<-150.000000,0.000000,-110.000000>"
+	}
+}

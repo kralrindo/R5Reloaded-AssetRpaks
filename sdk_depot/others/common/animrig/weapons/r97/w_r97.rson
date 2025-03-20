@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\weapons\r97\w_r97\attack_seq.rseq
+	animseq\weapons\r97\w_r97\attack_seq_01.rseq
+	animseq\weapons\r97\w_r97\attack_seq_02.rseq
+	animseq\weapons\r97\w_r97\attack_seq_alt1.rseq
+	animseq\weapons\r97\w_r97\attack_seq_alt2.rseq
+	animseq\weapons\r97\w_r97\attack_seq_alt3.rseq
+	animseq\weapons\r97\w_r97\idle_seq.rseq
+]

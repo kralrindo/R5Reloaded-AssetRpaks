@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\props\health_packs\health_pack_large.rrig
+]
+seqs:
+[
+	animseq\props\health_packs\healthpack1_gladcard_animated_baddog.rseq
+	animseq\props\health_packs\healthpack1_gladcard_animated_baddog_idle.rseq
+]

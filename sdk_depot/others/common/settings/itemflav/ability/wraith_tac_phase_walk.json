@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 713106170,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wraith_tac_phase_walk.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_PHASE_WALK",
+		"localizationKey_NAME_SHORT": "#WPN_PHASE_WALK",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_PHASE_WALK_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_PHASE_WALK_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_wraith",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_phase_walk",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

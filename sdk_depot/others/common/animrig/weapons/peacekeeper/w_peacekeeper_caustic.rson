@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\heavy\pilot_heavy_caustic\caustic_peackeeper_gladcard_animated_hunting.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\caustic_peackeeper_gladcard_animated_hunting_idle.rseq
+	animseq\weapons\peacekeeper\w_peacekeeper_caustic\gibraltar_peacekeeper_gladcard_animated_terminated.rseq
+	animseq\weapons\peacekeeper\w_peacekeeper_caustic\gibraltar_peacekeeper_gladcard_animated_terminated_idle.rseq
+]

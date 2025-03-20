@@ -1,0 +1,20 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\vehicle\droppod_loot\droppod_loot_animated\droppod_loot_closed_idle.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_animated\droppod_loot_drop.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_animated\droppod_loot_drop_lifeline.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_animated\droppod_loot_open_idle.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_animated\droppod_loot_opening.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_c_door_close.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_c_door_open.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_doors_close.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_doors_open.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_idle.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_l_door_close.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_l_door_open.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_r_door_close.rseq
+	animseq\vehicle\droppod_loot\droppod_loot_r_door_open.rseq
+]

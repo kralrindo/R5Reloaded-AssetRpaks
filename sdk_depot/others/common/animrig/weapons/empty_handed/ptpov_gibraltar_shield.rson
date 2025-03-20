@@ -1,0 +1,18 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\charge.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\charge_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\crouch_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\draw.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\draw_to_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\draw_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\fire.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\holster.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\idle_to_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\jump.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\land.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_gibraltar_shield\lower.rseq
+]

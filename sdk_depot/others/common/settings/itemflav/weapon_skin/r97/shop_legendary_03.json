@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 703919264,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/r97/shop_legendary_03.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_185",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_r99_deathreel",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_r97_shop_legendary_03",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/r97/w_r97_legendary_01.rmdl",
+		"viewModel": "mdl/weapons/r97/ptpov_r97_legendary_01.rmdl",
+		"skinName": "gladiator_rc_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

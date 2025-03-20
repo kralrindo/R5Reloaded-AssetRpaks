@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\p2011_auto\w_p2011_auto\attack_seq.rseq
+	animseq\weapons\p2011_auto\w_p2011_auto\idle_seq.rseq
+]

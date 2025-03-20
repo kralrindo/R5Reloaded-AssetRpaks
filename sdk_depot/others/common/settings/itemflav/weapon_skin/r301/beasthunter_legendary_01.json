@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 296631005,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/r301/beasthunter_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_80",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_r301",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_r301_event01_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/rspn101/w_rspn101_beast_hunter.rmdl",
+		"viewModel": "mdl/Weapons/rspn101/ptpov_rspn101_beast_hunter.rmdl",
+		"skinName": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_beasthunter_event.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

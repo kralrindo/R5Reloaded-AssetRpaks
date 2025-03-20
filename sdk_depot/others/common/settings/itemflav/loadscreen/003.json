@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loadscreen_layout.rpak",
+	"uniqueId": 21360519,
+	"settings": {
+		"assetName": "settings/itemflav/loadscreen/003.rpak",
+		"itemType": "loadscreen",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOADSCREEN_003_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "loadscreen_003",
+		"ownershipTarget": "",
+		"loadscreenImage": "loadscreens/custom/loadscreen_custom_03",
+		"overlayText": "#LOADSCREEN_003_TEXT",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"isTheEmpty": false,
+		"isTheRandom": false
+	}
+}

@@ -1,0 +1,11 @@
+models:
+[
+	mdl\Weapons\p2011\p2011_static.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_crypto_drone_gladcard_animated_sneaker.rpak
+]
+effects:
+[
+]

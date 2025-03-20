@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 827665822,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/spitfire/beasthunter_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_79",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_spitfire_bonesaw",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_spitfire_event01_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/lmg_hemlok/w_lmg_hemlok_bh.rmdl",
+		"viewModel": "mdl/Weapons/lmg_hemlok/ptpov_lmg_hemlok_bh.rmdl",
+		"skinName": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_beasthunter_event.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1439809247,
+	"settings": {
+		"assetName": "settings/itemflav/ability/caustic_pas_gas_gear.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_GAS_GEAR",
+		"localizationKey_NAME_SHORT": "#GEAR_GAS_GEAR",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_GAS_GEAR_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_GAS_GEAR_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_caustic",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_GAS_GEAR",
+		"tags": [
+		]
+	}
+}

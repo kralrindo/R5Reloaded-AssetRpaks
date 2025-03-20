@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1926199223,
+	"settings": {
+		"assetName": "settings/itemflav/ability/mirage_ult_disguise.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_DISGUISE",
+		"localizationKey_NAME_SHORT": "#WPN_DISGUISE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_DISGUISE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_DISGUISE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_mirage",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_mirage_ultimate",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

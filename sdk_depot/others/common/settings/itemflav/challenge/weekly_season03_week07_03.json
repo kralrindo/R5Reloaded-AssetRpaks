@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 121395721,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season03_week07_03.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 7,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_DAILY_GAMES_PLAYED_AS_ANY3",
+				"character": "settings/itemflav/character/wattson.rpak",
+				"character2": "settings/itemflav/character/wraith.rpak",
+				"character3": "settings/itemflav/character/bangalore.rpak",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.characters[%char%].games_played",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 10,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

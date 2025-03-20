@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1062572798,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/mozambique/rare_10.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_SLY_FOX",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_mozambique_rare_10",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/pstl_sa3/w_pstl_sa3.rmdl",
+		"viewModel": "mdl/weapons/pstl_sa3/ptpov_pstl_sa3.rmdl",
+		"skinName": "common/rare mask",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 39,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

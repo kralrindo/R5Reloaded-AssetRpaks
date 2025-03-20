@@ -1,0 +1,21 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_xp_boost_layout.rpak",
+	"uniqueId": 648586044,
+	"settings": {
+		"assetName": "settings/itemflav/xp_boost/battlepass_season01.rpak",
+		"itemType": "xp_boost",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BATTLEPASS_SEASON01_XP_BOOST_NAME",
+		"localizationKey_NAME_SHORT": "#BATTLEPASS_SEASON01_XP_BOOST_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#BATTLEPASS_SEASON01_XP_BOOST_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BATTLEPASS_SEASON01_XP_BOOST_DESC",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "CONSUMABLE",
+		"grxMode": "CONSUMABLE",
+		"grxRef": "xp_boost_battlepass_season01",
+		"ownershipTarget": "",
+		"tags": [
+		]
+	}
+}

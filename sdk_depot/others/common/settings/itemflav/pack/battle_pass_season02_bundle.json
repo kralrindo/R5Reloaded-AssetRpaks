@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 47460603,
+	"settings": {
+		"assetName": "settings/itemflav/pack/battle_pass_season02_bundle.rpak",
+		"itemType": "account_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S02_OFFER_BUNDLE_LONG_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S02_OFFER_BUNDLE_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#BP_S02_OFFER_BUNDLE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/battlepass/banner_bundle",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_battle_pass_season02_bundle",
+		"ownershipTarget": "",
+		"tickMdl": "",
+		"tickMdlSkin": "",
+		"openButtonIcon": "",
+		"triadBounceSound": "",
+		"puckLandSound": "",
+		"unpackSound": "",
+		"deployTriadExplo1Sound": "",
+		"deployTriadExplo2Sound": "",
+		"deployTriadExplo3Sound": "",
+		"tags": [
+		],
+		"customCol0": "<0.000000,0.000000,0.000000>",
+		"countTextCol": "<0.000000,0.000000,0.000000>",
+		"isEphemeral": true,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": false
+	}
+}

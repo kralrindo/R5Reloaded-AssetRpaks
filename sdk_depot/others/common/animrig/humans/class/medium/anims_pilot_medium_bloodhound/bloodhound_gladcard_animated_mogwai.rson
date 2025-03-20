@@ -1,0 +1,11 @@
+models:
+[
+	mdl\weapons\combat_knife\w_combat_knife.rmdl
+	mdl\weapons\bolo_sword\w_bolo_sword.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

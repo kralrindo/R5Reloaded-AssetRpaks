@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\b3wing\w_b3wing\attack_seq.rseq
+	animseq\weapons\b3wing\w_b3wing\bangalore_revolver_execution.rseq
+	animseq\weapons\b3wing\w_b3wing\idle_seq.rseq
+	animseq\weapons\b3wing\w_b3wing\wingman_execution_awall_anim.rseq
+	animseq\weapons\b3wing\w_b3wing\wingman_execution_holo_anim.rseq
+]

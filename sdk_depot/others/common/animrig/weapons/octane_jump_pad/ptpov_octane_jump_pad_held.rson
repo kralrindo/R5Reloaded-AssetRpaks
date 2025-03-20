@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\octane_jump_pad\ptpov_octane_jump_pad_held\toss.rseq
+	animseq\weapons\octane_jump_pad\ptpov_octane_jump_pad_held\toss_onehanded.rseq
+	animseq\weapons\octane_jump_pad\ptpov_octane_jump_pad_held\toss_overhead.rseq
+	animseq\weapons\octane_jump_pad\ptpov_octane_jump_pad_held\toss_overhead_onehanded.rseq
+	animseq\weapons\octane_jump_pad\ptpov_octane_jump_pad_held\toss_prep_pullout.rseq
+	animseq\weapons\octane_jump_pad\ptpov_octane_jump_pad_held\toss_prep_pullout_onehanded.rseq
+]

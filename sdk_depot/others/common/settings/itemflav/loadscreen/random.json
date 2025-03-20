@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loadscreen_layout.rpak",
+	"uniqueId": 122533150,
+	"settings": {
+		"assetName": "settings/itemflav/loadscreen/random.rpak",
+		"itemType": "loadscreen",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOADSCREEN_RANDOM",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"loadscreenImage": "loadscreens/custom/loadscreen_custom_worlds_end_og",
+		"overlayText": "#LOADSCREEN_RANDOM_TEXT",
+		"tags": [
+		],
+		"isTheEmpty": false,
+		"isTheRandom": true
+	}
+}

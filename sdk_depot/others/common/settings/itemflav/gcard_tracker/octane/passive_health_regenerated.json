@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 2069879772,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/octane/passive_health_regenerated.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_octane_passive_health_regenerated_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_octane_passive_health_regenerated_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_octane_passive_health_regenerated",
+		"ownershipTarget": "",
+		"statRef": "stats.octane_passive_health_regenerated",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isTheEmpty": false
+	}
+}

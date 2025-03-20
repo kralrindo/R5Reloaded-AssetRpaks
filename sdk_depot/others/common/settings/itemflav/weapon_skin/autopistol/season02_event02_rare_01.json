@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 791338721,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/autopistol/season02_event02_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_184",
+		"localizationKey_NAME_SHORT": "#SKIN_184",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "RARE",
+		"icon": "rui/menu/store/weapon_re45_gnarly",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_autopistol_season02_event02_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/p2011_auto/w_p2011_auto.rmdl",
+		"viewModel": "mdl/weapons/p2011_auto/ptpov_p2011_auto.rmdl",
+		"skinName": "season02_event02_rare_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event02.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

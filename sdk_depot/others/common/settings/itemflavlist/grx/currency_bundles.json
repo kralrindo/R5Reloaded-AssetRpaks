@@ -1,0 +1,21 @@
+{
+	"layoutAsset": "settings_layout/settings_itemflavorlist_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflavlist/grx/currency_bundles.rpak",
+		"devDescription": "PLEASE DESCRIBE",
+		"list": [
+			{
+				"flavor": "settings/itemflav/currency_bundle/crafting_common.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/currency_bundle/crafting_rare.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/currency_bundle/crafting_epic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/currency_bundle/crafting_legendary.rpak"
+			}
+		]
+	}
+}

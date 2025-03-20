@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\mastiff_stgn\w_mastiff\attack_seq.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\attack_seq_alt1.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\attack_seq_alt2.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\attack_seq_alt3.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\idle_seq.rseq
+]

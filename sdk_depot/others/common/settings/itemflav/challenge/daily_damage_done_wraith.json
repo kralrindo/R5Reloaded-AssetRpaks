@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 339416877,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/daily_damage_done_wraith.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "DAILY",
+		"difficulty": "EASY",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 0,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_DAMAGE_DONE_AS",
+				"character": "settings/itemflav/character/wraith.rpak",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.characters[%char%].damage_done",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 200,
+				"xpReward": 3000,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

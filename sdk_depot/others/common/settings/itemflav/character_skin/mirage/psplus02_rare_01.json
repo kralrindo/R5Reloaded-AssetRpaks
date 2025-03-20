@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1649168358,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/mirage/psplus02_rare_01.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_68",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/humans/class/medium/pilot_medium_holo.rmdl",
+		"armsModel": "mdl/weapons/arms/pov_pilot_medium_holo.rmdl",
+		"skinName": "rare mask",
+		"unlockFuncKey": "psplus02",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_playstation_plus.rpak"
+			}
+		],
+		"camoIndex": 156,
+		"shouldHideIfLocked": true
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1449544816,
+	"settings": {
+		"assetName": "settings/itemflav/ability/gibraltar_pas_gun_shield.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_ADS_SHIELD",
+		"localizationKey_NAME_SHORT": "#GEAR_ADS_SHIELD",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_ADS_SHIELD_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_ADS_SHIELD_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_gibraltar",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ADS_SHIELD",
+		"tags": [
+		]
+	}
+}

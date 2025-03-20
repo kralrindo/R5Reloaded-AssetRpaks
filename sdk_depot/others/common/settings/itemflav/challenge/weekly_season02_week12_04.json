@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1174440872,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week12_04.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 12,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_DAMAGE_DONE_AS_ANY3",
+				"character": "settings/itemflav/character/mirage.rpak",
+				"character2": "settings/itemflav/character/pathfinder.rpak",
+				"character3": "settings/itemflav/character/lifeline.rpak",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.characters[%char%].damage_done",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 5000,
+				"xpReward": 6000,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

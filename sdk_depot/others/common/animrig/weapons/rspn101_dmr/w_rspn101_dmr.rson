@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\rspn101_dmr\w_rspn101_dmr\attack_seq.rseq
+	animseq\weapons\rspn101_dmr\w_rspn101_dmr\attack_seq_alt1.rseq
+	animseq\weapons\rspn101_dmr\w_rspn101_dmr\attack_seq_alt2.rseq
+	animseq\weapons\rspn101_dmr\w_rspn101_dmr\idle_seq.rseq
+]

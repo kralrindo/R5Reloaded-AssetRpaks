@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 178059670,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/lifeline.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_lifeline_NAME",
+		"localizationKey_NAME_SHORT": "#character_lifeline_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_lifeline",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Lifeline",
+		"musicMainMenuToLobby": "mainmenu_music_Lifeline",
+		"musicLobby": "Music_Lobby_Lifeline",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Lifeline",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Lifeline",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Lifeline",
+		"musicSkydive": "Music_Jump_Lifeline",
+		"musicWin": "Music_EndGame_Win_Lifeline",
+		"musicLoss": "Music_EndGame_Loss_Lifeline",
+		"character": "settings/itemflav/character/lifeline.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

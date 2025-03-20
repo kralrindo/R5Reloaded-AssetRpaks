@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 876803968,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/bangalore/season03_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_bangalore_season03_wins_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_bangalore_season03_wins_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_bangalore_season03_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00724938940].characters[%char%].placements_win",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/bangalore/season03_bg",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"color0": "<1.000000,1.000000,1.000000>",
+		"isTheEmpty": false
+	}
+}

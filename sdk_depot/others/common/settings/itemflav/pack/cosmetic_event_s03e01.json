@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 983791164,
+	"settings": {
+		"assetName": "settings/itemflav/pack/cosmetic_event_s03e01.rpak",
+		"itemType": "account_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_cosmetic_event_s03e01_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#pack_cosmetic_event_s03e01_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/apex_pack",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_cosmetic_event_season03_event01",
+		"ownershipTarget": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot_halloween.rmdl",
+		"tickMdlSkin": "base",
+		"openButtonIcon": "rui/events/s03e01/open_pack_btn_icon",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"tags": [
+		],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

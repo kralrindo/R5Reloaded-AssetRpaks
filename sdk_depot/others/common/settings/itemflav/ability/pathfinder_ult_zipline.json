@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1713144265,
+	"settings": {
+		"assetName": "settings/itemflav/ability/pathfinder_ult_zipline.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_ZIPLINE",
+		"localizationKey_NAME_SHORT": "#WPN_ZIPLINE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_ZIPLINE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_ZIPLINE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_pathfinder",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_zipline",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

@@ -1,0 +1,21 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_consequences_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_consequences_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_jumpspi_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_jumpspin_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_stimhead_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_stimhead_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_wipeout_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_animated_wipeout_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_backflip_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_goggles_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_gopro_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_grenade_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_jumpattack_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_leap_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_repairs_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_rock_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_sprint_light.rseq
+	animseq\humans\class\medium\pilot_medium_stim\octane_gladcard_static_subscribe_light.rseq
+]

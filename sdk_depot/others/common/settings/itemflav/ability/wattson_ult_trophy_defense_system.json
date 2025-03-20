@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1226136867,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wattson_ult_trophy_defense_system.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_TROPHY_SYSTEM",
+		"localizationKey_NAME_SHORT": "#WPN_TROPHY_SYSTEM",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_TROPHY_SYSTEM_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_TROPHY_SYSTEM_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_wattson",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_trophy_defense_system",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

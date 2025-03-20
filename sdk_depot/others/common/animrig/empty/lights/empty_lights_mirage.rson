@@ -1,0 +1,20 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_holo\mirage_gladcard_animated_crow_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\mirage_gladcard_animated_crow_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\mirage_gladcard_animated_quickdraw_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\mirage_gladcard_animated_quickdraw_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_animated_sassy_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_animated_sassy_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\mirage_gladcard_animated_smolder_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\mirage_gladcard_animated_smolder_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_balance_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_boo_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_dontmess_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_headlock_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_magic_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_minime_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_pewpew_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_selfie_light.rseq
+	animseq\humans\class\medium\pilot_medium_holo\Mirage_gladcard_static_spotlight_light.rseq
+]

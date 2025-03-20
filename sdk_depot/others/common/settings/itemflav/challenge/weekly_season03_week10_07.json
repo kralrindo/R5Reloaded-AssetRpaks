@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 823251316,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season03_week10_07.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 10,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_LOOT_LEGENDARY_ARMOR",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.looted_legendary_armor",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 3,
+				"xpReward": 6000,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

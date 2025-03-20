@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 272302856,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/gibraltar/season02_event01_legendary_01.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_141",
+		"localizationKey_NAME_SHORT": "#SKIN_141",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_gibraltar_season02_event01_legendary_01",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/heavy/pilot_heavy_gibraltar_season2_legendary_01.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_heavy_gibraltar_season2_legendary_01.rmdl",
+		"skinName": "season02_event01_legendary_01",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

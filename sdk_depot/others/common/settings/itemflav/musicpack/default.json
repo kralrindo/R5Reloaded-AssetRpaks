@@ -1,0 +1,37 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 2031636974,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/default.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SETTING_DEFAULT",
+		"localizationKey_NAME_SHORT": "#SETTING_DEFAULT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "grx_music_pack_bangalore",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Default",
+		"musicMainMenuToLobby": "mainmenu_music",
+		"musicLobby": "Music_Lobby",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos",
+		"musicSkydive": "Music_Jump",
+		"musicWin": "Music_EndGame_Win",
+		"musicLoss": "Music_EndGame_Loss",
+		"character": "",
+		"portraitImage": "rui/events/s03e02/musicpack_apex",
+		"tags": [
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": true,
+		"isTheRandom": false,
+		"isCharacterBased": false
+	}
+}

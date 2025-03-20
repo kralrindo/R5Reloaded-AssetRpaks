@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 54752418,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/dmr/season02_event02_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_177",
+		"localizationKey_NAME_SHORT": "#SKIN_177",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_longbow_pharoahscurse",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_dmr_season02_event02_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/rspn101_dmr/w_rspn101_dmr_legendary_05.rmdl",
+		"viewModel": "mdl/Weapons/rspn101_dmr/ptpov_rspn101_dmr_legendary_05.rmdl",
+		"skinName": "base",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

@@ -1,0 +1,35 @@
+seqs:
+[
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_boxing_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_boxing_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_kunaithrow_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_kunaithrow_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_kunaitwirl_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_kunaitwirl_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose1_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose1_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose2_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose2_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose3_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose3_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose4_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose4_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose5_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_animated_pose5_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_01_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_02_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_03_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_04_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_05_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_06_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_07_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_08_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_09_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_11_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_12_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_13_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_14_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_15_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_common_pose_16_light.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_gladcard_static_shoulder_light.rseq
+]

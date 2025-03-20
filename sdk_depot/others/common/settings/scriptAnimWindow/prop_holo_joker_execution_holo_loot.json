@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_holo_joker_execution_holo_loot.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "COPY_PARENT",
+		"modelName": "",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_holo/mp_pt_holo_joker_execution_holo_loot.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+		],
+		"syncCycle": false
+	}
+}

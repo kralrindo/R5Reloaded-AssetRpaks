@@ -1,0 +1,9 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\wingman_elite\w_wingman_elite\attack_seq.rseq
+	animseq\weapons\wingman_elite\w_wingman_elite\idle_seq.rseq
+	animseq\weapons\wingman_elite\w_wingman_elite\mp_pt_holo_joker_execution_hologram_w_wingman_elite.rseq
+]

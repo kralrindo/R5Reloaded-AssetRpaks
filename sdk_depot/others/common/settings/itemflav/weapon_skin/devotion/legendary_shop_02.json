@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 556762570,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/devotion/legendary_shop_02.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_devotion_legendary_shop_02_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_devotion_BunnyHopper",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_devotion_legendary_shop_02",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/hemlock_br/w_hemlock_br_legendary_01.rmdl",
+		"viewModel": "mdl/Weapons/hemlock_br/ptpov_hemlock_br_legendary_01.rmdl",
+		"skinName": "lucky rabbit recolor",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

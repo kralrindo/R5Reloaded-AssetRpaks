@@ -1,0 +1,32 @@
+seqs:
+[
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_onehanded_seq_air.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_onehanded_seq_slide.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_onehanded_seq_wallrun.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_seq_air.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\idle_seq_crouch.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\inspect.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_onehanded_01.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_onehanded_02.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_onehanded_03.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_onehanded_04.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_twohanded_01.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_twohanded_02.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_twohanded_03.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\pullout_transition_twohanded_04.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\regrip_1_2.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\regrip_2_1.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\regrip_crouch_1.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\regrip_crouch_2.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\run_layer_wall.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\run_layer_wall.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\switch_to_jump.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\switch_to_jump_onehanded.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\switch_to_jump_onehanded_wallrun.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\switch_to_land.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\switch_to_land_onehanded.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_prep_pullout_seq.rseq
+]

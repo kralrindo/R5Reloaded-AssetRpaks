@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 458605042,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/kraber/season02_event02_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_176",
+		"localizationKey_NAME_SHORT": "#SKIN_176",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_kraber_thepioneer",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_kraber_season02_event02_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/at_rifle/w_at_rifle_raygun.rmdl",
+		"viewModel": "mdl/Weapons/at_rifle/ptpov_at_rifle_raygun.rmdl",
+		"skinName": "season02_event02_legendary_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

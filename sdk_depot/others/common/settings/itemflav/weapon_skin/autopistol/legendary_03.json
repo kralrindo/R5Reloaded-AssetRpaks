@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 115060866,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/autopistol/legendary_03.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_autopistol_legendary_03_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_re45_freezingpoint",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_autopistol_legendary_03",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/p2011_auto/w_p2011_auto_legendary_03.rmdl",
+		"viewModel": "mdl/Weapons/p2011_auto/ptpov_p2011_auto_legendary_03.rmdl",
+		"skinName": "Jungmoney",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

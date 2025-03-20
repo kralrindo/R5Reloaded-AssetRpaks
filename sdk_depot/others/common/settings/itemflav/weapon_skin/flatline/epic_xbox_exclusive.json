@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 398087086,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/flatline/epic_xbox_exclusive.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_XBOX_EXCLUSIVE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_flatline_xbox_exclusive",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/vinson/w_vinson.rmdl",
+		"viewModel": "mdl/weapons/vinson/ptpov_vinson.rmdl",
+		"skinName": "green fade",
+		"unlockFuncKey": "ea_access_on_xbox",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_ea_access.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": true,
+		"featureReactsToKills": false
+	}
+}

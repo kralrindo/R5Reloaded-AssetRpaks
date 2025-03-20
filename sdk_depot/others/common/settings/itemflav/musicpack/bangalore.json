@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 1734470084,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/bangalore.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_bangalore_NAME",
+		"localizationKey_NAME_SHORT": "#character_bangalore_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_bangalore",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Bangalore",
+		"musicMainMenuToLobby": "mainmenu_music_Bangalore",
+		"musicLobby": "Music_Lobby_Bangalore",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Bangalore",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Bangalore",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Bangalore",
+		"musicSkydive": "Music_Jump_Bangalore",
+		"musicWin": "Music_EndGame_Win_Bangalore",
+		"musicLoss": "Music_EndGame_Loss_Bangalore",
+		"character": "settings/itemflav/character/bangalore.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

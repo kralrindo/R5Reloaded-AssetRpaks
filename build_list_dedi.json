@@ -1,0 +1,44 @@
+ 
+
+{
+    "version": 8,
+    "keepDevOnly": false,
+    "keepClientOnly": false,
+
+    "outputDir": "./build/",
+
+    "compressLevel": 6,
+    "compressWorkers": 16,
+
+    "paks": [
+        "sdk_depot/common_sdk.json",
+        "map_depot/mp_lobby.json",
+        "map_depot/mp_rr_canyonlands_staging.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
+        "map_depot/mp_rr_desertlands_holiday.json",
+        "map_depot/mp_rr_desertlands_mu1.json",
+        "map_depot/mp_rr_desertlands_mu1_tt.json",
+        "map_depot/mp_rr_arena_phase_runner.json",
+        "map_depot/mp_rr_aqueduct.json",
+        "map_depot/mp_rr_party_crasher.json",
+        "map_depot/mp_rr_olympus.json",
+
+        "sdk_depot/others/common.json",
+        "sdk_depot/others/common_mp.json",
+
+        "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
+        "sdk_depot/others/mp_rr_canyonlands_mu1.json",
+        "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",
+        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json"
+        /*,
+        "map_depot/mp_rr_canyonlands_mu2_tt.json",
+        "map_depot/mp_rr_canyonlands_mu2_mv.json",
+        "map_depot/mp_rr_canyonlands_mu2_ufo.json",
+        "map_depot/mp_rr_canyonlands_mu2.json",
+        "map_depot/mp_rr_desertlands_mu2.json",
+        "map_depot/mp_rr_olympus_tt.json"*/
+
+    ]
+}

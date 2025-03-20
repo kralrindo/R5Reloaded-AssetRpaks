@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 945044327,
+	"settings": {
+		"assetName": "settings/itemflav/ability/octance_tac_stim.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_OCTANE_STIM",
+		"localizationKey_NAME_SHORT": "#WPN_OCTANE_STIM",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_OCTANE_STIM_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_OCTANE_STIM_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_octane",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_heal",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

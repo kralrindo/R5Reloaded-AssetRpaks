@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1460518195,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/autopistol/shop_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_autopistol_shop_legendary_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_re45_payback",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_autopistol_shop_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/p2011_auto/w_p2011_auto_legendary_03.rmdl",
+		"viewModel": "mdl/Weapons/p2011_auto/ptpov_p2011_auto_legendary_03.rmdl",
+		"skinName": "shop_legendary_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

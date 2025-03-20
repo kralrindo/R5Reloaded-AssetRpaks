@@ -1,0 +1,122 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1994561734,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week09_01.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 9,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_wetlands].dooms",
+				"zoneName": "#MAPZONE_WETLANDS",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_hydrodam].dooms",
+				"zoneName": "#MAPZONE_HYDRO_DAM",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_runoff].dooms",
+				"zoneName": "#MAPZONE_RUNOFF",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_airbase].dooms",
+				"zoneName": "#MAPZONE_AIRBASE",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_watertreatment].dooms",
+				"zoneName": "#MAPZONE_WATER_TREATMENT",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

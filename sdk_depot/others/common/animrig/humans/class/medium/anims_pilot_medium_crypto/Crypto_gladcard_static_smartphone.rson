@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\ultimate_accelerant\ultimate_accelerant.rmdl
+	mdl\props\death_box\death_box_01_gladcard.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

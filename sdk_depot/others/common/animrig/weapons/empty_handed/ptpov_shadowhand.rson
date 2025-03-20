@@ -1,0 +1,41 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_shadowhand\draw.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\draw_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\draw_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\drawfirst.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\holster.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\holster_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\idle.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\idle_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\idle_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\inspect.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\jump.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\jump_sprinting.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\land.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\lower.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\lower_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\melee_door.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\melee_jump.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\melee_slide.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\melee_sprinting.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\melee_stand_01.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\meleeraise.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\meleeraise_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\raise.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\raise_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\regrip_to_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\regrip_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprint_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprintholster.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprintjump.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprintraise.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprintraise_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\sprintslide.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\switch_to_twohanded.rseq
+	animseq\weapons\empty_handed\ptpov_shadowhand\zipline_mount.rseq
+]

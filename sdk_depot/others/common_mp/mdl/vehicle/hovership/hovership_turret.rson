@@ -1,0 +1,12 @@
+rigs:
+[
+	animrig\vehicle\hovership\hovership_turret.rrig
+]
+seqs:
+[
+	animseq\vehicle\hovership\hovership_turret\attack.rseq
+	animseq\vehicle\hovership\hovership_turret\deploy.rseq
+	animseq\vehicle\hovership\hovership_turret\deploy_idle.rseq
+	animseq\vehicle\hovership\hovership_turret\idle.rseq
+	animseq\vehicle\hovership\hovership_turret\undeploy.rseq
+]

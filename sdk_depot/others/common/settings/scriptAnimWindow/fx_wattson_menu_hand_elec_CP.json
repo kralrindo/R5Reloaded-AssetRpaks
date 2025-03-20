@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wattson_menu_hand_elec_CP.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wat_hand_elec_CP",
+		"attachPoint": "R_HAND",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

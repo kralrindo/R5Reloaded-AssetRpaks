@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\vinson\w_vinson\attack_seq.rseq
+	animseq\weapons\vinson\w_vinson\attack_seq_alt1.rseq
+	animseq\weapons\vinson\w_vinson\attack_seq_alt2.rseq
+	animseq\weapons\vinson\w_vinson\idle_seq.rseq
+]

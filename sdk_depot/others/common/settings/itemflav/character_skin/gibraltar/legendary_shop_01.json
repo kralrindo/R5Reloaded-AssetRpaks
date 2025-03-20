@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1242117461,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/gibraltar/legendary_shop_01.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_skin_gibraltar_legendary_shop_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/character_gibraltar_softpower",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_gibraltar_legendary_shop_01",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/heavy/pilot_heavy_gibraltar_legendary_01.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_heavy_gibraltar_legendary_01.rmdl",
+		"skinName": "glory shop",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

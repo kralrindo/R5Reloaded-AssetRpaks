@@ -1,0 +1,21 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_grx_sentinel_layout.rpak",
+	"uniqueId": 1032139733,
+	"settings": {
+		"assetName": "settings/itemflav/grx_sentinel/s03e01a_20_pack_offer.rpak",
+		"itemType": "grx_sentinel",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "sentinel_s03e01a_20_pack_offer",
+		"ownershipTarget": "",
+		"tags": [
+		]
+	}
+}

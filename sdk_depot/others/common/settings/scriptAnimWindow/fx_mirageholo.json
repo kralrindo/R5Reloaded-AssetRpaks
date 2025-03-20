@@ -1,0 +1,11 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_MirageHoloFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_mirageholo.rpak",
+		"devDescription": "Spawns mirage hologram start effects, body effects and a termination effect as well as enabling the outline. It also alpha fades the model using the fad in/out durations below. Set the attachment to spawn the start/stop effects.",
+		"type": "MirageHoloFX",
+		"attachPoint": "CHESTFOCUS",
+		"fadeInDuration": 0.500000,
+		"fadeOutDuration": 0.500000
+	}
+}

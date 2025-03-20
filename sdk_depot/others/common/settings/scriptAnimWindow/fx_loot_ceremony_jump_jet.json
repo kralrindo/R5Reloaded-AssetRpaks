@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_loot_ceremony_jump_jet.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_loot_tick_jump_jet",
+		"attachPoint": "head_base",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

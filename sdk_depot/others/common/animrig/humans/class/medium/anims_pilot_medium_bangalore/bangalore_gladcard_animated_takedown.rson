@@ -1,0 +1,11 @@
+models:
+[
+	mdl\humans\class\medium\pilot_medium_generic.rmdl
+	mdl\Weapons\p2011\p2011_handgun_ab_01.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

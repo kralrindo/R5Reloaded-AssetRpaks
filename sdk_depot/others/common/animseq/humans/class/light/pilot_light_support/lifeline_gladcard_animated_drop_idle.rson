@@ -1,0 +1,12 @@
+models:
+[
+	mdl\weapons\p2011\w_p2011.rmdl
+	mdl\weapons\p2011\w_p2011.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_lifeline_drone_gladcard_animated_drop_idle.rpak
+]
+effects:
+[
+]

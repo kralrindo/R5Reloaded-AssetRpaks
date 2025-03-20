@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 634305603,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/wraith/shop_legendary_03.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_299",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/character_wraith_finalsunset",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_wraith_shop_legendary_03",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/humans/class/light/pilot_light_wraith_legendary_01.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_light_wraith_legendary_01.rmdl",
+		"skinName": "shop_legendary_03",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

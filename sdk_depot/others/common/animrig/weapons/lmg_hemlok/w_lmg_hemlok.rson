@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\lmg_hemlok\w_lmg_hemlok\attack_seq.rseq
+	animseq\weapons\lmg_hemlok\w_lmg_hemlok\attack_seq_alt1.rseq
+	animseq\weapons\lmg_hemlok\w_lmg_hemlok\attack_seq_alt2.rseq
+	animseq\weapons\lmg_hemlok\w_lmg_hemlok\attack_seq_alt3.rseq
+	animseq\weapons\lmg_hemlok\w_lmg_hemlok\idle_seq.rseq
+]

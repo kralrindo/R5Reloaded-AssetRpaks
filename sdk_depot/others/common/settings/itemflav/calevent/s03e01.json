@@ -1,0 +1,180 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_collection_layout.rpak",
+	"uniqueId": 1883659198,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s03e01.rpak",
+		"itemType": "calevent_collection",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S03E01_TITLE_LONG",
+		"localizationKey_NAME_SHORT": "#S03E01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"revealUnixTimePlaylistVarName": "",
+		"hideUnixTimePlaylistVarName": "",
+		"startUnixTimePlaylistVarName": "s03e01_start_unixtime",
+		"finishUnixTimePlaylistVarName": "s03e01_finish_unixtime",
+		"frontPageRewardBoxTitle": "#S03E01_REWARD_BOX_TITLE",
+		"mainPackFlav": "settings/itemflav/pack/cosmetic_event_s03e01.rpak",
+		"mainPackGrantRewardSeqName": "",
+		"mainPackShortPluralName": "#S03E01_PACKS_SHORT_PLURAL",
+		"mainPackImage": "rui/events/s03e01/pack_image",
+		"heirloomPrimaryItemFlav": "settings/itemflav/melee_skin/lifeline_baton.rpak",
+		"heirloomPackItemFlav": "settings/itemflav/pack/lifeline_heirloom.rpak",
+		"heirloomPackRewardSeqName": "rewardseq_s03e01_lifeline_heirloom",
+		"frontGRXOfferLocation": "s03e01_front",
+		"mainIcon": "rui/events/s03e01/banner_logo",
+		"headerIcon": "rui/events/s03e01/banner_logo",
+		"bgPatternImage": "rui/events/s03e01/bg_texture",
+		"heirloomButtonImage": "rui/events/s03e01/heirloom",
+		"tags": [
+		],
+		"loginRewards": [
+			{
+				"flavor": "settings/itemflav/musicpack/s03e01.rpak"
+			}
+		],
+		"challenges": [
+			{
+				"flavor": "settings/itemflav/challenge/s03e01/ltm_shadowkills_escape.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/s03e01/ltm_kill_lootbin_creatures.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/s03e01/ltm_legendkills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/s03e01/ltm_win_as_both_kinds.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/s03e01/daily_challenges.rpak"
+			}
+		],
+		"rewardGroups": [
+			{
+				"ref": "epic",
+				"quality": "EPIC",
+				"rewards": [
+					{
+						"flavor": "settings/itemflav/weapon_skin/peacekeeper/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_charm/s03e01_jackolantern.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/wattson/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/gcard_stance/crypto/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/flatline/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/lifeline/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/semipistol/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/gcard_stance/gibraltar/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_charm/s03e01_nessyghost.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/dmr/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/spitfire/s03e01_epic_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/eva/s03e01_epic_01.rpak"
+					}
+				]
+			},
+			{
+				"ref": "legendary",
+				"quality": "LEGENDARY",
+				"rewards": [
+					{
+						"flavor": "settings/itemflav/weapon_skin/tripletake/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/crypto/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/mirage/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/energy_ar/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/bloodhound/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/mastiff/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/wingman/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/gibraltar/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/wraith/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/caustic/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/weapon_skin/pdw/s03e01_legendary_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/character_skin/bangalore/s03e01_legendary_01.rpak"
+					}
+				]
+			}
+		],
+		"mainThemeCol": "<1.000000,1.000000,1.000000>",
+		"frontPageBGTintCol": "<0.623529,0.541176,0.458824>",
+		"frontPageTitleCol": "<1.000000,1.000000,1.000000>",
+		"frontPageSubtitleCol": "<1.000000,0.741176,0.513726>",
+		"frontPageTimeRemainingCol": "<1.000000,1.000000,1.000000>",
+		"tabBGDefaultCol": "<0.690196,0.333333,0.066667>",
+		"tabBarDefaultCol": "<0.917647,0.627451,0.101961>",
+		"tabBGFocusedCol": "<0.741176,0.470588,0.066667>",
+		"tabBarFocusedCol": "<0.949020,0.725490,0.309804>",
+		"tabBGSelectedCol": "<0.890196,0.266667,0.082353>",
+		"tabBarSelectedCol": "<0.960784,0.603922,0.121569>",
+		"aboutPageSpecialTextCol": "<1.000000,0.368627,0.368627>",
+		"aboutTextStandard": [
+			{
+				"text": "#S03E01_ABOUT_LINE_1"
+			},
+			{
+				"text": "#S03E01_ABOUT_LINE_2"
+			},
+			{
+				"text": "#S03E01_ABOUT_LINE_3"
+			},
+			{
+				"text": "#S03E01_ABOUT_LINE_4"
+			}
+		],
+		"aboutTextRestricted": [
+			{
+				"text": "#S03E01_ABOUT_RESTRCTIED_LINE_1"
+			},
+			{
+				"text": "#S03E01_ABOUT_RESTRICTED_LINE_2"
+			},
+			{
+				"text": "#S03E01_ABOUT_RESTRICTED_LINE_3"
+			}
+		]
+	}
+}

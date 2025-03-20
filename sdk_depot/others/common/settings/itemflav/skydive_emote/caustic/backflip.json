@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1927454040,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/caustic/backflip.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_caustic_backflip_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_S01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_caustic_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_caustic/pilot_freefall_emote_backflip.rseq",
+		"video": "media/skydive_emotes/caustic_backflip",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

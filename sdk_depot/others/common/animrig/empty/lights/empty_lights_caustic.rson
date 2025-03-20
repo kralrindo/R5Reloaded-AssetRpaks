@@ -1,0 +1,19 @@
+seqs:
+[
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_animated_coffee_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_animated_coffee_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_animated_hunting_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_animated_hunting_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_animated_tanksmash_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_animated_tanksmash_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_actually_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_breaking_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_deadbird_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_deaddrone_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_ear_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_grab_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_operation_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_rawr_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_skull_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic\Caustic_gladcard_static_stabby_light.rseq
+]

@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 892653386,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/mozambique/legendary_04.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_mozambique_legendary_04_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_mozambique_honorguard",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_mozambique_legendary_04",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/pstl_sa3/w_pstl_sa3_legendary_02.rmdl",
+		"viewModel": "mdl/Weapons/pstl_sa3/ptpov_pstl_sa3_legendary_02.rmdl",
+		"skinName": "Gibraltar chinese",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak",
+	"uniqueId": 1625596231,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_frame/octane/season02_event01_epic_01.rpak",
+		"itemType": "gladiator_card_frame",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FRAME_002",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/store/gcard_octane_jumpmasters",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_frame_octane_season02_event01_epic_01",
+		"ownershipTarget": "",
+		"unlockFuncKey": "",
+		"fgImageAsset": "rui/gladiator_cards/frames/octane/season02_event01_epic_01_fg",
+		"bgImageAsset": "rui/gladiator_cards/frames/octane/season02_event01_epic_01_bg",
+		"fgRuiAsset": "",
+		"bgRuiAsset": "",
+		"colorCorrectionRawPath": "materials/correction/gcards/octane/season02_event01_epic_01.raw_hdr",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"fgImageBlend": 1.000000,
+		"fgImagePremul": 0.000000,
+		"keyCol_0": "<0.941177,0.803922,0.482353>",
+		"keyCol_1": "<1.000000,1.000000,1.000000>",
+		"keyCol_2": "<1.000000,1.000000,1.000000>",
+		"exposure": 0.800000,
+		"light0_col": "<0.168627,0.333333,0.317647>",
+		"light0_specintensity": 3.000000,
+		"light1_col": "<0.968628,0.788235,0.368627>",
+		"light1_specintensity": 2.000000,
+		"light2_col": "<0.839216,0.913726,0.913726>",
+		"light2_specintensity": 1.000000,
+		"light3_col": "<0.282353,0.509804,0.423529>",
+		"light3_specintensity": 1.000000,
+		"shouldHideIfLocked": false,
+		"hasOwnRui": false,
+		"isArtFullFrame": true
+	}
+}

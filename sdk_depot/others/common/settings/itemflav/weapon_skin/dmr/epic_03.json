@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 292748931,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/dmr/epic_03.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_CODE_OF_HONOR",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_dmr_epic_03",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/rspn101_dmr/w_rspn101_dmr.rmdl",
+		"viewModel": "mdl/weapons/rspn101_dmr/ptpov_rspn101_dmr.rmdl",
+		"skinName": "green",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

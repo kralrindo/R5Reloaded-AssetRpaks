@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1477362203,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/alternator/season02_event01_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_154",
+		"localizationKey_NAME_SHORT": "#SKIN_154",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_alternator_season02_event01_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/alternator_smg/w_alternator_smg_bf.rmdl",
+		"viewModel": "mdl/Weapons/alternator_smg/ptpov_alternator_smg_bf.rmdl",
+		"skinName": "season02_event01_legendary_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

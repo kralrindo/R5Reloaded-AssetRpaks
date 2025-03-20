@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq_alt1.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq_alt2.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq_alt3.rseq
+	animseq\weapons\shield_battery\w_shield_battery\idle_seq.rseq
+	animseq\weapons\shield_battery\w_shield_battery\mp_pt_firesupport_execution_medium_rspn101_attacker.rseq
+]

@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_wattson_trophy_emote_explorer.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/wattson_trophy_system/wattson_trophy_system_emote.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "PROPGUN",
+		"animSequence": "animseq/wattson_trophy_system/dmx/animation/freefall_machine_wattson_explorer.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+		],
+		"syncCycle": true
+	}
+}

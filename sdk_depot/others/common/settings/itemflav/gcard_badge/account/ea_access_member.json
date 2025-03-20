@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1480441935,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/ea_access_member.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_ea_access_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_ea_access_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_ea_access_member",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.ea_access_member",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/ea_access_member",
+				"ruiAsset": "",
+				"unlocksAt": 1.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

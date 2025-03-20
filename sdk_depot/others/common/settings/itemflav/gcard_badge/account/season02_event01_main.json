@@ -1,0 +1,53 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 144581858,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/season02_event01_main.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_account_season02_event01_main_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_account_season02_event01_main_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.season02_event01_top5s_badge",
+		"dynamicTextStatRef": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/iron_crown_badge_challenge_tier1",
+				"ruiAsset": "",
+				"unlocksAt": 1.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/iron_crown_badge_challenge_tier2",
+				"ruiAsset": "",
+				"unlocksAt": 2.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/iron_crown_badge_challenge_tier3",
+				"ruiAsset": "",
+				"unlocksAt": 3.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/iron_crown_badge_challenge_tier4",
+				"ruiAsset": "",
+				"unlocksAt": 4.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

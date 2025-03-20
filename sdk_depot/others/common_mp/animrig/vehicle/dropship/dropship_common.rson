@@ -1,0 +1,20 @@
+seqs:
+[
+	animseq\vehicle\dropship\dropship_common\cd_dropship_rescue_idle.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_classic_mp_flyin.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_classic_mp_flyin_idle.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_closed_idle_alt.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_flyer_attack_vertical_successful.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_VTOL_evac_end.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_VTOL_evac_end_nodoors.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_VTOL_evac_idle.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_VTOL_evac_idle_no_motion.rseq
+	animseq\vehicle\dropship\dropship_common\dropship_VTOL_evac_start.rseq
+	animseq\vehicle\dropship\dropship_common\gd_goblin_zipline_dive.rseq
+	animseq\vehicle\dropship\dropship_common\gd_goblin_zipline_strafe.rseq
+	animseq\vehicle\dropship\dropship_common\gd_goblin_zipline_strafe_loop.rseq
+	animseq\vehicle\dropship\dropship_common\idle.rseq
+	animseq\vehicle\dropship\dropship_common\s2s_rampdown_idle.rseq
+	animseq\vehicle\dropship\dropship_common\test_fly_idle.rseq
+	animseq\vehicle\dropship\dropship_common\test_fly_idle_act.rseq
+]

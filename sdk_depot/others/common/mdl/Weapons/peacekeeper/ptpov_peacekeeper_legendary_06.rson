@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\peacekeeper\ptpov_peacekeeper.rrig
+	animrig\weapons\peacekeeper\ptpov_peacekeeper_ice.rrig
+]
+seqs:
+[
+]

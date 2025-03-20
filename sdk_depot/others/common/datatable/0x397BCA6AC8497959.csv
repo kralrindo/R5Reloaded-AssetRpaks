@@ -1,0 +1,8 @@
+"seasonTag","tallImage","squareImage","tallFrameOverlay","squareFrameOverlay","topImage","specialPageHeaderImage","specialPageHeaderTitle"
+"default","rui/menu/store/feature_background_tall","rui/menu/store/feature_background_square","","","rui/menu/store/feature_header","",""
+"valentines","rui/menu/store/feature_background_tall","rui/menu/store/feature_background_square","rui/menu/store/promo_holiday_valentines","","rui/menu/store/feature_header","",""
+"legendary_hunt","rui/menu/store/legendary_hunt_bg_tall","rui/menu/store/legendary_hunt_bg_square","rui/menu/store/legendary_hunt_fg_tall","","rui/menu/store/feature_header","",""
+"discount","rui/menu/store/feature_background_tall","rui/menu/store/feature_background_square","rui/menu/store/promo_discount","rui/menu/store/promo_discount_square","rui/menu/store/feature_header","",""
+"season02_event01","rui/events/season02_event01/regular_store_bg_tall","rui/menu/store/feature_background_square","","","rui/menu/store/feature_header","",""
+"s03e01a","rui/menu/store/feature_background_tall","rui/menu/store/feature_background_square","rui/events/s03e01a/store_button_fg_tag_tall","rui/events/s03e01a/store_button_fg_tag_square","rui/menu/store/feature_header","rui/events/s03e01a/store_header_bg","#S03E01A_STORE_TITLE"
+"string","asset_noprecache","asset_noprecache","asset_noprecache","asset_noprecache","asset_noprecache","asset_noprecache","string"

@@ -1,0 +1,827 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_layout.rpak",
+	"uniqueId": 784324919,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass/season02.rpak",
+		"itemType": "battlepass",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S02_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S02_STRING",
+		"localizationKey_DESCRIPTION_LONG": "#BP_S02_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_S02_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "battlepass_season02",
+		"ownershipTarget": "",
+		"basicPurchasePack": "settings/itemflav/pack/battle_pass_season02_basic.rpak",
+		"bundlePurchasePack": "settings/itemflav/pack/battle_pass_season02_bundle.rpak",
+		"xpPurchaseFlav": "settings/itemflav/battlepass_purchased_xp/season02_single_level.rpak",
+		"xpBoostFlav": "settings/itemflav/xp_boost/battlepass_season02.rpak",
+		"challengeRerollFlav": "",
+		"rewardScheduleDatatable": "datatable/progression/battlepass_season02_schedule.rpak",
+		"featureTitle": "#BP_S02_FEATURE_TITLE",
+		"largeLogo": "rui/menu/battlepass/season_2_icon_large",
+		"smallLogo": "rui/menu/battlepass/season_2_icon_small",
+		"xSmallLogo": "rui/menu/battlepass/season_2_icon_xsmall",
+		"bannerImage": "rui/menu/battlepass/season_banner_02",
+		"progressBadge": "settings/itemflav/gcard_badge/account/season02_bplevel.rpak",
+		"rewardsVideo": "",
+		"levelUpSound": "UI_Menu_BattlePass_LevelUp_Season2",
+		"tags": [
+		],
+		"bulletTextStandard": [
+			{
+				"text": "#BP_S02_FEATURE_1"
+			},
+			{
+				"text": "#BP_S02_FEATURE_2"
+			},
+			{
+				"text": "#BP_S02_FEATURE_3"
+			},
+			{
+				"text": "#BP_S02_FEATURE_4"
+			},
+			{
+				"text": "#BP_S02_FEATURE_5"
+			},
+			{
+				"text": "#BP_S02_FEATURE_6"
+			},
+			{
+				"text": "#BP_S02_FEATURE_7"
+			},
+			{
+				"text": "#BP_S02_FEATURE_8"
+			},
+			{
+				"text": "#BP_S02_FEATURE_9"
+			},
+			{
+				"text": "#BP_S02_FEATURE_10"
+			},
+			{
+				"text": "#BP_S02_FEATURE_11"
+			},
+			{
+				"text": "#BP_S02_FEATURE_12"
+			},
+			{
+				"text": "#BP_S02_FEATURE_13"
+			},
+			{
+				"text": "#BP_S02_FEATURE_14"
+			},
+			{
+				"text": "#BP_S02_FEATURE_15"
+			},
+			{
+				"text": "#BP_S02_FEATURE_16"
+			}
+		],
+		"bulletTextRestricted": [
+			{
+				"text": "#BP_S02_FEATURE_1"
+			},
+			{
+				"text": "#BP_S02_FEATURE_RESTRICTED"
+			},
+			{
+				"text": "#BP_S02_FEATURE_3"
+			},
+			{
+				"text": "#BP_S02_FEATURE_4"
+			},
+			{
+				"text": "#BP_S02_FEATURE_5"
+			},
+			{
+				"text": "#BP_S02_FEATURE_6"
+			},
+			{
+				"text": "#BP_S02_FEATURE_7"
+			},
+			{
+				"text": "#BP_S02_FEATURE_11"
+			},
+			{
+				"text": "#BP_S02_FEATURE_12"
+			},
+			{
+				"text": "#BP_S02_FEATURE_13"
+			},
+			{
+				"text": "#BP_S02_FEATURE_14"
+			},
+			{
+				"text": "#BP_S02_FEATURE_15"
+			},
+			{
+				"text": "#BP_S02_FEATURE_16"
+			}
+		],
+		"dailyChallenges": [
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_executions.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_airdrops_looted.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_knockdowns.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_damage_done.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_airdrops_looted.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_bangalore.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_bloodhound.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_caustic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_gibraltar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_lifeline.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_mirage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_octane.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_pathfinder.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_wattson.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_damage_done_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_bangalore.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_bloodhound.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_caustic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_gibraltar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_lifeline.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_mirage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_octane.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_pathfinder.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_wattson.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_kills_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_bangalore.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_bloodhound.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_caustic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_gibraltar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_lifeline.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_mirage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_octane.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_pathfinder.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_wattson.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_games_played_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_bangalore.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_bloodhound.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_caustic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_gibraltar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_lifeline.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_mirage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_octane.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_pathfinder.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_wattson.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_headshots_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_bangalore.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_bloodhound.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_caustic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_gibraltar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_lifeline.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_mirage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_octane.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_pathfinder.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_wattson.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_top_3_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_bangalore.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_bloodhound.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_caustic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_gibraltar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_lifeline.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_mirage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_octane.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_pathfinder.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_wattson.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_knockdowns_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_bloodhound_enemies_scanned.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_bloodhound_beast_hunt_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_gibraltar_dome_damage_blocked.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_gibraltar_shield_damage_blocked.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_pathfinder_zipline_use.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_pathfinder_beacons_scanned.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_wraith_squadmates_phased.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_bangalore_creeping_barrage_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_mirage_bamboozles.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_mirage_decoys_created.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_octane_jump_pad_allies_launched.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_octane_passive_health_regenerated.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_ar_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_ar_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_ar_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_ar_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_crate_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_lmg_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_pistol_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_shotgun_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_smg_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_single_game_sniper_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_shotgun_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_shotgun_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_shotgun_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_smg_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_smg_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_smg_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_lmg_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_lmg_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_lmg_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_lifeline_drone_healing.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_lifeline_droppod_items.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_caustic_gas_damage_dealt.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_caustic_gassed_enemies_killed.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_caustic_traps_activated.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_crate_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_crate_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_sniper_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_sniper_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_sniper_kills.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_pistol_damage.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_pistol_headshots.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/daily_pistol_kills.rpak"
+			}
+		],
+		"weeklyRecurringChallenges": [
+			{
+				"flavor": "settings/itemflav/challenge/season_2_recurring_1.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/season_2_recurring_2.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/challenge/season_2_recurring_3.rpak"
+			}
+		],
+		"weeklyChallenges": [
+			{
+				"weekNumber": 1,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week01_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 2,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week02_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 3,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week03_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 4,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week04_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 5,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week05_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 6,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week06_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 7,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week07_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 8,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week08_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 9,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week09_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 10,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week10_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 11,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week11_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 12,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week12_07.rpak"
+					}
+				]
+			},
+			{
+				"weekNumber": 13,
+				"challenges": [
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_01.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_02.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_03.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_04.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_05.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_06.rpak"
+					},
+					{
+						"flavor": "settings/itemflav/challenge/weekly_season02_week13_07.rpak"
+					}
+				]
+			}
+		]
+	}
+}

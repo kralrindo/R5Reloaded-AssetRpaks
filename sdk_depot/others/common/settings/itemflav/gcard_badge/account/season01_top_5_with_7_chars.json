@@ -1,0 +1,58 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 534836647,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/season01_top_5_with_7_chars.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_account_season01_top_5_with_7_chars_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_account_season01_top_5_with_7_chars_DESCRIPTION_SHORT",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.seasons[SAID01769158912].placements_top_5_with_7_characters",
+		"dynamicTextStatRef": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season01.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/baller",
+				"ruiAsset": "ui/badge_wild_frontier_top_squads.rpak",
+				"unlocksAt": 1.000000
+			},
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_wild_frontier_top_squads.rpak",
+				"unlocksAt": 5.000000
+			},
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_wild_frontier_top_squads.rpak",
+				"unlocksAt": 10.000000
+			},
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_wild_frontier_top_squads.rpak",
+				"unlocksAt": 25.000000
+			},
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_wild_frontier_top_squads.rpak",
+				"unlocksAt": 50.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

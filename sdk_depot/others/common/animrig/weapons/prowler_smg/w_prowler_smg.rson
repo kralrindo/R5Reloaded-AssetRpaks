@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\prowler_smg\w_prowler_smg\attack_seq.rseq
+	animseq\weapons\prowler_smg\w_prowler_smg\idle_seq.rseq
+]

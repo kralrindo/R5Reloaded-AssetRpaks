@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1160988819,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/chargerifle/s03bp_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_252",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_weapon_chargerifle",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_chargerifle_s03bp_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/defender/w_defender.rmdl",
+		"viewModel": "mdl/weapons/defender/ptpov_defender.rmdl",
+		"skinName": "common/rare mask",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"camoIndex": 187,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

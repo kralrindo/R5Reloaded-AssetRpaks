@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 458905669,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/season02_event01.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MUSICPACK_001",
+		"localizationKey_NAME_SHORT": "#MUSICPACK_001",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_season02_event01",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Event2",
+		"musicMainMenuToLobby": "mainmenu_music_Event2",
+		"musicLobby": "Music_Lobby_Event2",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect_Event2",
+		"musicCharacterSelect": "Music_CharacterSelect_Event2",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Event2_Solo",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Event2_Duos",
+		"musicSkydive": "Music_Jump_Event2",
+		"musicWin": "Music_EndGame_Win_Event2",
+		"musicLoss": "Music_EndGame_Loss_Event2",
+		"character": "",
+		"portraitImage": "rui/events/season02_event01/musicpack_portrait",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": false
+	}
+}

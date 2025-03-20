@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 2111708371,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season03_week08_04.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 8,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_DAILY_GAMES_PLAYED_AS_ANY4",
+				"character": "settings/itemflav/character/pathfinder.rpak",
+				"character2": "settings/itemflav/character/bloodhound.rpak",
+				"character3": "settings/itemflav/character/gibraltar.rpak",
+				"character4": "settings/itemflav/character/octane.rpak",
+				"weapon": "",
+				"statRef": "stats.characters[%char%].games_played",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 15,
+				"xpReward": 6000,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

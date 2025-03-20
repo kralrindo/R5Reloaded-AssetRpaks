@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 148985162,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/rank_predator.rpak",
+		"itemType": "weapon_charm",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#RANKED_REWARD_SERIES_ONE_APEX_WEAPON_CHARM",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_rankedperiod01_apex",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_rank_predator.rmdl",
+		"attachmentName": "CHARM",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

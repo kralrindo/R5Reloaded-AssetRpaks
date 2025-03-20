@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\wattson_trophy_system\ptpov_wattson_trophy_system_held\draw.rseq
+	animseq\weapons\wattson_trophy_system\ptpov_wattson_trophy_system_held\fire.rseq
+	animseq\weapons\wattson_trophy_system\ptpov_wattson_trophy_system_held\holster.rseq
+	animseq\weapons\wattson_trophy_system\ptpov_wattson_trophy_system_held\idle.rseq
+	animseq\weapons\wattson_trophy_system\ptpov_wattson_trophy_system_held\lower.rseq
+	animseq\weapons\wattson_trophy_system\ptpov_wattson_trophy_system_held\raise.rseq
+]

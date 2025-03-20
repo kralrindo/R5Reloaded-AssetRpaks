@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 395759245,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/g7/beasthunter_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_90",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_g7",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_g7_event01_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/g2/w_g2a4.rmdl",
+		"viewModel": "mdl/weapons/g2/ptpov_g2a4.rmdl",
+		"skinName": "beasthunter_rare_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_beasthunter_event.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

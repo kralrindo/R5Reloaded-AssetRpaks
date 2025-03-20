@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 976376450,
+	"settings": {
+		"assetName": "settings/itemflav/ability/bloodhound_ult_hunt_mode.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_HUNT_MODE",
+		"localizationKey_NAME_SHORT": "#WPN_HUNT_MODE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_HUNT_MODE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_HUNT_MODE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_bloodhound",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_hunt_mode",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

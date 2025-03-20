@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 895271975,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/hemlok/psplus03_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_134",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "weapon_skin_eva_season01_rare_a",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/m1a1_hemlok/w_hemlok.rmdl",
+		"viewModel": "mdl/weapons/m1a1_hemlok/ptpov_hemlok.rmdl",
+		"skinName": "common/rare mask",
+		"unlockFuncKey": "psplus03",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_playstation_plus.rpak"
+			}
+		],
+		"camoIndex": 180,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": true,
+		"featureReactsToKills": false
+	}
+}

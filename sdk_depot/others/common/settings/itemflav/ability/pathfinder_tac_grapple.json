@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 457337926,
+	"settings": {
+		"assetName": "settings/itemflav/ability/pathfinder_tac_grapple.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_GRAPPLE",
+		"localizationKey_NAME_SHORT": "#WPN_GRAPPLE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_GRAPPLE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_GRAPPLE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_pathfinder",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_grapple",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

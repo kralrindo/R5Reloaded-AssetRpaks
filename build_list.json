@@ -3,6 +3,7 @@
 {
     "version": 8,
     "keepDevOnly": true,
+    "keepClientOnly": false,
 
     "outputDir": "./build/",
 
@@ -18,6 +19,7 @@
         "map_depot/mp_lobby.json",
         "map_depot/mp_rr_canyonlands_staging.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
         "map_depot/mp_rr_desertlands_holiday.json",
         "map_depot/mp_rr_desertlands_mu1.json",
@@ -29,7 +31,7 @@
         //"map_depot/mp_rr_canyonlands_mu2_mv.json",
         //"map_depot/mp_rr_canyonlands_mu2_ufo.json",
         //"map_depot/mp_rr_canyonlands_mu2.json",
-        //"map_depot/mp_rr_desertlands_mu2.json",
+        //"map_depot/mp_rr_desertlands_mu2.json",*/
         "map_depot/mp_rr_olympus.json"//,
         //"map_depot/mp_rr_olympus_tt.json"*/
 

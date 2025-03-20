@@ -1,0 +1,81 @@
+{
+	"layoutAsset": "settings_layout/settings_itemflavorlist_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflavlist/grx/packs.rpak",
+		"devDescription": "PLEASE DESCRIBE",
+		"list": [
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_rare.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_epic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_legendary.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/battle_pass_season1_basic.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/battle_pass_season1_bundle.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_event_season02_event01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/bloodhound_heirloom.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_event_season02_event02_wraith.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_mirage_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_wattson_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_bloodhound_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_weapon_skin_g7_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_weapon_skin_alternator_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_weapon_skin_autopistol_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_pathfinder_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_weapon_skin_r97_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_wraith_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_lifeline_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_weapon_skin_peacekeeper_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/hardcoded_character_skin_gibraltar_season02_event01_legendary_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_event_s03e01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/lifeline_heirloom.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/cosmetic_event_s03e02.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/pack/pathfinder_heirloom.rpak"
+			}
+		]
+	}
+}

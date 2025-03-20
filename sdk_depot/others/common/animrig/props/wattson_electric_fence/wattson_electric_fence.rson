@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\props\wattson_electric_fence\wattson_electric_fence\electric_fence_gladcard_animated_electricfence.rseq
+	animseq\props\wattson_electric_fence\wattson_electric_fence\mp_pt_wattson_base_execution_electric_fence_01.rseq
+	animseq\props\wattson_electric_fence\wattson_electric_fence\mp_pt_wattson_base_execution_electric_fence_02.rseq
+	animseq\wattson_electric_fence\dmx\animation\prop_fence_blend.rseq
+	animseq\wattson_electric_fence\dmx\animation\prop_fence_close.rseq
+	animseq\wattson_electric_fence\dmx\animation\prop_fence_expand.rseq
+	animseq\wattson_electric_fence\dmx\animation\prop_fence_idle.rseq
+	animseq\wattson_electric_fence\dmx\animation\prop_fence_scale.rseq
+]

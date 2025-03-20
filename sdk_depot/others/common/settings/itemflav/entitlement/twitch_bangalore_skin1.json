@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1033952157,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_bangalore_skin1.rpak",
+		"itemType": "entitlement",
+		"devDescription": "Twitch Prime Bangalore Skin Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_bangalore_skin1",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"pc_offer": "",
+		"xb1_offer": "",
+		"tags": [
+		],
+		"list": [
+			{
+				"flavor": "settings/itemflav/character_skin/bangalore/twitch02_rare_01.rpak"
+			}
+		]
+	}
+}

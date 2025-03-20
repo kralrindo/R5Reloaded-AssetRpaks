@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\remote_gladcard_static_puzzle_cube.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote_menu\remote_gladcard_animated_puzzle.rseq
+]

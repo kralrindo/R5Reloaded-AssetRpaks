@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\g2\w_g2a4\mp_weapon_g7_bangalore_menu_ready_up.rseq
+	animseq\weapons\g2\w_g2a4\mp_weapon_g7_bangalore_menu_ready_up_idle.rseq
+	animseq\weapons\g2\w_g2a4\mp_weapon_g7_bangalore_menu_select.rseq
+	animseq\weapons\g2\w_g2a4\mp_weapon_g7_bangalore_menu_select_idle.rseq
+]

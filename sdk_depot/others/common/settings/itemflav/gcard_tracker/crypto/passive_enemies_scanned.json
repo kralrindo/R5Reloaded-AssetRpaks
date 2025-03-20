@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 904232207,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/crypto/passive_enemies_scanned.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_crypto_passive_enemies_scanned_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_crypto_passive_enemies_scanned_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_crypto_passive_enemies_scanned",
+		"ownershipTarget": "",
+		"statRef": "stats.crypto_passive_enemies_scanned",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,11 @@
+models:
+[
+	mdl\weapons\combat_knife\w_combat_knife.rmdl
+	mdl\creatures\bird\bird.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

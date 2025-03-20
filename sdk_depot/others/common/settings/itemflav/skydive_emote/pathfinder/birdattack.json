@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 510961657,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/pathfinder/birdattack.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_pathfinder_birdattack_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_S01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_birdattack",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_pathfinder_birdattack",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_pathfinder/pilot_freefall_emote_birdattack.rseq",
+		"video": "media/skydive_emotes/pathfinder_birdattack",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

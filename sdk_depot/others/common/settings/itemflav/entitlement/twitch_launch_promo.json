@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1506428457,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_launch_promo.rpak",
+		"itemType": "entitlement",
+		"devDescription": "Twitch Launch Promo Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_launch_promo",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"pc_offer": "",
+		"xb1_offer": "",
+		"tags": [
+		],
+		"list": [
+			{
+				"flavor": "settings/itemflav/character_skin/pathfinder/legendary_omega.rpak"
+			}
+		]
+	}
+}

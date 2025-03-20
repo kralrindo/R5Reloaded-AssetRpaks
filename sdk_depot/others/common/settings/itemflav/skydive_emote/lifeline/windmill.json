@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 672493522,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/lifeline/windmill.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_lifeline_windmill_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_S01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_windmill",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_lifeline_windmill",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/light/pilot_light_support/lifeline_freefall_emote_windmill.rseq",
+		"video": "media/skydive_emotes/lifeline_windmill",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_xp_boost_layout.rpak",
+	"uniqueId": 1542300671,
+	"settings": {
+		"assetName": "settings/itemflav/xp_boost/battlepass_season03.rpak",
+		"itemType": "xp_boost",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S03_XP_BOOST_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S03_XP_BOOST_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#BP_S03_XP_BOOST_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_S03_XP_BOOST_DESC",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "CONSUMABLE",
+		"grxMode": "CONSUMABLE",
+		"grxRef": "xp_boost_battlepass_season03",
+		"ownershipTarget": "",
+		"tags": [
+		]
+	}
+}

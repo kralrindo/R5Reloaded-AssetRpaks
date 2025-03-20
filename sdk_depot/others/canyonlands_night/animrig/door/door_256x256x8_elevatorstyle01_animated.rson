@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\door\door_256x256x8_elevatorstyle01_animated\close.rseq
+	animseq\door\door_256x256x8_elevatorstyle01_animated\open.rseq
+]

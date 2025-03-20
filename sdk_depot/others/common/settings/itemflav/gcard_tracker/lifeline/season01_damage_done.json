@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1242315235,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/lifeline/season01_damage_done.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_lifeline_season01_damage_done_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_lifeline_season01_damage_done_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_lifeline_season01_damage_done",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01769158912].characters[%char%].damage_done",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/lifeline/wild_frontier_stat_tracker_lifeline",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season01.rpak"
+			}
+		],
+		"color0": "<0.886275,0.270588,0.062745>",
+		"isTheEmpty": false
+	}
+}

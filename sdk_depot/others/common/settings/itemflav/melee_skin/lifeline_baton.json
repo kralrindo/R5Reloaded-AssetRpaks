@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1604275697,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/lifeline_baton.rpak",
+		"itemType": "melee_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_LIFELINE_BATON_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_LIFELINE_BATON_NAME",
+		"quality": "HEIRLOOM",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_lifeline_baton",
+		"ownershipTarget": "",
+		"mainWeaponClassname": "mp_weapon_lifeline_baton_primary",
+		"offhandWeaponClassname": "melee_lifeline_baton",
+		"menuAnimSeq": "animseq/weapons/drumstick/ptpov_baton_lifeline/baton_menu.rseq",
+		"tags": [
+		],
+		"menuMdlRot": "<-50.000000,0.000000,0.000000>"
+	}
+}

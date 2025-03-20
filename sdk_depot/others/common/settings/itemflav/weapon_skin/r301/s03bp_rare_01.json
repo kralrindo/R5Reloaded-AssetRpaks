@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1019819040,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/r301/s03bp_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_238",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_r301",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_r301_s03bp_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/rspn101/w_rspn101.rmdl",
+		"viewModel": "mdl/weapons/rspn101/ptpov_rspn101.rmdl",
+		"skinName": "common/rare mask",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"camoIndex": 203,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

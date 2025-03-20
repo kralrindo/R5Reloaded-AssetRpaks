@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 700583678,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/treasure_hunter.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_treasure_hunter_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_treasure_hunter_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.looted_all_launch_loot_once",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/loot_seeker",
+				"ruiAsset": "",
+				"unlocksAt": 1.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

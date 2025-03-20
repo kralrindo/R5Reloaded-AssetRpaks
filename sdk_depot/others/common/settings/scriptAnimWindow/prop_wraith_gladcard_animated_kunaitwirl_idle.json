@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_wraith_gladcard_animated_kunaitwirl_idle.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/kunai/kunai.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "R_HAND",
+		"animSequence": "",
+		"scriptCallbackKey": "",
+		"scale": 0.800000,
+		"propBodygroups": [
+		],
+		"syncCycle": false
+	}
+}

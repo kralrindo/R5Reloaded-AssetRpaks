@@ -291,6 +291,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/gcard_frame_template_rare_01.rpak"//SHARED FRAMES TEST
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/tag/source_s03e02.rpak"//HOLO DAY BASH EVENT TAG
     },
     {
@@ -25354,7 +25358,7 @@
         "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerA_jump.rseq",
         "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerC_idle.rseq",
         "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerC_jump.rseq",
-        "0x98b99d030f45bf71",
+        /*"0x98b99d030f45bf71",
         "0x412abf857e3d7831",
         "0xa2d93528c91cb40d",
         "0x91a357bab26514ab",
@@ -25380,7 +25384,7 @@
         "0x198aa84bc6f96b21",
         "0xf4bf561f8de767e",
         "0x1a9763aa01e05cfb",
-        "0x4099c7eecac84252",
+        "0x4099c7eecac84252",*/
         "animseq/humans/pete/ai_grunt_core/pilot_downed_execution_victim.rseq",
         "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple.rseq",
         "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_forced_death.rseq",

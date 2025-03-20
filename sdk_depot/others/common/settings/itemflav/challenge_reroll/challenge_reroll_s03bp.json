@@ -1,0 +1,21 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_reroll_layout.rpak",
+	"uniqueId": 1156357163,
+	"settings": {
+		"assetName": "settings/itemflav/challenge_reroll/challenge_reroll_s03bp.rpak",
+		"itemType": "challenge_reroll",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHALLENGE_REROLL_NAME",
+		"localizationKey_NAME_SHORT": "#CHALLENGE_REROLL_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#CHALLENGE_REROLL_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#CHALLENGE_REROLL_NAME",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "CONSUMABLE",
+		"grxMode": "CONSUMABLE",
+		"grxRef": "challenge_reroll_s03bp",
+		"ownershipTarget": "",
+		"tags": [
+		]
+	}
+}

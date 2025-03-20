@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1301787257,
+	"settings": {
+		"assetName": "settings/itemflav/ability/gibraltar_tac_gibraltar_tac_bunker.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_BUBBLE_BUNKER",
+		"localizationKey_NAME_SHORT": "#WPN_BUBBLE_BUNKER",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_BUBBLE_BUNKER_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_BUBBLE_BUNKER_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_gibraltar",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_bubble_bunker",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

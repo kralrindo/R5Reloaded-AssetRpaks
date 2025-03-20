@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_bloodhound_raven_lobby_center_readyup.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "SCRIPT_KEY",
+		"modelName": "",
+		"modelScriptKey": "bloodhound_raven",
+		"attachPoint": "REF",
+		"animSequence": "animseq/creatures/bird/bird/bloodhound_raven_menu_lobby_center_readyup.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+		],
+		"syncCycle": true
+	}
+}

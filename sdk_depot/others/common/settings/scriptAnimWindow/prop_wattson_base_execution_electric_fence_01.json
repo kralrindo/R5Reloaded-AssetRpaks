@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_wattson_base_execution_electric_fence_01.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/wattson_electric_fence/wattson_electric_fence.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/wattson_electric_fence/wattson_electric_fence/mp_pt_wattson_base_execution_electric_fence_01.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+		],
+		"syncCycle": true
+	}
+}

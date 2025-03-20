@@ -1,0 +1,9 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\combat_knife\w_combat_knife\idle_seq.rseq
+	animseq\weapons\combat_knife\w_combat_knife\mp_pt_tracker_execution_knife_attacker.rseq
+	animseq\weapons\combat_knife\w_combat_knife\mp_pt_tracker_respect_execution_knife_attacker.rseq
+]

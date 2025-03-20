@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 937384552,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/clownhead.rpak",
+		"itemType": "weapon_charm",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_charm_s03e01_clownhead_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_s03e01_clownhead",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_clown.rmdl",
+		"attachmentName": "CHARM",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s03e01.rpak"
+			}
+		],
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1716032158,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/s03e01/ltm_win_as_both_kinds.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "EVENT",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 0,
+		"tiers": [
+			{
+				"description": "#S03E01_CHALLENGE_LTM_WIN_AS_BOTH_KINDS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.s03e01_ltm_win_as_both_kinds",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 2,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+					{
+						"flavor": "settings/itemflav/weapon_skin/devotion/s03e01_legendary_01.rpak",
+						"quantity": 1
+					}
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

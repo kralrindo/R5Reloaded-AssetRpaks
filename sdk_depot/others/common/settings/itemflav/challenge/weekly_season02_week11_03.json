@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 100386570,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week11_03.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 11,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_KNOCKDOWNS_ANY3_CHARACTERS",
+				"character": "settings/itemflav/character/gibraltar.rpak",
+				"character2": "settings/itemflav/character/lifeline.rpak",
+				"character3": "settings/itemflav/character/octane.rpak",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.characters[%char%].dooms",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 20,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

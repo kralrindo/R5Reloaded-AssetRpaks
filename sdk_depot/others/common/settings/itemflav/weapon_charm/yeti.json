@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 985605729,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/yeti.rpak",
+		"itemType": "weapon_charm",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_charm_yeti_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_yeti",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_yeti.rmdl",
+		"attachmentName": "CHARM",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

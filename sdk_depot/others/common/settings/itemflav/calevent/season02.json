@@ -1,0 +1,23 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_season_layout.rpak",
+	"uniqueId": 1774506873,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/season02.rpak",
+		"itemType": "calevent_season",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S02_LONGNAME",
+		"localizationKey_NAME_SHORT": "#BP_S02_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"revealUnixTimePlaylistVarName": "",
+		"hideUnixTimePlaylistVarName": "",
+		"startUnixTimePlaylistVarName": "season02_start_unixtime",
+		"finishUnixTimePlaylistVarName": "season02_finish_unixtime",
+		"battlepassFlav": "settings/itemflav/battlepass/season02.rpak",
+		"tags": [
+		]
+	}
+}

@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\g2\w_g2a4\attack_seq.rseq
+	animseq\weapons\g2\w_g2a4\attack_seq_alt1.rseq
+	animseq\weapons\g2\w_g2a4\attack_seq_alt2.rseq
+	animseq\weapons\g2\w_g2a4\attack_seq_alt3.rseq
+	animseq\weapons\g2\w_g2a4\idle_seq.rseq
+]

@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1091004648,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/autopistol/epic_06.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_BLUE_FADE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "weapon_skin_autopistol_epic_06",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/p2011_auto/w_p2011_auto.rmdl",
+		"viewModel": "mdl/weapons/p2011_auto/ptpov_p2011_auto.rmdl",
+		"skinName": "purple/blue fade",
+		"unlockFuncKey": "starters_pack",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": true,
+		"featureReactsToKills": false
+	}
+}

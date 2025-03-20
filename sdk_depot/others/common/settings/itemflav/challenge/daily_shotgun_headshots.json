@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 969697362,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/daily_shotgun_headshots.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "DAILY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 0,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_SHOTGUN_HEADSHOTS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.weaponcategories[shotgun].headshots",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 5,
+				"xpReward": 3000,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

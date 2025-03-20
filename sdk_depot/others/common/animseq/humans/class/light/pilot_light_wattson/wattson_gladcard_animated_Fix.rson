@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\octane_wrench\octane_wrench_menu_static.rmdl
+	mdl\props\wattson_trophy_system\wattson_trophy_system_gladcard.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

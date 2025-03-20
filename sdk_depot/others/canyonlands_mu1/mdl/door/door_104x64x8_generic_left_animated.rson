@@ -1,0 +1,10 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\door\door_104x64x8_generic_left_animated\close_in.rseq
+	animseq\door\door_104x64x8_generic_left_animated\close_out.rseq
+	animseq\door\door_104x64x8_generic_left_animated\open_in.rseq
+	animseq\door\door_104x64x8_generic_left_animated\open_out.rseq
+]

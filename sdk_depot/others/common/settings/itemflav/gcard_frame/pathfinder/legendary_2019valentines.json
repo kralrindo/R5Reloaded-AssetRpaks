@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak",
+	"uniqueId": 1076749339,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_frame/pathfinder/legendary_2019valentines.rpak",
+		"itemType": "gladiator_card_frame",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_frame_pathfinder_legendary_valentines_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_frame_pathfinder_legendary_2019valentines",
+		"ownershipTarget": "",
+		"unlockFuncKey": "",
+		"fgImageAsset": "",
+		"bgImageAsset": "rui/gladiator_cards/frames/temp",
+		"fgRuiAsset": "ui/gcard_frame_pathfinder_legendary_2019valentines_fg.rpak",
+		"bgRuiAsset": "ui/gcard_frame_pathfinder_legendary_2019valentines_bg.rpak",
+		"colorCorrectionRawPath": "materials/correction/gcards/pathfinder/rare_05.raw_hdr",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_valentines_day.rpak"
+			}
+		],
+		"fgImageBlend": 1.000000,
+		"fgImagePremul": 0.000000,
+		"keyCol_0": "<0.874510,0.447059,0.886275>",
+		"keyCol_1": "<1.000000,1.000000,1.000000>",
+		"keyCol_2": "<1.000000,1.000000,1.000000>",
+		"exposure": 0.700000,
+		"light0_col": "<0.572549,0.145098,0.380392>",
+		"light0_specintensity": 0.000000,
+		"light1_col": "<1.000000,0.000000,0.023529>",
+		"light1_specintensity": 3.000000,
+		"light2_col": "<1.000000,1.000000,1.000000>",
+		"light2_specintensity": 1.000000,
+		"light3_col": "<0.545098,0.678431,0.705882>",
+		"light3_specintensity": 0.000000,
+		"shouldHideIfLocked": true,
+		"hasOwnRui": true,
+		"isArtFullFrame": false
+	}
+}

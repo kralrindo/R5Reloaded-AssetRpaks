@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\robots\marvin\marvin_anims\marvin_Gladcard_static_bighug.rseq
+	animseq\robots\marvin\marvin_anims\marvin_Gladcard_static_stabby.rseq
+	animseq\robots\marvin\marvin_anims\marvin_Gladcard_static_wait.rseq
+	animseq\robots\marvin\marvin_gladcard\marvin_gladcard_static_choking.rseq
+]

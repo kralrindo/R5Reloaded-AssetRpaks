@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1539719283,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/octane/season02_event01_epic_01.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_139",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_octane_season02_event01_epic_01",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/medium/pilot_medium_stim.rmdl",
+		"armsModel": "mdl/weapons/arms/pov_pilot_medium_stim.rmdl",
+		"skinName": "season02_event01_epic_01",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

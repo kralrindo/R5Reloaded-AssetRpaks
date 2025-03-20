@@ -1,0 +1,84 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 2131181260,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week08_02.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 8,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_ZONE_LOOT_BINS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_airbase].loot_bins_opened",
+				"zoneName": "#MAPZONE_AIRBASE",
+				"rewardStatRef": "",
+				"goalVal": 10,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_LOOT_BINS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_thunderdome].loot_bins_opened",
+				"zoneName": "#MAPZONE_THUNDERDOME",
+				"rewardStatRef": "",
+				"goalVal": 10,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_LOOT_BINS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_repulsor].loot_bins_opened",
+				"zoneName": "#MAPZONE_REPULSOR_STATION_SHORT",
+				"rewardStatRef": "",
+				"goalVal": 10,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

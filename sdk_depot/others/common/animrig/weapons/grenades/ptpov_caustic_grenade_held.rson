@@ -1,0 +1,47 @@
+seqs:
+[
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\draw_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\holster_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\holster_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\jump.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\land.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\land_crouch.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\land_high.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\land_low.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\land_med.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\lower_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\lower_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\raise_melee.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\raise_melee_onehanded.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\raise_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\raise_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\regrip_to_crouch.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\regrip_to_crouch_air.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\regrip_to_crouch_air_onehanded.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\regrip_to_crouch_onehanded.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\regrip_to_idle.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\regrip_to_idle_onehanded.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\run_layer_wall.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintdraw_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintholster_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintraise_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintraise_onehanded_seq_jump.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintraise_onehanded_seq_slide.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintraise_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintraise_seq_jump.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\sprintraise_seq_slide.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\switch_to_onehanded.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\switch_to_onehanded_crouch.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\switch_to_twohanded.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\switch_to_twohanded_crouch.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_hold_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_hold_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_hold_sprinting_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_idle_layered.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_overhead_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_prep_pullout_seq.rseq
+	animseq\weapons\grenades\ptpov_caustic_grenade_held\toss_seq.rseq
+]

@@ -1,0 +1,26 @@
+seqs:
+[
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_baddog_idle_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_baddog_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_dronedrummer_idle_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_dronedrummer_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_drop_idle_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_drop_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_gunslinger_idle_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_gunslinger_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_robotgroove_idle_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_animated_robotgroove_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\lifeline_gladcard_common_pose_01_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_boop_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_chilling_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_drumcheer_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_flex_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_hello_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_hug_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_needle_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_peace_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_ponder_light.rseq
+	animseq\humans\class\light\pilot_light_lifeline\Lifeline_gladcard_static_thinking_light.rseq
+	animseq\humans\class\light\pilot_light_support\lifeline_gladcard_animated_heirloom_idle_light.rseq
+	animseq\humans\class\light\pilot_light_support\lifeline_gladcard_animated_heirloom_light.rseq
+]

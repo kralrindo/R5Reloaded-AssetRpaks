@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\light\pilot_light_wraith\wraith_cyberninja_menu_ready_up.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_cyberninja_menu_ready_up_idle.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_cyberninja_menu_select.rseq
+	animseq\humans\class\light\pilot_light_wraith\wraith_cyberninja_menu_select_idle.rseq
+]

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_loot_ceremony_head_charge.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_loot_tick_head_charge",
+		"attachPoint": "FX_HEAD",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

@@ -1,0 +1,14 @@
+"placement","placementPoints","pointsPerKill","pointsPerAssist","sumOfKillsAndAssistsPointCap"
+0,0,0,0,0
+1,100,25,25,125
+2,60,20,20,100
+3,40,20,20,100
+4,40,15,15,75
+5,30,15,15,75
+6,30,12,12,60
+7,20,12,12,60
+8,20,12,12,60
+9,10,12,12,60
+10,10,12,12,60
+11,0,10,10,50
+"int","int","int","int","int"

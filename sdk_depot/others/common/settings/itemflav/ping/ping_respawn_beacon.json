@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 2045784632,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_respawn_beacon.rpak",
+		"itemType": "ping",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_go_outer",
+		"grxMode": "NONE",
+		"colorKey": "heal",
+		"innerIcon": "rui/hud/ping/icon_ping_any_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/gametype_icons/survival/dna_station",
+		"shadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_any_outline",
+		"tags": [
+		],
+		"defaultColor": "<1.000000,1.000000,1.000000>",
+		"drawHeightLine": false
+	}
+}

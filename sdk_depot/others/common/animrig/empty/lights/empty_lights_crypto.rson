@@ -1,0 +1,19 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_Hack_Idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_Hack_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_halloween_Idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_halloween_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_puzzle_Idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_puzzle_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_sneaker_Idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_animated_sneaker_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\crypto_gladcard_static_cryptic_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_dagger_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_fugitive_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_on_the_run_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_puzzle_cube_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_shootout_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_smartphone_light.rseq
+	animseq\humans\class\medium\pilot_medium_crypto\Crypto_gladcard_static_swordman_light.rseq
+]

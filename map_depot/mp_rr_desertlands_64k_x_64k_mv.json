@@ -5,7 +5,7 @@
   "streamFileMandatory": "paks/Win64/mp_rr_desertlands_64k_x_64k_mv.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_desertlands_64k_x_64k_mv.opt.starpak",
   "streamCache": "cache/pc_roots.starmap",
-  "assetsDir": "./assets/mp_rr_desertlands_64k_x_64k_mv/",
+  "assetsDir": "map_depot/assets/mp_rr_desertlands_64k_x_64k_mv/",
   "outputDir": "./build/",
   "compressLevel": 0,
   "compressWorkers": 16,
@@ -38195,6 +38195,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/desertlands/mirage_tt_lootcap_off.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/desertlands/mirage_tt_seating_area_01.rmdl"
     },
     {
@@ -39370,7 +39374,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/firework_interlace_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/fx/firework_interlace_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/firework_interlace_03.rmdl"
     },
     {
       "_type": "mdl_",
@@ -40807,7 +40819,7 @@
       "_type": "mdl_",
       "_path": "mdl/props/global_access_panel_button/global_access_panel_button_wall.rmdl"
     },
-    {
+    /*{
       "_type": "mdl_",
       "_path": "mdl/props/loot_bin/loot_bin_01_animated.rmdl",
       "$sequences": [
@@ -40821,7 +40833,7 @@
         "animseq/props/loot_bin/loot_bin_01_loba_open_all.rseq",
         "animseq/props/loot_bin/loot_bin_01_loba_openidle_all.rseq"
       ]
-    },
+    },*/
     {
       "_type": "mdl_",
       "_path": "mdl/props/loot_bin/loot_bin_02_animated.rmdl",
@@ -41777,6 +41789,48 @@
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/grenades/arc_grenade_projectile.rmdl"
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/overviews/mp_rr_desertlands_64k_x_64k",
+      "atlas": "texture/ui_atlas/overviews/mp_rr_desertlands_64k_x_64k.rpak",
+      "images": [
+        {
+          "path": "overviews/mp_rr_desertlands_64k_x_64k",
+          "width": 4100,
+          "height": 4100,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/world/signs/desertlands_convenience_store_sign_01_ilm",
+      "atlas": "texture/ui_atlas/world/signs/desertlands_convenience_store_sign_01_ilm.rpak",
+      "images": [
+        {
+          "path": "world/signs/desertlands_convenience_store_sign_01_ilm",
+          "width": 1023,
+          "height": 1023,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/world/signs/desertlands_convenience_store_sign_01_rui_mask",
+      "atlas": "texture/ui_atlas/world/signs/desertlands_convenience_store_sign_01_rui_mask.rpak",
+      "images": [
+        {
+          "path": "world/signs/desertlands_convenience_store_sign_01_rui_mask",
+          "width": 1023,
+          "height": 271,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 1769886153,
+	"settings": {
+		"assetName": "settings/itemflav/pack/hardcoded_character_skin_gibraltar_season02_event01_legendary_01.rpak",
+		"itemType": "account_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_hardcoded_character_skin_gibraltar_season02_event01_legendary_01_NAME",
+		"localizationKey_NAME_SHORT": "#pack_hardcoded_character_skin_gibraltar_season02_event01_legendary_01_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_gibby_icce_event",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_cosmetic_event_direct_character_skin_gibraltar_season02_event01_legendary_01",
+		"ownershipTarget": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot_bf.rmdl",
+		"tickMdlSkin": "base",
+		"openButtonIcon": "rui/events/season02_event01/open_pack_btn_icon",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"tags": [
+		],
+		"customCol0": "<0.360784,0.509804,1.000000>",
+		"countTextCol": "<0.000000,0.000000,0.000000>",
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": true,
+		"useCustomColors": true
+	}
+}

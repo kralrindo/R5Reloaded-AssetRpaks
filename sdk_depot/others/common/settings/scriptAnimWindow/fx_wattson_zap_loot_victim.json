@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wattson_zap_loot_victim.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_watt_exec_zap_v_rise_loot",
+		"attachPoint": "CHESTFOCUS",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

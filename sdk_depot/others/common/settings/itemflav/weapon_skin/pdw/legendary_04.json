@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1446013041,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/pdw/legendary_04.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_pdw_legendary_04_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_pdw_lightworker",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_pdw_legendary_04",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/prowler_smg/w_prowler_smg_legendary_02.rmdl",
+		"viewModel": "mdl/Weapons/prowler_smg/ptpov_prowler_smg_legendary_02.rmdl",
+		"skinName": "recolor 01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

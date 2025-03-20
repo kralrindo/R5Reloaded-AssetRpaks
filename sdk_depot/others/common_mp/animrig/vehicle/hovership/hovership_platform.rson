@@ -1,0 +1,16 @@
+seqs:
+[
+	animseq\vehicle\hovership\hovership_platform\CC_tank_1.rseq
+	animseq\vehicle\hovership\hovership_platform\CC_tank_2.rseq
+	animseq\vehicle\hovership\hovership_platform\CC_tank_3.rseq
+	animseq\vehicle\hovership\hovership_platform\CC_tank_4.rseq
+	animseq\vehicle\hovership\hovership_platform\ht_cc_tank_intro_TankA.rseq
+	animseq\vehicle\hovership\hovership_platform\ht_cc_tank_intro_TankA_pose.rseq
+	animseq\vehicle\hovership\hovership_platform\ht_cc_tank_intro_TankB.rseq
+	animseq\vehicle\hovership\hovership_platform\ht_cc_tank_intro_TankB_pose.rseq
+	animseq\vehicle\hovership\hovership_platform\pose_strafe_back.rseq
+	animseq\vehicle\hovership\hovership_platform\pose_strafe_forward.rseq
+	animseq\vehicle\hovership\hovership_platform\pose_strafe_left.rseq
+	animseq\vehicle\hovership\hovership_platform\pose_strafe_right.rseq
+	animseq\vehicle\hovership\hovership_platform\test.rseq
+]

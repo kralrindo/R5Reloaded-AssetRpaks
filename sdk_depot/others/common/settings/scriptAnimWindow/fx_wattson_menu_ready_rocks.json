@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wattson_menu_ready_rocks.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wat_menu_slct_rocks",
+		"attachPoint": "REF",
+		"followAttach": false,
+		"playEndCap": false
+	}
+}

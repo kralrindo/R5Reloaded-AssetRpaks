@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 909813118,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/solo_all_unlocked_iron_crown.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_solo_all_unlocked_iron_crown",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_solo_all_unlocked_iron_crown_DESCRIPTION_SHORT",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.season02_event01_num_characters_with_solo_win",
+		"dynamicTextStatRef": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/temp",
+				"ruiAsset": "ui/gc_solo_iron_crown_badge_all_unlocked.rpak",
+				"unlocksAt": 10.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

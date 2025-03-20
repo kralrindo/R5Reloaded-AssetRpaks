@@ -1,0 +1,12 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\beacon\beacon_construction_flag_animated\left.rseq
+	animseq\beacon\beacon_construction_flag_animated\left2.rseq
+	animseq\beacon\beacon_construction_flag_animated\left3.rseq
+	animseq\beacon\beacon_construction_flag_animated\right.rseq
+	animseq\beacon\beacon_construction_flag_animated\right2.rseq
+	animseq\beacon\beacon_construction_flag_animated\right3.rseq
+]

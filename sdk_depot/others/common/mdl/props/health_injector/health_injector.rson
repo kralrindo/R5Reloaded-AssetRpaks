@@ -1,0 +1,10 @@
+rigs:
+[
+	animrig\props\health_injector\health_injector.rrig
+]
+seqs:
+[
+	animseq\alth_injector\prop_health_injector_scene.rseq
+	animseq\health_injector\dmx\animation\prop_health_injector_long.rseq
+	animseq\health_injector\dmx\animation\prop_health_injector_short.rseq
+]

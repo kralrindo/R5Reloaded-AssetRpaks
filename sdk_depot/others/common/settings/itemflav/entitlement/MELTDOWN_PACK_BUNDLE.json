@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1540679662,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/MELTDOWN_PACK_BUNDLE.rpak",
+		"itemType": "entitlement",
+		"devDescription": "Crypto meltdown pack items",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"enum": "MELTDOWN_PACK_BUNDLE",
+		"pc": "MELTDOWN_PACK_BUNDLE",
+		"ps4": "MLTBUN0000000000",
+		"xb1": "MELTDOWN_PACK_BUNDLE",
+		"pc_offer": "",
+		"xb1_offer": "5cd648ac-f139-4357-9b2a-8c6c0485b2d4",
+		"tags": [
+		],
+		"list": [
+			{
+				"flavor": "settings/itemflav/character_skin/crypto/meltdown_pack.rpak"
+			}
+		]
+	}
+}

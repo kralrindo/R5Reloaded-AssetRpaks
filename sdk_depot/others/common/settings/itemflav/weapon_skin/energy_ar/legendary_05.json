@@ -1,0 +1,189 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1068446460,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/energy_ar/legendary_05.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_energy_ar_legendary_05_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#weapon_skin_energy_ar_legendary_05_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_havoc",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_energy_ar_legendary_05",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/beam_ar/w_beam_ar_legendary_02.rmdl",
+		"viewModel": "mdl/Weapons/beam_ar/ptpov_beam_ar_legendary_02.rmdl",
+		"skinName": "Gold Turtleship",
+		"unlockFuncKey": "",
+		"video": "media/battle_pass/havoc_skin_legendary_05",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season01.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 3,
+		"featureReactsToKillsLevels": [
+			{
+				"killSoundEvent1p": "weapon_havoc_legendary_level01",
+				"killSoundEvent3p": "weapon_havoc_3p_legendary_level01",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 1,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_havok_leg_green_flash",
+						"fx3p": "P_havok_leg_green_flash_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_havok_leg_green_eye_flash",
+						"fx3p": "",
+						"attachment": "glow_eye_L"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_havok_leg_green_lvl1",
+						"fx3p": "P_havok_leg_green_lvl1_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_havok_leg_green_eye_lvl1",
+						"fx3p": "",
+						"attachment": "glow_eye_L"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_havoc_legendary_level02",
+				"killSoundEvent3p": "weapon_havoc_3p_legendary_level02",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 3,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_havok_leg_green_flash",
+						"fx3p": "P_havok_leg_green_flash_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_havok_leg_green_eye_flash",
+						"fx3p": "",
+						"attachment": "glow_eye_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_1",
+						"fx3p": "P_havok_leg_green_nose_1_3P",
+						"attachment": "exhaust_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_1",
+						"fx3p": "P_havok_leg_green_nose_1_3P",
+						"attachment": "exhaust_R"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_havok_leg_green_lvl2",
+						"fx3p": "P_havok_leg_green_lvl2_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_havok_leg_green_eye_lvl2",
+						"fx3p": "",
+						"attachment": "glow_eye_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_loop_1",
+						"fx3p": "",
+						"attachment": "exhaust_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_loop_1",
+						"fx3p": "",
+						"attachment": "exhaust_R"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_havoc_legendary_level03",
+				"killSoundEvent3p": "weapon_havoc_3p_legendary_level03",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 5,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_havok_leg_green_flash",
+						"fx3p": "P_havok_leg_green_flash_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_havok_leg_green_eye_flash",
+						"fx3p": "",
+						"attachment": "glow_eye_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_2",
+						"fx3p": "P_havok_leg_green_nose_2_3P",
+						"attachment": "exhaust_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_2",
+						"fx3p": "P_havok_leg_green_nose_2_3P",
+						"attachment": "exhaust_R"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_havok_leg_green_lvl3",
+						"fx3p": "P_havok_leg_green_lvl3_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_havok_leg_green_eye_lvl3",
+						"fx3p": "",
+						"attachment": "glow_eye_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_loop_2",
+						"fx3p": "",
+						"attachment": "exhaust_L"
+					},
+					{
+						"fx1p": "P_havok_leg_green_nose_loop_2",
+						"fx3p": "",
+						"attachment": "exhaust_R"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			}
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": true
+	}
+}

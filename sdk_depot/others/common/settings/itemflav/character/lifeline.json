@@ -1,0 +1,1133 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_layout.rpak",
+	"uniqueId": 1409694078,
+	"settings": {
+		"assetName": "settings/itemflav/character/lifeline.rpak",
+		"itemType": "character",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_lifeline_NAME",
+		"localizationKey_NAME_SHORT": "#character_lifeline_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#character_lifeline_DESCRIPTION_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "#character_lifeline_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/battlepass/character_skin_lifeline",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_lifeline",
+		"ownershipTarget": "",
+		"role": "SUPPORT",
+		"setFile": "settings/player/mp/pilot_survival_medic.rpak",
+		"tacticalAbility": "settings/itemflav/ability/lifeline_tac_deployable_medic.rpak",
+		"ultimateAbility": "settings/itemflav/ability/lifeline_ult_care_package.rpak",
+		"passive1": "settings/itemflav/ability/lifeline_pas_medic.rpak",
+		"galleryPortrait": "rui/menu/buttons/lobby_character_select/lifeline",
+		"galleryPortraitBackground": "rui/menu/buttons/lobby_character_select/lifeline_bg",
+		"characterSelectIcon": "rui/menu/buttons/lobby_character_select/lifeline",
+		"characterLockIcon": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_lifeline",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/launch_character.rpak"
+			}
+		],
+		"menuSmokeSkinIndex": 3,
+		"menuBackgroundSkinIndex": 3,
+		"menuLightColorKey": "<0.870588,0.870588,0.811765>",
+		"menuLightColorFill": "<1.000000,0.568627,0.274510>",
+		"menuLightColorRimL": "<0.784314,0.501961,0.776471>",
+		"menuLightColorRimR": "<0.313726,0.278431,0.411765>",
+		"hudUltimateColor": "<1.000000,0.450980,0.541176>",
+		"hudUltimateColorHighlight": "<1.000000,0.929412,0.298039>",
+		"chromaColor0": "<1.000000,0.509804,0.184314>",
+		"chromaColor1": "<0.301961,0.121569,0.780392>",
+		"galleryModelOffset": "<7.000000,0.000000,12.000000>",
+		"readyUpVoicelines": [
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_01"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_02"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_03"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_04"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_05"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_06"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_07"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_08"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_09"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_10"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_11"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_12"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_13"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_14"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_15"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_16"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_17"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_18"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_19"
+			},
+			{
+				"event": "diag_mp_lifeline_menu_selectReady_20"
+			}
+		],
+		"characterMenuButtonIndex": 2,
+		"menuZoomOffset": "<0.000000,0.000000,-4.000000>",
+		"skins": [
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/classic.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/rare_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/epic_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/epic_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/epic_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/epic_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_shop_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_shop_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/season01_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/psplus02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/beasthunter_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/season02_event01_legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/retail01_legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/season02_event02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/s03bp_legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/s03e01_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/lifeline/legendary_shop_03.rpak",
+				"featureFlag": ""
+			}
+		],
+		"executions": [
+			{
+				"flavor": "settings/itemflav/character_execution/lifeline/default.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_execution/lifeline/syringe.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_execution/lifeline/drone_shock.rpak",
+				"featureFlag": ""
+			}
+		],
+		"emotes": [
+			{
+				"flavor": "settings/itemflav/character_emote/lifeline/victory.rpak",
+				"featureFlag": ""
+			}
+		],
+		"skydiveEmotes": [
+			{
+				"flavor": "settings/itemflav/skydive_emote/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_emote/lifeline/backflip.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_emote/lifeline/windmill.rpak",
+				"featureFlag": ""
+			}
+		],
+		"introQuips": [
+			{
+				"flavor": "settings/itemflav/character_intro_quip/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_16.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_18.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_19.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/common_20.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/season01_common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/heirloom_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/lifeline/s03e01_common_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"killQuips": [
+			{
+				"flavor": "settings/itemflav/character_kill_quip/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_16.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_17.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_18.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_19.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_20.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_21.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_22.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_23.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_24.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_25.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_26.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_27.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_28.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_29.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_30.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_31.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_32.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_33.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_34.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_35.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_36.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_37.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_38.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_39.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_40.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/common_41.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/s03bp_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/lifeline/s03e01_common_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardStances": [
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/epic_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/epic_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/epic_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/epic_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/lifeline/heirloom_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardFrames": [
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/legendary_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/legendary_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/legendary_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/season01_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/psplus02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/season02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/s03bp_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/lifeline/retail01_epic_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardBadges": [
+			{
+				"flavor": "settings/itemflav/gcard_badge/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/account_level.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/baller.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/banner_legend.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/dev_badge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/fashionista.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/founder_pack.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/fully_kitted.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/group_theatrics.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/ea_access_member.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/long_shot.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/master_of_all.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/no_witnesses.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/pack_victory.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/starter_pack.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/team_harmony.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/team_work.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/treasure_hunter.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/warlord.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/well_rounded.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/valentine_base.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_kills_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_top_5_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_wins_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_bonus_xp_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/beasthunter_event.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/elite_max_streak.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/elite_888.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season03_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/solo_all_unlocked_iron_crown.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event01_main.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event02_shotguns_and_snipers_played.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event02_shotguns_and_snipers_wins.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/rankedperiod01_rpbadge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/s03e01_main.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/duos_badge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/apex_character.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/elite_character.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/apex_predator.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/assassin.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/character_wake.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/character_wrath.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/deadeye.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/double_duty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/flawless_victory_1.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/flawless_victory_2.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/headshot_hotshot.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/hot_streak.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/no_one_left_behind.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/rapid_elimination.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/reinforcement_recall.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/shot_caller.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/squad_wipe.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/the_legacy_continues.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/triple_triple.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/solo_wins_iron_crown.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/lifeline/retail01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardStatTrackers": [
+			{
+				"flavor": "settings/itemflav/gcard_tracker/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/winning_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/kills_while_killleader.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/damage_done.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/headshots.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/executions.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/revives.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/games_played.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/placements_win_with_squad_alive.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/placements_top_3.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_pistol_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_shotgun_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_smg_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_ar_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_lmg_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_sniper_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/weaponcat_crate_unique_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/tactical_drone_healing_given.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/ultimate_droppod_items_grabbed_by_allies.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/passive_enemy_damage_absorbed.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/season01_wins.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/season01_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/season01_damage_done.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/season02_wins.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/lifeline/season03_wins.rpak",
+				"featureFlag": ""
+			}
+		],
+		"meleeSkins": [
+			{
+				"flavor": "settings/itemflav/melee_skin/default.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/melee_skin/lifeline_baton.rpak",
+				"featureFlag": ""
+			}
+		],
+		"emoteIcons": [
+		],
+		"shippingCharacter": true
+	}
+}

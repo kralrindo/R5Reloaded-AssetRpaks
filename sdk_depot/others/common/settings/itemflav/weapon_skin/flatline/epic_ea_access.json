@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 2120195471,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/flatline/epic_ea_access.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_EA_ACCESS",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_flatline_epic_ea_access",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/vinson/w_vinson.rmdl",
+		"viewModel": "mdl/weapons/vinson/ptpov_vinson.rmdl",
+		"skinName": "red/orange fade",
+		"unlockFuncKey": "origin_access_on_pc",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_origin_access.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": true,
+		"featureReactsToKills": false
+	}
+}

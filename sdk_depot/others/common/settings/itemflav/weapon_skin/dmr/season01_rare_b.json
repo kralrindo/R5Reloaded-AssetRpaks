@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 226437333,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/dmr/season01_rare_b.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_52",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_longbow",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_dmr_season01_rare_b",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/rspn101_dmr/w_rspn101_dmr.rmdl",
+		"viewModel": "mdl/weapons/rspn101_dmr/ptpov_rspn101_dmr.rmdl",
+		"skinName": "common/rare mask",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season01.rpak"
+			}
+		],
+		"camoIndex": 143,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1566820021,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/g7/season02_event02_epic_02.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_182",
+		"localizationKey_NAME_SHORT": "#SKIN_182",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_g7_season02_event02_epic_02",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/g2/w_g2a4.rmdl",
+		"viewModel": "mdl/weapons/g2/ptpov_g2a4.rmdl",
+		"skinName": "season02_event02_epic_02",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event02.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

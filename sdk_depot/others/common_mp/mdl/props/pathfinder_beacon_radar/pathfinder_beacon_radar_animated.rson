@@ -1,0 +1,10 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\pathfinder_beacon_radar_animated\animation_test.rseq
+	animseq\props\pathfinder_beacon_radar_animated\antenna_pathfinder_antenna_hack_end.rseq
+	animseq\props\pathfinder_beacon_radar_animated\antenna_pathfinder_antenna_hack_mid.rseq
+	animseq\props\pathfinder_beacon_radar_animated\antenna_pathfinder_antenna_hack_start.rseq
+]

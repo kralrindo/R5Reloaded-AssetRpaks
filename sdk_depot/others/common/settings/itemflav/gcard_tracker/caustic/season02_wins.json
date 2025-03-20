@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 628023316,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/caustic/season02_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_caustic_season02_wins_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_caustic_season02_wins_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_caustic_season02_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01774506873].characters[%char%].placements_win",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/caustic/season02_bg",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"color0": "<0.054902,0.223529,0.819608>",
+		"isTheEmpty": false
+	}
+}

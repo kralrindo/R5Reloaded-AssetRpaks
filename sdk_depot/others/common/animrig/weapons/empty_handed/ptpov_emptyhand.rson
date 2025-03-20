@@ -1,0 +1,37 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_emptyhand\draw.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\drawfirst.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\holster.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\idle.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\inspect_01.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\inspect_02.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\jump.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\kick_door_01.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\kick_door_01_gibraltar.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\land.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\lower.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_09_seq.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_grapple.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_grapple_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_ground_execution.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_kick.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_punch.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_uppercut.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_uppercut_gibraltar.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_uppercut_octane.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\melee_uppercut_pathfinder.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\meleeraise.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\raise.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprint_heavy.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprint_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprint_onehanded_heavy.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprint_onehanded_octane.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprintdraw.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprintholster.rseq
+	animseq\weapons\empty_handed\ptpov_emptyhand\sprintraise.rseq
+]

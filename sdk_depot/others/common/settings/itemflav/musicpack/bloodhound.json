@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 1744466502,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/bloodhound.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_bloodhound_NAME",
+		"localizationKey_NAME_SHORT": "#character_bloodhound_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_bloodhound",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Bloodhound",
+		"musicMainMenuToLobby": "mainmenu_music_Bloodhound",
+		"musicLobby": "Music_Lobby_Bloodhound",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Bloodhound",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Bloodhound",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Bloodhound",
+		"musicSkydive": "Music_Jump_Bloodhound",
+		"musicWin": "Music_EndGame_Win_Bloodhound",
+		"musicLoss": "Music_EndGame_Loss_Bloodhound",
+		"character": "settings/itemflav/character/bloodhound.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_wattson_base_execution_fencezaps.rpak",
+		"devDescription": "Fence_zaps_sound",
+		"type": "PlaySound",
+		"soundEventName": "Wattson_Mvmt_Execution_Base_Pt3"
+	}
+}

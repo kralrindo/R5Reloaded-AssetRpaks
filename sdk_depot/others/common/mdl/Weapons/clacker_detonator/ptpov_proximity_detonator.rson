@@ -1,0 +1,34 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\attack_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\attack_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\draw_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\draw_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\holster_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\holster_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\idle_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\idle_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\lower_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\lower_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\melee_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\melee_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\raise_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\raise_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\sprint_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\sprint_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_hold_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_hold_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_hold_sprinting_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_hold_sprinting_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_overhead_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_prep_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_prep_pullout_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_prep_seq.rseq
+	animseq\weapons\clacker_detonator\ptpov_proximity_detonator\toss_seq.rseq
+]

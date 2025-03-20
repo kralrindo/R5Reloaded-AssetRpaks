@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1823896081,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/gibraltar/passive_gunshield_enemy_damage_absorbed.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_gibraltar_passive_gunshield_enemy_damage_absorbed_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_gibraltar_passive_gunshield_enemy_damage_absorbed_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_gibraltar_gunshield_enemy_damage_absorbed",
+		"ownershipTarget": "",
+		"statRef": "stats.gibraltar_passive_gunshield_enemy_damage_absorbed",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isTheEmpty": false
+	}
+}

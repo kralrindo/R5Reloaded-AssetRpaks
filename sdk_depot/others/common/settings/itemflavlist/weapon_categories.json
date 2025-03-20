@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemflavorlist_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflavlist/weapon_categories.rpak",
+		"devDescription": "PLEASE DESCRIBE",
+		"list": [
+			{
+				"flavor": "settings/itemflav/weapon_category/ar.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_category/smg.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_category/lmg.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_category/sniper.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_category/shotgun.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_category/pistol.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_category/launcher.rpak"
+			}
+		]
+	}
+}

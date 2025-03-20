@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\door\door_canyonlands_large_01_animated\close.rseq
+	animseq\door\door_canyonlands_large_01_animated\open.rseq
+]

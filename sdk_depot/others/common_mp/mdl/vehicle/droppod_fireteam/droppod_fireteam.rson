@@ -1,0 +1,21 @@
+rigs:
+[
+	animrig\vehicle\droppod_fireteam\droppod_fireteam.rrig
+]
+seqs:
+[
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\body_aimmatrix.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_droppod_briefing.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_droppod_drop.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_droppod_idle.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_droppod_ready.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_embark.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_menu_countdown.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\dp_O2_IMC_hotdrop.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\idle_door_open.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\pod_testpath.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\pod_testpath_camera.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\pod_testpath_fast.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\pod_testpath_loop.rseq
+	animseq\vehicle\droppod_fireteam\droppod_fireteam\turret_aimmatrix.rseq
+]

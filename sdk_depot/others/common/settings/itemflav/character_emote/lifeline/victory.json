@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 628449813,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/lifeline/victory.rpak",
+		"itemType": "character_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LIFELINE_EMOTE_PEACE",
+		"localizationKey_NAME_SHORT": "#LIFELINE_EMOTE_PEACE",
+		"localizationKey_DESCRIPTION_LONG": "#LIFELINE_EMOTE_PEACE",
+		"localizationKey_DESCRIPTION_SHORT": "#LIFELINE_EMOTE_PEACE",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_surf",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"anim3p": "lifeline_emote_pos_point",
+		"quickchatAliasSubName": "",
+		"tags": [
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

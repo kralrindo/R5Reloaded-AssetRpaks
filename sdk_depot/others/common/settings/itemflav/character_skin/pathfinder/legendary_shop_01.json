@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 292312221,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/pathfinder/legendary_shop_01.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_skin_pathfinder_legendary_shop_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/character_pathfinder_goldcargo_shop",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_pathfinder_legendary_shop_01",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/heavy/pilot_heavy_pathfinder_legendary_01.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_heavy_pathfinder_legendary_01.rmdl",
+		"skinName": "recolor 03",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_credits.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

@@ -1,0 +1,24 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\holster_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\holster_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\idle_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\idle_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\timeshift_draw_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\timeshift_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_hold_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_hold_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_hold_sprinting_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_hold_sprinting_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_overhead_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_prep_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_prep_pullout_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_prep_seq.rseq
+	animseq\weapons\empty_handed\ptpov_phaseshift_device\toss_seq.rseq
+]

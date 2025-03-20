@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak",
+	"uniqueId": 344928455,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_frame/lifeline/retail01_epic_01.rpak",
+		"itemType": "gladiator_card_frame",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FRAME_016",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_frame_lifeline_retail01_epic_01",
+		"ownershipTarget": "",
+		"unlockFuncKey": "",
+		"fgImageAsset": "rui/gladiator_cards/frames/lifeline/retail01_epic_01_fg",
+		"bgImageAsset": "rui/gladiator_cards/frames/lifeline/retail01_epic_01_bg",
+		"fgRuiAsset": "",
+		"bgRuiAsset": "",
+		"colorCorrectionRawPath": "materials/correction/gcards/lifeline/retail01_epic_01.raw_hdr",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_retail01.rpak"
+			}
+		],
+		"fgImageBlend": 1.000000,
+		"fgImagePremul": 0.000000,
+		"keyCol_0": "<1.000000,1.000000,1.000000>",
+		"keyCol_1": "<1.000000,1.000000,1.000000>",
+		"keyCol_2": "<1.000000,1.000000,1.000000>",
+		"exposure": 0.800000,
+		"light0_col": "<0.529412,0.537255,0.705882>",
+		"light0_specintensity": 0.500000,
+		"light1_col": "<0.984314,0.847059,0.525490>",
+		"light1_specintensity": 0.400000,
+		"light2_col": "<0.901961,0.733333,0.482353>",
+		"light2_specintensity": 0.500000,
+		"light3_col": "<0.901961,0.674510,0.258824>",
+		"light3_specintensity": 0.500000,
+		"shouldHideIfLocked": false,
+		"hasOwnRui": false,
+		"isArtFullFrame": true
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 796288144,
+	"settings": {
+		"assetName": "settings/itemflav/ability/octance_ult_jump_pad.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_JUMP_PAD",
+		"localizationKey_NAME_SHORT": "#WPN_JUMP_PAD",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_JUMP_PAD_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_JUMP_PAD_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_octane",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_jump_pad",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

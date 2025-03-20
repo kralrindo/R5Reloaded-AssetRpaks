@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 1050063104,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/pathfinder.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_pathfinder_NAME",
+		"localizationKey_NAME_SHORT": "#character_pathfinder_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_pathfinder",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Pathfinder",
+		"musicMainMenuToLobby": "mainmenu_music_Pathfinder",
+		"musicLobby": "Music_Lobby_Pathfinder",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Pathfinder",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Pathfinder",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Pathfinder",
+		"musicSkydive": "Music_Jump_Pathfinder",
+		"musicWin": "Music_EndGame_Win_Pathfinder",
+		"musicLoss": "Music_EndGame_Loss_Pathfinder",
+		"character": "settings/itemflav/character/pathfinder.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

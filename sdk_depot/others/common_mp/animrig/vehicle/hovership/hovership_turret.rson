@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\vehicle\hovership\hovership_turret\aim_pitch.rseq
+	animseq\vehicle\hovership\hovership_turret\aim_yaw.rseq
+]

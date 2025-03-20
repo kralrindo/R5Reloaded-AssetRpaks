@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\rspn101\dmx\animation\reload_empty_late1_onehanded_beasthunter.rseq
+	animseq\rspn101\dmx\animation\reload_empty_late2_onehanded_beasthunter.rseq
+	animseq\rspn101\dmx\animation\reload_empty_onehanded_beasthunter.rseq
+	animseq\rspn101\dmx\animation\switch_to_onehanded_beasthunter.rseq
+	animseq\rspn101\dmx\animation\switch_to_twohanded_beasthunter.rseq
+	animseq\weapons\rspn101\reload_empty_beasthunter.rseq
+	animseq\weapons\rspn101\reload_empty_late1_beasthunter.rseq
+	animseq\weapons\rspn101\reload_empty_late2_beasthunter.rseq
+	animseq\weapons\rspn101\run_layer_beasthunter.rseq
+]

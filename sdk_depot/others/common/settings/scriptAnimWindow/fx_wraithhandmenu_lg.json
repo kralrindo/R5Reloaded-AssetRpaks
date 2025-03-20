@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wraithhandmenu_lg.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_ps_gauntlet_arm_3P_menu_LG",
+		"attachPoint": "L_FOREARM",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

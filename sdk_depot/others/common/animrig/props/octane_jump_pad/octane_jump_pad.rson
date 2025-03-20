@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_gladcard_animated_wipeout.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_gladcard_animated_wipeout_idle.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_deploy.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_deploy_idle.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_deploy_trans.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_shutdown.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_shutdown_idle.rseq
+]

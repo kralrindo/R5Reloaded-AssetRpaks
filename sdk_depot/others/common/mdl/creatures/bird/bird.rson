@@ -1,0 +1,46 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\creatures\bird\bird\Bird_casual_idle.rseq
+	animseq\creatures\bird\bird\Bird_casual_skit_A.rseq
+	animseq\creatures\bird\bird\Bird_casual_skit_B.rseq
+	animseq\creatures\bird\bird\Bird_cleaning_idle.rseq
+	animseq\creatures\bird\bird\Bird_cleaning_skit_A.rseq
+	animseq\creatures\bird\bird\Bird_cleaning_skit_B.rseq
+	animseq\creatures\bird\bird\Bird_cleaning_skit_C.rseq
+	animseq\creatures\bird\bird\Bird_eating_idle.rseq
+	animseq\creatures\bird\bird\Bird_fly_cycle_long.rseq
+	animseq\creatures\bird\bird\Bird_fly_cycle_short.rseq
+	animseq\creatures\bird\bird\Bird_fly_skit_A.rseq
+	animseq\creatures\bird\bird\Bird_fly_skit_B.rseq
+	animseq\creatures\bird\bird\Bird_fly_skit_C.rseq
+	animseq\creatures\bird\bird\bird_gladcard_animated_bird.rseq
+	animseq\creatures\bird\bird\bird_gladcard_animated_bird_idle.rseq
+	animseq\creatures\bird\bird\bird_Pathfinder_gladcard_animated_01.rseq
+	animseq\creatures\bird\bird\bird_Pathfinder_gladcard_animated_pose01.rseq
+	animseq\creatures\bird\bird\Bird_react_fly.rseq
+	animseq\creatures\bird\bird\Bird_react_fly_small.rseq
+	animseq\creatures\bird\bird\Bird_react_fly_small_skit_A.rseq
+	animseq\creatures\bird\bird\Bird_react_fly_small_skit_B.rseq
+	animseq\creatures\bird\bird\Bird_react_fly_small_skit_C.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_coo.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_idle.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_pet.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_readyup.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_right_idle.rseq
+	animseq\creatures\bird\bird\caustic_bird_gladcard_static_deadbird.rseq
+	animseq\creatures\bird\bird\freefall_bird_pathfinder_birdattack_idle.rseq
+	animseq\creatures\bird\bird\mirage_bird_gladcard_animated_crow.rseq
+	animseq\creatures\bird\bird\mirage_bird_gladcard_animated_crow_idle.rseq
+	animseq\creatures\bird\bird\mp_bird_loot_idle.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_bloodhound_menu_ready_up.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_bloodhound_menu_ready_up_idle.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_bloodhound_menu_select.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_execution_raven.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_execution_raven_loot.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_training_intro_start.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_training_intro_start_idle.rseq
+	animseq\creatures\bird\bird\raven_gladcard_common_pose_01_prop.rseq
+]

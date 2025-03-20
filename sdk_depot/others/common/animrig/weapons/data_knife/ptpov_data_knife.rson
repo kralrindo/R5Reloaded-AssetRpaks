@@ -1,0 +1,13 @@
+seqs:
+[
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_01.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_01_wall.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_02.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_02_wall.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_03.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_03_wall.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_04.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_05.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_06.rseq
+	animseq\weapons\data_knife\ptpov_data_knife\meleeknife_seq_06_grapple.rseq
+]

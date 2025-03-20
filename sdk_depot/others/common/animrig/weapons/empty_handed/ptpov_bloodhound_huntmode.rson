@@ -1,0 +1,27 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\holster_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\holster_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\idle_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\idle_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\run_layer.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\sonar_activate_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\sonar_activate_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\sonar_hold_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\sonar_hold_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\sonar_lower_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\sonar_lower_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\timeshift_draw_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\timeshift_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_hold_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_hold_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_hold_sprinting_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_overhead_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_prep_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_prep_pullout_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_prep_seq.rseq
+	animseq\weapons\empty_handed\ptpov_bloodhound_huntmode\toss_seq.rseq
+]

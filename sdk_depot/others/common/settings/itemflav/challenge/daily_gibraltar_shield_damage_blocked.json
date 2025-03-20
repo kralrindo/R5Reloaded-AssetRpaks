@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 901166638,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/daily_gibraltar_shield_damage_blocked.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "DAILY",
+		"difficulty": "HARD",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 0,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_GIBRALTAR_SHIELD_DAMAGE",
+				"character": "settings/itemflav/character/gibraltar.rpak",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.gibraltar_passive_gunshield_enemy_damage_absorbed",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 100,
+				"xpReward": 3000,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

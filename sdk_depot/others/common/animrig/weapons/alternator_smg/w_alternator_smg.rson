@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\alternator_smg\w_alternator_smg\attack_seq.rseq
+	animseq\weapons\alternator_smg\w_alternator_smg\idle_seq.rseq
+]

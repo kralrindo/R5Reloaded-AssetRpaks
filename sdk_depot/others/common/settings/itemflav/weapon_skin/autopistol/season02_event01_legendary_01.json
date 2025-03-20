@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1108955968,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/autopistol/season02_event01_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_158",
+		"localizationKey_NAME_SHORT": "#SKIN_158",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_autopistol_season02_event01_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/p2011_auto/w_p2011_auto_bf.rmdl",
+		"viewModel": "mdl/Weapons/p2011_auto/ptpov_p2011_auto_bf.rmdl",
+		"skinName": "season02_event01_legendary_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

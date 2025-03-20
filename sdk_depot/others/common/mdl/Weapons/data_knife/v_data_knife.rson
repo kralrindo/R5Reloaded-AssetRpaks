@@ -1,0 +1,18 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\data_knife\v_data_knife\data_knife_console_leech_end.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_console_leech_idle.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_console_leech_start.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_console_leech_start_playback.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_s2s_bridge_console_end.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_s2s_bridge_console_idle.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_s2s_bridge_console_start.rseq
+	animseq\weapons\data_knife\v_data_knife\data_knife_torture_cache_pickup.rseq
+	animseq\weapons\data_knife\v_data_knife\dk_data_knife_drone_end.rseq
+	animseq\weapons\data_knife\v_data_knife\dk_data_knife_drone_idle.rseq
+	animseq\weapons\data_knife\v_data_knife\dk_data_knife_drone_scene.rseq
+	animseq\weapons\data_knife\v_data_knife\dk_data_knife_drone_start.rseq
+]

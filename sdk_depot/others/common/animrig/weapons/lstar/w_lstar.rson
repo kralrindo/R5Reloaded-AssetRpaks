@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\lstar\w_lstar\attack_seq.rseq
+	animseq\weapons\lstar\w_lstar\idle_seq.rseq
+]

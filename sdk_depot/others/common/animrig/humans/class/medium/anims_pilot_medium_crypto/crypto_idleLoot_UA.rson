@@ -1,0 +1,13 @@
+models:
+[
+	mdl\props\ultimate_accelerant\ultimate_accelerant.rmdl
+	mdl\props\flask\prop_flask.rmdl
+	mdl\props\ultimate_accelerant_usb\ultimate_accelerant_usb_static.rmdl
+	mdl\Weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote_menu.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

@@ -1,0 +1,19 @@
+rigs:
+[
+	animrig\weapons\grenades\ptpov_frag_grenade.rrig
+]
+seqs:
+[
+	animseq\weapons\grenades\ptpov_frag_grenade\holster_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\holster_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\melee_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\melee_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_hold_sprinting_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_hold_sprinting_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_overhead_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_prep_onehanded_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_prep_seq.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\toss_seq.rseq
+]

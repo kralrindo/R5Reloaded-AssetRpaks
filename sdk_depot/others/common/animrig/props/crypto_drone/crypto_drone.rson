@@ -1,0 +1,30 @@
+seqs:
+[
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_drone.rseq
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_hacking.rseq
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_idle_alt.rseq
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_left_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_right_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\crypto_drone_menu_lobby_select_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\CryptoDrone_gladcard_animated_sneaker.rseq
+	animseq\props\crypto_drone\crypto_drone\CryptoDrone_gladcard_animated_sneaker_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_activate.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_active_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_active_twitch.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_crypto_dronescan_execution.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_crypto_menu_select.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_crypto_menu_select_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_crypto_menu_select_ready_up.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_crypto_menu_select_ready_up_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_EMP.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_EMP_glitch_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_Gladcard_static_cryptic.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_Gladcard_static_OnTheRun.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_Gladcard_static_swordman.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_inactive_idle.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_recall.rseq
+	animseq\props\crypto_drone\crypto_drone\drone_teaser_hacking_scene.rseq
+	animseq\props\crypto_drone\crypto_drone\mp_dronescan_execution_drone_loot.rseq
+	animseq\props\crypto_drone\crypto_drone\mp_pt_crypto_drone_loot_idle.rseq
+]

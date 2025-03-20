@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1774476294,
+	"settings": {
+		"assetName": "settings/itemflav/ability/bangalore_ult_creeping_bombardment.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_CREEPING_BOMBARDMENT",
+		"localizationKey_NAME_SHORT": "#WPN_CREEPING_BOMBARDMENT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_CREEPING_BOMBARDMENT_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_CREEPING_BOMBARDMENT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_bangalore",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_grenade_creeping_bombardment",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

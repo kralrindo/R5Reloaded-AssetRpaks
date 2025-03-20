@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 1504232716,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/wraith.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_wraith_NAME",
+		"localizationKey_NAME_SHORT": "#character_wraith_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_wraith",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Wraith",
+		"musicMainMenuToLobby": "mainmenu_music_Wraith",
+		"musicLobby": "Music_Lobby_Wraith",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Wraith",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Wraith",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Wraith",
+		"musicSkydive": "Music_Jump_Wraith",
+		"musicWin": "Music_EndGame_Win_Wraith",
+		"musicLoss": "Music_EndGame_Loss_Wraith",
+		"character": "settings/itemflav/character/wraith.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event02.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

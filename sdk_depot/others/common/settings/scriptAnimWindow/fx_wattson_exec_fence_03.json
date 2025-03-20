@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wattson_exec_fence_03.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_tesla_trap_link_exec",
+		"attachPoint": "WIRE_01_03",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

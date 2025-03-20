@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 925798918,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/crafting.rpak",
+		"itemType": "account_currency",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CURRENCY_CRAFTING",
+		"localizationKey_NAME_SHORT": "#CURRENCY_CRAFTING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/menu/common/currency_crafting",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "grx_currency_crafting",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/menu/buttons/battlepass/currency_crafting",
+		"previewMdl": "",
+		"purchaseSound": "UI_Menu_Purchase_Crafting",
+		"tags": [
+		]
+	}
+}

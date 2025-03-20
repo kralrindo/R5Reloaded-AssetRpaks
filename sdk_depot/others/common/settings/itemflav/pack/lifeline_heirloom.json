@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 426498861,
+	"settings": {
+		"assetName": "settings/itemflav/pack/lifeline_heirloom.rpak",
+		"itemType": "account_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_lifeline_heirloom_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#pack_lifeline_heirloom_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "HEIRLOOM",
+		"icon": "",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_lifeline_baton_heirloom",
+		"ownershipTarget": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot_halloween.rmdl",
+		"tickMdlSkin": "base",
+		"openButtonIcon": "rui/events/s03e01/heirloom",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"tags": [
+		],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

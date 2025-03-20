@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1245995807,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_go.rpak",
+		"itemType": "ping",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_go_outer",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_go_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_go_inner_shadow",
+		"outerIcon": "rui/hud/ping/icon_ping_go_outer",
+		"shadowIcon": "rui/hud/ping/icon_ping_go_inner_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_go_outline",
+		"tags": [
+		],
+		"defaultColor": "<1.000000,0.705882,0.000000>",
+		"drawHeightLine": true
+	}
+}

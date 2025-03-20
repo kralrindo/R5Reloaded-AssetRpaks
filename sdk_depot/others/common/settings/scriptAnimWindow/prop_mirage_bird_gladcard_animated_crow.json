@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_mirage_bird_gladcard_animated_crow.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/creatures/bird/bird.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/creatures/bird/bird/mirage_bird_gladcard_animated_crow.rseq",
+		"scriptCallbackKey": "",
+		"scale": 0.750000,
+		"propBodygroups": [
+		],
+		"syncCycle": false
+	}
+}

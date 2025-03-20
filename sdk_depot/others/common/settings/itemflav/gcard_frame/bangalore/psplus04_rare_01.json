@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak",
+	"uniqueId": 975957487,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_frame/bangalore/psplus04_rare_01.rpak",
+		"itemType": "gladiator_card_frame",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FRAME_018",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockFuncKey": "psplus04",
+		"fgImageAsset": "rui/gladiator_cards/frames/bangalore/psplus04_rare_01_fg",
+		"bgImageAsset": "rui/gladiator_cards/frames/bangalore/psplus04_rare_01_bg",
+		"fgRuiAsset": "",
+		"bgRuiAsset": "",
+		"colorCorrectionRawPath": "materials/correction/gcards/bangalore/psplus04_rare_01.raw_hdr",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_playstation_plus.rpak"
+			}
+		],
+		"fgImageBlend": 1.000000,
+		"fgImagePremul": 0.000000,
+		"keyCol_0": "<0.972549,0.796079,0.388235>",
+		"keyCol_1": "<1.000000,1.000000,1.000000>",
+		"keyCol_2": "<1.000000,1.000000,1.000000>",
+		"exposure": 0.800000,
+		"light0_col": "<0.172549,0.372549,0.486275>",
+		"light0_specintensity": 1.000000,
+		"light1_col": "<0.960784,0.811765,0.211765>",
+		"light1_specintensity": 1.000000,
+		"light2_col": "<0.800000,0.952941,1.000000>",
+		"light2_specintensity": 0.500000,
+		"light3_col": "<0.988235,0.847059,0.639216>",
+		"light3_specintensity": 1.000000,
+		"shouldHideIfLocked": true,
+		"hasOwnRui": false,
+		"isArtFullFrame": false
+	}
+}

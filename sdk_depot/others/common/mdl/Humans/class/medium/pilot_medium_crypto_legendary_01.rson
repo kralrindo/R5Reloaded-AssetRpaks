@@ -1,0 +1,12 @@
+rigs:
+[
+	animrig\humans\class\medium\mp_pilot_medium_core.rrig
+	animrig\humans\class\medium\pilot_medium_crypto.rrig
+]
+seqs:
+[
+	animseq\ypto_puzzle_remote\dmx\crypto_menu_lobby_center_drone_legendary01.rseq
+	animseq\ypto_puzzle_remote\dmx\crypto_menu_lobby_center_idle_alt_legendary01.rseq
+	animseq\ypto_puzzle_remote\dmx\crypto_menu_lobby_center_idle_legendary01.rseq
+	animseq\ypto_puzzle_remote\dmx\crypto_menu_lobby_center_twitch_legendary01.rseq
+]

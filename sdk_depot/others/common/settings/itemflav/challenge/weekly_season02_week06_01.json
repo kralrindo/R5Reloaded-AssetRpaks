@@ -1,0 +1,103 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1661642288,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week06_01.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 6,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_pit].dooms",
+				"zoneName": "#MAPZONE_THE_ARENA",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_slumlakes].dooms",
+				"zoneName": "#MAPZONE_SLUM_LAKES",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_swamps].dooms",
+				"zoneName": "#MAPZONE_SWAMPLAND_SHORT",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_repulsor].dooms",
+				"zoneName": "#MAPZONE_REPULSOR_STATION_SHORT",
+				"rewardStatRef": "",
+				"goalVal": 4,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

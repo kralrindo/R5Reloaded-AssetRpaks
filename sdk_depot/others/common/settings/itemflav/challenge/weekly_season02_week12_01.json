@@ -1,0 +1,103 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1575847842,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week12_01.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 12,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_cage].dooms",
+				"zoneName": "#MAPZONE_CAGE_SHORT",
+				"rewardStatRef": "",
+				"goalVal": 3,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_market].dooms",
+				"zoneName": "#MAPZONE_MARKETPLACE_SHORT",
+				"rewardStatRef": "",
+				"goalVal": 3,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_bunker].dooms",
+				"zoneName": "#MAPZONE_BUNKER_PASS_SHORT",
+				"rewardStatRef": "",
+				"goalVal": 3,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#CHALLENGE_ZONE_KNOCKDOWNS",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.zones[can_thunderdome].dooms",
+				"zoneName": "#MAPZONE_THUNDERDOME",
+				"rewardStatRef": "",
+				"goalVal": 3,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

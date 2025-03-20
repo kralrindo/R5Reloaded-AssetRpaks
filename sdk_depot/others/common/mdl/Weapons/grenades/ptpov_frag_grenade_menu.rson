@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_gladcard_animated_puzzle.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_gladcard_animated_puzzle_idle.rseq
+]

@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 923394184,
+	"settings": {
+		"assetName": "settings/itemflav/ability/crypto_pas_neurolink.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_CRYPTO",
+		"localizationKey_NAME_SHORT": "#PAS__CRYPTO",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_CRYPTO_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_CRYPTO_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_crypto",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_CRYPTO",
+		"tags": [
+		]
+	}
+}

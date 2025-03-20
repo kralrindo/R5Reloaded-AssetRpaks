@@ -1,0 +1,53 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1673450061,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/duos_badge.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_account_duos_badge_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_badge_account_duos_badge_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_account_duos_badge_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.s03_duos_tiers_earned",
+		"dynamicTextStatRef": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/duos_tier1",
+				"ruiAsset": "",
+				"unlocksAt": 1.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/duos_tier2",
+				"ruiAsset": "",
+				"unlocksAt": 2.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/duos_tier3",
+				"ruiAsset": "",
+				"unlocksAt": 4.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/duos_tier4",
+				"ruiAsset": "",
+				"unlocksAt": 8.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

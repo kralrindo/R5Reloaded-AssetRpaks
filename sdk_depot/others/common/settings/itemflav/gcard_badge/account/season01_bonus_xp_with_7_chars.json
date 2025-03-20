@@ -1,0 +1,43 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1305785150,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/season01_bonus_xp_with_7_chars.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_account_season01_bonus_xp_with_7_chars_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_account_season01_bonus_xp_with_7_chars_DESCRIPTION_SHORT",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.seasons[SAID01769158912].battlepass_bonus_xp_with_7_characters",
+		"dynamicTextStatRef": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season01.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_wild_frontier_bonus_exp.rpak",
+				"unlocksAt": 7.000000
+			},
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_wild_frontier_bonus_exp.rpak",
+				"unlocksAt": 9.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

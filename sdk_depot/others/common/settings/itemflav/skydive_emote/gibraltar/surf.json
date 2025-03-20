@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 740058780,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/gibraltar/surf.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_gibraltar_surf_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_S01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_surf",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_gibraltar_surf",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_gibraltar/gibraltar_freefall_emote_surf.rseq",
+		"video": "media/skydive_emotes/gibraltar_surf",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

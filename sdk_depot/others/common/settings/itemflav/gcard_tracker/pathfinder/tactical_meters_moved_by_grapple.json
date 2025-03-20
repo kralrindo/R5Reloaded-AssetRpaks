@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 232744669,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/pathfinder/tactical_meters_moved_by_grapple.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_pathfinder_tactical_meters_moved_by_grapple_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_pathfinder_tactical_meters_moved_by_grapple_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_pathfinder_tactical_meters_moved_by_grapple",
+		"ownershipTarget": "",
+		"statRef": "stats.pathfinder_tactical_meters_moved_by_grapple",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "#gcard_tracker_suffix_meters",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isTheEmpty": false
+	}
+}

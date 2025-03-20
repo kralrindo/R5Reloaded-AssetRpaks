@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\peacekeeper\ptpov_peacekeeper\rechamber_ice.rseq
+	animseq\weapons\peacekeeper\ptpov_peacekeeper\rechamber_onehanded_ice.rseq
+	animseq\weapons\peacekeeper\ptpov_peacekeeper\run_layer_reload_ice.rseq
+	animseq\weapons\peacekeeper\ptpov_peacekeeper\switch_to_onehanded_ice.rseq
+	animseq\weapons\peacekeeper\ptpov_peacekeeper\switch_to_twohanded_ice.rseq
+]

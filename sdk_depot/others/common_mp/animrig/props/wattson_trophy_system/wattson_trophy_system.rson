@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\wattson_trophy_system\dmx\animation\prop_trophy_close.rseq
+	animseq\wattson_trophy_system\dmx\animation\prop_trophy_expand.rseq
+	animseq\wattson_trophy_system\dmx\animation\prop_trophy_idle_closed.rseq
+	animseq\wattson_trophy_system\dmx\animation\prop_trophy_idle_open.rseq
+	animseq\wattson_trophy_system\dmx\animation\prop_trophy_idle_open_spin.rseq
+]

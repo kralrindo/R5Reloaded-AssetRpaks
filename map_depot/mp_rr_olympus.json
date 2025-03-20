@@ -7351,6 +7351,76 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x25334A4501F17E8B.rpak",
+      "$guid": "0x25334A4501F17E8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x362943B972B62623.rpak",
+      "$guid": "0x362943B972B62623"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3E6643CFE882BBE6.rpak",
+      "$guid": "0x3E6643CFE882BBE6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x40B775F415254DA2.rpak",
+      "$guid": "0x40B775F415254DA2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x81D0017315B2861D.rpak",
+      "$guid": "0x81D0017315B2861D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B5505EEAD82D2FE.rpak",
+      "$guid": "0x8B5505EEAD82D2FE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x952F5E9B24D50D88.rpak",
+      "$guid": "0x952F5E9B24D50D88"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE31256948CA1E3.rpak",
+      "$guid": "0xAE31256948CA1E3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC77954B34E8D7FE8.rpak",
+      "$guid": "0xC77954B34E8D7FE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCD6FC7AA56DA414A.rpak",
+      "$guid": "0xCD6FC7AA56DA414A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD446AEF0B66C154A.rpak",
+      "$guid": "0xD446AEF0B66C154A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF2BF86161A1B8255.rpak",
+      "$guid": "0xF2BF86161A1B8255"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFA22A2B5882BD7A9.rpak",
+      "$guid": "0xFA22A2B5882BD7A9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFD4DB850CF262BA7.rpak",
+      "$guid": "0xFD4DB850CF262BA7"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x30E3F4C2B5DED2AC.rpak",
       "$guid": "0x30E3F4C2B5DED2AC"
     },
@@ -23433,6 +23503,46 @@
       "_type": "txtr",
       "_path": "texture/0xFFD902DC69CBC2C1.rpak",
       "$guid": "0xFFD902DC69CBC2C1"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_damaged_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_opaque_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_opaque_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_gold_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_damaged_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_gold_rgdp.rpak"
     },
     {
       "_type": "matl",

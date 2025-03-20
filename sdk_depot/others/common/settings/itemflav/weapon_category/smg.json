@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 813223296,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/smg.rpak",
+		"itemType": "weapon_category",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_smg_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/weapon_categories/smg",
+		"grxMode": "NONE",
+		"statsKey": "smg",
+		"tags": [
+		],
+		"menuZoomOffset": "<6.000000,0.000000,4.000000>"
+	}
+}

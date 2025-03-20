@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1371575414,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_enemy.rpak",
+		"itemType": "ping",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_go_outer",
+		"grxMode": "NONE",
+		"colorKey": "enemy",
+		"innerIcon": "rui/hud/ping/icon_ping_enemy_inner",
+		"innerShadowIcon": "",
+		"outerIcon": "rui/hud/ping/icon_ping_enemy",
+		"shadowIcon": "rui/hud/ping/icon_ping_enemy_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_enemy_outline",
+		"tags": [
+		],
+		"defaultColor": "<1.000000,0.192157,0.050980>",
+		"drawHeightLine": true
+	}
+}

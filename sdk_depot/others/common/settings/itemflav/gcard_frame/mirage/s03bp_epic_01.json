@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak",
+	"uniqueId": 227958663,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_frame/mirage/s03bp_epic_01.rpak",
+		"itemType": "gladiator_card_frame",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FRAME_013",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_frame_mirage_s03bp_epic_01",
+		"ownershipTarget": "",
+		"unlockFuncKey": "",
+		"fgImageAsset": "rui/gladiator_cards/frames/mirage/s03bp_epic_01_fg",
+		"bgImageAsset": "rui/gladiator_cards/frames/mirage/s03bp_epic_01_bg",
+		"fgRuiAsset": "",
+		"bgRuiAsset": "",
+		"colorCorrectionRawPath": "materials/correction/gcards/mirage/s03bp_epic_01.raw_hdr",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"fgImageBlend": 1.000000,
+		"fgImagePremul": 0.000000,
+		"keyCol_0": "<1.000000,1.000000,1.000000>",
+		"keyCol_1": "<1.000000,1.000000,1.000000>",
+		"keyCol_2": "<1.000000,1.000000,1.000000>",
+		"exposure": 0.800000,
+		"light0_col": "<0.486275,0.266667,0.019608>",
+		"light0_specintensity": 1.000000,
+		"light1_col": "<1.000000,0.878431,0.650980>",
+		"light1_specintensity": 1.000000,
+		"light2_col": "<1.000000,0.980392,0.925490>",
+		"light2_specintensity": 1.000000,
+		"light3_col": "<0.286275,0.568627,0.772549>",
+		"light3_specintensity": 1.000000,
+		"shouldHideIfLocked": false,
+		"hasOwnRui": false,
+		"isArtFullFrame": true
+	}
+}

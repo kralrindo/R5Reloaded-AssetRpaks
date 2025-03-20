@@ -1,0 +1,13 @@
+models:
+[
+	mdl\props\lifeline_drone\lifeline_drone.rmdl
+	mdl\props\health_packs\health_pack_large.rmdl
+	mdl\props\health_packs\health_pack_small.rmdl
+	mdl\props\shield_battery\shield_battery.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

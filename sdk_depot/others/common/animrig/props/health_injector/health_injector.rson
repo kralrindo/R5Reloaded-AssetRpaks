@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\health_injector\health_injector_gladcard_animated_gunslinger.rseq
+	animseq\props\health_injector\health_injector_gladcard_animated_gunslinger_idle.rseq
+	animseq\props\health_injector\idle.rseq
+]

@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 235773568,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/season02_event01.rpak",
+		"itemType": "account_currency",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#grx_currency_season02_event01_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#grx_currency_season02_event01_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#grx_currency_season02_event01_DESCRIPTION_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/events/season02_event01/currency_icon",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/events/season02_event01/currency_reward_icon",
+		"previewMdl": "mdl/menu/coin_s2_icc.rmdl",
+		"purchaseSound": "UI_Menu_Purchase_IronCrowns",
+		"tags": [
+		]
+	}
+}

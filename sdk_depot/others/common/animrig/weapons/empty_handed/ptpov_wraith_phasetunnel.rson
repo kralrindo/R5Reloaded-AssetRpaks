@@ -1,0 +1,19 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_charge_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_draw_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_holster_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_jump_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_land_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_onehanded_charge_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_onehanded_draw_seq.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_transition_draw2charge.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_transition_onehand2twohand.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_transition_onehanded_draw2charge.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\phasetunnel_transition_twohand2onehand.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\run_layer.rseq
+	animseq\weapons\empty_handed\ptpov_wraith_phasetunnel\sprint_seq.rseq
+]

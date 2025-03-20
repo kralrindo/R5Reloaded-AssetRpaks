@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\beam_ar\w_beam_ar\attack_seq.rseq
+	animseq\weapons\beam_ar\w_beam_ar\idle_seq.rseq
+]

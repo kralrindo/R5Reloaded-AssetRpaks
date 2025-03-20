@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_mirage_skydive_rodeo.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "COPY_PARENT",
+		"modelName": "",
+		"modelScriptKey": "",
+		"attachPoint": "PROPGUN",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_holo/pilot_freefall_emote_rodeo_holoprop.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"propBodygroups": [
+		],
+		"syncCycle": false
+	}
+}

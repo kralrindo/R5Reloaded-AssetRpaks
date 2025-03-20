@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_mirage_disguise\mirage_disguise_attack_seq.rseq
+	animseq\weapons\empty_handed\ptpov_mirage_holopilot_ult\mirage_holopilot_ult_attack_seq.rseq
+]

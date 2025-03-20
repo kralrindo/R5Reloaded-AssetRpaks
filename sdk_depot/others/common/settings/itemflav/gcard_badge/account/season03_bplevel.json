@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 2093626156,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/season03_bplevel.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_account_season03_bplevel_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_account_season03_bplevel_DESCRIPTION_SHORT",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.seasons[SAID00724938940].battlepass_level",
+		"dynamicTextStatRef": "stats.seasons[SAID00724938940].battlepass_level",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "",
+				"ruiAsset": "ui/badge_s3_bplevel.rpak",
+				"unlocksAt": 0.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": false,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

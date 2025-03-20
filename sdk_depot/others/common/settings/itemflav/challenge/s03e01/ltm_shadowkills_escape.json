@@ -1,0 +1,96 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1476932468,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/s03e01/ltm_shadowkills_escape.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "EVENT",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 0,
+		"tiers": [
+			{
+				"description": "#S03E01_CHALLENGE_LTM_SHADOWKILLS_1",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.s03e01_ltm_shadows_killed",
+				"zoneName": "",
+				"rewardStatRef": "stats.s03e01_badge",
+				"goalVal": 1,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+					{
+						"flavor": "settings/itemflav/gcard_badge/account/s03e01_main.rpak",
+						"quantity": 0
+					}
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#S03E01_CHALLENGE_LTM_SHADOWKILLS_N",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.s03e01_ltm_shadows_killed",
+				"zoneName": "",
+				"rewardStatRef": "stats.s03e01_badge",
+				"goalVal": 50,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+					{
+						"flavor": "settings/itemflav/gcard_badge/account/s03e01_main.rpak",
+						"quantity": 0
+					}
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": true,
+				"inSingleMatch": false
+			},
+			{
+				"description": "#S03E01_CHALLENGE_LTM_ESCAPE",
+				"character": "",
+				"character2": "",
+				"character3": "",
+				"character4": "",
+				"weapon": "",
+				"statRef": "stats.s03e01_ltm_placements_win_legend",
+				"zoneName": "",
+				"rewardStatRef": "stats.s03e01_badge",
+				"goalVal": 25,
+				"xpReward": 0,
+				"bpLevelsReward": 0,
+				"itemRewards": [
+					{
+						"flavor": "settings/itemflav/gcard_badge/account/s03e01_main.rpak",
+						"quantity": 0
+					}
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

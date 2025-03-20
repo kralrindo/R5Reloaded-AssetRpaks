@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1349782031,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/wraith/season02_event02_legendary_01.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_169",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/character_wraith_ghostwraith",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_wraith_season02_event02_legendary_01",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/light/pilot_light_wraith_cyber_ninja.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_light_wraith_cyber_ninja.rmdl",
+		"skinName": "base",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "animseq/humans/class/light/pilot_light_wraith/wraith_cyberninja_menu_select.rseq",
+		"customCharSelectIdleAnim": "animseq/humans/class/light/pilot_light_wraith/wraith_cyberninja_menu_select_idle.rseq",
+		"customCharSelectReadyIntroAnim": "animseq/humans/class/light/pilot_light_wraith/wraith_cyberninja_menu_ready_up.rseq",
+		"customCharSelectReadyIdleAnim": "animseq/humans/class/light/pilot_light_wraith/wraith_cyberninja_menu_ready_up_idle.rseq",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event02.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

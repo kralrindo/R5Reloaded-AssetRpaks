@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 519356259,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/default.rpak",
+		"itemType": "melee_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#melee_skin_default_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#melee_skin_default_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"mainWeaponClassname": "mp_weapon_melee_survival",
+		"offhandWeaponClassname": "melee_pilot_emptyhanded",
+		"menuAnimSeq": "",
+		"tags": [
+		],
+		"menuMdlRot": "<0.000000,0.000000,0.000000>"
+	}
+}

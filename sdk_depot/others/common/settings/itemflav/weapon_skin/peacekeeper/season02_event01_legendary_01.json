@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 291019373,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/peacekeeper/season02_event01_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_156",
+		"localizationKey_NAME_SHORT": "#SKIN_156",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_peacekeeper_season02_event01_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/peacekeeper/w_peacekeeper_bf.rmdl",
+		"viewModel": "mdl/Weapons/peacekeeper/ptpov_peacekeeper_bf.rmdl",
+		"skinName": "season02_event01_legendary_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

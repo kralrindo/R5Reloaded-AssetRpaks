@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 352144593,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/octane.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_octane_NAME",
+		"localizationKey_NAME_SHORT": "#character_octane_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_octane",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Octane",
+		"musicMainMenuToLobby": "mainmenu_music_Octane",
+		"musicLobby": "Music_Lobby_Octane",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Octane",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Octane",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Octane",
+		"musicSkydive": "Music_Jump_Octane",
+		"musicWin": "Music_EndGame_Win_Octane",
+		"musicLoss": "Music_EndGame_Loss_Octane",
+		"character": "settings/itemflav/character/octane.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

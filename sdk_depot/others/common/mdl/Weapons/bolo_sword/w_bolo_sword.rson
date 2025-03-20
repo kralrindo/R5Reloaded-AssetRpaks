@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\bolo_sword\w_bolo_sword\attack_seq.rseq
+	animseq\weapons\bolo_sword\w_bolo_sword\idle_seq.rseq
+]

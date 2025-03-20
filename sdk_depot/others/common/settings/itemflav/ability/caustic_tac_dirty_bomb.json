@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 49011109,
+	"settings": {
+		"assetName": "settings/itemflav/ability/caustic_tac_dirty_bomb.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_DIRTY_BOMB",
+		"localizationKey_NAME_SHORT": "#WPN_DIRTY_BOMB",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_DIRTY_BOMB_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_DIRTY_BOMB_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_caustic",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_dirty_bomb",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

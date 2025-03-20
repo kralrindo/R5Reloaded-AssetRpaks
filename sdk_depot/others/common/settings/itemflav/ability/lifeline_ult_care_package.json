@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 223901079,
+	"settings": {
+		"assetName": "settings/itemflav/ability/lifeline_ult_care_package.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_CARE_PACKAGE",
+		"localizationKey_NAME_SHORT": "#WPN_CARE_PACKAGE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_CARE_PACKAGE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_CARE_PACKAGE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_lifeline",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_care_package",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

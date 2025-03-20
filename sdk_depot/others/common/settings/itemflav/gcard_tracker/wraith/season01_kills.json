@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 53192724,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/wraith/season01_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_wraith_season01_kills_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_wraith_season01_kills_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_wraith_season01_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01769158912].characters[%char%].kills",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/wraith/wild_frontier_stat_tracker_wraith",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season01.rpak"
+			}
+		],
+		"color0": "<0.886275,0.270588,0.062745>",
+		"isTheEmpty": false
+	}
+}

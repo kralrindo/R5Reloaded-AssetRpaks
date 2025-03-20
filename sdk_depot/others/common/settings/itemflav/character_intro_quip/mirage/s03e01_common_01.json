@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak",
+	"uniqueId": 633674748,
+	"settings": {
+		"assetName": "settings/itemflav/character_intro_quip/mirage/s03e01_common_01.rpak",
+		"itemType": "gladiator_card_intro_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_intro_quip_mirage_s03e01_common_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxRef": "character_skin_mirage_s03e01_legendary_01",
+		"ownershipTarget": "settings/itemflav/character_skin/mirage/s03e01_legendary_01.rpak",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_introHalloween_01_qw",
+		"voiceSound": "diag_mp_mirage_glad_introHalloween_01",
+		"stingSound": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s03e01.rpak"
+			}
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

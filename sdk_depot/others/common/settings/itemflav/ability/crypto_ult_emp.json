@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 626098885,
+	"settings": {
+		"assetName": "settings/itemflav/ability/crypto_ult_emp.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_DRONE_EMP",
+		"localizationKey_NAME_SHORT": "#WPN_DRONE_EMP",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_DRONE_EMP_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_DRONE_EMP_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_crypto",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_crypto_drone_emp",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

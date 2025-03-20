@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak",
+	"uniqueId": 1710677363,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_frame/octane/season02_rare_01.rpak",
+		"itemType": "gladiator_card_frame",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_frame_octane_season02_rare_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_frame_octane_season02_rare_01",
+		"ownershipTarget": "",
+		"unlockFuncKey": "",
+		"fgImageAsset": "rui/gladiator_cards/frames/octane/season02_rare_01_fg",
+		"bgImageAsset": "rui/gladiator_cards/frames/octane/season02_rare_01_bg",
+		"fgRuiAsset": "",
+		"bgRuiAsset": "",
+		"colorCorrectionRawPath": "materials/correction/gcards/octane/season02_rare_01.raw_hdr",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"fgImageBlend": 1.000000,
+		"fgImagePremul": 0.000000,
+		"keyCol_0": "<1.000000,1.000000,1.000000>",
+		"keyCol_1": "<1.000000,1.000000,1.000000>",
+		"keyCol_2": "<1.000000,1.000000,1.000000>",
+		"exposure": 0.800000,
+		"light0_col": "<0.090196,0.290196,0.176471>",
+		"light0_specintensity": 1.000000,
+		"light1_col": "<0.380392,0.854902,0.415686>",
+		"light1_specintensity": 2.000000,
+		"light2_col": "<1.000000,0.984314,0.874510>",
+		"light2_specintensity": 1.500000,
+		"light3_col": "<0.937255,0.639216,0.305882>",
+		"light3_specintensity": 1.000000,
+		"shouldHideIfLocked": false,
+		"hasOwnRui": false,
+		"isArtFullFrame": false
+	}
+}

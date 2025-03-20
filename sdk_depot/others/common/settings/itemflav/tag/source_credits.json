@@ -1,0 +1,18 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_tagonly_layout.rpak",
+	"uniqueId": 1799177130,
+	"settings": {
+		"assetName": "settings/itemflav/tag/source_credits.rpak",
+		"itemType": "tagonly",
+		"devDescription": "Source identifier tag",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"tags": [
+		]
+	}
+}

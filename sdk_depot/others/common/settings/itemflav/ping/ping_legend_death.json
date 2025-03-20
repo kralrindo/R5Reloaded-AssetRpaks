@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1610004280,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_legend_death.rpak",
+		"itemType": "ping",
+		"devDescription": "legend death icon",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/gamemodes/shadow_squad/evac_countdown",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_any_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/gametype_icons/ltm/deathpos_skull_legend",
+		"shadowIcon": "rui/hud/gametype_icons/ltm/deathpos_skull_legend",
+		"animIcon": "rui/hud/ping/icon_ping_go_outline",
+		"tags": [
+		],
+		"defaultColor": "<1.000000,1.000000,1.000000>",
+		"drawHeightLine": true
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1643487998,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_octane_skin1.rpak",
+		"itemType": "entitlement",
+		"devDescription": "Twitch Prime Octane Skin Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_octane_skin1",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"pc_offer": "",
+		"xb1_offer": "",
+		"tags": [
+		],
+		"list": [
+			{
+				"flavor": "settings/itemflav/character_skin/octane/twitch02_rare_01.rpak"
+			}
+		]
+	}
+}

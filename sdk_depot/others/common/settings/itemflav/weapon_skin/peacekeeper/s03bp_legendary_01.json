@@ -1,0 +1,213 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1686502326,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/peacekeeper/s03bp_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_peacekeeper_legendary_06_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/battlepass/s03/Lv100Peacekeeper",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_peacekeeper_s03bp_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/peacekeeper/w_peacekeeper_legendary_06.rmdl",
+		"viewModel": "mdl/Weapons/peacekeeper/ptpov_peacekeeper_legendary_06.rmdl",
+		"skinName": "s03bp_legendary_01",
+		"unlockFuncKey": "",
+		"video": "media/battle_pass/peacekeeper_skin_s03bp_legendary_01",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			{
+				"killSoundEvent1p": "",
+				"killSoundEvent3p": "",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 0,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_nrg_ice_idle_FP_LVL1",
+						"fx3p": "P_nrg_ice_idle_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_idle_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"bodygroupChangeList": [
+					{
+						"bodygroupName": "ice",
+						"submodelIdx": 0
+					}
+				],
+				"weaponModListAdd": [
+					{
+						"weaponMod": "legendary_nrg_ice_reactive_charge"
+					},
+					{
+						"weaponMod": "legendary_nrg_ice_muzzle_flash"
+					}
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_Peacekeeper_legendary_level01",
+				"killSoundEvent3p": "",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 1,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_nrg_ice_lvlup_2_FP",
+						"fx3p": "P_nrg_ice_lvlup_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_lvlup_2_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_nrg_ice_idle_FP_LVL2",
+						"fx3p": "P_nrg_ice_idle_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_idle_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"bodygroupChangeList": [
+					{
+						"bodygroupName": "ice",
+						"submodelIdx": 1
+					}
+				],
+				"weaponModListAdd": [
+					{
+						"weaponMod": "legendary_nrg_ice_reactive_charge"
+					},
+					{
+						"weaponMod": "legendary_nrg_ice_muzzle_flash"
+					}
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_Peacekeeper_legendary_level01",
+				"killSoundEvent3p": "",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 3,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_nrg_ice_lvlup_3_FP",
+						"fx3p": "P_nrg_ice_lvlup_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_lvlup_3_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_nrg_ice_idle_FP_LVL3",
+						"fx3p": "P_nrg_ice_idle_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_idle_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"bodygroupChangeList": [
+					{
+						"bodygroupName": "ice",
+						"submodelIdx": 2
+					}
+				],
+				"weaponModListAdd": [
+					{
+						"weaponMod": "legendary_nrg_ice_reactive_charge"
+					},
+					{
+						"weaponMod": "legendary_nrg_ice_muzzle_flash"
+					}
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_Peacekeeper_legendary_level02",
+				"killSoundEvent3p": "",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 5,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_nrg_ice_lvlup_3_FP",
+						"fx3p": "P_nrg_ice_lvlup_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_lvlup_3_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_nrg_ice_idle_FP_LVL3",
+						"fx3p": "P_nrg_ice_idle_3P",
+						"attachment": "muzzle_flash"
+					},
+					{
+						"fx1p": "P_nrg_ice_idle_FP_B",
+						"fx3p": "",
+						"attachment": "__illumPosition"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+					{
+						"weaponMod": "legendary_nrg_ice_reactive_charge"
+					},
+					{
+						"weaponMod": "legendary_nrg_ice_muzzle_flash"
+					}
+				],
+				"weaponModListRemove": [
+				]
+			}
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": true
+	}
+}

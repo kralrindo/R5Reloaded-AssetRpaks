@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1952872582,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_mirage_skin1.rpak",
+		"itemType": "entitlement",
+		"devDescription": "Twitch Prime Mirage Skin Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_mirage_skin1",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"pc_offer": "",
+		"xb1_offer": "",
+		"tags": [
+		],
+		"list": [
+			{
+				"flavor": "settings/itemflav/character_skin/mirage/twitch02_rare_01.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/kraber/twitch02_rare_01.rpak"
+			}
+		]
+	}
+}

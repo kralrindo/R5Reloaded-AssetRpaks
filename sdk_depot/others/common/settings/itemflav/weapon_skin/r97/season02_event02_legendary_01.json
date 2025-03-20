@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 850712459,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/r97/season02_event02_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_180",
+		"localizationKey_NAME_SHORT": "#SKIN_180",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/store/weapon_r99_ruleoflaw",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_r97_season02_event02_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/r97/w_r99_legendary_06.rmdl",
+		"viewModel": "mdl/Weapons/r97/ptpov_r99_legendary_06.rmdl",
+		"skinName": "season02_event02_legendary_01",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

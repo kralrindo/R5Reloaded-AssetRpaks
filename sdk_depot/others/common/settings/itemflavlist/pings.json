@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemflavorlist_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflavlist/pings.rpak",
+		"devDescription": "PLEASE DESCRIBE",
+		"list": [
+			{
+				"flavor": "settings/itemflav/ping/ping_i_go.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_area_visited.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_attacking.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_defending.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_enemy.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_looting.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_watching.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_my_banner.rpak"
+			},
+			{
+				"flavor": "settings/itemflav/ping/ping_respawn_beacon.rpak"
+			}
+		]
+	}
+}

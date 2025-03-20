@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\braltar_bubbleshield\dmx\animation\prop_bubbleshield_deploy.rseq
+	animseq\braltar_bubbleshield\dmx\animation\prop_bubbleshield_deploy_idle.rseq
+	animseq\braltar_bubbleshield\dmx\animation\prop_bubbleshield_shutdown.rseq
+	animseq\braltar_bubbleshield\dmx\animation\prop_bubbleshield_shutdown_idle.rseq
+	animseq\props\gibraltar_bubbleshield\gibraltar_bubbleshield\prop_bubbleshield_deploy_trans.rseq
+	animseq\props\gibraltar_bubbleshield\idle.rseq
+]

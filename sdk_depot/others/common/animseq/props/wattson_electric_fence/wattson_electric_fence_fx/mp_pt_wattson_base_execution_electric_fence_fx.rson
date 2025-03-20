@@ -1,0 +1,14 @@
+models:
+[
+]
+settings:
+[
+	settings\scriptAnimWindow\fx_wattson_exec_fence_01.rpak
+	settings\scriptAnimWindow\fx_wattson_exec_fence_02.rpak
+	settings\scriptAnimWindow\fx_wattson_exec_fence_03.rpak
+	settings\scriptAnimWindow\fx_wattson_exec_fence_04.rpak
+	settings\scriptAnimWindow\fx_wattson_exec_fence_dlight.rpak
+]
+effects:
+[
+]

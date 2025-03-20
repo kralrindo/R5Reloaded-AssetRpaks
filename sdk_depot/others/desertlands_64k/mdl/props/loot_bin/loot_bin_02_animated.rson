@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\loot_bin\loot_bin_02_close.rseq
+	animseq\props\loot_bin\loot_bin_02_open.rseq
+]

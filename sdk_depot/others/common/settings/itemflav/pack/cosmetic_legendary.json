@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 491582306,
+	"settings": {
+		"assetName": "settings/itemflav/pack/cosmetic_legendary.rpak",
+		"itemType": "account_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_cosmetic_legendary_NAME",
+		"localizationKey_NAME_SHORT": "#pack_cosmetic_legendary_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/battlepass/reward_loot",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_cosmetic_legendary",
+		"ownershipTarget": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "legendary",
+		"openButtonIcon": "rui/menu/battlepass/btn_bg_legendary",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_Tick_PuckLand",
+		"unpackSound": "LootCeremony_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_Tick_Deploy_TriadExplo3",
+		"tags": [
+		],
+		"customCol0": "<0.000000,0.000000,0.000000>",
+		"countTextCol": "<0.000000,0.000000,0.000000>",
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": false
+	}
+}

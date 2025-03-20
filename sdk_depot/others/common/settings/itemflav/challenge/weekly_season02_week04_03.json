@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 383976125,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/weekly_season02_week04_03.rpak",
+		"itemType": "challenge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"timeSpan": "SEASON_WEEKLY",
+		"difficulty": "MEDIUM",
+		"grxRewardSequenceRef": "",
+		"tags": [
+		],
+		"weekNumber": 4,
+		"tiers": [
+			{
+				"description": "#CHALLENGE_TOP_3_ANY4_CHARACTERS",
+				"character": "settings/itemflav/character/gibraltar.rpak",
+				"character2": "settings/itemflav/character/bangalore.rpak",
+				"character3": "settings/itemflav/character/caustic.rpak",
+				"character4": "settings/itemflav/character/wattson.rpak",
+				"weapon": "",
+				"statRef": "stats.characters[%char%].placements_top_3",
+				"zoneName": "",
+				"rewardStatRef": "",
+				"goalVal": 1,
+				"xpReward": 0,
+				"bpLevelsReward": 1,
+				"itemRewards": [
+				],
+				"useStatMarker": true,
+				"addProgressFromPrevTier": false,
+				"inSingleMatch": false
+			}
+		],
+		"isPremium": false,
+		"lastTierIsInfinite": false,
+		"pinned": false
+	}
+}

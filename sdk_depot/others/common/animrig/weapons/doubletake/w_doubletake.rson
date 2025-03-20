@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\doubletake\w_doubletake\attack_seq.rseq
+	animseq\weapons\doubletake\w_doubletake\idle_seq.rseq
+]

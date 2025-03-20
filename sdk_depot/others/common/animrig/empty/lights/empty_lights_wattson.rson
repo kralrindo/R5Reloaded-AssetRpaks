@@ -1,0 +1,19 @@
+seqs:
+[
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_electricfence_idel_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_electricfence_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_Fix_Idle_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_Fix_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_shii_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_shii_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_spin_idle_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_animated_spin_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_curiosity_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_daydream_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_loud_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_pole_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_rivets_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_seating_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_smile_light.rseq
+	animseq\humans\class\light\pilot_light_wattson\wattson_gladcard_static_wait_light.rseq
+]

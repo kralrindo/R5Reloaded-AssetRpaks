@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 796940323,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/lmg.rpak",
+		"itemType": "weapon_category",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_lmg_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/buttons/weapon_categories/lmg",
+		"grxMode": "NONE",
+		"statsKey": "lmg",
+		"tags": [
+		],
+		"menuZoomOffset": "<7.000000,0.000000,0.000000>"
+	}
+}

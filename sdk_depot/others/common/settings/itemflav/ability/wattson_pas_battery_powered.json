@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1844660750,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wattson_pas_battery_powered.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_BATTERY_POWERED",
+		"localizationKey_NAME_SHORT": "#GEAR_BATTERY_POWERED",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_BATTERY_POWERED_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_BATTERY_POWERED_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_wattson",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_BATTERY_POWERED",
+		"tags": [
+		]
+	}
+}

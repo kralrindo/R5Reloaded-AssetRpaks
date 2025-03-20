@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1726211068,
+	"settings": {
+		"assetName": "settings/itemflav/ability/mirage_pas_mirage.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_SUR_MIRAGE",
+		"localizationKey_NAME_SHORT": "#PAS_SUR_MIRAGE",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_SUR_MIRAGE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_SUR_MIRAGE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_mirage",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MIRAGE",
+		"tags": [
+		]
+	}
+}

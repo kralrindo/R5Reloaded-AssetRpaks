@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1699246881,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/kunai.rpak",
+		"itemType": "melee_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#melee_skin_kunai_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#melee_skin_kunai_DESCRIPTION_SHORT",
+		"quality": "HEIRLOOM",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_kunai",
+		"ownershipTarget": "",
+		"mainWeaponClassname": "mp_weapon_wraith_kunai_primary",
+		"offhandWeaponClassname": "melee_wraith_kunai",
+		"menuAnimSeq": "",
+		"tags": [
+		],
+		"menuMdlRot": "<100.000000,-90.000000,0.000000>"
+	}
+}

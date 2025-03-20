@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_mirage_holopilot\mirage_holopilot_attack_seq.rseq
+	animseq\weapons\empty_handed\ptpov_mirage_holopilot\mirage_holopilot_attack_seq_alt.rseq
+	animseq\weapons\empty_handed\ptpov_mirage_holopilot\mirage_holopilot_attack_seq_fast.rseq
+	animseq\weapons\empty_handed\ptpov_mirage_holopilot\mirage_holopilot_draw_seq.rseq
+]

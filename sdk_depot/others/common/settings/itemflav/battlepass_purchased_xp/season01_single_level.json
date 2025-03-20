@@ -1,0 +1,21 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_purchased_xp_layout.rpak",
+	"uniqueId": 49435325,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass_purchased_xp/season01_single_level.rpak",
+		"itemType": "battlepass_purchased_xp",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BATTLEPASS_PURCHASED_XP",
+		"localizationKey_NAME_SHORT": "#BATTLEPASS_PURCHASED_XP",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "CONSUMABLE",
+		"grxMode": "CONSUMABLE",
+		"grxRef": "battlepass_season_1_purchased_xp",
+		"ownershipTarget": "",
+		"tags": [
+		]
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_loot_ceremony_tick_idle.rpak",
+		"devDescription": "",
+		"type": "PlaySound",
+		"soundEventName": "LootCeremony_Tick_IdleLoop"
+	}
+}

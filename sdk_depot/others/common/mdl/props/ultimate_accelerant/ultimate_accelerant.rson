@@ -1,0 +1,12 @@
+rigs:
+[
+	animrig\props\ultimate_accelerant\ultimate_accelerant.rrig
+]
+seqs:
+[
+	animseq\props\ultimate_accelerant\ultimate_accelerant\healthpack_shield01_gladcard_animated_baddog.rseq
+	animseq\props\ultimate_accelerant\ultimate_accelerant\healthpack_shield01_gladcard_animated_baddog_idle.rseq
+	animseq\props\ultimate_accelerant\ultimate_accelerant\prop_shield_battery_long.rseq
+	animseq\props\ultimate_accelerant\ultimate_accelerant\prop_shield_battery_scene.rseq
+	animseq\props\ultimate_accelerant\ultimate_accelerant\prop_shield_battery_short.rseq
+]

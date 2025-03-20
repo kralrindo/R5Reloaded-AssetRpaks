@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wattson_menu_hand_trail.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wat_hand_elec_trail",
+		"attachPoint": "fx_mid_finger_R",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

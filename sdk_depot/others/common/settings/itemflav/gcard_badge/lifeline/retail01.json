@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1981621356,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/lifeline/retail01.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_lifeline_retail01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_lifeline_retail01_DESCRIPTION_SHORT",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_lifeline_retail01",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.respawn_dev",
+		"dynamicTextStatRef": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_retail01.rpak"
+			}
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/lifeline_retail01",
+				"ruiAsset": "",
+				"unlocksAt": 1.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": true,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

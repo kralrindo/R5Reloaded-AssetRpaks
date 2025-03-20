@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 252803472,
+	"settings": {
+		"assetName": "settings/itemflav/ability/crypto_tac_drone.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_AERIAL_DRONE",
+		"localizationKey_NAME_SHORT": "#WPN_AERIAL_DRONE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_AERIAL_DRONE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_AERIAL_DRONE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_crypto",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_crypto_drone",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

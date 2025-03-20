@@ -1,0 +1,31 @@
+seqs:
+[
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\crouch.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\crouch_to_fire.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\crouch_to_idle.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\crouch_to_sprint.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\drain_fluid_layer.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\draw.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\holster_backToss.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\holster_micDrop.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\holster_rocker.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\holster_spin.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\holster_throwAway.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\idle.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\idle_to_crouch.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\idle_to_fire.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\idle_to_sprint.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\jump.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\land.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\land_high.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\land_low.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\land_med.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\lower.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\meleeraise.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\raise.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\run_layer.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\sprint.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\sprint_to_crouch.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\sprint_to_fire.rseq
+	animseq\weapons\octane_epipen\ptpov_octane_epipen_held\sprint_to_idle.rseq
+]

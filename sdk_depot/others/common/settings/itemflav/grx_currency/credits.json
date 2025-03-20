@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 1658387658,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/credits.rpak",
+		"itemType": "account_currency",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "#CURRENCY_CREDITS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/common/currency_credits",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "grx_currency_credits",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/menu/battlepass/reward_tokens",
+		"previewMdl": "",
+		"purchaseSound": "UI_Menu_Purchase_Tokens",
+		"tags": [
+		]
+	}
+}

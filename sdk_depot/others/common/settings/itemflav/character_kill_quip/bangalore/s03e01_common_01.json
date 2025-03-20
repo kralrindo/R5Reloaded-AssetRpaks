@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 404990669,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/bangalore/s03e01_common_01.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_kill_quip_bangalore_s03e01_common_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxRef": "character_skin_bangalore_s03e01_legendary_01",
+		"ownershipTarget": "settings/itemflav/character_skin/bangalore/s03e01_legendary_01.rpak",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_tauntHalloween_01",
+		"victimVoiceSoundEvent": "diag_mp_bangalore_glad_tauntHalloween_01_3p_victim",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_s03e01.rpak"
+			}
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\pathfinder_zipline\pathfinder_zipline\idle.rseq
+	animseq\props\pathfinder_zipline\pathfinder_zipline\prop_pathfinder_zipline_expand_side.rseq
+	animseq\props\pathfinder_zipline\pathfinder_zipline\prop_pathfinder_zipline_expand_sideup.rseq
+	animseq\props\pathfinder_zipline\pathfinder_zipline\prop_pathfinder_zipline_expand_up.rseq
+	animseq\props\pathfinder_zipline\pathfinder_zipline\prop_pathfinder_zipline_release.rseq
+]

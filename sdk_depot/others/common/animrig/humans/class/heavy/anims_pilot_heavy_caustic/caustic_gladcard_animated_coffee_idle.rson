@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\caustic_mug\caustic_mug.rmdl
+	mdl\props\caustic_flask\caustic_flask.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

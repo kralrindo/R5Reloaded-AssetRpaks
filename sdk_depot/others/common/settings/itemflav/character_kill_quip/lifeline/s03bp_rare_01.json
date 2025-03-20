@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 1447956831,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/lifeline/s03bp_rare_01.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#QUIP_003",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_kill_quip_lifeline_s03bp_rare_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_taunt_42_qw",
+		"victimVoiceSoundEvent": "diag_mp_lifeline_glad_taunt_42_3p_victim",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

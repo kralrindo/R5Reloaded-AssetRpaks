@@ -1,0 +1,15 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\bullets\damage_arrow\damage.rseq
+	animseq\weapons\bullets\damage_arrow\damage_fade.rseq
+	animseq\weapons\bullets\damage_arrow\damage_fade_slow.rseq
+	animseq\weapons\bullets\damage_arrow\damage_incoming.rseq
+	animseq\weapons\bullets\damage_arrow\damage_incoming_large.rseq
+	animseq\weapons\bullets\damage_arrow\damage_incoming_small.rseq
+	animseq\weapons\bullets\damage_arrow\damage_large.rseq
+	animseq\weapons\bullets\damage_arrow\damage_small.rseq
+	animseq\weapons\bullets\damage_arrow\whizby_incoming_small.rseq
+]

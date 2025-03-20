@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 510535756,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/fireball.rpak",
+		"itemType": "weapon_charm",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_charm_fireball_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_fireball",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_fireball.rmdl",
+		"attachmentName": "CHARM",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

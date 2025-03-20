@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1249507282,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/_empty.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "skydive_emote_bangalore_backflip",
+		"ownershipTarget": "",
+		"animSequence": "",
+		"video": "",
+		"tags": [
+		],
+		"isTheEmpty": true
+	}
+}

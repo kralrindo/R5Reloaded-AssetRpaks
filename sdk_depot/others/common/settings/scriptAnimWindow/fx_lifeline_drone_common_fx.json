@@ -1,0 +1,8 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_LifelineDroneCommonFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_lifeline_drone_common_fx.rpak",
+		"devDescription": "",
+		"type": "LifelineDroneCommonFX"
+	}
+}

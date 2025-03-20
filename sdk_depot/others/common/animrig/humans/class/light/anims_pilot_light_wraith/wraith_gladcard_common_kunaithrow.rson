@@ -1,0 +1,12 @@
+models:
+[
+	mdl\Weapons\p2011\p2011_handgun_ab_01.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_wraith_kunai_gladcard_kunaithrow_1.rpak
+	settings\scriptAnimWindow\prop_wraith_kunai_gladcard_kunaithrow_2.rpak
+]
+effects:
+[
+]

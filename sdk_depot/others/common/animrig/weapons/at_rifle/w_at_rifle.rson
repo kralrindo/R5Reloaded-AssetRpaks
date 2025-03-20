@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\at_rifle\w_at_rifle\attack_seq.rseq
+	animseq\weapons\at_rifle\w_at_rifle\attack_seq_alt1.rseq
+	animseq\weapons\at_rifle\w_at_rifle\attack_seq_alt2.rseq
+	animseq\weapons\at_rifle\w_at_rifle\idle_seq.rseq
+]

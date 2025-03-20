@@ -1,0 +1,252 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1190020666,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/r301/season02_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "Reactive Rhino",
+		"localizationKey_NAME": "#SKIN_117",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_BPS1_weapon_r301",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_r301_season02_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/rspn101/w_rspn101_legendary_07.rmdl",
+		"viewModel": "mdl/Weapons/rspn101/ptpov_rspn101_legendary_07.rmdl",
+		"skinName": "season02_legendary_01",
+		"unlockFuncKey": "",
+		"video": "media/battle_pass/r301_skin_season02_legendary_01",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
+			}
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			{
+				"killSoundEvent1p": "",
+				"killSoundEvent3p": "",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 0,
+				"emissiveIntensity": 0.850000,
+				"killFXList": [
+				],
+				"persistentFXList": [
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_r101_1p_legendary_rhino",
+				"killSoundEvent3p": "weapon_r101_3p_legendary_rhino",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 1,
+				"emissiveIntensity": 1.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_301_leg07_body_flash",
+						"fx3p": "P_301_leg07_body_flash_3P",
+						"attachment": "glow_base"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_301_l7_eye_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_2"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_3"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_2"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_3"
+					},
+					{
+						"fx1p": "P_301_l7_eye1_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye1_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_1"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_r101_1p_legendary_rhino",
+				"killSoundEvent3p": "weapon_r101_3p_legendary_rhino",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 3,
+				"emissiveIntensity": 1.500000,
+				"killFXList": [
+					{
+						"fx1p": "P_301_leg07_body_flash",
+						"fx3p": "P_301_leg07_body_flash_3P",
+						"attachment": "glow_base"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_301_leg07_body_stg2",
+						"fx3p": "P_301_leg07_body_stg2_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_2"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_3"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_2"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_3"
+					},
+					{
+						"fx1p": "P_301_l7_eye1_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye1_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_1"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			},
+			{
+				"killSoundEvent1p": "weapon_r101_1p_legendary_rhino",
+				"killSoundEvent3p": "weapon_r101_3p_legendary_rhino",
+				"persistentSoundEvent1p": "",
+				"persistentSoundEvent3p": "",
+				"killCount": 5,
+				"emissiveIntensity": 2.000000,
+				"killFXList": [
+					{
+						"fx1p": "P_301_leg07_body_flash",
+						"fx3p": "P_301_leg07_body_flash_3P",
+						"attachment": "glow_base"
+					}
+				],
+				"persistentFXList": [
+					{
+						"fx1p": "P_301_leg07_body_stg3",
+						"fx3p": "P_301_leg07_body_stg3_3P",
+						"attachment": "glow_base"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_2"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_eye_3"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_2"
+					},
+					{
+						"fx1p": "P_301_l7_eye_stg2",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_eye_3"
+					},
+					{
+						"fx1p": "P_301_l7_eye1_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_L_1"
+					},
+					{
+						"fx1p": "P_301_l7_eye1_stg1",
+						"fx3p": "P_301_l7_eye_stg1_3P",
+						"attachment": "exhaust_R_1"
+					}
+				],
+				"bodygroupChangeList": [
+				],
+				"weaponModListAdd": [
+				],
+				"weaponModListRemove": [
+				]
+			}
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": true
+	}
+}

@@ -1,0 +1,20 @@
+seqs:
+[
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\draw.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\draw_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\fire.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\fire_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\holster.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\holster_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\lower.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\lower_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_hold.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_hold_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_hold_sprinting.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_overhead.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_overhead_onehanded.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_prep_pullout.rseq
+	animseq\weapons\crypto_puzzle_remote\ptpov_crypto_puzzle_remote\toss_prep_pullout_onehanded.rseq
+]

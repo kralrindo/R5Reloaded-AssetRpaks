@@ -1,0 +1,12 @@
+rigs:
+[
+	animrig\props\shield_battery\shield_battery.rrig
+]
+seqs:
+[
+	animseq\props\health_packs\healthpack_shield01_gladcard_animated_baddog.rseq
+	animseq\props\health_packs\healthpack_shield01_gladcard_animated_baddog_idle.rseq
+	animseq\props\shield_battery\shield_battery\prop_shield_battery_long.rseq
+	animseq\props\shield_battery\shield_battery\prop_shield_battery_scene.rseq
+	animseq\props\shield_battery\shield_battery\prop_shield_battery_short.rseq
+]

@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_survival_gameplay_revival_loop.rpak",
+		"devDescription": "",
+		"type": "PlaySound",
+		"soundEventName": "Survival_Gameplay_Revival_Loop"
+	}
+}

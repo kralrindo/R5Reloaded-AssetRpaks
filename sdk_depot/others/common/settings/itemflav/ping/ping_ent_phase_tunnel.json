@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1804431461,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_ent_phase_tunnel.rpak",
+		"itemType": "ping",
+		"devDescription": "Wraith Phase tunnel",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_phase_tunnel",
+		"grxMode": "NONE",
+		"colorKey": "member",
+		"innerIcon": "rui/hud/ping/icon_ping_any_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/ping/icon_ping_phase_tunnel",
+		"shadowIcon": "rui/hud/ping/icon_ping_phase_tunnel_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_go_outline",
+		"tags": [
+		],
+		"defaultColor": "<1.000000,1.000000,1.000000>",
+		"drawHeightLine": false
+	}
+}

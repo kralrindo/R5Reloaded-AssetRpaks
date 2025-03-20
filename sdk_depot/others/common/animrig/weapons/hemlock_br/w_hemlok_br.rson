@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\hemlock_br\w_hemlock_br\attack_seq.rseq
+	animseq\weapons\hemlock_br\w_hemlock_br\idle_seq.rseq
+]

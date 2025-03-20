@@ -1,0 +1,55 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 2105952356,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/lifeline/elite_character.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_lifeline_elite_character_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_elite_character_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.characters[%char%].character_elite_game_wins",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/apex_bloodhound",
+				"ruiAsset": "ui/gc_elite_badge_lifeline.rpak",
+				"unlocksAt": 1.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/apex_bloodhound_lvl_2",
+				"ruiAsset": "ui/gc_elite_badge_lifeline.rpak",
+				"unlocksAt": 5.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/apex_bloodhound_lvl_3",
+				"ruiAsset": "ui/gc_elite_badge_lifeline.rpak",
+				"unlocksAt": 15.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/apex_bloodhound_lvl_4",
+				"ruiAsset": "ui/gc_elite_badge_lifeline.rpak",
+				"unlocksAt": 50.000000
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/apex_bloodhound_lvl_5",
+				"ruiAsset": "ui/gc_elite_badge_lifeline.rpak",
+				"unlocksAt": 100.000000
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": true,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

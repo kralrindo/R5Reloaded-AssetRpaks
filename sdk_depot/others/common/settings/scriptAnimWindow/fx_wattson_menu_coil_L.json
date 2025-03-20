@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wattson_menu_coil_L.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wat_menu_coil_loop",
+		"attachPoint": "fx_coil_left",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_deploy.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_deploy_idle.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_destroy.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_predeploy.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_predeploy_idle.rseq
+]

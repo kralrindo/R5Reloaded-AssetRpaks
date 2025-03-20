@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_music_pack_layout.rpak",
+	"uniqueId": 1182290071,
+	"settings": {
+		"assetName": "settings/itemflav/musicpack/s03bp_gibraltar.rpak",
+		"itemType": "music_pack",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_gibraltar_NAME",
+		"localizationKey_NAME_SHORT": "#character_gibraltar_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "musicpack_s03bp_gibraltar",
+		"ownershipTarget": "",
+		"musicPreview": "Music_Sample_Gibraltar",
+		"musicMainMenuToLobby": "mainmenu_music_Gibraltar",
+		"musicLobby": "Music_Lobby_Gibraltar",
+		"musicLobbyToCharacterSelect": "Music_LobbyToCharSelect",
+		"musicCharacterSelect": "Music_CharacterSelect_Gibraltar",
+		"musicCharacterSelectSolo": "Music_CharacterSelect_Solo_Gibraltar",
+		"musicCharacterSelectDuo": "Music_CharacterSelect_Duos_Gibraltar",
+		"musicSkydive": "Music_Jump_Gibraltar",
+		"musicWin": "Music_EndGame_Win_Gibraltar",
+		"musicLoss": "Music_EndGame_Loss_Gibraltar",
+		"character": "settings/itemflav/character/gibraltar.rpak",
+		"portraitImage": "",
+		"tags": [
+			{
+				"flavor": "settings/itemflav/tag/source_battlepass_season03.rpak"
+			}
+		],
+		"portraitBlend": 0.000000,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"isCharacterBased": true
+	}
+}

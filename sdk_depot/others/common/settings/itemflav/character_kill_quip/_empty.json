@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 461989940,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/_empty.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_kill_quip__empty_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#character_kill_quip__empty_DESCRIPTION_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_kill_quip__empty",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"quickchatAliasSubName": "",
+		"victimVoiceSoundEvent": "",
+		"tags": [
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": true
+	}
+}
