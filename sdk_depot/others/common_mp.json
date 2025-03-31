@@ -16,6 +16,22 @@
       "_path": "settings/player/mp/pilot_survival.rpak"
     },
     {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform2.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform3.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_dummie_dropship.rpak"
+    },
+    {
       "_type": "aseq",
       "_path": "animrig/creatures/flyer/anims_flyer_kingscanyon_animated/flyer_caged_aggro_01.rseq"
     },

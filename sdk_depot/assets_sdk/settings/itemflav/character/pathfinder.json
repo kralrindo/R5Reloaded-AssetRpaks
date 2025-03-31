@@ -1080,10 +1080,6 @@
 			{
 				"flavor": "settings/itemflav/melee_skin/default.rpak",
 				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/melee_skin/pathfinder_gloves.rpak",
-				"featureFlag": ""
 			}
 		],
 		"emoteIcons": [

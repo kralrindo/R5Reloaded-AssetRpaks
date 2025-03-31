@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\octane_knife\ptpov_knife_octane.rrig
+]
+seqs:
+[
+	animseq\weapons\octane_knife\ptpov_knife_octane\menu_pose.rseq
+]

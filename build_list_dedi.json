@@ -7,7 +7,7 @@
 
     "outputDir": "./build/",
 
-    "compressLevel": 6,
+    "compressLevel": 0,
     "compressWorkers": 16,
 
     "paks": [
@@ -31,7 +31,9 @@
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",
-        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json"
+        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json",
+
+        "sdk_depot/others/flowstate/common_flowstate_halomod_dedup.json"
         /*,
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
         "map_depot/mp_rr_canyonlands_mu2_mv.json",

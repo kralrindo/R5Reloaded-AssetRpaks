@@ -1,0 +1,52 @@
+{
+	"name": "models/weapons_r5/misc_octane_heirloom/r5r_macks_knife_body",
+	"width": 4096,
+	"height": 4096,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB0DE1871E23BC0A6",
+	"$textures": {
+		"0": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_col",
+		"1": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_nml",
+		"2": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_gls",
+		"3": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_spec",
+		"4": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_ilm",
+		"5": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_ao",
+		"6": "texture/customsdk/heirlooms/macks_knife/ptpov_r5r_macks_knife_body/ptpov_r5r_mack_knife_body_cav"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x3767E43F6715705F",
+	"$textureAnimation": "0x0"
+}

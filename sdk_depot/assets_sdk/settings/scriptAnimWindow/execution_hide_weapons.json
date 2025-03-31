@@ -1,0 +1,8 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_HideWeapons_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/execution_hide_weapons.rpak",
+		"devDescription": "",
+		"type": "HideWeapon3P"
+	}
+}

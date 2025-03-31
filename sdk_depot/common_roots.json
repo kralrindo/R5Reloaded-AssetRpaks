@@ -20,6 +20,14 @@
     {
       "_type": "stlt",
       "_path": "settings_layout/settings_base_itemflavor_list_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_HideWeapons_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
     }
   ]
 }
