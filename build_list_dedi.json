@@ -2,15 +2,20 @@
 
 {
     "version": 8,
-    "keepDevOnly": false,
+    "keepDevOnly": true,
     "keepClientOnly": false,
 
     "outputDir": "./build/",
 
-    "compressLevel": 0,
+    "streamCache": "cache/pc_roots.starmap",
+
+    "compressLevel": 6,
     "compressWorkers": 16,
 
     "paks": [
+        "sdk_depot/others/common.json",
+        "sdk_depot/others/common_mp.json",
+
         "sdk_depot/common_sdk.json",
         "map_depot/mp_lobby.json",
         "map_depot/mp_rr_canyonlands_staging.json",
@@ -24,9 +29,6 @@
         "map_depot/mp_rr_aqueduct.json",
         "map_depot/mp_rr_party_crasher.json",
         "map_depot/mp_rr_olympus.json",
-
-        "sdk_depot/others/common.json",
-        "sdk_depot/others/common_mp.json",
 
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",

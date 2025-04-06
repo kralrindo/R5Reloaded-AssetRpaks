@@ -15,6 +15,22 @@
   "compressWorkers": 16,
 
   "files": [
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform2.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform3.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_dummie_dropship.rpak"
+    },
     //////MISSING STGS ASSETS (DEPENDENCIES)
     {
       "_type": "stgs",
@@ -251,7 +267,7 @@
       "_path": "settings/scriptAnimWindow/prop_pathfinder_gloves_gladcard_animated_heirloom_idle.rpak"//BOXING GLOVES
     },
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
-    {
+   /* {
       "_type": "stgs",
       "_path": "settings/player/mp/pilot_survival_barricade.rpak"
     },
@@ -294,7 +310,7 @@
     {
       "_type": "stgs",
       "_path": "settings/player/mp/pilot_survival_tracker.rpak"
-    },
+    },*/
     {
       "_type": "stgs",
       "_path": "settings/itemflav/character/pathfinder.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
@@ -23795,7 +23811,6 @@
         "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segLoop_02.rseq",
         "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segLoop_03.rseq",
         "animseq/weapons/3030repeater/ptpov_3030repeater/reload_segStart.rseq",
-        "animseq/weapons/3030repeater/ptpov_3030repeater/run_layer_reload.rseq",
         "animseq/weapons/3030repeater/ptpov_3030repeater/run_layer_reload.rseq",
         "animseq/weapons/3030repeater/ptpov_3030repeater/sprint_althand_anim.rseq",
         "animseq/weapons/3030repeater/ptpov_3030repeater/sprint_althand_seq.rseq",

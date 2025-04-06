@@ -58,57 +58,64 @@
           "height": 460
         },
         {
-          "path": "rui/contributors/mkos",
+          "path": "rui/contributors/macktheboatman",
           "posX": 20,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/mkos",
+          "posX": 520,
           "posY": 1020,
           "width": 460,
           "height": 460
         },
         {
           "path": "rui/contributors/mostlyfireproof",
-          "posX": 520,
-          "posY": 1020,
-          "width": 460,
-          "height": 460
-        },
-        {
-          "path": "rui/contributors/neeflow",
           "posX": 1020,
           "posY": 1020,
           "width": 460,
           "height": 460
         },
         {
-          "path": "rui/contributors/orobotic",
+          "path": "rui/contributors/neeflow",
           "posX": 1520,
           "posY": 20,
           "width": 460,
           "height": 460
         },
         {
-          "path": "rui/contributors/reglitched",
+          "path": "rui/contributors/orobotic",
           "posX": 1520,
           "posY": 520,
           "width": 460,
           "height": 460
         },
         {
-          "path": "rui/contributors/rexx",
+          "path": "rui/contributors/reglitched",
           "posX": 1520,
           "posY": 1020,
           "width": 460,
           "height": 460
         },
         {
-          "path": "rui/contributors/sal",
+          "path": "rui/contributors/rexx",
           "posX": 20,
           "posY": 1520,
           "width": 460,
           "height": 460
         },
         {
-          "path": "rui/contributors/zee",
+          "path": "rui/contributors/sal",
           "posX": 520,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/zee",
+          "posX": 1020,
           "posY": 1520,
           "width": 460,
           "height": 460
@@ -136,15 +143,15 @@
         },
         {
           "path": "rui/death_recap/icon_deathrecap_specialcase_toxin",
-          "posX": 1020,
+          "posX": 1520,
           "posY": 1520,
           "width": 381,
           "height": 519
         },
         {
           "path": "rui/death_recap/icon_deathrecap_specialcases_vault_defences",
-          "posX": 20,
-          "posY": 2020,
+          "posX": 1941,
+          "posY": 1697,
           "width": 381,
           "height": 519
         }

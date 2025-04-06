@@ -16,6 +16,31 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x4542094B4CDF31F0.rpak",
+      "$guid": "0x4542094B4CDF31F0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x68C175CD8879399.rpak",
+      "$guid": "0x68C175CD8879399"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x70129E9114F29C6E.rpak",
+      "$guid": "0x70129E9114F29C6E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x90376E6498849B25.rpak",
+      "$guid": "0x90376E6498849B25"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xCD68D7260A8CCD89.rpak",
+      "$guid": "0xCD68D7260A8CCD89"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xB72DA1D91FEC18B4",
       "$guid": "0xB72DA1D91FEC18B4"
     },
@@ -2308,6 +2333,21 @@
       "_type": "shdr",
       "_path": "shader/0xFD48B709F50F2218",
       "$guid": "0xFD48B709F50F2218"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x57F1043203FD45E1.rpak",
+      "$guid": "0x57F1043203FD45E1"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC50A5B35D1BA4C33.rpak",
+      "$guid": "0xC50A5B35D1BA4C33"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC8D06ED9D4ACB4BA.rpak",
+      "$guid": "0xC8D06ED9D4ACB4BA"
     },
     {
       "_type": "shds",
@@ -4853,6 +4893,161 @@
       "_type": "shds",
       "_path": "shaderset/0xFFFAA0B4763A1224.rpak",
       "$guid": "0xFFFAA0B4763A1224"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x10E80FFF694997B7.rpak",
+      "$guid": "0x10E80FFF694997B7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x115E48D1E4371BAF.rpak",
+      "$guid": "0x115E48D1E4371BAF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1492786C128D061B.rpak",
+      "$guid": "0x1492786C128D061B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1CF6F77865AE2A0F.rpak",
+      "$guid": "0x1CF6F77865AE2A0F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x217BAB6B8C4CD34.rpak",
+      "$guid": "0x217BAB6B8C4CD34"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2B649EB6329DF23C.rpak",
+      "$guid": "0x2B649EB6329DF23C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2CC4AD93A58A255F.rpak",
+      "$guid": "0x2CC4AD93A58A255F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2E91B04B89DD645E.rpak",
+      "$guid": "0x2E91B04B89DD645E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2F23FF585B1652EF.rpak",
+      "$guid": "0x2F23FF585B1652EF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2F2B2D33B87EBFE9.rpak",
+      "$guid": "0x2F2B2D33B87EBFE9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x37EC1E54522CD0B7.rpak",
+      "$guid": "0x37EC1E54522CD0B7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x558A6D7A0F519573.rpak",
+      "$guid": "0x558A6D7A0F519573"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5A6A30BB584304E4.rpak",
+      "$guid": "0x5A6A30BB584304E4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5A6AB9FCA770611E.rpak",
+      "$guid": "0x5A6AB9FCA770611E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5A8CA0485C856D16.rpak",
+      "$guid": "0x5A8CA0485C856D16"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x64F862F5E1E2D49F.rpak",
+      "$guid": "0x64F862F5E1E2D49F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x706B5A928FD8DBDE.rpak",
+      "$guid": "0x706B5A928FD8DBDE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x78993FEB4BA59335.rpak",
+      "$guid": "0x78993FEB4BA59335"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8247286C9189A547.rpak",
+      "$guid": "0x8247286C9189A547"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x883DABBE41E3BC6C.rpak",
+      "$guid": "0x883DABBE41E3BC6C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA4EB477A25FA79B.rpak",
+      "$guid": "0xA4EB477A25FA79B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAB3CE9FB895049CF.rpak",
+      "$guid": "0xAB3CE9FB895049CF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE6B991DF18E58D3.rpak",
+      "$guid": "0xAE6B991DF18E58D3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBE71817BD4214256.rpak",
+      "$guid": "0xBE71817BD4214256"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCA8A839B9256553C.rpak",
+      "$guid": "0xCA8A839B9256553C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCB7B5750E70BEC7D.rpak",
+      "$guid": "0xCB7B5750E70BEC7D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE22F6F06F518E44A.rpak",
+      "$guid": "0xE22F6F06F518E44A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE72293DACC46268C.rpak",
+      "$guid": "0xE72293DACC46268C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF55214972A49F721.rpak",
+      "$guid": "0xF55214972A49F721"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF9217E0B82D4FBAD.rpak",
+      "$guid": "0xF9217E0B82D4FBAD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFDBE77FBA33C8EEE.rpak",
+      "$guid": "0xFDBE77FBA33C8EEE"
     },
     {
       "_type": "txtr",
@@ -21221,6 +21416,142 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/cockpit/cockpit_interior_column_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/fire_extinguisher_small_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/ship_console_control_small_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/ship_console_control_tower_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/ship_interior_console_screens_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/signs/outpost_207_computer/computer_screen_idle_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/trim_metal_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/beacon_big_screen_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/cockpit_interior_column_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/fire_extinguisher_small_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/ship_console_control_small_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/ship_console_control_tower_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/cockpit/ship_interior_console_screens_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/signs/outpost_207_computer/computer_screen_idle_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/beacon_big_screen_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/beacon_big_screen_02_transparent_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/kodai_live_fire_test/kodai_live_fire_test_rooftrim_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_floor_02_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_floor_03_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_painted_metal_02_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_roof_light_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_roof_panel_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_stairs_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_stairs_01_off_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/kodai_live_fire_test/kodai_live_fire_test_rooftrim_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_floor_02_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_floor_03_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_painted_metal_02_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_roof_light_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_roof_panel_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_stairs_01_off_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_stairs_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01_shadow_wldc.rpak"
     },
     {
@@ -26778,10 +27109,6 @@
     {
       "_type": "matl",
       "_path": "material/world/metal/trim_metal_01_colpass_rgdc.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/world/metal/trim_metal_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -33098,6 +33425,26 @@
         "animseq/door/door_256x256x8_elevatorstyle01_animated/close.rseq",
         "animseq/door/door_256x256x8_elevatorstyle01_animated/open.rseq"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_big_screen_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/cockpit/ship_console_control_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/IMC_base/ladder_modular_16_IMC.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/IMC_base/ladder_modular_32_IMC.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/IMC_base/monitor_outpost207_imc_screen_01.rmdl"
     },
     {
       "_type": "mdl_",
