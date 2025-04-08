@@ -49166,21 +49166,6 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/props/loot_bin/loot_bin_01_animated.rmdl",
-      "$sequences": [
-        "animseq/ot_bin/dmx/animation/loot_bin_01_loba_close_top.rseq",
-        "animseq/ot_bin/dmx/animation/loot_bin_01_loba_open_bottom.rseq",
-        "animseq/ot_bin/dmx/animation/loot_bin_01_loba_open_top.rseq",
-        "animseq/ot_bin/dmx/animation/loot_bin_01_loba_openidle_top.rseq",
-        "animseq/props/loot_bin/loot_bin_01_loba_close.rseq",
-        "animseq/props/loot_bin/loot_bin_01_loba_close_all.rseq",
-        "animseq/props/loot_bin/loot_bin_01_loba_open.rseq",
-        "animseq/props/loot_bin/loot_bin_01_loba_open_all.rseq",
-        "animseq/props/loot_bin/loot_bin_01_loba_openidle_all.rseq"
-      ]
-    },
-    {
-      "_type": "mdl_",
       "_path": "mdl/props/proxy_r5/pvp_currency_container.rmdl"
     },
     {
