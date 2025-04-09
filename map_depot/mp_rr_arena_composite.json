@@ -4,7 +4,7 @@
   "name": "mp_rr_arena_composite",
   "streamFileMandatory": "paks/Win64/mp_rr_arena_composite.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_arena_composite.opt.starpak",
-  "assetsDir": "./assetss9c/",
+  "assetsDir": "map_depot/assets/mp_rr_arena_composite/",
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
   "compressLevel": 6,
@@ -39,6 +39,11 @@
       "_type": "shdr",
       "_path": "shader/0x13541C13399F047A.rpak",
       "$guid": "0x13541C13399F047A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x14FA8C33E9EA1EAC.rpak",
+      "$guid": "0x14FA8C33E9EA1EAC"
     },
     {
       "_type": "shdr",
@@ -452,6 +457,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x7BBE0F3A0A380AD3.rpak",
+      "$guid": "0x7BBE0F3A0A380AD3"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x7D68BB7BEB586D40.rpak",
       "$guid": "0x7D68BB7BEB586D40"
     },
@@ -464,6 +474,11 @@
       "_type": "shdr",
       "_path": "shader/0x7F7FAB5429D65CDC.rpak",
       "$guid": "0x7F7FAB5429D65CDC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7FBB348364B335B7.rpak",
+      "$guid": "0x7FBB348364B335B7"
     },
     {
       "_type": "shdr",
@@ -484,6 +499,11 @@
       "_type": "shdr",
       "_path": "shader/0x8573EE631D763748.rpak",
       "$guid": "0x8573EE631D763748"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x86747BB049E481D8.rpak",
+      "$guid": "0x86747BB049E481D8"
     },
     {
       "_type": "shdr",
@@ -629,6 +649,11 @@
       "_type": "shdr",
       "_path": "shader/0x9E344AF11DE977A.rpak",
       "$guid": "0x9E344AF11DE977A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x9FC52BEE7CF7AD6F.rpak",
+      "$guid": "0x9FC52BEE7CF7AD6F"
     },
     {
       "_type": "shdr",
@@ -1157,6 +1182,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xFB5D640F93911A06.rpak",
+      "$guid": "0xFB5D640F93911A06"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xFC79C6661FEA3BEF.rpak",
       "$guid": "0xFC79C6661FEA3BEF"
     },
@@ -1547,6 +1577,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x50D2E4C31EB82E1D.rpak",
+      "$guid": "0x50D2E4C31EB82E1D"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x52208E7CE8C707F9.rpak",
       "$guid": "0x52208E7CE8C707F9"
     },
@@ -1672,6 +1707,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x67A17DD633918DEA.rpak",
+      "$guid": "0x67A17DD633918DEA"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x67B6283AEEE5471B.rpak",
       "$guid": "0x67B6283AEEE5471B"
     },
@@ -1724,6 +1764,11 @@
       "_type": "shds",
       "_path": "shaderset/0x765A8EAA7178F353.rpak",
       "$guid": "0x765A8EAA7178F353"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x77464E27A785A62A.rpak",
+      "$guid": "0x77464E27A785A62A"
     },
     {
       "_type": "shds",
@@ -1819,6 +1864,11 @@
       "_type": "shds",
       "_path": "shaderset/0x8567120294E9FD93.rpak",
       "$guid": "0x8567120294E9FD93"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8749B919A87309D1.rpak",
+      "$guid": "0x8749B919A87309D1"
     },
     {
       "_type": "shds",
@@ -2372,6 +2422,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xEB4CCF8BD1D1AB8C.rpak",
+      "$guid": "0xEB4CCF8BD1D1AB8C"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xECA5556E7DA8285A.rpak",
       "$guid": "0xECA5556E7DA8285A"
     },
@@ -2384,6 +2439,11 @@
       "_type": "shds",
       "_path": "shaderset/0xEEBB2568A4490D7A.rpak",
       "$guid": "0xEEBB2568A4490D7A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEF5D58B5D5F8A90C.rpak",
+      "$guid": "0xEF5D58B5D5F8A90C"
     },
     {
       "_type": "shds",
@@ -10385,6 +10445,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/vistas/composite/cars_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/vistas/composite/composite_ground_shadow_rgdp.rpak"
     },
     {
@@ -10541,6 +10605,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/vistas/composite/cars_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/vistas/composite/composite_ground_prepass_rgdp.rpak"
     },
     {
@@ -10693,6 +10761,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/vistas/composite/cars_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/vistas/composite/composite_ground_vsm_rgdp.rpak"
     },
     {
@@ -10842,6 +10914,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/haven/foliage/haven_bamboo_tree_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/composite/cars_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -11646,10 +11722,6 @@
     {
       "_type": "matl",
       "_path": "material/models/vistas/composite/sky_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/olympus_sky_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13630,78 +13702,6 @@
     {
       "_type": "matl",
       "_path": "material/models/vistas/composite/sky_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/b_olympus_groundbase_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/e_olympus_clouds_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/f_olympus_clouds_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/i_olympus_lightning_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/j_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/k_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/l_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/m_olympus_clouds_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/n_olympus_clouds_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/olympus_sky_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/o_olympus_clouds_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/q_olympus_lightning_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/u_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/v_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/w_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/x_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/y_olympus_cloudstacks_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vistas/olympus/z_olympus_cloudstacks_rgdp.rpak"
     },
     {
       "_type": "matl",
