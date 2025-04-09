@@ -7,7 +7,7 @@
   "assetsDir": "./assetss9c/",
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
     {
@@ -84,6 +84,11 @@
       "_type": "shdr",
       "_path": "shader/0x20DAACCF057B9621.rpak",
       "$guid": "0x20DAACCF057B9621"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x20FCA3AA1B73233E.rpak",
+      "$guid": "0x20FCA3AA1B73233E"
     },
     {
       "_type": "shdr",
@@ -282,6 +287,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x573259FF2B9DFA6B.rpak",
+      "$guid": "0x573259FF2B9DFA6B"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x57630F60AF4018D3.rpak",
       "$guid": "0x57630F60AF4018D3"
     },
@@ -389,6 +399,11 @@
       "_type": "shdr",
       "_path": "shader/0x714638B219DA1AC0.rpak",
       "$guid": "0x714638B219DA1AC0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x719C49E20F54DA77.rpak",
+      "$guid": "0x719C49E20F54DA77"
     },
     {
       "_type": "shdr",
@@ -619,6 +634,11 @@
       "_type": "shdr",
       "_path": "shader/0xA06FB61400E96641.rpak",
       "$guid": "0xA06FB61400E96641"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA1E2DBD3F92732BA.rpak",
+      "$guid": "0xA1E2DBD3F92732BA"
     },
     {
       "_type": "shdr",
@@ -927,6 +947,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xD02A677B1D2C18BF.rpak",
+      "$guid": "0xD02A677B1D2C18BF"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xD148ADD39CFE3876.rpak",
       "$guid": "0xD148ADD39CFE3876"
     },
@@ -994,6 +1019,11 @@
       "_type": "shdr",
       "_path": "shader/0xDF5633E8B5897EBA.rpak",
       "$guid": "0xDF5633E8B5897EBA"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xDF88B130E90E1587.rpak",
+      "$guid": "0xDF88B130E90E1587"
     },
     {
       "_type": "shdr",
@@ -1342,6 +1372,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x3AA5F3CF71F3AA3E.rpak",
+      "$guid": "0x3AA5F3CF71F3AA3E"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x3ACD67B7F301C742.rpak",
       "$guid": "0x3ACD67B7F301C742"
     },
@@ -1419,6 +1454,11 @@
       "_type": "shds",
       "_path": "shaderset/0x45E747016CCDD249.rpak",
       "$guid": "0x45E747016CCDD249"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x46375761BA63C126.rpak",
+      "$guid": "0x46375761BA63C126"
     },
     {
       "_type": "shds",
@@ -1657,6 +1697,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x73197154F81EC10.rpak",
+      "$guid": "0x73197154F81EC10"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x737B16232B86AD72.rpak",
       "$guid": "0x737B16232B86AD72"
     },
@@ -1797,6 +1842,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x8A967DC7FE2056C1.rpak",
+      "$guid": "0x8A967DC7FE2056C1"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x8A97DB60EDD77462.rpak",
       "$guid": "0x8A97DB60EDD77462"
     },
@@ -1894,6 +1944,11 @@
       "_type": "shds",
       "_path": "shaderset/0xA31FDE29EC55A31C.rpak",
       "$guid": "0xA31FDE29EC55A31C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA4CE71BB596BD565.rpak",
+      "$guid": "0xA4CE71BB596BD565"
     },
     {
       "_type": "shds",
@@ -2304,6 +2359,11 @@
       "_type": "shds",
       "_path": "shaderset/0xEA4C5AB296023F0E.rpak",
       "$guid": "0xEA4C5AB296023F0E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEB2E69E6DD47110B.rpak",
+      "$guid": "0xEB2E69E6DD47110B"
     },
     {
       "_type": "shds",
@@ -3402,6 +3462,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x30E3F4C2B5DED2AC.rpak",
+      "$guid": "0x30E3F4C2B5DED2AC"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x30FAABAF282658E5.rpak",
       "$guid": "0x30FAABAF282658E5"
     },
@@ -4307,6 +4372,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x4C7DF21E43549AD4.rpak",
+      "$guid": "0x4C7DF21E43549AD4"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x4C8800935F5FE669.rpak",
       "$guid": "0x4C8800935F5FE669"
     },
@@ -4929,6 +4999,11 @@
       "_type": "txtr",
       "_path": "texture/0x5E641D859455905A.rpak",
       "$guid": "0x5E641D859455905A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E8E0E8DD58D7363.rpak",
+      "$guid": "0x5E8E0E8DD58D7363"
     },
     {
       "_type": "txtr",
@@ -7902,6 +7977,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xB9CF6ABE4899F29A.rpak",
+      "$guid": "0xB9CF6ABE4899F29A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xB9F0640A96E862AD.rpak",
       "$guid": "0xB9F0640A96E862AD"
     },
@@ -8834,6 +8914,11 @@
       "_type": "txtr",
       "_path": "texture/0xD853925D51626676.rpak",
       "$guid": "0xD853925D51626676"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD86CFC2545E5E9F1.rpak",
+      "$guid": "0xD86CFC2545E5E9F1"
     },
     {
       "_type": "txtr",
@@ -10288,6 +10373,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/containers/underbelly_cargo_containers_hammond_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/plant_tobacco_large_01_shadow_rgdp.rpak"
     },
     {
@@ -10440,6 +10529,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/containers/underbelly_cargo_containers_hammond_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/plant_tobacco_large_01_prepass_rgdp.rpak"
     },
     {
@@ -10588,6 +10681,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/containers/underbelly_cargo_containers_hammond_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/plant_tobacco_large_01_vsm_rgdp.rpak"
     },
     {
@@ -10733,6 +10830,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/containers/underbelly_cargo_containers_hammond_tightshadow_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/containers/underbelly_cargo_containers_hammond_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -11277,6 +11378,10 @@
     {
       "_type": "matl",
       "_path": "material/models/industrial/wall_tech_128_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/industrial/zipline_arm_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -11905,6 +12010,10 @@
     {
       "_type": "matl",
       "_path": "material/world/dev/dev_red_light_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dev/dev_yellow_light_01_colpass_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -13224,6 +13333,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/industrial/zipline_arm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/kodai/kodai_projector_ring_rgdp.rpak"
     },
     {
@@ -14132,6 +14245,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/dev/dev_yellow_light_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/dirt/dirt_desert_05_desaturated_btt_wld_wldc.rpak"
     },
     {
@@ -14760,11 +14877,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/composite_billboard_animation_hori_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/beacon_screens/composite_billboard_animation_hori_01_rgdp.rpak"
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/composite_billboard_animation_hori_02_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/beacon_screens/composite_billboard_animation_hori_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/composite_billboard_animation_vert_01_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -15157,10 +15286,6 @@
     {
       "_type": "matl",
       "_path": "material/world/windows/window_glass_dirty_stripes_01_rgdp.rpak"
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/vehicles_r5/land_med/msc_freight_tortus_mod/veh_land_msc_freight_tortus_mod_cargo_holder_v2_static.rmdl"
     },
     {
       "_type": "mdl_",
@@ -16568,6 +16693,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/vehicles_r5/land/msc_forklift_imc_v2/veh_land_msc_forklift_imc_v2_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land_med/msc_freight_tortus_mod/veh_land_msc_freight_tortus_mod_cargo_holder_v2_static.rmdl"
     },
     {
       "_type": "mdl_",
