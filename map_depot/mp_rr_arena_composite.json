@@ -11525,6 +11525,14 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/mendoko/interior/white_floor_tile_mendoko/white_floor_tile_mendoko_02_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/mendoko/interior/white_floor_tile_mendoko/white_floor_tile_mendoko_02_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/mendoko/exterior/side_frame_tile/side_frame_tile_colpass_rgdc.rpak"
     },
     {
