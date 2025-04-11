@@ -1566,9 +1566,19 @@
       "$guid": "0xFEEE0223533D4B8"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0xE9D148FB31C3A33F.rpak",
+      "$guid": "0xE9D148FB31C3A33F"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0x122CF1B05F20D32E.rpak",
       "$guid": "0x122CF1B05F20D32E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8D3A1E54263521B5.rpak",
+      "$guid": "0x8D3A1E54263521B5"
     },
     {
       "_type": "shds",
@@ -2819,6 +2829,11 @@
       "_type": "shds",
       "_path": "shaderset/0xDFEE1881A651CD8F.rpak",
       "$guid": "0xDFEE1881A651CD8F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7793C3C015EAE573.rpak",
+      "$guid": "0x7793C3C015EAE573"
     },
     {
       "_type": "shds",
