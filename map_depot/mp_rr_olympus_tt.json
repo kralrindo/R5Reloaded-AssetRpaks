@@ -7,7 +7,7 @@
   "streamCache": "cache/pc_roots.starmap",
   "assetsDir": "map_depot/assetss7/",
   "outputDir": "./build/",
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
     {

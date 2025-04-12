@@ -6,7 +6,7 @@
   "streamFileOptional": "paks/Win64/mp_lobby.opt.starpak",
   "assetsDir": "map_depot/assets_common/",
   "outputDir": "./build/",
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
     {

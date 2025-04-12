@@ -6,7 +6,7 @@
   "streamFileOptional": "paks/Win64/mp_rr_arena_phase_runner.opt.starpak",
   "assetsDir": "map_depot/assetss9/",
   "outputDir": "./build/",
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "streamCache": "cache/pc_roots.starmap",
   "files": [

@@ -1,10 +1,10 @@
 {
   "version": 8,
 
-  "assetsDir": "./assets_sdk/",
+  "assetsDir": "sdk_depot/assets_sdk/",
   "outputDir": "./build/",
-
-  "compressLevel": 12,
+  
+  "compressLevel": 6,
   "compressWorkers": 16,
 
   "name": "ui_sdk",

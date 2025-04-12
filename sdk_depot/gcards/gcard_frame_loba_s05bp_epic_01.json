@@ -6,6 +6,9 @@
 
   "name": "gcard_frame_loba_s05bp_epic_01",
 
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
   "files": [
     {
       "_type": "uimg",

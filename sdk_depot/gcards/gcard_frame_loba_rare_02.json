@@ -5,6 +5,9 @@
   "outputDir": "./build/",
 
   "name": "gcard_frame_loba_rare_02",
+  
+  "compressLevel": 6,
+  "compressWorkers": 16,
 
   "files": [
     {

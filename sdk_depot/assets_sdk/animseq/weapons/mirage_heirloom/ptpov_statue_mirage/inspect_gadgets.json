@@ -1,0 +1,16 @@
+{
+	"dependencies": [
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_flag_L.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_flag_R.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_L1.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_L2.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_L3.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_back.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_R3.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_R2.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_R1.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_light_front.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_base_zap.rpak",
+		"settings/scriptAnimWindow/fx_mir_heir_inspect_firework.rpak"
+	]
+}

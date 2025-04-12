@@ -6,7 +6,7 @@
   "streamFileOptional": "paks/Win64/mp_rr_canyonlands_staging.opt.starpak",
   "assetsDir": "map_depot/assets/mp_rr_canyonlands_staging/",
   "outputDir": "./build/",
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "streamCache": "cache/pc_roots.starmap",
   "files": [

@@ -7,6 +7,9 @@
 
   "name": "mp_rr_canyonlands_mu2_loadscreen",
 
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
   "files": [
     {
       "_type": "uimg",

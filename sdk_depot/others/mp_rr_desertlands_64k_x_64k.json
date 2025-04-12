@@ -8,7 +8,7 @@
   "assetsDir": "sdk_depot/others/desertlands_64k/",
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
-  "compressLevel": 12,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
     {

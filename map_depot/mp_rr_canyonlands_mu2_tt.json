@@ -6,7 +6,7 @@
   "streamFileOptional": "paks/Win64/mp_rr_canyonlands_mu2_tt.opt.starpak",
   "assetsDir": "map_depot/assetss5/",
   "outputDir": "./build/",
-  "compressLevel": 12,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
     {

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_mir_heir_inspect_base_zap.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_mir_heir_inspect_base_zap",
+		"attachPoint": "fx_statue_base",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

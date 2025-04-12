@@ -4,8 +4,8 @@
 
   "assetsDir": "map_depot/assets_common",
   "outputDir": ".\\build\\",
-
-  "compressLevel": 0,
+  
+  "compressLevel": 6,
   "compressWorkers": 16,
 
   "name": "mp_rr_desertlands_mu1_loadscreen",

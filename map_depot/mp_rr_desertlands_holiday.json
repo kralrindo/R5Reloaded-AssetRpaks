@@ -6,7 +6,7 @@
   "streamFileOptional": "paks/Win64/mp_rr_desertlands_holiday.opt.starpak",
   "assetsDir": "map_depot/assetss7/",
   "outputDir": "./build/",
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
   "streamCache": "cache/pc_roots.starmap",
   "files": [

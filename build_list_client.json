@@ -1,0 +1,78 @@
+ 
+
+{
+    "version": 8,
+    "keepDevOnly": true,
+
+    "outputDir": "./build/",
+
+    "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
+    "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
+    "streamCache": "cache/pc_roots.starmap",
+    "showDebugInfo": false,
+
+    "paks": [
+        //ENGINE PAKS
+        "sdk_depot/common_sdk.json",
+        "sdk_depot/common_roots.json",
+        "sdk_depot/effects_sdk.json",
+        "sdk_depot/patch_master.json",
+        "sdk_depot/startup_sdk.json",
+
+        //MAP PAKS
+        "map_depot/mp_lobby.json",
+        "map_depot/mp_rr_canyonlands_staging.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
+        "map_depot/mp_rr_desertlands_holiday.json",
+        "map_depot/mp_rr_desertlands_mu1.json",
+        "map_depot/mp_rr_desertlands_mu1_tt.json",
+        "map_depot/mp_rr_arena_phase_runner.json",
+        "map_depot/mp_rr_arena_composite.json",
+        "map_depot/mp_rr_aqueduct.json",
+        "map_depot/mp_rr_party_crasher.json",
+        "map_depot/mp_rr_canyonlands_mu2.json",
+        "map_depot/mp_rr_canyonlands_mu2_tt.json",
+        "map_depot/mp_rr_desertlands_mu2.json",
+        "map_depot/mp_rr_olympus.json",
+
+        //UI ASSET PAKS
+        "sdk_depot/ui_mainmenu.json",
+        "sdk_depot/ui_sdk.json",
+        "map_depot/mp_lobby_loadscreen.json",
+        "map_depot/custom_sdk_1_loadscreen.json",
+        "map_depot/custom_sdk_2_loadscreen.json",
+        "map_depot/custom_sdk_3_loadscreen.json",
+        "map_depot/custom_sdk_4_loadscreen.json",
+        "map_depot/custom_sdk_5_loadscreen.json",
+        "map_depot/custom_sdk_6_loadscreen.json",
+        "map_depot/custom_sdk_7_loadscreen.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx_loadscreen.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_tt_loadscreen.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_mv_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu1_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu1_tt_loadscreen.json",
+        "map_depot/mp_rr_aqueduct_loadscreen.json",
+        "map_depot/mp_rr_arena_phase_runner_loadscreen.json",
+        "map_depot/mp_rr_arena_composite_loadscreen.json",
+        "map_depot/mp_rr_party_crasher_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_staging_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_tt_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu2_loadscreen.json",
+        "map_depot/mp_rr_desertlands_night_loadscreen.json",
+        "map_depot/mp_rr_olympus_loadscreen.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_01.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_02.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_03.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_04.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_05.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_01.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_02.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_03.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_04.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_05.json",
+        "sdk_depot/gcards/gcard_frame_loba_s05bp_epic_01.json"
+    ]
+}

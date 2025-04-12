@@ -2,7 +2,7 @@
   "version": 8,
   "keepDevOnly": true,
   "name": "patch_master",
-  "assetsDir": "./assets_sdk/",
+  "assetsDir": "sdk_depot/assets_sdk/",
   "outputDir": "./build/",
   "files": [
     {
