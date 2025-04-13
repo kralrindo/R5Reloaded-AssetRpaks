@@ -1,0 +1,350 @@
+{
+  "_type": "uimg",
+  "_path": "ui_image_atlas/texture",
+  "atlas": "texture/ui_atlas/texture.rpak",
+  "images": [
+    {
+      "path": "bg.png",
+      "posX": 20,
+      "posY": 20,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "select_map_square_icon.png",
+      "posX": 20,
+      "posY": 1140,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "map_not_found_big_icon.png",
+      "posX": 1084,
+      "posY": 1140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_aqueduct_big_icon.png",
+      "posX": 1084,
+      "posY": 1640,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_arena_composite_big_icon.png",
+      "posX": 1942,
+      "posY": 1140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_arena_phase_runner_big_icon.png",
+      "posX": 1942,
+      "posY": 1640,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_64k_x_64k_big_icon.png",
+      "posX": 1980,
+      "posY": 20,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_mu1_big_icon.png",
+      "posX": 1980,
+      "posY": 520,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_mu1_night_big_icon.png",
+      "posX": 1084,
+      "posY": 2140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_big_icon.png",
+      "posX": 1942,
+      "posY": 2140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_mv_big_icon.png",
+      "posX": 20,
+      "posY": 2204,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_tt_big_icon.png",
+      "posX": 878,
+      "posY": 2640,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_ufo_big_icon.png",
+      "posX": 20,
+      "posY": 2704,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_canyonlands_staging_big_icon.png",
+      "posX": 1736,
+      "posY": 2640,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_big_icon.png",
+      "posX": 2594,
+      "posY": 2640,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_mv_big_icon.png",
+      "posX": 2800,
+      "posY": 1020,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_nx_big_icon.png",
+      "posX": 2838,
+      "posY": 20,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_tt_big_icon.png",
+      "posX": 2838,
+      "posY": 520,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_holiday_big_icon.png",
+      "posX": 2800,
+      "posY": 1520,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_mu1_big_icon.png",
+      "posX": 2800,
+      "posY": 2020,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_mu1_tt_big_icon.png",
+      "posX": 878,
+      "posY": 3140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_desertlands_mu2_big_icon.png",
+      "posX": 20,
+      "posY": 3204,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_olympus_big_icon.png",
+      "posX": 1736,
+      "posY": 3140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_olympus_tt_big_icon.png",
+      "posX": 2594,
+      "posY": 3140,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "mp_rr_party_crasher_big_icon.png",
+      "posX": 3452,
+      "posY": 2520,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "path": "aim_trainer_square_icon.png",
+      "posX": 3452,
+      "posY": 3020,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "map_not_found_square_icon.png",
+      "posX": 3852,
+      "posY": 3020,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_aqueduct_square_icon.png",
+      "posX": 3658,
+      "posY": 1020,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_arena_composite_square_icon.png",
+      "posX": 3696,
+      "posY": 20,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_arena_phase_runner_square_icon.png",
+      "posX": 3696,
+      "posY": 420,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_64k_x_64k_square_icon.png",
+      "posX": 4058,
+      "posY": 820,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_mu1_night_square_icon.png",
+      "posX": 4096,
+      "posY": 20,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_mu1_square_icon.png",
+      "posX": 4096,
+      "posY": 420,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_mv_square_icon.png",
+      "posX": 4058,
+      "posY": 1220,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_square_icon.png",
+      "posX": 3658,
+      "posY": 1420,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_tt_square_icon.png",
+      "posX": 4058,
+      "posY": 1620,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_mu2_ufo_square_icon.png",
+      "posX": 3658,
+      "posY": 1820,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_canyonlands_staging_square_icon.png",
+      "posX": 4058,
+      "posY": 2020,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_mv_square_icon.png",
+      "posX": 3452,
+      "posY": 3420,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_nx_square_icon.png",
+      "posX": 3852,
+      "posY": 3420,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_square_icon.png",
+      "posX": 878,
+      "posY": 3640,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_64k_x_64k_tt_square_icon.png",
+      "posX": 20,
+      "posY": 3704,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_holiday_square_icon.png",
+      "posX": 420,
+      "posY": 3704,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_mu1_square_icon.png",
+      "posX": 1278,
+      "posY": 3640,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_mu1_tt_square_icon.png",
+      "posX": 1678,
+      "posY": 3640,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_desertlands_mu2_square_icon.png",
+      "posX": 2078,
+      "posY": 3640,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_olympus_square_icon.png",
+      "posX": 2478,
+      "posY": 3640,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_olympus_tt_square_icon.png",
+      "posX": 2878,
+      "posY": 3640,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "path": "mp_rr_party_crasher_square_icon.png",
+      "posX": 3278,
+      "posY": 3820,
+      "width": 360,
+      "height": 360
+    }
+  ]
+}

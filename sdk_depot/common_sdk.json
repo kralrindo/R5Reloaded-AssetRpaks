@@ -124,6 +124,15 @@
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/PrecacheSkinCharacterEquipped.rpak"
     },
+    //////BOW
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loot/main_weapon/compound_bow.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/compound_bow/factory_issue.rpak"
+    },
     //////REPEATER
     {
       "_type": "stgs",
@@ -3825,6 +3834,31 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x9B98FD4688E13B0F.rpak",//S9 SHADERSET
+      "$guid": "0x9B98FD4688E13B0F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xAE4AD201D522E8CE.rpak",//S9 SHADERSET
+      "$guid": "0xAE4AD201D522E8CE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE5598B3F992F1EBE.rpak",//S9 SHADERSET
+      "$guid": "0xE5598B3F992F1EBE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE8E191FD80A68B1F.rpak",//S9 SHADERSET
+      "$guid": "0xE8E191FD80A68B1F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xFEB23FD8916B3ED1.rpak",//S9 SHADERSET
+      "$guid": "0xFEB23FD8916B3ED1"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xB6881CF04941246A.rpak",//WAS 0xB6881CF04941246E
       "$guid": "0xB6881CF04941246A"
     },
@@ -4334,6 +4368,246 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x108C2FBA405B14C7.rpak",
+      "$guid": "0x108C2FBA405B14C7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1410776586CDBB67.rpak",
+      "$guid": "0x1410776586CDBB67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x175CE4E6D9F12BF5.rpak",
+      "$guid": "0x175CE4E6D9F12BF5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1788451C13F53BC4.rpak",
+      "$guid": "0x1788451C13F53BC4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x268C29D327E2C5A0.rpak",
+      "$guid": "0x268C29D327E2C5A0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x321D170888896359.rpak",
+      "$guid": "0x321D170888896359"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x35E6E5750593C1AF.rpak",
+      "$guid": "0x35E6E5750593C1AF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3BD2611D1850C316.rpak",
+      "$guid": "0x3BD2611D1850C316"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4117E8C3C72D0E57.rpak",
+      "$guid": "0x4117E8C3C72D0E57"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x42BE57FB58C0D57C.rpak",
+      "$guid": "0x42BE57FB58C0D57C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46609357C0F3C086.rpak",
+      "$guid": "0x46609357C0F3C086"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x48150D4F576020C1.rpak",
+      "$guid": "0x48150D4F576020C1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x495F6B14BB795C29.rpak",
+      "$guid": "0x495F6B14BB795C29"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4C9AF1F806923FB5.rpak",
+      "$guid": "0x4C9AF1F806923FB5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5FCBA04B085A3FD7.rpak",
+      "$guid": "0x5FCBA04B085A3FD7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x61FEBBD0539F6649.rpak",
+      "$guid": "0x61FEBBD0539F6649"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x65C88A3CE9791C63.rpak",
+      "$guid": "0x65C88A3CE9791C63"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6735C1CFCA5DF73A.rpak",
+      "$guid": "0x6735C1CFCA5DF73A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6BE82CD2A8B13D22.rpak",
+      "$guid": "0x6BE82CD2A8B13D22"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x76C477B8FDAFA309.rpak",
+      "$guid": "0x76C477B8FDAFA309"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x77F55898EBCE0ED4.rpak",
+      "$guid": "0x77F55898EBCE0ED4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8A933146B91D3980.rpak",
+      "$guid": "0x8A933146B91D3980"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x94DE4D2738FD9F32.rpak",
+      "$guid": "0x94DE4D2738FD9F32"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9FF8F3C825DDA25B.rpak",
+      "$guid": "0x9FF8F3C825DDA25B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA06BA921C92B0681.rpak",
+      "$guid": "0xA06BA921C92B0681"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA45236833B65E0A1.rpak",
+      "$guid": "0xA45236833B65E0A1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA7D6FD60B6E411C4.rpak",
+      "$guid": "0xA7D6FD60B6E411C4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA9D3951B8EC4C6A7.rpak",
+      "$guid": "0xA9D3951B8EC4C6A7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAD9D63880BCF24FD.rpak",
+      "$guid": "0xAD9D63880BCF24FD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB7670A96816A5317.rpak",
+      "$guid": "0xB7670A96816A5317"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBD82698F1B432746.rpak",
+      "$guid": "0xBD82698F1B432746"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC03FC03BAB659CD7.rpak",
+      "$guid": "0xC03FC03BAB659CD7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCA952EE28EA9BA4D.rpak",
+      "$guid": "0xCA952EE28EA9BA4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCEFE85CD454EDF12.rpak",
+      "$guid": "0xCEFE85CD454EDF12"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCF1989B7E58C27E2.rpak",
+      "$guid": "0xCF1989B7E58C27E2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD66B130F88AE5C5.rpak",
+      "$guid": "0xD66B130F88AE5C5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD8F5EE645318AAC9.rpak",
+      "$guid": "0xD8F5EE645318AAC9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD9EFCC54623A882E.rpak",
+      "$guid": "0xD9EFCC54623A882E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDA269A20C8663842.rpak",
+      "$guid": "0xDA269A20C8663842"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE0B3E84292FF6A9D.rpak",
+      "$guid": "0xE0B3E84292FF6A9D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE47DB6AF28D920B7.rpak",
+      "$guid": "0xE47DB6AF28D920B7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE8AF0450E2C70E3A.rpak",
+      "$guid": "0xE8AF0450E2C70E3A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEA84FA4DBFDA8592.rpak",
+      "$guid": "0xEA84FA4DBFDA8592"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEC60478C15118323.rpak",
+      "$guid": "0xEC60478C15118323"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEFABD6AC174075C8.rpak",
+      "$guid": "0xEFABD6AC174075C8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF2BC9DD000D2450B.rpak",
+      "$guid": "0xF2BC9DD000D2450B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF6C17B9957C1A102.rpak",
+      "$guid": "0xF6C17B9957C1A102"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF8F61E6C1265D437.rpak",
+      "$guid": "0xF8F61E6C1265D437"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x10B0BBBF63B82614.rpak",
@@ -13255,6 +13529,62 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_1x2x_sight/bow_1x2x_sight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_acgs_sight/bow_acgs_sight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_hcog_sight/bow_hcog_sight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_holo_reflex_sight/bow_holo_reflex_sight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_iron_sight/bow_iron_sight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/bow_compound/bow_compound_bow_acc_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/bow_compound/bow_compound_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_1x2x_sight/bow_1x2x_sight_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_acgs_sight/bow_acgs_sight_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_hcog_sight/bow_hcog_sight_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_holo_reflex_sight/bow_holo_reflex_sight_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/bow_iron_sight/bow_iron_sight_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/bow_compound/bow_compound_bow_acc_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/bow_compound/bow_compound_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_octane_heirloom/octane_heirloom_shadow_sknp.rpak"
@@ -32218,6 +32548,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/props/charm/charm_rampartr5r.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/compound_bow/ptpov_compound_bow.rmdl"
     },
     {
       "_type": "mdl_",

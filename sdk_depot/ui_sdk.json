@@ -962,7 +962,7 @@
         }
       ]
     },
-  {
+    {
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/menu/maps/generic_map_icons",
       "atlas": "texture/ui_atlas/rui/menu/maps/generic_map_icons.rpak",
@@ -1129,23 +1129,30 @@
           "height": 460
         },
         {
-          "path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
+          "path": "rui/menu/maps/mp_rr_olympus_tt_big_icon",
           "posX": 2594,
           "posY": 3140,
           "width": 818,
           "height": 460
         },
         {
-          "path": "rui/menu/maps/aim_trainer",
+          "path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
           "posX": 3452,
           "posY": 2520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/aim_trainer",
+          "posX": 3452,
+          "posY": 3020,
           "width": 360,
           "height": 360
         },
         {
           "path": "rui/menu/maps/map_not_found_square_icon",
-          "posX": 3452,
-          "posY": 2920,
+          "posX": 3852,
+          "posY": 3020,
           "width": 360,
           "height": 360
         },
@@ -1172,127 +1179,134 @@
         },
         {
           "path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_square_icon",
-          "posX": 3658,
-          "posY": 1420,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
-          "posX": 3658,
-          "posY": 1820,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
-          "posX": 3452,
-          "posY": 3320,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
-          "posX": 878,
-          "posY": 3640,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
-          "posX": 20,
-          "posY": 3704,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
-          "posX": 420,
-          "posY": 3704,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
-          "posX": 1278,
-          "posY": 3640,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
-          "posX": 1678,
-          "posY": 3640,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
-          "posX": 2078,
-          "posY": 3640,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
-          "posX": 2478,
-          "posY": 3640,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
-          "posX": 2878,
-          "posY": 3640,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
-          "posX": 3852,
-          "posY": 2220,
-          "width": 360,
-          "height": 360
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
           "posX": 4058,
           "posY": 820,
           "width": 360,
           "height": 360
         },
         {
-          "path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
           "posX": 4096,
           "posY": 20,
           "width": 360,
           "height": 360
         },
         {
-          "path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
           "posX": 4096,
           "posY": 420,
           "width": 360,
           "height": 360
         },
         {
-          "path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
           "posX": 4058,
           "posY": 1220,
           "width": 360,
           "height": 360
         },
         {
-          "path": "rui/menu/maps/mp_rr_olympus_square_icon",
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
+          "posX": 3658,
+          "posY": 1420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
           "posX": 4058,
           "posY": 1620,
           "width": 360,
           "height": 360
         },
         {
-          "path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
+          "posX": 3658,
+          "posY": 1820,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
+          "posX": 4058,
+          "posY": 2020,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
+          "posX": 3452,
+          "posY": 3420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
           "posX": 3852,
-          "posY": 2620,
+          "posY": 3420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
+          "posX": 878,
+          "posY": 3640,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
+          "posX": 20,
+          "posY": 3704,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
+          "posX": 420,
+          "posY": 3704,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
+          "posX": 1278,
+          "posY": 3640,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
+          "posX": 1678,
+          "posY": 3640,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
+          "posX": 2078,
+          "posY": 3640,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_square_icon",
+          "posX": 2478,
+          "posY": 3640,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_tt_square_icon",
+          "posX": 2878,
+          "posY": 3640,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
+          "posX": 3278,
+          "posY": 3820,
           "width": 360,
           "height": 360
         }

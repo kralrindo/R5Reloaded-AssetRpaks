@@ -21,6 +21,7 @@
 
         //MAP PAKS
         "map_depot/mp_lobby.json",
+        "sdk_depot/others/flowstate/mp_rr_arena_empty.json",//Flowstate Main Map
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",

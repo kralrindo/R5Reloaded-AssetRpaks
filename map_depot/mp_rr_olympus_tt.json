@@ -360,6 +360,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x4231D9B066EF4CD9.rpak",
+      "$guid": "0x4231D9B066EF4CD9"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x244D42D88E03CFC3.rpak",
       "$guid": "0x244D42D88E03CFC3"
     },
@@ -3365,6 +3370,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xBD439C8F62583174.rpak",
+      "$guid": "0xBD439C8F62583174"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xE034668FE2B859CB.rpak",
       "$guid": "0xE034668FE2B859CB"
     },
@@ -3894,9 +3904,49 @@
       "$guid": "0xFDA0F3180FB319E3"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0xA1B397D2C7688034.rpak",
+      "$guid": "0xA1B397D2C7688034"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x52AFB3583C0C1240.rpak",
+      "$guid": "0x52AFB3583C0C1240"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x66944F73BFB34A13.rpak",
+      "$guid": "0x66944F73BFB34A13"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB539EBB793FED8E0.rpak",
+      "$guid": "0xB539EBB793FED8E0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x33920736B2E312D4.rpak",
+      "$guid": "0x33920736B2E312D4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3ECB6DF464867A8D.rpak",
+      "$guid": "0x3ECB6DF464867A8D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xAFA8A5DCA287F6C1.rpak",
+      "$guid": "0xAFA8A5DCA287F6C1"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0x3753138EDDF5351.rpak",
       "$guid": "0x3753138EDDF5351"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xBC8D0F75F58255D2.rpak",
+      "$guid": "0xBC8D0F75F58255D2"
     },
     {
       "_type": "shds",
@@ -7680,6 +7730,101 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x25334A4501F17E8B.rpak",
+      "$guid": "0x25334A4501F17E8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x362943B972B62623.rpak",
+      "$guid": "0x362943B972B62623"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3E6643CFE882BBE6.rpak",
+      "$guid": "0x3E6643CFE882BBE6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x40B775F415254DA2.rpak",
+      "$guid": "0x40B775F415254DA2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x81D0017315B2861D.rpak",
+      "$guid": "0x81D0017315B2861D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B5505EEAD82D2FE.rpak",
+      "$guid": "0x8B5505EEAD82D2FE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x952F5E9B24D50D88.rpak",
+      "$guid": "0x952F5E9B24D50D88"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE31256948CA1E3.rpak",
+      "$guid": "0xAE31256948CA1E3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC77954B34E8D7FE8.rpak",
+      "$guid": "0xC77954B34E8D7FE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCD6FC7AA56DA414A.rpak",
+      "$guid": "0xCD6FC7AA56DA414A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD446AEF0B66C154A.rpak",
+      "$guid": "0xD446AEF0B66C154A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF2BF86161A1B8255.rpak",
+      "$guid": "0xF2BF86161A1B8255"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFA22A2B5882BD7A9.rpak",
+      "$guid": "0xFA22A2B5882BD7A9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFD4DB850CF262BA7.rpak",
+      "$guid": "0xFD4DB850CF262BA7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x30E3F4C2B5DED2AC.rpak",
+      "$guid": "0x30E3F4C2B5DED2AC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4C7DF21E43549AD4.rpak",
+      "$guid": "0x4C7DF21E43549AD4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E8E0E8DD58D7363.rpak",
+      "$guid": "0x5E8E0E8DD58D7363"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB9CF6ABE4899F29A.rpak",
+      "$guid": "0xB9CF6ABE4899F29A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD86CFC2545E5E9F1.rpak",
+      "$guid": "0xD86CFC2545E5E9F1"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x63D6480E1EB8BF97.rpak",
       "$guid": "0x63D6480E1EB8BF97"
     },
@@ -10085,6 +10230,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x4740B5E695479D0.rpak",
+      "$guid": "0x4740B5E695479D0"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x33D4E745DA859188.rpak",
       "$guid": "0x33D4E745DA859188"
     },
@@ -10297,6 +10447,11 @@
       "_type": "txtr",
       "_path": "texture/0x371C0392B15A558A.rpak",
       "$guid": "0x371C0392B15A558A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCB496F47049EC323.rpak",
+      "$guid": "0xCB496F47049EC323"
     },
     {
       "_type": "txtr",
@@ -24035,6 +24190,54 @@
     },
     {
       "_type": "matl",
+      "_path": "material/effects/holo_arena_text_border_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/holo_arena_text_fill_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_damaged_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_opaque_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_opaque_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_gold_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_damaged_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_gold_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/particle/explosions/exp_fire_alpha_full_add_ob_db256_ptcu.rpak"
     },
     {
@@ -24100,6 +24303,14 @@
     {
       "_type": "matl",
       "_path": "material/particle/wildlife/fly_trail_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/industrial/zipline_arm_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/industrial/zipline_arm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -35543,6 +35754,14 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_wldc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/s2s/s2s_wall_trim_03_rgdp.rpak"
     },
     {
@@ -36893,6 +37112,14 @@
         "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_idle.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_wave.rseq"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_text_fight.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_text_night.rmdl"
     },
     {
       "_type": "mdl_",

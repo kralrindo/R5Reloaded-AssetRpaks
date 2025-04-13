@@ -1,0 +1,52 @@
+{
+	"name": "models/weapons_r5/attachments/optics/bow_hcog_sight/bow_hcog_sight",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xE5598B3F992F1EBE",
+	"$textures": {
+		"0": "0x61FEBBD0539F6649",
+		"1": "0xF8F61E6C1265D437",
+		"2": "0x42BE57FB58C0D57C",
+		"3": "0xA7D6FD60B6E411C4",
+		"4": "0x175CE4E6D9F12BF5",
+		"5": "0xCF1989B7E58C27E2",
+		"6": "0x65C88A3CE9791C63"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x47153FEB253132",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,97 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loot_main_weapon_layout.rpak",
+	"uniqueId": 1644528094,
+	"settings": {
+		"assetName": "settings/itemflav/loot/main_weapon/compound_bow.rpak",
+		"itemType": "loot_main_weapon",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_BOW",
+		"localizationKey_NAME_SHORT": "#WPN_BOW_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_BOW_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_BOW_DESC",
+		"quality": "NONE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_bps1_weapon_bow",
+		"grxMode": "NONE",
+		"entityClassname": "mp_weapon_3030",
+		"category": "settings/itemflav/weapon_category/marksman.rpak",
+		"statsCategory": "marksman",
+		"tags": [
+		],
+		"armoryScale": 0.650000,
+		"lootCeremonyScale": 1.000000,
+		"battlePassScale": 1.360000,
+		"skins": [
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/factory_issue.rpak",
+				"featureFlag": ""
+			}
+		],
+		"charms": [
+			{
+				"flavor": "settings/itemflav/weapon_charm/none.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_gold.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_platinum.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_diamond.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/rank_predator.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/nessy.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/fireball.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/gas_canister.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/yeti.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/lifeline_drone.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_jackolantern.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/clownhead.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_witchhat.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/crow.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/jester.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_charm/s03e01_nessyghost.rpak",
+				"featureFlag": ""
+			}
+		],
+		"shippingWeapon": true
+	}
+}
