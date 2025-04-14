@@ -335,11 +335,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x215A6251397F78F1.rpak",
-      "$guid": "0x215A6251397F78F1"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x21F2ADA19A65CBE4.rpak",
       "$guid": "0x21F2ADA19A65CBE4"
     },
@@ -790,11 +785,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x4449D447F48BA560.rpak",
-      "$guid": "0x4449D447F48BA560"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x445A15E4EBE02A6A.rpak",
       "$guid": "0x445A15E4EBE02A6A"
     },
@@ -1030,11 +1020,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x52A2DB945A44BA94.rpak",
-      "$guid": "0x52A2DB945A44BA94"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x52CFB2A2068D230C.rpak",
       "$guid": "0x52CFB2A2068D230C"
     },
@@ -1225,11 +1210,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x5E2E19FEDA81E605.rpak",
-      "$guid": "0x5E2E19FEDA81E605"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x5E95AF7510C1EB9F.rpak",
       "$guid": "0x5E95AF7510C1EB9F"
     },
@@ -1242,11 +1222,6 @@
       "_type": "shdr",
       "_path": "shader/0x5EF7241347338DF1.rpak",
       "$guid": "0x5EF7241347338DF1"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x5FB49898345E5DBD.rpak",
-      "$guid": "0x5FB49898345E5DBD"
     },
     {
       "_type": "shdr",
@@ -1305,11 +1280,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x6547D806883E5091.rpak",
-      "$guid": "0x6547D806883E5091"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x656E5EF859886B8D.rpak",
       "$guid": "0x656E5EF859886B8D"
     },
@@ -1342,6 +1312,11 @@
       "_type": "shdr",
       "_path": "shader/0x67C396AA5DA70F19.rpak",
       "$guid": "0x67C396AA5DA70F19"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x84D91C788D57C84E.rpak",
+      "$guid": "0x84D91C788D57C84E"
     },
     {
       "_type": "shdr",
@@ -1500,11 +1475,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x71E828ACE44A84B2.rpak",
-      "$guid": "0x71E828ACE44A84B2"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x71FC16CC11CD0A11.rpak",
       "$guid": "0x71FC16CC11CD0A11"
     },
@@ -1620,11 +1590,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x79CEE11796F81D6B.rpak",
-      "$guid": "0x79CEE11796F81D6B"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x79DDD2DDFF5F0E34.rpak",
       "$guid": "0x79DDD2DDFF5F0E34"
     },
@@ -1712,11 +1677,6 @@
       "_type": "shdr",
       "_path": "shader/0x7EBDB992F3CAD4E6.rpak",
       "$guid": "0x7EBDB992F3CAD4E6"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x7EC574DF118078EF.rpak",
-      "$guid": "0x7EC574DF118078EF"
     },
     {
       "_type": "shdr",
@@ -2027,11 +1987,6 @@
       "_type": "shdr",
       "_path": "shader/0x8F50B60DAE34C256.rpak",
       "$guid": "0x8F50B60DAE34C256"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x8F584E65BCBA1BBB.rpak",
-      "$guid": "0x8F584E65BCBA1BBB"
     },
     {
       "_type": "shdr",
@@ -2390,11 +2345,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xA6945D7B8C59ED02.rpak",
-      "$guid": "0xA6945D7B8C59ED02"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xA6EB6B1F8E8F1FB8.rpak",
       "$guid": "0xA6EB6B1F8E8F1FB8"
     },
@@ -2427,16 +2377,6 @@
       "_type": "shdr",
       "_path": "shader/0xA87EDB9980CB28CC.rpak",
       "$guid": "0xA87EDB9980CB28CC"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xA8FE79504F160320.rpak",
-      "$guid": "0xA8FE79504F160320"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xA985C41C667BCDEC.rpak",
-      "$guid": "0xA985C41C667BCDEC"
     },
     {
       "_type": "shdr",
@@ -2562,11 +2502,6 @@
       "_type": "shdr",
       "_path": "shader/0xB220711DFE63B5CD.rpak",
       "$guid": "0xB220711DFE63B5CD"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xB22EA3CBD2A464AB.rpak",
-      "$guid": "0xB22EA3CBD2A464AB"
     },
     {
       "_type": "shdr",
@@ -2702,11 +2637,6 @@
       "_type": "shdr",
       "_path": "shader/0xB932A14A261C68E6.rpak",
       "$guid": "0xB932A14A261C68E6"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xB96EDDE4FA89737F.rpak",
-      "$guid": "0xB96EDDE4FA89737F"
     },
     {
       "_type": "shdr",
@@ -3655,11 +3585,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xEF3CC91A4C7ACBB9.rpak",
-      "$guid": "0xEF3CC91A4C7ACBB9"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xEF501E2905139535.rpak",
       "$guid": "0xEF501E2905139535"
     },
@@ -3740,11 +3665,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xF564314F6A3E5471.rpak",
-      "$guid": "0xF564314F6A3E5471"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xF5AE9D6B67AF1230.rpak",
       "$guid": "0xF5AE9D6B67AF1230"
     },
@@ -3782,11 +3702,6 @@
       "_type": "shdr",
       "_path": "shader/0xF9034153A5352AD6.rpak",
       "$guid": "0xF9034153A5352AD6"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xF9A0B7C7978D6697.rpak",
-      "$guid": "0xF9A0B7C7978D6697"
     },
     {
       "_type": "shdr",
@@ -3847,11 +3762,6 @@
       "_type": "shdr",
       "_path": "shader/0xFD2C631C0F462459.rpak",
       "$guid": "0xFD2C631C0F462459"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xFE0C927C8AAF50E.rpak",
-      "$guid": "0xFE0C927C8AAF50E"
     },
     {
       "_type": "shdr",
@@ -3922,6 +3832,26 @@
       "_type": "shdr",
       "_path": "shader/0xB539EBB793FED8E0.rpak",
       "$guid": "0xB539EBB793FED8E0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x6D7A319D606C7F.rpak",
+      "$guid": "0x6D7A319D606C7F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x61E4913DA01BA4EE.rpak",
+      "$guid": "0x61E4913DA01BA4EE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x23CCDF237D89818E.rpak",
+      "$guid": "0x23CCDF237D89818E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2031F88699118FB2.rpak",
+      "$guid": "0x2031F88699118FB2"
     },
     {
       "_type": "shds",
@@ -4162,11 +4092,6 @@
       "_type": "shds",
       "_path": "shaderset/0x1F990E918513DE41.rpak",
       "$guid": "0x1F990E918513DE41"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x1FD694F8AFE77CFC.rpak",
-      "$guid": "0x1FD694F8AFE77CFC"
     },
     {
       "_type": "shds",
@@ -4560,11 +4485,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x37328F5FD16378D0.rpak",
-      "$guid": "0x37328F5FD16378D0"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x374F0F132F4221E2.rpak",
       "$guid": "0x374F0F132F4221E2"
     },
@@ -4830,11 +4750,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x469465BE736EE403.rpak",
-      "$guid": "0x469465BE736EE403"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x46A30AD2A1877D58.rpak",
       "$guid": "0x46A30AD2A1877D58"
     },
@@ -4917,11 +4832,6 @@
       "_type": "shds",
       "_path": "shaderset/0x4BB66E658C241D1B.rpak",
       "$guid": "0x4BB66E658C241D1B"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x4BDF539646659204.rpak",
-      "$guid": "0x4BDF539646659204"
     },
     {
       "_type": "shds",
@@ -5255,11 +5165,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x600D71E608E2CCFC.rpak",
-      "$guid": "0x600D71E608E2CCFC"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x600FC3541D1C0563.rpak",
       "$guid": "0x600FC3541D1C0563"
     },
@@ -5317,11 +5222,6 @@
       "_type": "shds",
       "_path": "shaderset/0x65403F5436C38532.rpak",
       "$guid": "0x65403F5436C38532"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x65577E43F40D8CB.rpak",
-      "$guid": "0x65577E43F40D8CB"
     },
     {
       "_type": "shds",
@@ -5510,11 +5410,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x738D4C1ABCF148A0.rpak",
-      "$guid": "0x738D4C1ABCF148A0"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x73CB858BC8364135.rpak",
       "$guid": "0x73CB858BC8364135"
     },
@@ -5530,11 +5425,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x74496BB754094134.rpak",
-      "$guid": "0x74496BB754094134"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x744D24E41D917A76.rpak",
       "$guid": "0x744D24E41D917A76"
     },
@@ -5547,11 +5437,6 @@
       "_type": "shds",
       "_path": "shaderset/0x751AEE4E7BDAC935.rpak",
       "$guid": "0x751AEE4E7BDAC935"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x7522C1DD6EE54334.rpak",
-      "$guid": "0x7522C1DD6EE54334"
     },
     {
       "_type": "shds",
@@ -5865,11 +5750,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x88B6922331ABE672.rpak",
-      "$guid": "0x88B6922331ABE672"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x89D59353E6366EC7.rpak",
       "$guid": "0x89D59353E6366EC7"
     },
@@ -6162,11 +6042,6 @@
       "_type": "shds",
       "_path": "shaderset/0x9E7322505F537744.rpak",
       "$guid": "0x9E7322505F537744"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x9EABFFFC1484D036.rpak",
-      "$guid": "0x9EABFFFC1484D036"
     },
     {
       "_type": "shds",
@@ -6795,11 +6670,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xC80CA07D0BC5639E.rpak",
-      "$guid": "0xC80CA07D0BC5639E"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xC834360B291CF288.rpak",
       "$guid": "0xC834360B291CF288"
     },
@@ -6955,11 +6825,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xD2DC1316DFB63625.rpak",
-      "$guid": "0xD2DC1316DFB63625"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xD33DE4DA626A3D4F.rpak",
       "$guid": "0xD33DE4DA626A3D4F"
     },
@@ -7080,11 +6945,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xDB7464BEABA63C8C.rpak",
-      "$guid": "0xDB7464BEABA63C8C"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xDB810B7903A907C4.rpak",
       "$guid": "0xDB810B7903A907C4"
     },
@@ -7147,11 +7007,6 @@
       "_type": "shds",
       "_path": "shaderset/0xDDD559AE0D678EB7.rpak",
       "$guid": "0xDDD559AE0D678EB7"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xDE67E2BF5759B1BF.rpak",
-      "$guid": "0xDE67E2BF5759B1BF"
     },
     {
       "_type": "shds",
@@ -7310,11 +7165,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xE7D5C859C1F27D39.rpak",
-      "$guid": "0xE7D5C859C1F27D39"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xE88CABF7F16BA02.rpak",
       "$guid": "0xE88CABF7F16BA02"
     },
@@ -7395,11 +7245,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xECDCD52F413D362.rpak",
-      "$guid": "0xECDCD52F413D362"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xED50282F42849631.rpak",
       "$guid": "0xED50282F42849631"
     },
@@ -7470,11 +7315,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xF14838D9A80971E9.rpak",
-      "$guid": "0xF14838D9A80971E9"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xF18FEA3210BB8E43.rpak",
       "$guid": "0xF18FEA3210BB8E43"
     },
@@ -7520,11 +7360,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xF3F82CE0EC51EE32.rpak",
-      "$guid": "0xF3F82CE0EC51EE32"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xF4CF6ED708465FD2.rpak",
       "$guid": "0xF4CF6ED708465FD2"
     },
@@ -7557,11 +7392,6 @@
       "_type": "shds",
       "_path": "shaderset/0xF647B8AD086F655.rpak",
       "$guid": "0xF647B8AD086F655"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xF700AB642F8771B8.rpak",
-      "$guid": "0xF700AB642F8771B8"
     },
     {
       "_type": "shds",
@@ -24718,10 +24548,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/cloth/cloth_banners_path_tt_02_slow_shadow_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/world/cloth/olympus_farm_fan_cloth_01_anim_shadow_rgdp.rpak"
     },
     {
@@ -25422,10 +25248,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/cloth/cloth_banners_path_tt_02_slow_prepass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/world/cloth/olympus_farm_fan_cloth_01_anim_prepass_rgdp.rpak"
     },
     {
@@ -26119,10 +25941,6 @@
     {
       "_type": "matl",
       "_path": "material/depth/world/beacon/hazard_strips_vsm_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/world/cloth/cloth_banners_path_tt_02_slow_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -26823,10 +26641,6 @@
     {
       "_type": "matl",
       "_path": "material/depth/world/beacon/hazard_strips_tightshadow_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/world/cloth/cloth_banners_path_tt_02_slow_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -29143,10 +28957,6 @@
     {
       "_type": "matl",
       "_path": "material/world/cloth/cloth_banners_path_tt_02_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/world/cloth/cloth_banners_path_tt_02_slow_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
