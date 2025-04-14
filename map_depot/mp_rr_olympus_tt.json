@@ -1220,11 +1220,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x5EF7241347338DF1.rpak",
-      "$guid": "0x5EF7241347338DF1"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x5FD44A1ACD1761EE.rpak",
       "$guid": "0x5FD44A1ACD1761EE"
     },
@@ -3837,6 +3832,26 @@
       "_type": "shdr",
       "_path": "shader/0x6D7A319D606C7F.rpak",
       "$guid": "0x6D7A319D606C7F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xEF3CC91A4C7ACBB9.rpak",
+      "$guid": "0xEF3CC91A4C7ACBB9"//7.1 shader, careful
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA8FE79504F160320.rpak",
+      "$guid": "0xA8FE79504F160320"//7.1 shader, careful
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF700AB642F8771B8.rpak",
+      "$guid": "0xF700AB642F8771B8"//7.1 shaders, careful
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x738D4C1ABCF148A0.rpak",
+      "$guid": "0x738D4C1ABCF148A0"//7.1 shaders, careful
     },
     {
       "_type": "shds",
