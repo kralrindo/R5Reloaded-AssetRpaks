@@ -3922,6 +3922,26 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x362943B972B62623.rpak",
+      "$guid": "0x362943B972B62623"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x40B775F415254DA2.rpak",
+      "$guid": "0x40B775F415254DA2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x81D0017315B2861D.rpak",
+      "$guid": "0x81D0017315B2861D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE31256948CA1E3.rpak",
+      "$guid": "0xAE31256948CA1E3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x30E3F4C2B5DED2AC.rpak",
       "$guid": "0x30E3F4C2B5DED2AC"
     },
@@ -13719,6 +13739,55 @@
       "_type": "txtr",
       "_path": "texture/0xDBCB64A66C86EE8.rpak",
       "$guid": "0xDBCB64A66C86EE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3E6643CFE882BBE6.rpak",
+      "$guid": "0x3E6643CFE882BBE6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC77954B34E8D7FE8.rpak",
+      "$guid": "0xC77954B34E8D7FE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD446AEF0B66C154A.rpak",
+      "$guid": "0xD446AEF0B66C154A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF2BF86161A1B8255.rpak",
+      "$guid": "0xF2BF86161A1B8255"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFD4DB850CF262BA7.rpak",
+      "$guid": "0xFD4DB850CF262BA7"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_opaque_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_damaged_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_opaque_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/door/canyonlands_door_single_02_glass_rgdp.rpak"
     },
     {
       "_type": "matl",

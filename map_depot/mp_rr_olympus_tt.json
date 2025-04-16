@@ -3835,6 +3835,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x5EF7241347338DF2.rpak",
+      "$guid": "0x5EF7241347338DF2"//7.1 shader, careful, was 0x5EF7241347338DF1
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xEF3CC91A4C7ACBB9.rpak",
       "$guid": "0xEF3CC91A4C7ACBB9"//7.1 shader, careful
     },
