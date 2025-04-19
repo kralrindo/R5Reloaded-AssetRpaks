@@ -23306,7 +23306,15 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons/bolo_sword/bolo_sword_02_sknp.rpak"
+      "_path": "material/models/weapons/bolo_sword/krals_bolo_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_pickaxe_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_sword_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -31087,6 +31095,13 @@
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/pathfinder_gloves/w_pathfinder_glove_left.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/minecraft_sword/ptpov_minecraft_sword.rmdl",
+      "$animrigs": [
+        "animrig/weapons/mirage_heirloom/ptpov_statue_mirage.rrig"
+      ]
     },
     {
       "_type": "mdl_",
