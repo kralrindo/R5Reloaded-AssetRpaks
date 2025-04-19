@@ -1,0 +1,28 @@
+{
+  "version": 8,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+
+  "name": "gcard_frame_rampart_common_01",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/gcard_frame_rampart_common_01",
+      "atlas": "texture/ui_atlas/gcards/rampart/gcard_frame_rampart_common_01.rpak",
+      "images": [
+        {
+          "path": "rui/gladiator_cards/frames/rampart/common_01",
+          "posX": 0,
+          "posY": 0,
+          "width": 263,
+          "height": 719
+        }
+      ]
+    }
+  ]
+}

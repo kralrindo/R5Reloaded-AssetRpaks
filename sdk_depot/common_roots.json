@@ -28,6 +28,43 @@
     {
       "_type": "stlt",
       "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
-    }
+    }/*,
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8815107E59BA114B.rpak",
+      "$guid": "0x8815107E59BA114B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF0984279A4168E1D.rpak",
+      "$guid": "0xF0984279A4168E1D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2A2DB3A47AF9B3D5.rpak",
+      "$guid": "0x2A2DB3A47AF9B3D5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4272D8F37AE52BA5.rpak",
+      "$guid": "0x4272D8F37AE52BA5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB3C958EAF96DC3BD.rpak",
+      "$guid": "0xB3C958EAF96DC3BD"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/error/error_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/error/error_rgdp.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/error.rmdl"
+    }*/
   ]
 }

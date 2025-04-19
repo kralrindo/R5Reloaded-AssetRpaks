@@ -6,7 +6,6 @@
   //"streamFileOptional": "paks/Win64/common_mp.opt.starpak",
   "assetsDir": "sdk_depot/others/common_mp/",
   "outputDir": "./build/",
-  "keepClientOnly": false,
   "streamCache": "cache/pc_roots.starmap",
   "compressLevel": 6,
   "compressWorkers": 16,

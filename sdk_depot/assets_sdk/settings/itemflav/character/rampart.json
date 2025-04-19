@@ -639,30 +639,6 @@
 			{
 				"flavor": "settings/itemflav/gcard_frame/rampart/common_05.rpak",
 				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_frame/rampart/rare_01.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_frame/rampart/rare_02.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_frame/rampart/rare_03.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_frame/rampart/rare_04.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_frame/rampart/rare_05.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_frame/rampart/s06bp_epic_01.rpak",
-				"featureFlag": ""
 			}
 		],
 		"gcardBadges": [

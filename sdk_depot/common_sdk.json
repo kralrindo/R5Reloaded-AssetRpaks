@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "keepDevOnly": true,
+  "keepDevOnly": false,
 
   "name": "common_sdk",
   "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
@@ -3826,11 +3826,106 @@
       "_path": "shader/0x5EF7241347338DF2.rpak",//WAS 0x5EF7241347338DF1
       "$guid": "0x5EF7241347338DF2"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7DCFDFBDA4D4DF62.rpak",//WAS 0x7DCFDFBDA4D4DFCD
+      "$guid": "0x7DCFDFBDA4D4DF62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD5A979AB5E255F62.rpak",//WAS 0xD5A979AB5E255FCD
+      "$guid": "0xD5A979AB5E255F62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBDC61611F1C34362.rpak",//WAS 0xBDC61611F1C34390
+      "$guid": "0xBDC61611F1C34362"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x91CD9904F2BA7D62.rpak",//WAS 0x91CD9904F2BA7DD5
+      "$guid": "0x91CD9904F2BA7D62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1CB9120B5C814B62.rpak",//WAS 0x1CB9120B5C814B79
+      "$guid": "0x1CB9120B5C814B62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x721DECE76D26BC62.rpak",//WAS 0x721DECE76D26BC7F
+      "$guid": "0x721DECE76D26BC62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5EB168F51B0E8162.rpak",//WAS 0x5EB168F51B0E819E
+      "$guid": "0x5EB168F51B0E8162"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFB35CBC8CA1E8862.rpak",//WAS 0xFB35CBC8CA1E88CF
+      "$guid": "0xFB35CBC8CA1E8862"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE715083FD150A262.rpak",//WAS 0xE715083FD150A206
+      "$guid": "0xE715083FD150A262"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x821E1F24B4DC4D62.rpak",//WAS 0x821E1F24B4DC4DF9
+      "$guid": "0x821E1F24B4DC4D62"
+    },
     ////////////////////////SHADERSETS//////////////////////////
     {
       "_type": "txan",
       "_path": "texture_anim/0x10E360F24FD81D0D.rpak",//S8 TXAN, IS IT COMPATIBLE?
       "$guid": "0x10E360F24FD81D0D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF8D998DFEF277B62.rpak",//WAS 0xF8D998DFEF277B90
+      "$guid": "0xF8D998DFEF277B62"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB1B2742A83C26762.rpak",//WAS 0xB1B2742A83C267AD
+      "$guid": "0xB1B2742A83C26762"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA5130585E508A262.rpak",//WAS 0xA5130585E508A243
+      "$guid": "0xA5130585E508A262"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF9C64302AFC8F662.rpak",//WAS 0xF9C64302AFC8F655
+      "$guid": "0xF9C64302AFC8F662"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x385A27A13878CF62.rpak",//WAS 0x385A27A13878CF8a
+      "$guid": "0x385A27A13878CF62"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEC9CE8928CCA9162.rpak",//WAS 0xEC9CE8928CCA9111
+      "$guid": "0xEC9CE8928CCA9162"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF15E87F7FB907D62.rpak",//WAS 0xF15E87F7FB907D8E
+      "$guid": "0xF15E87F7FB907D62"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC860B93C913EB662.rpak",//WAS 0xC860B93C913EB69C
+      "$guid": "0xC860B93C913EB662"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x16B76091D59E7362.rpak",//WAS 0x16B76091D59E73AA
+      "$guid": "0x16B76091D59E7362"
     },
     {
       "_type": "shds",
@@ -23857,6 +23952,77 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
+      "_path": "animrig/ptpov_statue_mirage/ptpov_statue_mirage.rrig",//REMOVE THIS WHEN HALO RPAK REWORKED
+      "$sequences": [
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/crouch.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/crouch_to_sprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_01.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_02.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_03.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_boop.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_fumble.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_point.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/draw_to_sprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/drawfirst.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/drawsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/drawsprint_fumble.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/holster_01.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/holster_02.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/holster_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/idle.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/idle_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/idle_onehanded.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/idle_onehanded_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/idle_onehanded_sprinting.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/idle_to_sprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/inspect_gadgets.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/inspect_string.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/jump.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/jump_sprinting.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_high.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_high_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_low.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_low_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_med.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/land_med_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/lower.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/lower_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/lower_sprinting.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_crouch.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_door.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_idle_baseBop.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_idle_bop.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_idle_eyePoke.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_idle_porkchopSwipe.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_idle_reverseSwing.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_jump.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_sliding.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/melee_sprinting.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/meleeraise.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/raise.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/raise_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/raise_sprinting.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/regrip_to_crouch.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/regrip_to_idle.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprint_to_crouch.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprint_to_idle.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprintholster.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprintjump.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprintraise.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/sprintslide.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/switch_to_onehanded.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/switch_to_twohanded.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/zipline_mount.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/zipline_mount_airsprint.rseq",
+        "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/zipline_mount_sprinting.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/weapons/mirage_heirloom/ptpov_statue_mirage.rrig",
       "$sequences": [
         "animseq/weapons/mirage_heirloom/ptpov_statue_mirage/crouch.rseq",
@@ -31175,8 +31341,7 @@
       "_type": "mdl_",
       "_path": "mdl/Weapons/rampart_turret/ptpov_rampart_turret.rmdl",
       "$animrigs": [
-        "animrig/weapons/rampart_turret/ptpov_rampart_turret.rrig"/*,
-        "animrig/weapons/rampart_turret/ptpov_rampart_turret_held.rrig"*/
+        "animrig/weapons/rampart_turret/ptpov_rampart_turret.rrig"
       ]
     },
     {
@@ -32415,16 +32580,6 @@
         "animseq/weapons/octane_knife/ptpov_knife_octane/menu_pose.rseq"
       ]
     },
-    /*{
-      "_type": "mdl_",
-      "_path": "mdl/Weapons/octane_knife/ptpov_octane_knife.rmdl",
-      "$animrigs": [
-        "animrig/weapons/octane_knife/ptpov_knife_octane.rrig"
-      ],
-      "$sequences": [
-        "animseq/weapons/octane_knife/ptpov_knife_octane/menu_pose.rseq"
-      ]
-    },*/
     {
       "_type": "mdl_",
       "_path": "mdl/humans/class/heavy/pilot_heavy_revenant.rmdl",
