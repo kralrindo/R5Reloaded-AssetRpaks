@@ -3289,7 +3289,11 @@
       "_path": "settings/itemflav/character/revenant.rpak"
     },
     ////////////////////////DATATABLES/////////////////////
-   {
+    {
+      "_type": "dtbl",
+      "_path": "datatable/score_events.rpak"//FLOWSTATE SCORE EVENTS
+    },
+    {
       "_type": "dtbl",
       "_path": "datatable/survival_loot_sdk_distribution.rpak"//SDK LOOT DATATABLE
     },
@@ -32620,10 +32624,6 @@
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_sniper.rmdl"
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_exp.rmdl"
     },
     {
       "_type": "mdl_",
