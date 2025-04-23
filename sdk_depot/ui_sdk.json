@@ -10,133 +10,34 @@
   "name": "ui_sdk",
 
   "files": [
-    /*{
+    {
       "_type": "uimg",
-      "_path": "ui_image_atlas/texture",
-      "atlas": "texture/ui_atlas/movement/atlas.rpak",
-      "$guid": "0x9FA61031FF4B5D8B",
+      "_path": "ui_image_atlas/rui/rui_screens/banner",
+      "atlas": "texture/ui_atlas/rui/rui_screens/banners.rpak",
       "images": [
         {
-          "path": "0x3725C98E",
+          "path": "rui/rui_screens/banner_r",
           "posX": 20,
           "posY": 20,
-          "width": 1920,
-          "height": 1080
+          "width": 562,
+          "height": 1295
         },
         {
-          "path": "0xC8493A24",
-          "posX": 20,
-          "posY": 1140,
-          "width": 1024,
-          "height": 1024
-        },
-        {
-          "path": "0x164C1999",
-          "posX": 1084,
-          "posY": 1140,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x166C8B27",
-          "posX": 1636,
-          "posY": 1140,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x167C42DC",
-          "posX": 1980,
+          "path": "rui/rui_screens/banner_c",
+          "posX": 622,
           "posY": 20,
-          "width": 512,
-          "height": 512
+          "width": 562,
+          "height": 1295
         },
         {
-          "path": "0x5C55FF89",
-          "posX": 1980,
-          "posY": 572,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x774BA371",
-          "posX": 20,
-          "posY": 2204,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x776B35E7",
-          "posX": 572,
-          "posY": 2204,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x777B6CBC",
-          "posX": 1124,
-          "posY": 1692,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x778A466D",
-          "posX": 1676,
-          "posY": 1692,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x779AFD22",
-          "posX": 2188,
-          "posY": 1124,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x77A9C8D4",
-          "posX": 2532,
+          "path": "rui/rui_screens/banner_l",
+          "posX": 1224,
           "posY": 20,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x77BA0FA8",
-          "posX": 2532,
-          "posY": 572,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x77C9595A",
-          "posX": 2228,
-          "posY": 1676,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x77D9901F",
-          "posX": 2228,
-          "posY": 2228,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "0x2552904",
-          "posX": 1124,
-          "posY": 2244,
-          "width": 360,
-          "height": 278
-        },
-        {
-          "path": "0xB9D1AE1D",
-          "posX": 2740,
-          "posY": 1124,
-          "width": 287,
-          "height": 191
+          "width": 562,
+          "height": 1295
         }
       ]
-    },*/
+    },
     {
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/menu/misc",

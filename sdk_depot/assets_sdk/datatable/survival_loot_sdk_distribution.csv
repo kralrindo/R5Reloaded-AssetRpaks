@@ -27,8 +27,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",Helmet_Medium,0.5,0
 "","",Backpack_Medium,4,0
 "","",Incapshield_Medium,0.5,0
-"","",mp_ability_void_ring,0.5,0
-"","",mp_ability_redeploy_balloon,0.6,0
 "","",blank,14,0
 "","","",0,0
 "",Zone_High,"",0,3
@@ -43,7 +41,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",Backpack_High,4,0
 "","",Incapshield_High,1,0
 "","",mp_ability_mobile_respawn_beacon,0.75,0
-"","",mp_ability_void_ring,1,0
 "","",mp_ability_redeploy_balloon,1.1,0
 "","",helmet_pickup_lv5_sunglasses,0,0
 "","",blank,10.5,0

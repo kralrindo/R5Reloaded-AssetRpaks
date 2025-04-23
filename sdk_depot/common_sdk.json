@@ -3291,6 +3291,10 @@
     ////////////////////////DATATABLES/////////////////////
     {
       "_type": "dtbl",
+      "_path": "datatable/winterexpress_dialogues.rpak"//WINTER EXPRESS CORE DATATABLE
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/score_events.rpak"//FLOWSTATE SCORE EVENTS
     },
     {
