@@ -6,7 +6,7 @@
   "streamFileMandatory": "paks/Win64/common_kral.starpak",
   "streamFileOptional": "paks/Win64/common_kral.opt.starpak",
 
-  "assetsDir": "sdk_depot/assets_sdk/",
+  "assetsDir": "./assets_sdk/",
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
 
