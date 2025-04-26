@@ -21,11 +21,11 @@
 
         //MAP PAKS
         "map_depot/mp_lobby.json",
-        "map_depot/mp_rr_canyonlands_staging.json",/*
+        "map_depot/mp_rr_canyonlands_staging.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
-        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",*/
-        "map_depot/mp_rr_desertlands_holiday.json",/*
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
+        "map_depot/mp_rr_desertlands_holiday.json",
         "map_depot/mp_rr_desertlands_mu1.json",
         "map_depot/mp_rr_desertlands_mu1_tt.json",
         "map_depot/mp_rr_arena_phase_runner.json",
@@ -36,9 +36,10 @@
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
         "map_depot/mp_rr_desertlands_mu2.json",
         "map_depot/mp_rr_olympus.json",
-        "map_depot/mp_rr_olympus_tt.json",*/
+        "map_depot/mp_rr_olympus_tt.json",
 
-        "sdk_depot/others/flowstate/mp_rr_arena_empty.json"/*,//Flowstate Main Map
+        "sdk_depot/others/flowstate/mp_rr_arena_empty.json",//Flowstate Main Map*/
+        "sdk_depot/others/kralstuff/kralstuff.json",//Kralstuff Mod Rpak
 
         //UI ASSET PAKS
         "sdk_depot/ui_mainmenu.json",
@@ -82,6 +83,6 @@
         "sdk_depot/gcards/gcard_frame_loba_rare_03.json",
         "sdk_depot/gcards/gcard_frame_loba_rare_04.json",
         "sdk_depot/gcards/gcard_frame_loba_rare_05.json",
-        "sdk_depot/gcards/gcard_frame_loba_s05bp_epic_01.json"*/
+        "sdk_depot/gcards/gcard_frame_loba_s05bp_epic_01.json"
     ]
 }

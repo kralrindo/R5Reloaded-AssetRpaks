@@ -1,0 +1,44 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "common_kral",
+
+  "streamFileMandatory": "paks/Win64/common_kral.starpak",
+  "streamFileOptional": "paks/Win64/common_kral.opt.starpak",
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+  "streamCache": "cache/pc_roots.starmap",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "files": [
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/bolo_sword/krals_bolo_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_pickaxe_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_sword_sknp.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/minecraft_sword/ptpov_minecraft_sword.rmdl",
+      "$animrigs": [
+        "animrig/weapons/mirage_heirloom/ptpov_statue_mirage.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/bolo_sword/ptpov_bolo_sword_ash.rmdl",
+      "$animrigs": [
+        "animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"
+      ]
+    }
+  ]
+}

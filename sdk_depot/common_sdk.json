@@ -23314,18 +23314,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons/bolo_sword/krals_bolo_01_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_pickaxe_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_sword_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_sknp.rpak"
     },
     {
@@ -31036,13 +31024,6 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/Weapons/minecraft_sword/ptpov_minecraft_sword.rmdl",
-      "$animrigs": [
-        "animrig/weapons/mirage_heirloom/ptpov_statue_mirage.rrig"
-      ]
-    },
-    {
-      "_type": "mdl_",
       "_path": "mdl/weapons/vinson/ptpov_vinson_set1.rmdl",//FLATLINE CUSTOM SKIN MODEL
       "$animrigs": [
         "animrig/weapons/vinson/ptpov_vinson.rrig"
@@ -31482,13 +31463,6 @@
       "_path": "mdl/props/crafting_siphon/crafting_siphon.rmdl",
       "$animrigs": [
         "animrig/props/crafting_siphon/crafting_siphon.rrig"
-      ]
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/weapons/bolo_sword/ptpov_bolo_sword_ash.rmdl",
-      "$animrigs": [
-        "animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"
       ]
     },
     {
