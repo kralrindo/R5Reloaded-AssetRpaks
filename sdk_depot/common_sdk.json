@@ -4473,6 +4473,41 @@
     ///////////////////TEXTURES/////////////////////////
     {
       "_type": "txtr",
+      "_path": "texture/0x1504B93BF03F0360.rpak",
+      "$guid": "0x1504B93BF03F0360"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3F7B30092F5F90EE.rpak",
+      "$guid": "0x3F7B30092F5F90EE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5D48146AE4A40773.rpak",
+      "$guid": "0x5D48146AE4A40773"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8943699875BA9233.rpak",
+      "$guid": "0x8943699875BA9233"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA750093B64DAB852.rpak",
+      "$guid": "0xA750093B64DAB852"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAB19D7A7E1E516A8.rpak",
+      "$guid": "0xAB19D7A7E1E516A8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xED284ACBF9BE1355.rpak",
+      "$guid": "0xED284ACBF9BE1355"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x108C2FBA405B14C7.rpak",
       "$guid": "0x108C2FBA405B14C7"
     },
@@ -13632,6 +13667,14 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_holo_spray_base/holo_spray_base_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_holo_spray_base/holo_spray_base_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/attachments/optics/bow_1x2x_sight/bow_1x2x_sight_colpass_sknp.rpak"
@@ -30941,6 +30984,10 @@
       ]
     },
     /////////////////////////MODELS//////////////////////////////
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/holo_spray/w_holo_spray.rmdl"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/creatures/bird/bird.rmdl",//REPLACE S3 BIRD FOR PATH HEIRLOOM
