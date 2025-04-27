@@ -1,0 +1,142 @@
+{
+  "version": 8,
+
+  "assetsDir": "./assets_sdk/",
+  "outputDir": "./build/",
+  
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "ui_gym",
+
+  //"keepClientOnly": false,
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/movement/atlas",
+      "atlas": "texture/ui_atlas/movement/atlas.rpak",
+      "images": [
+        {
+          "path": "rui/flowstatecustom/dea/mg_settings_bg",
+          "posX": 20,
+          "posY": 20,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/flowstatecustom/dea/saved_times",
+          "posX": 20,
+          "posY": 1140,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_m1",
+          "posX": 1084,
+          "posY": 1140,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_m3",
+          "posX": 1636,
+          "posY": 1140,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_m2",
+          "posX": 1980,
+          "posY": 20,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_freeroam",
+          "posX": 1980,
+          "posY": 572,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e9",
+          "posX": 20,
+          "posY": 2204,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e7",
+          "posX": 572,
+          "posY": 2204,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e8",
+          "posX": 1124,
+          "posY": 1692,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e5",
+          "posX": 1676,
+          "posY": 1692,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e6",
+          "posX": 2188,
+          "posY": 1124,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e3",
+          "posX": 2532,
+          "posY": 20,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e4",
+          "posX": 2532,
+          "posY": 572,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e1",
+          "posX": 2228,
+          "posY": 1676,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/button_e2",
+          "posX": 2228,
+          "posY": 2228,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/flowstatecustom/dea/dea_pfp",
+          "posX": 1124,
+          "posY": 2244,
+          "width": 360,
+          "height": 278
+        },
+        {
+          "path": "rui/flowstatecustom/dea/loy_pfp",
+          "posX": 2740,
+          "posY": 1124,
+          "width": 287,
+          "height": 191
+        }
+      ]
+    }
+  ]
+}
