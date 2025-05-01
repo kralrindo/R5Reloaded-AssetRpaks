@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\holo_spray\holo_spray_close.rseq
+	animseq\props\holo_spray\holo_spray_close_idle.rseq
+	animseq\props\holo_spray\holo_spray_open.rseq
+	animseq\props\holo_spray\holo_spray_open_idle.rseq
+	animseq\props\holo_spray\holo_spray_spin.rseq
+]

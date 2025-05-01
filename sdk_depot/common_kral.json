@@ -10,6 +10,8 @@
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
 
+  //"keepClientOnly": false,
+
   "compressLevel": 6,
   "compressWorkers": 16,
 
@@ -25,6 +27,10 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_sword_sknp.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/minecraft_sword/w_minecraft_sword.rmdl"
     },
     {
       "_type": "mdl_",
