@@ -804,13 +804,13 @@
 	"$modValues": [
 		{ // originally mapped to offset 2500
 			"index": 1,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 21.000000,
 			"field": "wallrun_hangTimeLimit"
 		},
 		{ // originally mapped to offset 2496
 			"index": 1,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 2.500000,
 			"field": "wallrun_timeLimit"
 		},
@@ -1320,7 +1320,7 @@
 		},
 		{ // originally mapped to offset 196
 			"index": 18,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 40.000000,
 			"field": "poseSettings[0].sprintspeed"
 		},
@@ -1488,139 +1488,139 @@
 		},
 		{ // originally mapped to offset 192
 			"index": 23,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -8.000000,
 			"field": "poseSettings[0].speed"
 		},
 		{ // originally mapped to offset 212
 			"index": 23,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 8.000000,
 			"field": "poseSettings[0].sprintAcceleration"
 		},
 		{ // originally mapped to offset 188
 			"index": 23,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -4.000000,
 			"field": "poseSettings[0].lowSpeed"
 		},
 		{ // originally mapped to offset 296
 			"index": 23,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -2.000000,
 			"field": "poseSettings[1].speed"
 		},
 		{ // originally mapped to offset 200
 			"index": 23,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -250.000000,
 			"field": "poseSettings[0].acceleration"
 		},
 		{ // originally mapped to offset 192
 			"index": 24,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -18.000000,
 			"field": "poseSettings[0].speed"
 		},
 		{ // originally mapped to offset 212
 			"index": 24,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 18.000000,
 			"field": "poseSettings[0].sprintAcceleration"
 		},
 		{ // originally mapped to offset 188
 			"index": 24,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -10.000000,
 			"field": "poseSettings[0].lowSpeed"
 		},
 		{ // originally mapped to offset 296
 			"index": 24,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -4.000000,
 			"field": "poseSettings[1].speed"
 		},
 		{ // originally mapped to offset 200
 			"index": 24,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -250.000000,
 			"field": "poseSettings[0].acceleration"
 		},
 		{ // originally mapped to offset 192
 			"index": 25,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -28.000000,
 			"field": "poseSettings[0].speed"
 		},
 		{ // originally mapped to offset 212
 			"index": 25,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 28.000000,
 			"field": "poseSettings[0].sprintAcceleration"
 		},
 		{ // originally mapped to offset 188
 			"index": 25,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -15.000000,
 			"field": "poseSettings[0].lowSpeed"
 		},
 		{ // originally mapped to offset 296
 			"index": 25,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -6.000000,
 			"field": "poseSettings[1].speed"
 		},
 		{ // originally mapped to offset 200
 			"index": 25,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -250.000000,
 			"field": "poseSettings[0].acceleration"
 		},
 		{ // originally mapped to offset 192
 			"index": 26,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -32.000000,
 			"field": "poseSettings[0].speed"
 		},
 		{ // originally mapped to offset 212
 			"index": 26,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 32.000000,
 			"field": "poseSettings[0].sprintAcceleration"
 		},
 		{ // originally mapped to offset 188
 			"index": 26,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -15.000000,
 			"field": "poseSettings[0].lowSpeed"
 		},
 		{ // originally mapped to offset 296
 			"index": 26,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -6.000000,
 			"field": "poseSettings[1].speed"
 		},
 		{ // originally mapped to offset 200
 			"index": 26,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -250.000000,
 			"field": "poseSettings[0].acceleration"
 		},
 		{ // originally mapped to offset 196
 			"index": 26,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -25.000000,
 			"field": "poseSettings[0].sprintspeed"
 		},
 		{ // originally mapped to offset 192
 			"index": 27,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": -12.000000,
 			"field": "poseSettings[0].speed"
 		},
 		{ // originally mapped to offset 212
 			"index": 27,
-			"type": "float_plus",
+			"type": "float_add",
 			"value": 24.000000,
 			"field": "poseSettings[0].sprintAcceleration"
 		}
