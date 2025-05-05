@@ -3919,6 +3919,11 @@
       "_path": "shader/0x6D8F506F12E5A062.rpak",//WAS 0x6D8F506F12E5A092
       "$guid": "0x6D8F506F12E5A062"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC56567C49ADA5862.rpak",//WAS 0xC56567C49ADA58C9
+      "$guid": "0xC56567C49ADA5862"
+    },
     ////////////////////////SHADERSETS//////////////////////////
     {
       "_type": "shds",
@@ -3989,6 +3994,11 @@
       "_type": "shds",
       "_path": "shaderset/0x20A2EBE299314062.rpak",//WAS 0x20A2EBE299314011
       "$guid": "0x20A2EBE299314062"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC76CCC28D0A23A62.rpak",//WAS 0xC76CCC28D0A23AA0
+      "$guid": "0xC76CCC28D0A23A62"
     },
     {
       "_type": "shds",
