@@ -3884,12 +3884,42 @@
       "_path": "shader/0x821E1F24B4DC4D62.rpak",//WAS 0x821E1F24B4DC4DF9
       "$guid": "0x821E1F24B4DC4D62"
     },
-    ////////////////////////SHADERSETS//////////////////////////
     {
-      "_type": "txan",
-      "_path": "texture_anim/0x10E360F24FD81D0D.rpak",//S8 TXAN, IS IT COMPATIBLE?
-      "$guid": "0x10E360F24FD81D0D"
+      "_type": "shdr",
+      "_path": "shader/0x3EA5EFEDC96EAC62.rpak",//WAS 0x3EA5EFEDC96EAC65
+      "$guid": "0x3EA5EFEDC96EAC62"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4A6E5F90A1CC5762.rpak",//WAS 0x4A6E5F90A1CC579D
+      "$guid": "0x4A6E5F90A1CC5762"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAF5ED2A605059A62.rpak",//WAS 0xAF5ED2A605059A22
+      "$guid": "0xAF5ED2A605059A62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x54B6363E2B7FD262.rpak",//WAS 0x54B6363E2B7FD2B3
+      "$guid": "0x54B6363E2B7FD262"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4A5EA7B5E9F5A862.rpak",//WAS 0x4A5EA7B5E9F5A85A
+      "$guid": "0x4A5EA7B5E9F5A862"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x88E53946BDDF2D62.rpak",//WAS 0x88E53946BDDF2D29
+      "$guid": "0x88E53946BDDF2D62"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x28CACFD85F640B62.rpak",//WAS 0x28CACFD85F640B72
+      "$guid": "0x28CACFD85F640B62"
+    },
+    ////////////////////////SHADERSETS//////////////////////////
     {
       "_type": "shds",
       "_path": "shaderset/0xF8D998DFEF277B62.rpak",//WAS 0xF8D998DFEF277B90
@@ -3937,6 +3967,36 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xEEEC428DC7624162.rpak",//WAS 0xEEEC428DC76241A3
+      "$guid": "0xEEEC428DC7624162"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x4A6203898AA61A62.rpak",//WAS 0x4A6203898AA61AB2
+      "$guid": "0x4A6203898AA61A62"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9198DAD49196C762.rpak",//WAS 0x9198DAD49196C70E
+      "$guid": "0x9198DAD49196C762"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2A20BB77EAAB7162.rpak",//WAS 0x2A20BB77EAAB71AA
+      "$guid": "0x2A20BB77EAAB7162"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7B7985748BBE0362.rpak",//WAS 0x7B7985748BBE0389
+      "$guid": "0x7B7985748BBE0362"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x34955C1536620D62.rpak",//WAS 0x34955C1536620DFB
+      "$guid": "0x34955C1536620D62"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x9B98FD4688E13B0F.rpak",//S9 SHADERSET
       "$guid": "0x9B98FD4688E13B0F"
     },
@@ -3964,6 +4024,11 @@
       "_type": "shds",
       "_path": "shaderset/0xB6881CF04941246A.rpak",//WAS 0xB6881CF04941246E
       "$guid": "0xB6881CF04941246A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9DA8B74A16FBD262.rpak",//WAS 0x9DA8B74A16FBD2D9
+      "$guid": "0x9DA8B74A16FBD262"
     },
     {
       "_type": "shds",
@@ -4469,6 +4534,12 @@
       "_type": "shds",
       "_path": "shaderset/0xCFED363E8F48E0B6.rpak",
       "$guid": "0xCFED363E8F48E0B6"
+    },
+    ///////////////////TEXTURES ANIMATION///////////////
+    {
+      "_type": "txan",
+      "_path": "texture_anim/0x10E360F24FD81D0D.rpak",
+      "$guid": "0x10E360F24FD81D0D"
     },
     ///////////////////TEXTURES/////////////////////////
     {
