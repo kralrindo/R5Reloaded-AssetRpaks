@@ -24,7 +24,7 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xF58E1F7D5EF5FC70",
+	"shaderSet": "0xF8D998DFEF277B62",
 	"$textures": {
 		"0": "0x6CEEC57E431C461E",
 		"1": "0x63146CD2163812E0",
@@ -32,12 +32,13 @@
 		"3": "0xD1E20998CBAA13E5",
 		"4": "0x28AE36666589DC1B",
 		"5": "0xB79052D97CBF4CF",
-		"6": "0x7CF060A469026FD1"
+		"6": "0x7CF060A469026FD1",
+		"13": "0x359183E3CB764DAC"
 	},
-	"$depthShadowMaterial": "0x4E146167B94CB713",
-	"$depthPrepassMaterial": "0x9A278B1172180B00",
-	"$depthVSMMaterial": "0xA55D231BA5900496",
-	"$depthShadowTightMaterial": "0x55B7252E9FB1B1BD",
+	"$depthShadowMaterial": "0x6B6B3FF7AB9F52C2",
+	"$depthPrepassMaterial": "0x8A5AF9E51F6049E4",
+	"$depthVSMMaterial": "0xB32FCD49CC0A72AB",
+	"$depthShadowTightMaterial": "0xD19ECB22A11FF44B",
 	"$colpassMaterial": "0xD755FDF3DD4B9E92",
 	"$textureAnimation": "0x0"
 }

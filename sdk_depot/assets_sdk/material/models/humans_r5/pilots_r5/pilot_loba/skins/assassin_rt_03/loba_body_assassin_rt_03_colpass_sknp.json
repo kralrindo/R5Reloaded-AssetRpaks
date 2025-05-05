@@ -24,20 +24,20 @@
 	"surfaceProp": "default",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xEEDBEEC9F345E71",
+	"shaderSet": "0xC860B93C913EB662",
 	"$textures": {
 		"0": "0xBBF738A805CE5190",
 		"1": "0xB350A42D75037E0E",
 		"2": "0xF56B65E9248EC24B",
 		"3": "0x221E40F455E058AA",
-		"4": "0x7A1E31F3D013B1F7",
 		"5": "0xE10F18EB0E852CE4",
-		"6": "0xCE605C31D9C01B9E"
+		"6": "0xCE605C31D9C01B9E",
+		"13": "0x7906379E0CC6B8B6"
 	},
-	"$depthShadowMaterial": "0xCCB4735E5B142D2D",
-	"$depthPrepassMaterial": "0x3F0E9F002EEEC339",
-	"$depthVSMMaterial": "0x8438D4C3012F364A",
-	"$depthShadowTightMaterial": "0xA31BC78C8E935332",
+	"$depthShadowMaterial": "0xECE050543CB77557",
+	"$depthPrepassMaterial": "0xB41C97254129AD9B",
+	"$depthVSMMaterial": "0xDF41190B6ACA2B87",
+	"$depthShadowTightMaterial": "0x91E7F083D4201E96",
 	"$colpassMaterial": "0x0",
 	"$textureAnimation": "0x0"
 }
