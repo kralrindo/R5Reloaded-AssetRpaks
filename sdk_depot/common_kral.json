@@ -10,7 +10,7 @@
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
 
-  //"keepClientOnly": false,
+  "keepClientOnly": false,
 
   "compressLevel": 6,
   "compressWorkers": 16,
@@ -29,6 +29,14 @@
       "_path": "material/models/weapons_r5/misc_krals_heirloom/minecraft_sword_sknp.rpak"
     },
     {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_krals_heirloom/krals_mjolnir_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_krals_heirloom/krals_karambit_sknp.rpak"
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/Weapons/minecraft_sword/w_minecraft_sword.rmdl"
     },
@@ -45,6 +53,28 @@
       "$animrigs": [
         "animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/krals_mjolnir/ptpov_krals_mjolnir.rmdl",
+      "$animrigs": [
+        "animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/krals_mjolnir/w_krals_mjolnir.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/krals_karambit/ptpov_krals_karambit.rmdl",
+      "$animrigs": [
+        "animrig/weapons/kunai/ptpov_kunai_wraith.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/krals_karambit/w_krals_karambit.rmdl"
     }
   ]
 }
