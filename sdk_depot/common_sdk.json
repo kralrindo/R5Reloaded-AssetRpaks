@@ -1,10 +1,10 @@
 {
   "version": 8,
-  "keepDevOnly": false,
+  "keepDevOnly": true,
 
   "name": "common_sdk",
-  "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
-  "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
+  "streamFileMandatory": "paks/Win64/common_sdk.starpak",
+  "streamFileOptional": "paks/Win64/common_sdk.opt.starpak",
 
   "streamCache": "cache/pc_roots.starmap",
 
