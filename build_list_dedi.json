@@ -11,36 +11,36 @@
     "paks": [
 
         //ENGINE PAKS
+        "sdk_depot/others/patch_master.json",
+        "sdk_depot/startup_sdk.json",
+        "sdk_depot/common_roots.json",
+        "sdk_depot/effects_sdk.json",
         //"sdk_depot/others/common.json",
         //"sdk_depot/others/common_mp.json",
         "sdk_depot/common_sdk.json",
-        "sdk_depot/common_roots.json",
-        "sdk_depot/effects_sdk.json",
-        "sdk_depot/others/patch_master.json",
-        "sdk_depot/startup_sdk.json",
 
         //MAP PAKS
         "map_depot/mp_lobby.json",
-        "sdk_depot/others/flowstate/mp_rr_arena_empty.json",//Flowstate Main Map
+        "map_depot/mp_rr_canyonlands_staging.json",
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",
-        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json",
-        "map_depot/mp_rr_canyonlands_staging.json",
         "map_depot/mp_rr_canyonlands_mu2.json",
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
+        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
-        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
         "map_depot/mp_rr_desertlands_holiday.json",
         "map_depot/mp_rr_desertlands_mu1.json",
         "map_depot/mp_rr_desertlands_mu1_tt.json",
         "map_depot/mp_rr_desertlands_mu2.json",
-        "map_depot/mp_rr_arena_phase_runner.json",
-        "map_depot/mp_rr_arena_composite.json",
+        "map_depot/mp_rr_olympus.json",
+        "map_depot/mp_rr_olympus_tt.json",
         "map_depot/mp_rr_aqueduct.json",
         "map_depot/mp_rr_party_crasher.json",
-        "map_depot/mp_rr_olympus.json",
-        "map_depot/mp_rr_olympus_tt.json"
+        "map_depot/mp_rr_arena_composite.json",
+        "map_depot/mp_rr_arena_phase_runner.json",
+        "sdk_depot/others/flowstate/mp_rr_arena_empty.json"//Flowstate Main Map
     ]
 }
