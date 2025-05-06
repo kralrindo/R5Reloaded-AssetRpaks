@@ -10,7 +10,7 @@
   "streamFileMandatory": "paks/Win64/common_roots.starpak",
   "streamFileOptional": "paks/Win64/common_roots.opt.starpak",
 
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
 
   "name": "common_roots",
