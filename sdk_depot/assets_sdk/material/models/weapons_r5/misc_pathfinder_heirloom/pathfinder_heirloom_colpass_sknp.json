@@ -24,14 +24,14 @@
 	"surfaceProp": "metal",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xB6881CF04941246A",
+	"shaderSet": "0xB6881CF049412462",
 	"$textures": {
 		"0": "0xF5E268C99CFC6E52",
 		"1": "0x8CD9CB65682A8822",
 		"2": "0xD6A204F4D9F062FE",
 		"3": "0x3BBAAA5A3E477537",
-		"4": "0x639718CA1BF90D7E",
-		"5": "0xF9AC37361A06CCA8"
+		"5": "0x639718CA1BF90D7E",
+		"6": "0xF9AC37361A06CCA8"
 	},
 	"$textureTypes": {
 		"0": "albedoTexture",
