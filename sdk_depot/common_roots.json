@@ -7,6 +7,9 @@
   "assetsDir": "sdk_depot/assets_sdk/",
   "outputDir": "./build/",
 
+  "streamFileMandatory": "paks/Win64/common_roots.starpak",
+  "streamFileOptional": "paks/Win64/common_roots.opt.starpak",
+
   "compressLevel": 0,
   "compressWorkers": 16,
 
@@ -28,7 +31,457 @@
     {
       "_type": "stlt",
       "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
-    }/*,
+    },
+    {
+      "_type": "txls",
+      "_path": "texture_list/camo_skins.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x119937E83E5F0B1C.rpak",
+      "$guid": "0x119937E83E5F0B1C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x123D3BD52D023B16.rpak",
+      "$guid": "0x123D3BD52D023B16"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x12AA813F3E3BD00B.rpak",
+      "$guid": "0x12AA813F3E3BD00B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x163162DD8971B845.rpak",
+      "$guid": "0x163162DD8971B845"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x182BA5D770B1CAF7.rpak",
+      "$guid": "0x182BA5D770B1CAF7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1879C571E1BEAE4D.rpak",
+      "$guid": "0x1879C571E1BEAE4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x18FA8B25A6DC4D92.rpak",
+      "$guid": "0x18FA8B25A6DC4D92"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1B7DA963663D56A2.rpak",
+      "$guid": "0x1B7DA963663D56A2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1BAC5A35A5774F0E.rpak",
+      "$guid": "0x1BAC5A35A5774F0E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1DD08499A25826FE.rpak",
+      "$guid": "0x1DD08499A25826FE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1F48F4961DDDCA8F.rpak",
+      "$guid": "0x1F48F4961DDDCA8F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x215437F462C1C2C9.rpak",
+      "$guid": "0x215437F462C1C2C9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2232BD3E46C07DB.rpak",
+      "$guid": "0x2232BD3E46C07DB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2427E55C4C15D46A.rpak",
+      "$guid": "0x2427E55C4C15D46A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2651056D6A8B72F9.rpak",
+      "$guid": "0x2651056D6A8B72F9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2BFCA25A25D9651E.rpak",
+      "$guid": "0x2BFCA25A25D9651E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2D6E9A49A9269F19.rpak",
+      "$guid": "0x2D6E9A49A9269F19"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2E63C60CC5CFBA97.rpak",
+      "$guid": "0x2E63C60CC5CFBA97"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3350D306CF4C27F1.rpak",
+      "$guid": "0x3350D306CF4C27F1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x35ABA8471E120D4C.rpak",
+      "$guid": "0x35ABA8471E120D4C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x36DA904C99FBCDDC.rpak",
+      "$guid": "0x36DA904C99FBCDDC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x44BCACDA3C34EF64.rpak",
+      "$guid": "0x44BCACDA3C34EF64"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x45EAB783EEC5230C.rpak",
+      "$guid": "0x45EAB783EEC5230C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x476DE637131A8A97.rpak",
+      "$guid": "0x476DE637131A8A97"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x515BE9969DDC4100.rpak",
+      "$guid": "0x515BE9969DDC4100"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5232B98771970053.rpak",
+      "$guid": "0x5232B98771970053"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x52D25E2B5A02CE3C.rpak",
+      "$guid": "0x52D25E2B5A02CE3C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x532CE3FB73BC6371.rpak",
+      "$guid": "0x532CE3FB73BC6371"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x54EE1080BD629E3.rpak",
+      "$guid": "0x54EE1080BD629E3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x55557C691F97AD3D.rpak",
+      "$guid": "0x55557C691F97AD3D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x55E8E37C8A03308C.rpak",
+      "$guid": "0x55E8E37C8A03308C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x581F5AEE78DAFBA9.rpak",
+      "$guid": "0x581F5AEE78DAFBA9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B4A975614991AD5.rpak",
+      "$guid": "0x5B4A975614991AD5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5D3442DA70395D3F.rpak",
+      "$guid": "0x5D3442DA70395D3F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5DEA9444477406FE.rpak",
+      "$guid": "0x5DEA9444477406FE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5DEDCCCB28E15403.rpak",
+      "$guid": "0x5DEDCCCB28E15403"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5FABEAE8A2C1B849.rpak",
+      "$guid": "0x5FABEAE8A2C1B849"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x60DB1DA949F208E5.rpak",
+      "$guid": "0x60DB1DA949F208E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x638248D2C9EE2714.rpak",
+      "$guid": "0x638248D2C9EE2714"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x64AEF0543400CE87.rpak",
+      "$guid": "0x64AEF0543400CE87"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x661198293490C1CA.rpak",
+      "$guid": "0x661198293490C1CA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x67CBD7937058105.rpak",
+      "$guid": "0x67CBD7937058105"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6CC52C0B9813D183.rpak",
+      "$guid": "0x6CC52C0B9813D183"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6D1550514B88163B.rpak",
+      "$guid": "0x6D1550514B88163B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6E4944FA1285B6F7.rpak",
+      "$guid": "0x6E4944FA1285B6F7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6F0FC3C1B634D982.rpak",
+      "$guid": "0x6F0FC3C1B634D982"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x70F9DABA6F1BA8FD.rpak",
+      "$guid": "0x70F9DABA6F1BA8FD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7BE7355BE92C1F41.rpak",
+      "$guid": "0x7BE7355BE92C1F41"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7D35BA09F6300674.rpak",
+      "$guid": "0x7D35BA09F6300674"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7F2FFD03C4A0C162.rpak",
+      "$guid": "0x7F2FFD03C4A0C162"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7F3C718269128D5D.rpak",
+      "$guid": "0x7F3C718269128D5D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x813756B51DCA6CAF.rpak",
+      "$guid": "0x813756B51DCA6CAF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x81B922CF8F4F53B7.rpak",
+      "$guid": "0x81B922CF8F4F53B7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B70D86C9920498F.rpak",
+      "$guid": "0x8B70D86C9920498F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B75AF3638050303.rpak",
+      "$guid": "0x8B75AF3638050303"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9368AB209FB3A1B6.rpak",
+      "$guid": "0x9368AB209FB3A1B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x95A63377A9BA982B.rpak",
+      "$guid": "0x95A63377A9BA982B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9BB0AF3766494FF5.rpak",
+      "$guid": "0x9BB0AF3766494FF5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9BD7DD6BE67C9916.rpak",
+      "$guid": "0x9BD7DD6BE67C9916"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA0E68D2E49EB669A.rpak",
+      "$guid": "0xA0E68D2E49EB669A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA156E75527B6BA46.rpak",
+      "$guid": "0xA156E75527B6BA46"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA1A0DAF643C33F93.rpak",
+      "$guid": "0xA1A0DAF643C33F93"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA21AFA725F992201.rpak",
+      "$guid": "0xA21AFA725F992201"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA28144CE1B0AAC71.rpak",
+      "$guid": "0xA28144CE1B0AAC71"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA3BBF908EC1CA758.rpak",
+      "$guid": "0xA3BBF908EC1CA758"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xADAD06162DF0D19.rpak",
+      "$guid": "0xADAD06162DF0D19"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAEDAB6416C94596B.rpak",
+      "$guid": "0xAEDAB6416C94596B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB39423AF173917C4.rpak",
+      "$guid": "0xB39423AF173917C4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB9344C8903E16EC3.rpak",
+      "$guid": "0xB9344C8903E16EC3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB9C451DFD208E172.rpak",
+      "$guid": "0xB9C451DFD208E172"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBA0FBFE7198DC95.rpak",
+      "$guid": "0xBA0FBFE7198DC95"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBABC169698F55F56.rpak",
+      "$guid": "0xBABC169698F55F56"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBCF5309A4EAFCD73.rpak",
+      "$guid": "0xBCF5309A4EAFCD73"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBD0080D2E8D08B1.rpak",
+      "$guid": "0xBD0080D2E8D08B1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBDEC5CAF583E783E.rpak",
+      "$guid": "0xBDEC5CAF583E783E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBEB2DB776B92A5BB.rpak",
+      "$guid": "0xBEB2DB776B92A5BB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC2362754ADDBDB12.rpak",
+      "$guid": "0xC2362754ADDBDB12"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC4027D971FB8AFD5.rpak",
+      "$guid": "0xC4027D971FB8AFD5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC4C8FC5F26A53170.rpak",
+      "$guid": "0xC4C8FC5F26A53170"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC5D175181BD2092C.rpak",
+      "$guid": "0xC5D175181BD2092C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCC4D29997B337876.rpak",
+      "$guid": "0xCC4D29997B337876"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDADD282337A8CBC4.rpak",
+      "$guid": "0xDADD282337A8CBC4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEB4127118BFB53B9.rpak",
+      "$guid": "0xEB4127118BFB53B9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEC2F4A3340314CE4.rpak",
+      "$guid": "0xEC2F4A3340314CE4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF14049FAE320DE89.rpak",
+      "$guid": "0xF14049FAE320DE89"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF39654D5E881202A.rpak",
+      "$guid": "0xF39654D5E881202A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF5E31398BBACB64E.rpak",
+      "$guid": "0xF5E31398BBACB64E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFB5E495B78500112.rpak",
+      "$guid": "0xFB5E495B78500112"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFC9C65D81C6A0A85.rpak",
+      "$guid": "0xFC9C65D81C6A0A85"
+    }
+    /*,
     {
       "_type": "shdr",
       "_path": "shader/0x8815107E59BA114B.rpak",
