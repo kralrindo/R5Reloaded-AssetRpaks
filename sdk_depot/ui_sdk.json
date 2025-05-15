@@ -10,34 +10,34 @@
   "name": "ui_sdk",
 
   "files": [
-    {
-      "_type": "uimg",
-      "_path": "ui_image_atlas/rui/rui_screens/banner",
-      "atlas": "texture/ui_atlas/rui/rui_screens/banners.rpak",
-      "images": [
-        {
-          "path": "rui/rui_screens/banner_r",
-          "posX": 20,
-          "posY": 20,
-          "width": 562,
-          "height": 1295
-        },
-        {
-          "path": "rui/rui_screens/banner_c",
-          "posX": 622,
-          "posY": 20,
-          "width": 562,
-          "height": 1295
-        },
-        {
-          "path": "rui/rui_screens/banner_l",
-          "posX": 1224,
-          "posY": 20,
-          "width": 562,
-          "height": 1295
-        }
-      ]
-    },
+    // {
+    //   "_type": "uimg",
+    //   "_path": "ui_image_atlas/rui/rui_screens/banner",
+    //   "atlas": "texture/ui_atlas/rui/rui_screens/banners.rpak",
+    //   "images": [
+    //     {
+    //       "path": "rui/rui_screens/banner_r",
+    //       "posX": 20,
+    //       "posY": 20,
+    //       "width": 562,
+    //       "height": 1295
+    //     },
+    //     {
+    //       "path": "rui/rui_screens/banner_c",
+    //       "posX": 622,
+    //       "posY": 20,
+    //       "width": 562,
+    //       "height": 1295
+    //     },
+    //     {
+    //       "path": "rui/rui_screens/banner_l",
+    //       "posX": 1224,
+    //       "posY": 20,
+    //       "width": 562,
+    //       "height": 1295
+    //     }
+    //   ]
+    // },
     {
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/menu/misc",
