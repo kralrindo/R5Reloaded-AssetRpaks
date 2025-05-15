@@ -5,7 +5,7 @@
     "keepDevOnly": false,
     "keepClientOnly": false,
 
-    "outputDir": "./build/",
+    "outputDir": "./paks/Win64_server/",
     "showDebugInfo": false,
 
     "paks": [

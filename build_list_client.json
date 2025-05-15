@@ -4,7 +4,7 @@
     "version": 8,
     "keepDevOnly": false,
 
-    "outputDir": "./build/",
+    "outputDir": "./paks/Win64/",
 
     "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
     "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
