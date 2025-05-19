@@ -7,6 +7,14 @@
   "streamFileOptional": "paks/Win64/common_sdk.opt.starpak",
 
   "streamCache": "cache/pc_roots.starmap",
+  "streamCacheFilter": [
+    "paks/Win64/pc_all.starpak",
+    "paks/Win64/pc_all.opt.starpak",
+    "paks/Win64/pc_all(02).starpak",
+    "paks/Win64/pc_all(02).opt.starpak",
+    "paks/Win64/pc_all(03).starpak",
+    "paks/Win64/pc_all(03).opt.starpak"
+  ],
 
   "assetsDir": "sdk_depot/assets_sdk/",
   "outputDir": "./build/",
