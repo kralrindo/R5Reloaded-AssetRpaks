@@ -13,7 +13,7 @@
 "","mp_weapon_dmr","main_weapon","","","sight mag grip hopup","sniper",1,"PING_WEAPON_DMR","","","",0,"","survival_loot_pickup_weapon_dmr","survival_loot_pickup_3p_weapon_dmr","","","",1,1,"","",0,0,20,0,0,0,0
 "","mp_weapon_defender","main_weapon","","","sight mag hopup grip","sniper",1,"PING_WEAPON_DEFENDER","","","",0,"","survival_loot_pickup_weapon_dmr","survival_loot_pickup_3p_weapon_dmr","","","",1,1,"","",0,0,20,0,0,0,0
 "","mp_weapon_lmg","main_weapon","","","sight grip mag barrel","lmg",1,"PING_WEAPON_SPITFIRE","","","",0,"","survival_loot_pickup_weapon_lmg","survival_loot_pickup_3p_weapon_lmg","","","",1,1,"","",0,0,20,0,0,0,0
-"","mp_weapon_3030","main_weapon","","","sight mag hopup grip","assault",1,"PING_WEAPON_3030","","","",0,"","survival_loot_pickup_weapon_3030","survival_loot_pickup_3p_weapon_3030","","","",1,1,"","",0,0,20,0,0,0,0
+"","mp_weapon_3030","main_weapon","","","sight mag hopup grip","marksman",1,"PING_WEAPON_3030","","","",0,"","survival_loot_pickup_weapon_3030","survival_loot_pickup_3p_weapon_3030","","","",1,1,"","",0,0,20,0,0,0,0
 "","mp_weapon_rspn101","main_weapon","","","sight mag barrel grip","assault",1,"PING_WEAPON_R201","","","",0,"","survival_loot_pickup_weapon_rspn101","survival_loot_pickup_3p_weapon_rspn101","","","",1,1,"","",0,0,20,0,0,0,0
 "","mp_weapon_shotgun","main_weapon","","","sight mag grip","shotgun",1,"PING_WEAPON_EVA","","","",0,"","survival_loot_pickup_weapon_shotgun","survival_loot_pickup_3p_weapon_shotgun","","","",1,1,"","",0,0,20,0,0,0,0
 "","mp_weapon_shotgun_pistol","main_weapon","","","sight mag","pistol",1,"PING_WEAPON_MOZAMBIQUE","","","",0,"","survival_loot_pickup_weapon_shotgun","survival_loot_pickup_3p_weapon_shotgun","","","",1,1,"","",0,0,20,0,0,0,0
