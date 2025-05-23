@@ -933,6 +933,62 @@
           "height": 170
         },
         {
+          "path": "rui/hud/gametype_icons/survival/crafting_currency",
+          "posX": 3616,
+          "posY": 0,
+          "width": 106,
+          "height": 123
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/crafting_workbench",
+          "posX": 3724,
+          "posY": 0,
+          "width": 112,
+          "height": 127
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/crafting_workbench_airdrop",
+          "posX": 3500,
+          "posY": 128,
+          "width": 134,
+          "height": 127
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/crafting_harvester",
+          "posX": 3636,
+          "posY": 128,
+          "width": 78,
+          "height": 119
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/crafting_zone",
+          "posX": 3721,
+          "posY": 126,
+          "width": 127,
+          "height": 127
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/crafting_evo_points",
+          "posX": 3500,
+          "posY": 255,
+          "width": 278,
+          "height": 93
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/crafting_small_harvester",
+          "posX": 3786,
+          "posY": 267,
+          "width": 64,
+          "height": 75
+        },
+        {
+          "path": "rui/hud/ping/hex_pulse",
+          "posX": 3500,
+          "posY": 0,
+          "width": 115,
+          "height": 127
+        },
+        {
           "path": "rui/pilot_loadout/mods/empty_laser_sight",
           "posX": 1676,
           "posY": 1484,
