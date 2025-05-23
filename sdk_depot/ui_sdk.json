@@ -593,8 +593,8 @@
     },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_icons.rpak",
+      "_path": "ui_image_atlas/hud_icons.rpak",
+      "atlas": "texture/ui_atlas/rui/hud_icons/r5/hud_icons.rpak",
       "images": [
         {
           "path": "rui/menu/buttons/weapon_categories/marksman",
