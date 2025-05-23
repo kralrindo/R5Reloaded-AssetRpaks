@@ -8,7 +8,6 @@
   "compressWorkers": 16,
 
   "name": "ui_sdk",
-  "keepDevOnly": true,
 
   "files": [
     // {
