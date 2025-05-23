@@ -13,7 +13,7 @@
   "files": [
     // {
     //   "_type": "uimg",
-    //   "_path": "ui_image_atlas/rui/rui_screens/banner",
+    //   "_path": "ui_image_atlas/banners.rpak",
     //   "atlas": "texture/ui_atlas/rui/rui_screens/banners.rpak",
     //   "images": [
     //     {
@@ -41,7 +41,7 @@
     // },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/menu/misc",
+      "_path": "ui_image_atlas/misc.rpak",
       "atlas": "texture/ui_atlas/rui/menu/misc/atlas_misc.rpak",
       "images": [
         {
@@ -188,7 +188,7 @@
     },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/gamemodes/shadow_squad",
+      "_path": "ui_image_atlas/shadow_squad.rpak",
       "atlas": "texture/ui_atlas/rui/gamemodes/shadow_squad/shadowfall.rpak",
       "images": [
         {
@@ -335,7 +335,7 @@
     },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/menu/characters/character_shared_sdk",
+      "_path": "ui_image_atlas/character_shared_sdk.rpak",
       "atlas": "texture/ui_atlas/rui/menu/characters/character_shared_sdk.rpak",
       "images": [
         {
@@ -545,7 +545,7 @@
     },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/promo/promoatlas",
+      "_path": "ui_image_atlas/promoatlas.rpak",
       "atlas": "texture/ui_atlas/rui/promo/promoatlas.rpak",
       "images": [
         {
@@ -1119,7 +1119,7 @@
     },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/menu/maps/generic_map_icons",
+      "_path": "ui_image_atlas/generic_map_icons.rpak",
       "atlas": "texture/ui_atlas/rui/menu/maps/generic_map_icons.rpak",
       "images": [
         {
@@ -1469,7 +1469,7 @@
     },
     {
       "_type": "uimg",
-      "_path": "ui_image_atlas/rui/menu/icons",
+      "_path": "ui_image_atlas/icons.rpak",
       "atlas": "texture/ui_atlas/rui/menu/icons/tags_n_icons.rpak",
       "images": [
         {
