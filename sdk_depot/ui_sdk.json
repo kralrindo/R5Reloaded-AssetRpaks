@@ -934,31 +934,31 @@
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_currency",
-          "posX": 3616,
+          "posX": 3608,
           "posY": 0,
-          "width": 106,
+          "width": 123,
           "height": 123
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_workbench",
-          "posX": 3724,
+          "posX": 3730,
           "posY": 0,
-          "width": 112,
-          "height": 127
+          "width": 126,
+          "height": 126
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_workbench_airdrop",
-          "posX": 3500,
-          "posY": 128,
-          "width": 134,
-          "height": 127
+          "posX": 3468,
+          "posY": 132,
+          "width": 133,
+          "height": 133
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_harvester",
-          "posX": 3636,
-          "posY": 128,
-          "width": 78,
-          "height": 119
+          "posX": 3604,
+          "posY": 137,
+          "width": 118,
+          "height": 118
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_zone",
@@ -969,24 +969,24 @@
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_evo_points",
-          "posX": 3500,
-          "posY": 255,
+          "posX": 3475,
+          "posY": 262,
           "width": 278,
-          "height": 93
+          "height": 278
         },
         {
           "path": "rui/hud/gametype_icons/survival/crafting_small_harvester",
-          "posX": 3786,
+          "posX": 3780,
           "posY": 267,
-          "width": 64,
+          "width": 75,
           "height": 75
         },
         {
           "path": "rui/hud/ping/hex_pulse",
-          "posX": 3500,
+          "posX": 3471,
           "posY": 0,
-          "width": 115,
-          "height": 127
+          "width": 128,
+          "height": 128
         },
         {
           "path": "rui/pilot_loadout/mods/empty_laser_sight",
