@@ -12,8 +12,8 @@
     "streamCacheFilter": [
         "paks/Win64/pc_all.starpak",
         "paks/Win64/pc_all.opt.starpak",
-        "paks/Win64/pc_all(02).starpak",
-        "paks/Win64/pc_all(02).opt.starpak",
+        "paks/Win64/pc_all(01).starpak",
+        "paks/Win64/pc_all(01).opt.starpak",
         "paks/Win64/pc_all(03).starpak",
         "paks/Win64/pc_all(03).opt.starpak"
     ],
@@ -47,7 +47,7 @@
         "map_depot/mp_rr_arena_composite.json",
         "map_depot/mp_rr_arena_phase_runner.json",
 
-        "sdk_depot/others/flowstate/mp_rr_arena_empty.json",//Flowstate Main Map*/
+        "sdk_depot/others/flowstate/mp_rr_arena_empty.json",
 
         //UI ASSET PAKS
         "sdk_depot/ui_mainmenu.json",
