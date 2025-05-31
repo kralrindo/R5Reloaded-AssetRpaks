@@ -1,0 +1,50 @@
+{
+	"name": "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_colpass",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x72000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x246C33B64782604D",
+	"$textures": {
+		"0": "0xBAE7CFA305ED1E0E",
+		"1": "0xCDDEBF38240EB198",
+		"2": "0xD8197ABF3021B887",
+		"3": "0x9F00E13B17A4D3E8",
+		"5": "0x2A06EE8E0A349406",
+		"9": "0x9D6C62CAA99FF0D8"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture",
+		"9": "detailNormalTexture"
+	},
+	"$depthShadowMaterial": "0x435FA77E363BEA48",
+	"$depthPrepassMaterial": "0xF734F96BE92E0E71",
+	"$depthVSMMaterial": "0xD306370918620EC0",
+	"$depthShadowTightMaterial": "0xDAB17AEAD2D3387A",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

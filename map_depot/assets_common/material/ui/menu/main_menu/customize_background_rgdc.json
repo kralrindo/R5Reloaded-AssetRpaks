@@ -31,9 +31,9 @@
 		"11": "0x18D91D53A31CAD7F"
 	},
 	"$textureTypes": {
-		"0": "unavailable",
-		"8": "unavailable",
-		"11": "unavailable"
+		"0": "albedoTexture",
+		"8": "detailTexture",
+		"11": "uvDistortionTexture"
 	},
 	"$depthShadowMaterial": "0xF70473F27EA6590",
 	"$depthPrepassMaterial": "0x73C19A227697E559",

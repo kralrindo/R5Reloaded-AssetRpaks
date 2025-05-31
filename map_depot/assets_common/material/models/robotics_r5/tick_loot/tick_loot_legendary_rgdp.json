@@ -1,0 +1,50 @@
+{
+	"name": "models/robotics_r5/tick_loot/tick_loot_legendary",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x468A9CF884496ADC",
+	"$textures": {
+		"0": "0x5AFA316A26652FBB",
+		"1": "0x309AD32C7D4EB348",
+		"2": "0x666F36CA041B34F8",
+		"3": "0xF7E3D86F51F50852",
+		"4": "0xD55B16B17758A92C",
+		"5": "0x2C419071B868523F"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0xB5B58E9067BF3CFD",
+	"$textureAnimation": "0x0"
+}

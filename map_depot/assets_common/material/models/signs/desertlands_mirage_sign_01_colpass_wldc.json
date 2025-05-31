@@ -1,0 +1,48 @@
+{
+	"name": "models/signs/desertlands_mirage_sign_01_colpass",
+	"width": 1024,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x72000001",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x16",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x59920B12191CA39A",
+	"$textures": {
+		"0": "0x1798AB4C384419A4",
+		"1": "0x8C9647619E10E9A6",
+		"2": "0xA9DF10FA91DD2D2D",
+		"3": "0x3DBB3B03878ECAF1",
+		"7": "0x309EC0A9D70A372B"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"7": "unavailable"
+	},
+	"$depthShadowMaterial": "0x2F2B34551046D0C3",
+	"$depthPrepassMaterial": "0x25C300AD57BB14E7",
+	"$depthVSMMaterial": "0x1C0338682AEEF9C",
+	"$depthShadowTightMaterial": "0x8D56886F24355431",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

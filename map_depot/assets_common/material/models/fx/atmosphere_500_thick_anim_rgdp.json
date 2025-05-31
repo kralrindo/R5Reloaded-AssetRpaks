@@ -1,0 +1,42 @@
+{
+	"name": "models/fx/atmosphere_500_thick_anim",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x10120086",
+	"glueFlags2": "0x2",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x9",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xBF5F898C4EAECF64",
+	"$textures": {
+		"0": "0xF91A5BEBDAA0C97C",
+		"7": "0xF38E66C662CBBF55"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,42 @@
+{
+	"name": "depth/models/signs/desertlands_mirage_sign_01_prepass",
+	"width": 1024,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x10200011",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x16",
+	"uberBufferFlags": "0x0",
+	"features": "0xAC1A5D6F",
+	"samplers": "0x1D",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0xFEF45AF82369F863",
+	"$textures": {
+		"0": "0x1798AB4C384419A4",
+		"7": "0x309EC0A9D70A372B"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"7": "opacityMultiplyTexture"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

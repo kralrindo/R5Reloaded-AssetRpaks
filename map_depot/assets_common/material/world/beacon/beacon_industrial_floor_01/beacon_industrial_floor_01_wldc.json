@@ -1,0 +1,48 @@
+{
+	"name": "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x72000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x94AB808CFB7EDF5C",
+	"$textures": {
+		"0": "0x93AA1FAE1D644845",
+		"1": "0x2AA1824A2698BD7F",
+		"2": "0x7469BBD9608C12E2",
+		"3": "0xD982613EBEAF4F2A",
+		"5": "0x15ECFAEC197EB17"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"5": "aoTexture"
+	},
+	"$depthShadowMaterial": "0x435FA77E363BEA48",
+	"$depthPrepassMaterial": "0xF734F96BE92E0E71",
+	"$depthVSMMaterial": "0xD306370918620EC0",
+	"$depthShadowTightMaterial": "0xDAB17AEAD2D3387A",
+	"$colpassMaterial": "0xA3A3A8578AFF2890",
+	"$textureAnimation": "0x0"
+}

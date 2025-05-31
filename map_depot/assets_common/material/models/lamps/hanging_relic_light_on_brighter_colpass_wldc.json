@@ -1,0 +1,48 @@
+{
+	"name": "models/lamps/hanging_relic_light_on_brighter_colpass",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x72000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "plastic",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0x3DF3A4B5C11C9B2D",
+	"$textures": {
+		"0": "0x5C45316B42A7492A",
+		"1": "0x386C56F8900D867",
+		"2": "0x395B290D09998426",
+		"3": "0xCC507FF0E93B47D2",
+		"4": "0x189E846C1A523741"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture"
+	},
+	"$depthShadowMaterial": "0x435FA77E363BEA48",
+	"$depthPrepassMaterial": "0xF734F96BE92E0E71",
+	"$depthVSMMaterial": "0xD306370918620EC0",
+	"$depthShadowTightMaterial": "0xDAB17AEAD2D3387A",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

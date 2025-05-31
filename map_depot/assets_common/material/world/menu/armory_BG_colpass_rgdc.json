@@ -29,7 +29,7 @@
 		"0": "0x796EAD90729D9551"
 	},
 	"$textureTypes": {
-		"0": "unavailable"
+		"0": "albedoTexture"
 	},
 	"$depthShadowMaterial": "0xF70473F27EA6590",
 	"$depthPrepassMaterial": "0x73C19A227697E559",

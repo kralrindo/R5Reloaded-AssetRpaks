@@ -1,0 +1,48 @@
+{
+	"name": "world/metal/apex_gold_coins/apex_gold_coins_01",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x72000000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "wldc",
+	"shaderSet": "0xA5731D22F6A86CBB",
+	"$textures": {
+		"0": "0x2D88D7A68609B66F",
+		"1": "0xC4CD2B4EBE71FE1F",
+		"3": "0x8710583B12C3E6F9",
+		"5": "0x9BD769BFC6AB5997",
+		"6": "0x3152A612EA44BD01"
+	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"3": "specTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
+	"$depthShadowMaterial": "0x435FA77E363BEA48",
+	"$depthPrepassMaterial": "0xF734F96BE92E0E71",
+	"$depthVSMMaterial": "0xD306370918620EC0",
+	"$depthShadowTightMaterial": "0xDAB17AEAD2D3387A",
+	"$colpassMaterial": "0x2187CFF841C76B5B",
+	"$textureAnimation": "0x0"
+}
