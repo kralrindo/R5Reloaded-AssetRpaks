@@ -24191,6 +24191,57 @@
       "_path": "animseq/props/loot_bin/loot_bin_02_close.rseq"
     },
     ////////////////////////ANIMRIGS////////////////////////
+        {
+      "_type": "arig",
+      "_path": "animrig/props/lifeline_drone/lifeline_drone.rrig",
+      "$sequences": [
+        "animseq/feline_drone/lifeline_drone_revive.rseq",
+        "animseq/humans/class/light/pilot_light_support/lifeline_gladcard_static_boop/lifelinedrone_gladcard_static_boop.rseq",
+        "animseq/humans/class/light/pilot_light_support/lifeline_gladcard_static_chilling/lifelinedrone_gladcard_static_chilling.rseq",
+        "animseq/humans/class/light/pilot_light_support/lifeline_gladcard_static_hello/lifelinedrone_gladcard_static_hello.rseq",
+        "animseq/humans/class/light/pilot_light_support/lifeline_gladcard_static_hug/lifelinedrone_gladcard_static_hug.rseq",
+        "animseq/humans/class/light/pilot_light_support/lifeline_gladcard_static_ponder/lifelinedrone_gladcard_static_ponder.rseq",
+        "animseq/humans/class/light/pilot_light_support/lifeline_gladcard_static_thinking/lifelinedrone_gladcard_static_thinking.rseq",
+        "animseq/lass/light/dmx/animation/drone_gladcard_common_pose_01_prop.rseq",
+        "animseq/lass/light/dmx/animation/drone_gladcard_common_pose_02_prop.rseq",
+        "animseq/lass/light/dmx/animation/drone_gladcard_common_pose_03_prop.rseq",
+        "animseq/props/lifeline_drone/caustic_drone_gladcard_animated_deaddrone.rseq",
+        "animseq/props/lifeline_drone/drone_lifeline_execution_shock.rseq",
+        "animseq/props/lifeline_drone/idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_crypto_gladcard_animated_Hack.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_freefall_emote_drums.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_freefall_emote_relax.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_freefall_emote_spiderman.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_gladcard_animated_Hack_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_gladcard_animated_heirloom.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/lifeline_drone_gladcard_animated_heirloom_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/mp_drone_lifeline_handsfree_crouch_revive.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/mp_drone_lifeline_handsfree_revive.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone/rampart_lifelinedrone_gladcard_static_mechanic.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_arming.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_floating.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_baddog.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_baddog_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_dronedrummer.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_dronedrummer_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_drop.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_drop_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_robotgroove.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_gladcard_animated_robotgroove_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_center_drone.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_center_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_center_readyup.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_center_tap.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_center_wipe.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_left_idle.rseq",
+        "animseq/props/lifeline_drone/lifeline_drone_menu_lobby_right_idle.rseq",
+        "animseq/props/lifeline_drone/mp_drone_lifeline_menu_ready_up.rseq",
+        "animseq/props/lifeline_drone/mp_drone_lifeline_menu_ready_up_idle.rseq",
+        "animseq/props/lifeline_drone/mp_drone_lifeline_menu_select.rseq",
+        "animseq/props/lifeline_drone/mp_drone_lifeline_menu_select_idle.rseq",
+        "animseq/props/lifeline_drone/mp_shock_execution_drone_loot.rseq"
+      ]
+    },
     {
       "_type": "arig",
       "_path": "animrig/weapons/mirage_heirloom/ptpov_statue_mirage.rrig",
@@ -27129,7 +27180,10 @@
         "animseq/humans/class/heavy/mp_pilot_heavy_core/pt_rodeo_trans_R2F.rseq",
         "animseq/humans/class/heavy/mp_pilot_heavy_core/pt_rodeo_trans_R2L.rseq",
         "animseq/humans/class/heavy/mp_pilot_heavy_core/shadow_revive_summon_healthy.rseq",
-        "animseq/humans/class/heavy/mp_pilot_heavy_core/shadow_revive_summon_injured.rseq"
+        "animseq/humans/class/heavy/mp_pilot_heavy_core/shadow_revive_summon_injured.rseq",
+        "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_vehicle_passenger_right_seated.rseq",
+        "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_vehicle_passenger_left_seated.rseq",
+        "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_vehicle_driver_seated.rseq"
       ]
     },
     {
@@ -27695,7 +27749,10 @@
         "animseq/humans/class/light/mp_pilot_light_core/pt_rodeo_trans_R2F.rseq",
         "animseq/humans/class/light/mp_pilot_light_core/pt_rodeo_trans_R2L.rseq",
         "animseq/humans/class/light/mp_pilot_light_core/shadow_revive_summon_healthy.rseq",
-        "animseq/humans/class/light/mp_pilot_light_core/shadow_revive_summon_injured.rseq"
+        "animseq/humans/class/light/mp_pilot_light_core/shadow_revive_summon_injured.rseq",
+        "animseq/humans/class/light/mp_pilot_light_core/light_vehicle_passenger_right_seated.rseq",
+        "animseq/humans/class/light/mp_pilot_light_core/light_vehicle_passenger_left_seated.rseq",
+        "animseq/humans/class/light/mp_pilot_light_core/light_vehicle_driver_seated.rseq"
       ]
     },
     {
@@ -28305,7 +28362,10 @@
         "animseq/humans/class/medium/mp_pilot_medium_core/victim_wraith_execution_portal_loot.rseq",
         "animseq/itemflav/character_execution/crypto/dronescan/victim_crypto_execution_dronescane_loot.rseq",
         "animseq/humans/class/medium/mp_pilot_medium_core/shadow_revive_summon_healthy.rseq",
-        "animseq/humans/class/medium/mp_pilot_medium_core/shadow_revive_summon_injured.rseq"
+        "animseq/humans/class/medium/mp_pilot_medium_core/shadow_revive_summon_injured.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_core/medium_vehicle_passenger_right_seated.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_core/medium_vehicle_passenger_left_seated.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_core/medium_vehicle_driver_seated.rseq"
       ]
     },
     {
@@ -31198,6 +31258,13 @@
       "_path": "mdl/props/holo_spray/holo_spray_base.rmdl",
       "$animrigs": [
         "animrig/props/holo_spray/holo_spray.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/lifeline_drone/lifeline_drone.rmdl",//REPLACE LIFELINE DRONE TO MAKE IT COMPATIBLE WITH NEWER ANIMS
+      "$animrigs": [
+        "animrig/props/lifeline_drone/lifeline_drone.rrig"
       ]
     },
     {
