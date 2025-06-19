@@ -15,8 +15,8 @@
         "sdk_depot/startup_sdk.json",
         "sdk_depot/common_roots.json",
         "sdk_depot/effects_sdk.json",
-        //"sdk_depot/others/common.json",
-        //"sdk_depot/others/common_mp.json",
+        "sdk_depot/others/common.json",
+        "sdk_depot/others/common_mp.json",
         "sdk_depot/common_sdk.json",
 
         //MAP PAKS
@@ -25,6 +25,7 @@
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",
+        "map_depot/mp_rr_canyonlands_64k_x_64k_ps4.json",
         "map_depot/mp_rr_canyonlands_mu2.json",
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
         "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json",

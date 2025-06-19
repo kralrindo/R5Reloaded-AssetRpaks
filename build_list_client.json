@@ -12,8 +12,8 @@
     "streamCacheFilter": [
         "paks/Win64/pc_all.starpak",
         "paks/Win64/pc_all.opt.starpak",
-        "paks/Win64/pc_all(01).starpak",
-        "paks/Win64/pc_all(01).opt.starpak",
+        "paks/Win64/pc_all(02).starpak",
+        "paks/Win64/pc_all(02).opt.starpak",
         "paks/Win64/pc_all(03).starpak",
         "paks/Win64/pc_all(03).opt.starpak"
     ],
@@ -31,6 +31,7 @@
         //MAP PAKS
         "map_depot/mp_lobby.json",
         "map_depot/mp_rr_canyonlands_staging.json",
+        "map_depot/mp_rr_canyonlands_64k_x_64k_ps4.json",
         "map_depot/mp_rr_canyonlands_mu2.json",
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
@@ -61,6 +62,7 @@
         "map_depot/custom_sdk_6_loadscreen.json",
         "map_depot/custom_sdk_7_loadscreen.json",
         "map_depot/mp_rr_canyonlands_staging_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_64k_x_64k_ps4_loadscreen.json",
         "map_depot/mp_rr_canyonlands_mu2_loadscreen.json",
         "map_depot/mp_rr_canyonlands_mu2_tt_loadscreen.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_nx_loadscreen.json",

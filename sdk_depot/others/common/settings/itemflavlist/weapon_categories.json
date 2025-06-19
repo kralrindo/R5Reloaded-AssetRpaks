@@ -14,6 +14,9 @@
 				"flavor": "settings/itemflav/weapon_category/lmg.rpak"
 			},
 			{
+				"flavor": "settings/itemflav/weapon_category/marksman.rpak"
+			},
+			{
 				"flavor": "settings/itemflav/weapon_category/sniper.rpak"
 			},
 			{
@@ -21,9 +24,6 @@
 			},
 			{
 				"flavor": "settings/itemflav/weapon_category/pistol.rpak"
-			},
-			{
-				"flavor": "settings/itemflav/weapon_category/launcher.rpak"
 			}
 		]
 	}

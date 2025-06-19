@@ -23,22 +23,6 @@
   "compressWorkers": 16,
 
   "files": [
-    {
-      "_type": "anir",
-      "_path": "anim_recording/survival_training_cave_to_platform.rpak"
-    },
-    {
-      "_type": "anir",
-      "_path": "anim_recording/survival_training_cave_to_platform2.rpak"
-    },
-    {
-      "_type": "anir",
-      "_path": "anim_recording/survival_training_cave_to_platform3.rpak"
-    },
-    {
-      "_type": "anir",
-      "_path": "anim_recording/survival_training_dummie_dropship.rpak"
-    },
     //////MISSING STGS ASSETS (DEPENDENCIES)
     {
       "_type": "stgs",
@@ -131,6 +115,15 @@
     {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/PrecacheSkinCharacterEquipped.rpak"
+    },
+    ///HEIRLOOM SHARDS
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/currency_bundle/heirloom.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/grx_currency/heirloom.rpak"
     },
     //////BOW
     {
@@ -300,18 +293,6 @@
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/weapon_category/marksman.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/weapon_category/sniper.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflavlist/weapon_categories.rpak"
-    },
-    {
-      "_type": "stgs",
       "_path": "settings/itemflav/weapon_skin/3030repeater/factory_issue.rpak"
     },
     {
@@ -376,7 +357,7 @@
       "_type": "stgs",
       "_path": "settings/player/mp/pilot_survival_tracker.rpak"
     },*/
-    {
+    /*{
       "_type": "stgs",
       "_path": "settings/itemflav/character/pathfinder.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
     },
@@ -384,7 +365,7 @@
       "_type": "stgs",
       "_path": "settings/itemflav/gcard_stance/pathfinder/heirloom_01.rpak"//OVERWRITE PATH STGS FOR HEIRLOOM
     },
-   /* {
+    {
       "_type": "stgs",
       "_path": "settings/itemflav/melee_skin/pathfinder_gloves.rpak"
     },*/
@@ -3987,7 +3968,17 @@
       "_path": "shader/0xD402F08B351A0F62.rpak",//WAS 0xD402F08B351A0F74
       "$guid": "0xD402F08B351A0F62"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xCA5E470FE6A8170A.rpak",
+      "$guid": "0xCA5E470FE6A8170A"
+    },
     ////////////////////////SHADERSETS//////////////////////////
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x29F800875015551D.rpak",
+      "$guid": "0x29F800875015551D"
+    },
     {
       "_type": "shds",
       "_path": "shaderset/0xF8D998DFEF277B62.rpak",//WAS 0xF8D998DFEF277B90
@@ -4665,6 +4656,31 @@
       "$guid": "0x10E360F24FD81D0D"
     },
     ///////////////////TEXTURES/////////////////////////
+      {
+      "_type": "txtr",
+      "_path": "texture/0x1FA86E8044B1DB8B.rpak",
+      "$guid": "0x1FA86E8044B1DB8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x71AE62B100B17F62.rpak",
+      "$guid": "0x71AE62B100B17F62"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8FC8381F2963F9B8.rpak",
+      "$guid": "0x8FC8381F2963F9B8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBBC38D4CA7DF02A5.rpak",
+      "$guid": "0xBBC38D4CA7DF02A5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD9D02CEFAFCE8088.rpak",
+      "$guid": "0xD9D02CEFAFCE8088"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x1504B93BF03F0360.rpak",
@@ -13861,6 +13877,14 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_heirloom_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_heirloom_rgdp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/misc_holo_spray_base/holo_spray_base_colpass_sknp.rpak"
@@ -24460,88 +24484,7 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/weapons/pathfinder_gloves/ptpov_gloves_pathfinder.rrig",
-      "$sequences": [
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/crouch.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_airsprint_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_sprinting.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/draw_sprinting_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_airsprint_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_sprinting.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/holster_sprinting_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_onehanded_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/idle_onehanded_sprinting.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/inspect.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/jump.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/jump_sprinting.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint_high.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint_low.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_airsprint_med.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_high.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_low.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/land_med.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_airsprint_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_sprinting.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/lower_sprinting_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_crouch_01.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_crouch_02.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_crouch_03.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_door.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_01.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_02.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_03.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_04.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_05.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_06.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_idle_07.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_01.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_02.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_03.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_airsprint_01.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_airsprint_02.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_jump_airsprint_03.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_slide.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_sprinting_01.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_sprinting_02.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/melee_sprinting_03.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/meleeraise.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/meleeraise_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_airsprint_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_sprinting.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/raise_sprinting_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/regrip_to_crouch.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/regrip_to_idle.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprint_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintjump.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintjump_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintraise.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintraise_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintslide.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/sprintslide_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/switch_to_onehanded.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/switch_to_onehanded_crouch.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/zipline_mount.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/zipline_mount_airsprint.rseq",
-        "animseq/weapons/pathfinder_gloves/ptpov_gloves_pathfinder/zipline_mount_sprinting.rseq"
-      ]
+      "_path": "animrig/weapons/pathfinder_gloves/ptpov_gloves_pathfinder.rrig"
     },
     {
       "_type": "arig",
@@ -32995,6 +32938,10 @@
         "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
         "animrig/humans/class/medium/pilot_medium_bangalore.rrig"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/currency/crafting/heirloom.rmdl"
     }
   ]
 }

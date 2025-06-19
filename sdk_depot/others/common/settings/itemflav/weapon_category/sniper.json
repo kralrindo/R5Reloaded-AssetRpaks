@@ -10,7 +10,7 @@
 		"localizationKey_DESCRIPTION_LONG": "",
 		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "NONE",
-		"icon": "rui/menu/buttons/weapon_categories/sniper",
+		"icon": "rui/menu/buttons/weapon_categories/sniper_new",
 		"grxMode": "NONE",
 		"statsKey": "sniper",
 		"tags": [

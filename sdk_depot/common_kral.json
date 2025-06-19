@@ -17,6 +17,533 @@
 
   "files": [
     {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_opa.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/model_damage_kit/damage_alpha_kit_v1_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_acolyte_AO.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_acolyte_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_acolyte_clr.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_acolyte_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_acolyte_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_acolyte_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_a_all_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_02_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_02_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_02_opa.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_02_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_opa.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/BT_decal_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/cine_eye/BT_a_eye_cine_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/factory/BT_a_all_factory_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/factory/BT_a_all_factory_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/factory/BT_a_all_factory_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/factory/BT_a_all_factory_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_a_all_MOB_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_decal_02_MOB_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_decal_02_MOB_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_decal_02_MOB_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_decal_02_MOB_opa.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/MOB/BT_decal_02_MOB_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_a_all_SDV_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_decal_02_SDV_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_decal_02_SDV_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_decal_02_SDV_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_decal_02_SDV_opa.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/SDV/BT_decal_02_SDV_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans/buddy/skin_dmg/BT_a_body_dmg_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_console_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_screen_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/titan_cockpit_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_ilm.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_cockpit/t_cockpit_atlas_01_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_destruction/titan_damaged_limbs_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_destruction/titan_damaged_limbs_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_destruction/titan_damaged_limbs_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_destruction/titan_damaged_limbs_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_destruction/titan_damaged_limbs_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/titans_r2/titan_destruction/titan_damaged_limbs_spc.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_ao.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_cav.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_gls.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_glw.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_nml.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons/arms/atlas_cockpit/titan_cockpit_spc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/model_damage_kit/damage_alpha_kit_v1.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/BT_acolyte.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/BT_a_all.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/BT_decal.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/BT_decal_02.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/factory/BT_a_all_factory.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/MOB/BT_a_all_MOB.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/MOB/BT_decal_02_MOB.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/SDV/BT_a_all_SDV.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/SDV/BT_decal_02_SDV.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/skin_dmg/BT_a_body_dmg.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans_r2/titan_cockpit/titan_cockpit.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans_r2/titan_cockpit/titan_cockpit_console.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans_r2/titan_cockpit/titan_cockpit_screen.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans_r2/titan_cockpit/t_cockpit_atlas_01.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans_r2/titan_destruction/titan_damaged_limbs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/arms/atlas_cockpit/titan_cockpit.rpak"
+    },
+
+
+
+    {
       "_type": "matl",
       "_path": "material/models/weapons/bolo_sword/krals_bolo_01_sknp.rpak"
     },

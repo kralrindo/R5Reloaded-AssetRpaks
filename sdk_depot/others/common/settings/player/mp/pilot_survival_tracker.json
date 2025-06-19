@@ -771,7 +771,7 @@
 		"aimassist_adspull_noPitchUp": false,
 		"stealthSounds": false
 	},
-	"modNames": [
+	"$modNames": [
 		"pas_stealth_movement",
 		"pas_wall_runner",
 		"pas_pilot_hardcore_settings",
@@ -793,5 +793,661 @@
 		"hub_settings",
 		"bleedout",
 		"shadow_squad"
+	],
+	"$modValues": [
+		{ // originally mapped to offset 2468
+			"index": 1,
+			"type": "float_add",
+			"value": 21.000000,
+			"field": "wallrun_hangTimeLimit"
+		},
+		{ // originally mapped to offset 2464
+			"index": 1,
+			"type": "float_add",
+			"value": 2.500000,
+			"field": "wallrun_timeLimit"
+		},
+		{ // originally mapped to offset 2036
+			"index": 2,
+			"type": "number",
+			"value": 50.000000,
+			"field": "health"
+		},
+		{ // originally mapped to offset 3544
+			"index": 3,
+			"type": "number",
+			"value": 0.250000,
+			"field": "gravityScale"
+		},
+		{ // originally mapped to offset 3578
+			"index": 3,
+			"type": "bool",
+			"value": true,
+			"field": "jetpackEnabled"
+		},
+		{ // originally mapped to offset 3588
+			"index": 3,
+			"type": "bool",
+			"value": false,
+			"field": "jetpackAfterburnerIsSticky"
+		},
+		{ // originally mapped to offset 2296
+			"index": 3,
+			"type": "number",
+			"value": 1.300000,
+			"field": "jetpackAfterburnerMeterRate"
+		},
+		{ // originally mapped to offset 2272
+			"index": 3,
+			"type": "number",
+			"value": 1.000000,
+			"field": "jetpackAfterburnerThrust"
+		},
+		{ // originally mapped to offset 2280
+			"index": 3,
+			"type": "number",
+			"value": 0,
+			"field": "jetpackJumpsToActivate"
+		},
+		{ // originally mapped to offset 2292
+			"index": 3,
+			"type": "number",
+			"value": 0.000000,
+			"field": "jetpackMeterRate"
+		},
+		{ // originally mapped to offset 3582
+			"index": 3,
+			"type": "bool",
+			"value": true,
+			"field": "jetpackPitchMovement"
+		},
+		{ // originally mapped to offset 2324
+			"index": 3,
+			"type": "number",
+			"value": 1000.000000,
+			"field": "jetpackStrafeTaperFinish"
+		},
+		{ // originally mapped to offset 2320
+			"index": 3,
+			"type": "number",
+			"value": 800.000000,
+			"field": "jetpackStrafeTaperStart"
+		},
+		{ // originally mapped to offset 2268
+			"index": 3,
+			"type": "number",
+			"value": 0.500000,
+			"field": "jetpackThrust"
+		},
+		{ // originally mapped to offset 2328
+			"index": 3,
+			"type": "number",
+			"value": 0.000000,
+			"field": "jetpackBlendToGlideThreshold"
+		},
+		{ // originally mapped to offset 2312
+			"index": 3,
+			"type": "number",
+			"value": 0.500000,
+			"field": "jetpackTightnessForwardBack"
+		},
+		{ // originally mapped to offset 3580
+			"index": 3,
+			"type": "bool",
+			"value": true,
+			"field": "jetpackToggleOn"
+		},
+		{ // originally mapped to offset 3581
+			"index": 3,
+			"type": "bool",
+			"value": false,
+			"field": "jetpackToggleOff"
+		},
+		{ // originally mapped to offset 3584
+			"index": 3,
+			"type": "bool",
+			"value": false,
+			"field": "jetpackZeroVerticalVelocityOnActivation"
+		},
+		{ // originally mapped to offset 3575
+			"index": 3,
+			"type": "bool",
+			"value": false,
+			"field": "glideRechargeOnlyWhenGrounded"
+		},
+		{ // originally mapped to offset 2216
+			"index": 3,
+			"type": "number",
+			"value": 1.000000,
+			"field": "glideRechargeDelay"
+		},
+		{ // originally mapped to offset 2208
+			"index": 3,
+			"type": "number",
+			"value": 2.000000,
+			"field": "glideDuration"
+		},
+		{ // originally mapped to offset 2212
+			"index": 3,
+			"type": "number",
+			"value": 1.000000,
+			"field": "glideRechargeRate"
+		},
+		{ // originally mapped to offset 3571
+			"index": 3,
+			"type": "bool",
+			"value": false,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 3562
+			"index": 4,
+			"type": "bool",
+			"value": true,
+			"field": "localGravityFollowsGround"
+		},
+		{ // originally mapped to offset 1920
+			"index": 5,
+			"type": "string",
+			"value": "ui/targetinfo_shadowfall",
+			"field": "ui_targetinfo"
+		},
+		{ // originally mapped to offset 3592
+			"index": 6,
+			"type": "bool",
+			"value": true,
+			"field": "hoverEnabled"
+		},
+		{ // originally mapped to offset 2884
+			"index": 7,
+			"type": "float_multipy",
+			"value": 1.350000,
+			"field": "grapple_power_regen_rate"
+		},
+		{ // originally mapped to offset 2472
+			"index": 8,
+			"type": "number",
+			"value": 1,
+			"field": "wallrunAdsType"
+		},
+		{ // originally mapped to offset 3571
+			"index": 10,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 3595
+			"index": 11,
+			"type": "bool",
+			"value": true,
+			"field": "wallrun"
+		},
+		{ // originally mapped to offset 1176
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_1P",
+			"field": "sound_jumpjet_jump_start_1p"
+		},
+		{ // originally mapped to offset 1184
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_3P",
+			"field": "sound_jumpjet_jump_start_3p"
+		},
+		{ // originally mapped to offset 1192
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_1P",
+			"field": "sound_jumpjet_jump_body_1p"
+		},
+		{ // originally mapped to offset 1200
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_3P",
+			"field": "sound_jumpjet_jump_body_3p"
+		},
+		{ // originally mapped to offset 1208
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_1P",
+			"field": "sound_jumpjet_jump_finish_1p"
+		},
+		{ // originally mapped to offset 1216
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_3P",
+			"field": "sound_jumpjet_jump_finish_3p"
+		},
+		{ // originally mapped to offset 1224
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jet_Start_1P",
+			"field": "sound_jumpjet_jet_start_1p"
+		},
+		{ // originally mapped to offset 1232
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jet_Start_3P",
+			"field": "sound_jumpjet_jet_start_3p"
+		},
+		{ // originally mapped to offset 1240
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jet_Body_1P",
+			"field": "sound_jumpjet_jet_body_1p"
+		},
+		{ // originally mapped to offset 1248
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jet_Body_3P",
+			"field": "sound_jumpjet_jet_body_3p"
+		},
+		{ // originally mapped to offset 1256
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jet_End_1P",
+			"field": "sound_jumpjet_jet_finish_1p"
+		},
+		{ // originally mapped to offset 1264
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jet_End_3P",
+			"field": "sound_jumpjet_jet_finish_3p"
+		},
+		{ // originally mapped to offset 1272
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Start_1P",
+			"field": "sound_jumpjet_wallrun_start_1p"
+		},
+		{ // originally mapped to offset 1280
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Start_3P",
+			"field": "sound_jumpjet_wallrun_start_3p"
+		},
+		{ // originally mapped to offset 1288
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Body_1P",
+			"field": "sound_jumpjet_wallrun_body_1p"
+		},
+		{ // originally mapped to offset 1296
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Body_3P",
+			"field": "sound_jumpjet_wallrun_body_3p"
+		},
+		{ // originally mapped to offset 1304
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_End_1P",
+			"field": "sound_jumpjet_wallrun_finish_1p"
+		},
+		{ // originally mapped to offset 1312
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_End_3P",
+			"field": "sound_jumpjet_wallrun_finish_3p"
+		},
+		{ // originally mapped to offset 1072
+			"index": 11,
+			"type": "string",
+			"value": "jumpjet_wallrun_fall_1p",
+			"field": "sound_wallrunFall_1p"
+		},
+		{ // originally mapped to offset 1080
+			"index": 11,
+			"type": "string",
+			"value": "jumpjet_wallrun_fall_3p",
+			"field": "sound_wallrunFall_3p"
+		},
+		{ // originally mapped to offset 1128
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Start_1P",
+			"field": "sound_freefall_start_1p"
+		},
+		{ // originally mapped to offset 1136
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Start_3P",
+			"field": "sound_freefall_start_3p"
+		},
+		{ // originally mapped to offset 1144
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Body_1P",
+			"field": "sound_freefall_body_1p"
+		},
+		{ // originally mapped to offset 1152
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Body_3P",
+			"field": "sound_freefall_body_3p"
+		},
+		{ // originally mapped to offset 1160
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Freefall_End_1P",
+			"field": "sound_freefall_finish_1p"
+		},
+		{ // originally mapped to offset 1168
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Freefall_End_3P",
+			"field": "sound_freefall_finish_3p"
+		},
+		{ // originally mapped to offset 1176
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_1P",
+			"field": "sound_jumpjet_jump_start_1p"
+		},
+		{ // originally mapped to offset 1184
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_3P",
+			"field": "sound_jumpjet_jump_start_3p"
+		},
+		{ // originally mapped to offset 1192
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_1P",
+			"field": "sound_jumpjet_jump_body_1p"
+		},
+		{ // originally mapped to offset 1200
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_3P",
+			"field": "sound_jumpjet_jump_body_3p"
+		},
+		{ // originally mapped to offset 1208
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_1P",
+			"field": "sound_jumpjet_jump_finish_1p"
+		},
+		{ // originally mapped to offset 1216
+			"index": 11,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_3P",
+			"field": "sound_jumpjet_jump_finish_3p"
+		},
+		{ // originally mapped to offset 3602
+			"index": 12,
+			"type": "bool",
+			"value": false,
+			"field": "slide"
+		},
+		{ // originally mapped to offset 1920
+			"index": 13,
+			"type": "string",
+			"value": "",
+			"field": "ui_targetinfo"
+		},
+		{ // originally mapped to offset 3571
+			"index": 14,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 2464
+			"index": 14,
+			"type": "number",
+			"value": 0.650000,
+			"field": "wallrun_timeLimit"
+		},
+		{ // originally mapped to offset 3599
+			"index": 14,
+			"type": "bool",
+			"value": false,
+			"field": "player_wallrunOneHanded"
+		},
+		{ // originally mapped to offset 2564
+			"index": 14,
+			"type": "number",
+			"value": -1.000000,
+			"field": "wallrun_viewpunch_onTimeout_basePitch"
+		},
+		{ // originally mapped to offset 840
+			"index": 14,
+			"type": "string",
+			"value": "",
+			"field": "rumbleOnWallrunTimeout"
+		},
+		{ // originally mapped to offset 2496
+			"index": 14,
+			"type": "number",
+			"value": 200.000000,
+			"field": "wallrunMaxSpeedHorizontal"
+		},
+		{ // originally mapped to offset 2504
+			"index": 14,
+			"type": "number",
+			"value": 1.000000,
+			"field": "wallrunAccelerateVertical"
+		},
+		{ // originally mapped to offset 2488
+			"index": 14,
+			"type": "number",
+			"value": 0.000000,
+			"field": "wallrunUpWallBoost"
+		},
+		{ // originally mapped to offset 2524
+			"index": 14,
+			"type": "number",
+			"value": 120.000000,
+			"field": "wallrunJumpUpSpeed"
+		},
+		{ // originally mapped to offset 2528
+			"index": 14,
+			"type": "number",
+			"value": 35.000000,
+			"field": "wallrunJumpInputDirSpeed"
+		},
+		{ // originally mapped to offset 2532
+			"index": 14,
+			"type": "number",
+			"value": 90.000000,
+			"field": "wallrunJumpOutwardSpeed"
+		},
+		{ // originally mapped to offset 3571
+			"index": 15,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 2464
+			"index": 15,
+			"type": "number",
+			"value": 1.250000,
+			"field": "wallrun_timeLimit"
+		},
+		{ // originally mapped to offset 2496
+			"index": 15,
+			"type": "number",
+			"value": 200.000000,
+			"field": "wallrunMaxSpeedHorizontal"
+		},
+		{ // originally mapped to offset 2504
+			"index": 15,
+			"type": "number",
+			"value": 350.000000,
+			"field": "wallrunAccelerateVertical"
+		},
+		{ // originally mapped to offset 2524
+			"index": 15,
+			"type": "number",
+			"value": 200.000000,
+			"field": "wallrunJumpUpSpeed"
+		},
+		{ // originally mapped to offset 2528
+			"index": 15,
+			"type": "number",
+			"value": 60.000000,
+			"field": "wallrunJumpInputDirSpeed"
+		},
+		{ // originally mapped to offset 2532
+			"index": 15,
+			"type": "number",
+			"value": 140.000000,
+			"field": "wallrunJumpOutwardSpeed"
+		},
+		{ // originally mapped to offset 3571
+			"index": 16,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 196
+			"index": 17,
+			"type": "float_add",
+			"value": 40.000000,
+			"field": "poseSettings[0].sprintspeed"
+		},
+		{ // originally mapped to offset 2116
+			"index": 18,
+			"type": "number",
+			"value": 30.000000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3558
+			"index": 18,
+			"type": "bool",
+			"value": false,
+			"field": "crouch"
+		},
+		{ // originally mapped to offset 3617
+			"index": 18,
+			"type": "bool",
+			"value": false,
+			"field": "sprint"
+		},
+		{ // originally mapped to offset 192
+			"index": 18,
+			"type": "number",
+			"value": 150.000000,
+			"field": "poseSettings[0].speed"
+		},
+		{ // originally mapped to offset 3594
+			"index": 18,
+			"type": "bool",
+			"value": false,
+			"field": "climbEnabled"
+		},
+		{ // originally mapped to offset 1964
+			"index": 18,
+			"type": "number",
+			"value": 55.000000,
+			"field": "fov"
+		},
+		{ // originally mapped to offset 2172
+			"index": 19,
+			"type": "number",
+			"value": 42.000000,
+			"field": "mantleHeight"
+		},
+		{ // originally mapped to offset 2116
+			"index": 20,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3612
+			"index": 20,
+			"type": "bool",
+			"value": false,
+			"field": "context_action_can_use"
+		},
+		{ // originally mapped to offset 196
+			"index": 20,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "poseSettings[0].sprintspeed"
+		},
+		{ // originally mapped to offset 192
+			"index": 20,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "poseSettings[0].speed"
+		},
+		{ // originally mapped to offset 1964
+			"index": 20,
+			"type": "number",
+			"value": 100.000000,
+			"field": "fov"
+		},
+		{ // originally mapped to offset 2676
+			"index": 20,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "slideSpeedBoostCap"
+		},
+		{ // originally mapped to offset 2668
+			"index": 20,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "slideMaxJumpSpeed"
+		},
+		{ // originally mapped to offset 2152
+			"index": 20,
+			"type": "number",
+			"value": 0.000000,
+			"field": "landSlowdownDuration"
+		},
+		{ // originally mapped to offset 2076
+			"index": 20,
+			"type": "number",
+			"value": 5000.000000,
+			"field": "verticalGainCutoff_wallrun"
+		},
+		{ // originally mapped to offset 2428
+			"index": 20,
+			"type": "number",
+			"value": 5000.000000,
+			"field": "climbHeight"
+		},
+		{ // originally mapped to offset 2436
+			"index": 20,
+			"type": "number",
+			"value": 300.000000,
+			"field": "climbSpeedStart"
+		},
+		{ // originally mapped to offset 2180
+			"index": 20,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationBelow"
+		},
+		{ // originally mapped to offset 2184
+			"index": 20,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationLevel"
+		},
+		{ // originally mapped to offset 2188
+			"index": 20,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationAbove"
+		},
+		{ // originally mapped to offset 2192
+			"index": 20,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationHigh"
+		},
+		{ // originally mapped to offset 3613
+			"index": 20,
+			"type": "bool",
+			"value": true,
+			"field": "ziplineCanMelee"
+		},
+		{ // originally mapped to offset 808
+			"index": 20,
+			"type": "string",
+			"value": "ShadowLegend",
+			"field": "footstep_type"
+		}
 	]
 }

@@ -665,10 +665,6 @@
 			{
 				"flavor": "settings/itemflav/gcard_stance/bloodhound/epic_05.rpak",
 				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_stance/bloodhound/heirloom_01.rpak",
-				"featureFlag": ""
 			}
 		],
 		"gcardFrames": [
@@ -1104,10 +1100,6 @@
 		"meleeSkins": [
 			{
 				"flavor": "settings/itemflav/melee_skin/default.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/melee_skin/bloodhound_axe.rpak",
 				"featureFlag": ""
 			}
 		],

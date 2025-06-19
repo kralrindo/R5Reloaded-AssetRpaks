@@ -1,0 +1,636 @@
+{
+  "version": 8,
+  "name": "mp_rr_canyonlands_64k_x_64k_ps4",
+  "streamFileMandatory": "paks/Win64/mp_rr_canyonlands_64k_x_64k_ps4.starpak",
+  "streamFileOptional": "paks/Win64/mp_rr_canyonlands_64k_x_64k_ps4.opt.starpak",
+  "assetsDir": "map_depot/assets/mp_rr_canyonlands_64k_x_64k_ps4/",
+  "outputDir": "./build/",
+  "compressLevel": 6,
+  "compressWorkers": 16,
+  "keepDevOnly": true,
+  "files": [
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1658994278FF7B77.rpak",
+      "$guid": "0x1658994278FF7B77"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1AB33417C5C2A9BD.rpak",
+      "$guid": "0x1AB33417C5C2A9BD"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1E6041EBCB01D287.rpak",
+      "$guid": "0x1E6041EBCB01D287"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x2ECD1A77A1C577DC.rpak",
+      "$guid": "0x2ECD1A77A1C577DC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x3300C54BC00F3CC5.rpak",
+      "$guid": "0x3300C54BC00F3CC5"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x40D4EEF01431985E.rpak",
+      "$guid": "0x40D4EEF01431985E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x47B48F628A9A76F8.rpak",
+      "$guid": "0x47B48F628A9A76F8"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x73AE2BA8871AFC86.rpak",
+      "$guid": "0x73AE2BA8871AFC86"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x76387D60C2BC32EF.rpak",
+      "$guid": "0x76387D60C2BC32EF"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8FEF773AA468216.rpak",
+      "$guid": "0x8FEF773AA468216"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD12148CB59FA5134.rpak",
+      "$guid": "0xD12148CB59FA5134"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD125B593716EED23.rpak",
+      "$guid": "0xD125B593716EED23"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD65381C7CE05DA06.rpak",
+      "$guid": "0xD65381C7CE05DA06"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF3F53CD6D897468D.rpak",
+      "$guid": "0xF3F53CD6D897468D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF67D37B8D3D244EC.rpak",
+      "$guid": "0xF67D37B8D3D244EC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF715F74E2B00B58A.rpak",
+      "$guid": "0xF715F74E2B00B58A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3D0AD0C8F3F4ACC.rpak",
+      "$guid": "0x3D0AD0C8F3F4ACC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x4376E40FDF5DA060.rpak",
+      "$guid": "0x4376E40FDF5DA060"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x4FB36018CF1D8DD7.rpak",
+      "$guid": "0x4FB36018CF1D8DD7"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x50DBA1439E4D802D.rpak",
+      "$guid": "0x50DBA1439E4D802D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x67BDB93EBE4878AC.rpak",
+      "$guid": "0x67BDB93EBE4878AC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x84D140EC0B0B54FE.rpak",
+      "$guid": "0x84D140EC0B0B54FE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x88B175C0922DE29B.rpak",
+      "$guid": "0x88B175C0922DE29B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8FFC1FAAE51DD64D.rpak",
+      "$guid": "0x8FFC1FAAE51DD64D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9246CF054DD0EEAA.rpak",
+      "$guid": "0x9246CF054DD0EEAA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x941F952E8193E080.rpak",
+      "$guid": "0x941F952E8193E080"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB20FCA4892DB32A8.rpak",
+      "$guid": "0xB20FCA4892DB32A8"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xCCAC2E099E839C23.rpak",
+      "$guid": "0xCCAC2E099E839C23"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xCD39D4FDDFDAEB1C.rpak",
+      "$guid": "0xCD39D4FDDFDAEB1C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xED47B81FDF532273.rpak",
+      "$guid": "0xED47B81FDF532273"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1D4BA31572FF7EE2.rpak",
+      "$guid": "0x1D4BA31572FF7EE2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1D9F91EE42792E03.rpak",
+      "$guid": "0x1D9F91EE42792E03"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x24C85C5D66AC2EFB.rpak",
+      "$guid": "0x24C85C5D66AC2EFB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x25C245C76D37FF62.rpak",
+      "$guid": "0x25C245C76D37FF62"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x27C8F04D49CECEAA.rpak",
+      "$guid": "0x27C8F04D49CECEAA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x291EF88D13C7BD6E.rpak",
+      "$guid": "0x291EF88D13C7BD6E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x293CE884E2A7CE90.rpak",
+      "$guid": "0x293CE884E2A7CE90"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2C4D193814CBF35A.rpak",
+      "$guid": "0x2C4D193814CBF35A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x383137539855731F.rpak",
+      "$guid": "0x383137539855731F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x383DC0999122EFB4.rpak",
+      "$guid": "0x383DC0999122EFB4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3B0B1D857840016A.rpak",
+      "$guid": "0x3B0B1D857840016A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3DB921D53BE9F15A.rpak",
+      "$guid": "0x3DB921D53BE9F15A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x42D6A5245FB72049.rpak",
+      "$guid": "0x42D6A5245FB72049"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x44E57631EF923BF4.rpak",
+      "$guid": "0x44E57631EF923BF4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x48FC89C118883B1F.rpak",
+      "$guid": "0x48FC89C118883B1F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x493497640C9E1995.rpak",
+      "$guid": "0x493497640C9E1995"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4D09FF65B7B72065.rpak",
+      "$guid": "0x4D09FF65B7B72065"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4D73B0A98AF72069.rpak",
+      "$guid": "0x4D73B0A98AF72069"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4DD6259403AF173E.rpak",
+      "$guid": "0x4DD6259403AF173E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x500A7F8CEA06D393.rpak",
+      "$guid": "0x500A7F8CEA06D393"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x52D6E26D456C6E5D.rpak",
+      "$guid": "0x52D6E26D456C6E5D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x548319E7DFD48085.rpak",
+      "$guid": "0x548319E7DFD48085"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E3EFE854546BC90.rpak",
+      "$guid": "0x5E3EFE854546BC90"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x62D87D93651EC21F.rpak",
+      "$guid": "0x62D87D93651EC21F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x65B1CECDBDEB7982.rpak",
+      "$guid": "0x65B1CECDBDEB7982"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x734704953C12BC46.rpak",
+      "$guid": "0x734704953C12BC46"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x736F4C032BCFF767.rpak",
+      "$guid": "0x736F4C032BCFF767"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7718D82F68AFE9A6.rpak",
+      "$guid": "0x7718D82F68AFE9A6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x77D30EE71B3E4518.rpak",
+      "$guid": "0x77D30EE71B3E4518"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x781AF257C9AFC909.rpak",
+      "$guid": "0x781AF257C9AFC909"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7D25DF4121976FB6.rpak",
+      "$guid": "0x7D25DF4121976FB6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7F08FB01B26DC8FA.rpak",
+      "$guid": "0x7F08FB01B26DC8FA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x804C0DE382CCA8A8.rpak",
+      "$guid": "0x804C0DE382CCA8A8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8348144711C3A219.rpak",
+      "$guid": "0x8348144711C3A219"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x893CF1C6B42DA350.rpak",
+      "$guid": "0x893CF1C6B42DA350"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x89C8039D324C8213.rpak",
+      "$guid": "0x89C8039D324C8213"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B174B7CAF442798.rpak",
+      "$guid": "0x8B174B7CAF442798"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x927D685A1F6CD292.rpak",
+      "$guid": "0x927D685A1F6CD292"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x961980C2E578997E.rpak",
+      "$guid": "0x961980C2E578997E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9CBEF332189B9024.rpak",
+      "$guid": "0x9CBEF332189B9024"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA059C040EE9E2ADC.rpak",
+      "$guid": "0xA059C040EE9E2ADC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA44CA9CAED7F6749.rpak",
+      "$guid": "0xA44CA9CAED7F6749"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA9D8BA4C52E90615.rpak",
+      "$guid": "0xA9D8BA4C52E90615"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAC9D58A273BCB4E1.rpak",
+      "$guid": "0xAC9D58A273BCB4E1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB5D5B0E26547BE47.rpak",
+      "$guid": "0xB5D5B0E26547BE47"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB7CA2687F96515BB.rpak",
+      "$guid": "0xB7CA2687F96515BB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC70D78A18A85DBB1.rpak",
+      "$guid": "0xC70D78A18A85DBB1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC8CCA0777D357BE0.rpak",
+      "$guid": "0xC8CCA0777D357BE0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC9639A8CE917480B.rpak",
+      "$guid": "0xC9639A8CE917480B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCB57B3822BE66214.rpak",
+      "$guid": "0xCB57B3822BE66214"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCD0C9B4C2C576D1D.rpak",
+      "$guid": "0xCD0C9B4C2C576D1D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD2A4111FF119183D.rpak",
+      "$guid": "0xD2A4111FF119183D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD3075BFE8314ACDE.rpak",
+      "$guid": "0xD3075BFE8314ACDE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE02175936BE3204E.rpak",
+      "$guid": "0xE02175936BE3204E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEA0AD5DBEADDD145.rpak",
+      "$guid": "0xEA0AD5DBEADDD145"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF206A306491613EC.rpak",
+      "$guid": "0xF206A306491613EC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF93087031D50EC7B.rpak",
+      "$guid": "0xF93087031D50EC7B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFA8064430B37AF32.rpak",
+      "$guid": "0xFA8064430B37AF32"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFD6DD06A7C96D76D.rpak",
+      "$guid": "0xFD6DD06A7C96D76D"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_branch_forest_animated_02_shadow_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_branch_forest_animated_02_prepass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_branch_forest_animated_02_vsm_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_branch_forest_animated_02_tightshadow_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_body_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_body_mu1_night_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_leg_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_leg_mu1_night_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/leviathan/leviathan_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_bark_forest_01_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_branch_forest_animated_02_colpass_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/rocks/rock_white_chalk_mod_01_sand_desert_02_bm_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/cloth/rope_old_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/water/water_dirty_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/wood/wood_planks_01_moss_bm_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_body_mu1_night_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_body_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_leg_mu1_night_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures/leviathan_hero/leviathan_hero_leg_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/leviathan/leviathan_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_bark_forest_01_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_branch_forest_animated_02_sknc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/rocks/rock_white_chalk_mod_01_sand_desert_02_bm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/cloth/rope_old_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/water/water_dirty_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/water/water_dirty_02_depth_blend_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/wood/wood_planks_01_moss_bm_rgdp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/creatures/leviathan/leviathan.rrig",
+      "$sequences": [
+        "animseq/creatures/leviathan/leviathan/leviathan_lookat.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/lev_idle_lookup_noloop_kingscanyon.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/lev_idle_noloop_kingscanyon.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_head_neutral.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_leg_lift.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_look_up.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_looking_around.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_munching_idle.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_roar.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_roar_shadow.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_shake.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone6_stand.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_leg_lift.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_look_up.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_looking_around.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_munching_idle.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_roar.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_roar_shadow.rseq",
+        "animseq/creatures/leviathan/leviathan_animated/leviathan_kingscanyon_mu1_zone9_shake.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon.rrig",
+      "$sequences": [
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_leg_lift.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_look_up.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_looking_around.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_munching_idle.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_roar.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_shake.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone6_stand.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone9_leg_lift.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone9_look_up.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone9_looking_around.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone9_munching_idle.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone9_roar.rseq",
+        "animseq/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon/tree_kingscanyon_mu1_zone9_shake.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/creatures/leviathan/leviathan_animated.rmdl",
+      "$animrigs": [
+        "animrig/creatures/leviathan/leviathan.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/floating_village/roof_primitive_01_white_door_opening.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/global_access_panel_button/global_access_panel_button_wall.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon.rmdl",
+      "$animrigs": [
+        "animrig/props/tree_green_forest_01_kingscanyon/tree_green_forest_01_kingscanyon.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_white_chalk_sand_modular_flat_01.rmdl"
+    }
+  ]
+}

@@ -9,14 +9,7 @@
       "_type": "Ptch",
       "_path": "patch_master",
       "entries": [
-        {
-          "name": "common.rpak",
-          "version": 1
-        },
-        {
-          "name": "common_mp.rpak",
-          "version": 2
-        }
+
       ]
     }
   ]

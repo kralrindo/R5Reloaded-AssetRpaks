@@ -684,10 +684,6 @@
 			{
 				"flavor": "settings/itemflav/gcard_stance/lifeline/epic_05.rpak",
 				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_stance/lifeline/heirloom_01.rpak",
-				"featureFlag": ""
 			}
 		],
 		"gcardFrames": [
@@ -1119,10 +1115,6 @@
 		"meleeSkins": [
 			{
 				"flavor": "settings/itemflav/melee_skin/default.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/melee_skin/lifeline_baton.rpak",
 				"featureFlag": ""
 			}
 		],

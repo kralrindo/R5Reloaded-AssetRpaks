@@ -1,0 +1,26 @@
+ 
+
+{
+    "version": 8,
+    "keepDevOnly": false,
+
+    "outputDir": "./paks/Win64/",
+    "streamCache": "cache/pc_roots.starmap",
+    "streamCacheFilter": [
+        "paks/Win64/pc_all.starpak",
+        "paks/Win64/pc_all.opt.starpak",
+        "paks/Win64/pc_all(01).starpak",
+        "paks/Win64/pc_all(01).opt.starpak",
+        "paks/Win64/pc_all(02).starpak",
+        "paks/Win64/pc_all(02).opt.starpak",
+        "paks/Win64/pc_all(03).starpak",
+        "paks/Win64/pc_all(03).opt.starpak"
+    ],
+
+    "showDebugInfo": false,
+
+    "paks": [
+        "sdk_depot/others/common.json",
+        "sdk_depot/others/common_mp.json"
+    ]
+}
