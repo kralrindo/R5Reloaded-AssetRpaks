@@ -1,0 +1,35 @@
+ 
+
+{
+    "version": 8,
+    "keepDevOnly": false,
+
+    "outputDir": "./paks/Win64/",
+
+    "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
+    "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
+
+    "showDebugInfo": false,
+    "streamCache": "cache/pc_all.starmap",
+    "streamCacheFilter": [
+        "paks/Win64/pc_all.starpak",
+        "paks/Win64/pc_all.opt.starpak"
+    ],
+    "paks": [
+        //ENGINE PAKS
+        "sdk_depot/startup_sdk.json",
+        "sdk_depot/common_roots.json",
+        "sdk_depot/effects_sdk.json",
+        "sdk_depot/common_sdk.json",//Custom SDK Rpak
+
+        //UI ASSET PAKS
+        "sdk_depot/ui_sdk.json",
+        "map_depot/custom_sdk_1_loadscreen.json",
+        "map_depot/custom_sdk_2_loadscreen.json",
+        "map_depot/custom_sdk_3_loadscreen.json",
+        "map_depot/custom_sdk_4_loadscreen.json",
+        "map_depot/custom_sdk_5_loadscreen.json",
+        "map_depot/custom_sdk_6_loadscreen.json",
+        "map_depot/custom_sdk_7_loadscreen.json"
+    ]
+}

@@ -6,34 +6,27 @@
 
     "outputDir": "./paks/Win64/",
 
-    "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
-    "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
-    "streamCache": "cache/pc_roots.starmap",
-    "streamCacheFilter": [
-        "paks/Win64/pc_all.starpak",
-        "paks/Win64/pc_all.opt.starpak",
-        "paks/Win64/pc_all(02).starpak",
-        "paks/Win64/pc_all(02).opt.starpak",
-        "paks/Win64/pc_all(03).starpak",
-        "paks/Win64/pc_all(03).opt.starpak"
-    ],
+    "streamFileMandatory": "paks/Win64/pc_all.starpak",
+    "streamFileOptional": "paks/Win64/pc_all.opt.starpak",
 
     "showDebugInfo": false,
 
     "paks": [
         //ENGINE PAKS
+        "sdk_depot/others/common.json",//Rebuilt Core Rpak
+        "sdk_depot/others/common_mp.json",//Rebuilt Core Rpak
         "sdk_depot/patch_master.json",
-        "sdk_depot/startup_sdk.json",
-        "sdk_depot/common_roots.json",
-        "sdk_depot/effects_sdk.json",
-        "sdk_depot/common_sdk.json",
 
         //MAP PAKS
-        "map_depot/mp_lobby.json",
-        "map_depot/mp_rr_canyonlands_staging.json",
+        "map_depot/mp_lobby.json",//Season 5 Lobby
+        "map_depot/mp_rr_canyonlands_staging.json",//Season 14 Firing Range
+        "sdk_depot/others/mp_rr_canyonlands_mu1.json",//Canyonlands MU1, Original S3 variant
+        "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",//Canyonlands 64K, Original S3 variant
+        "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",//Canyonlands MU1 Night, Original S3 variant
         "map_depot/mp_rr_canyonlands_64k_x_64k_ps4.json",
         "map_depot/mp_rr_canyonlands_mu2.json",
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
+        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json",//Desertlands 64K, Original S3 variant
         "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
@@ -52,15 +45,7 @@
 
         //UI ASSET PAKS
         "sdk_depot/ui_mainmenu.json",
-        "sdk_depot/ui_sdk.json",
         "map_depot/mp_lobby_loadscreen.json",
-        "map_depot/custom_sdk_1_loadscreen.json",
-        "map_depot/custom_sdk_2_loadscreen.json",
-        "map_depot/custom_sdk_3_loadscreen.json",
-        "map_depot/custom_sdk_4_loadscreen.json",
-        "map_depot/custom_sdk_5_loadscreen.json",
-        "map_depot/custom_sdk_6_loadscreen.json",
-        "map_depot/custom_sdk_7_loadscreen.json",
         "map_depot/mp_rr_canyonlands_staging_loadscreen.json",
         "map_depot/mp_rr_canyonlands_64k_x_64k_ps4_loadscreen.json",
         "map_depot/mp_rr_canyonlands_mu2_loadscreen.json",
