@@ -41,8 +41,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",Backpack_High,4,0
 "","",Incapshield_High,1,0
 "","",mp_ability_mobile_respawn_beacon,0.75,0
-"","",mp_ability_redeploy_balloon,1.1,0
-"","",helmet_pickup_lv5_sunglasses,0,0
 "","",blank,10.5,0
 "","","",0,0
 "",POI_High,"",0,3
@@ -265,15 +263,11 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",optic_cq_threat,10,0
 "","",optic_ranged_aog_variable,10,0
 "","",optic_sniper_variable,10,0
-"","",mp_ability_void_ring,2,0
-"","",mp_ability_redeploy_balloon,2,0
 "","","",0,0
 "",top_tier_health,"",0,3
 "","",health_pickup_combo_full,19,0
 "","",health_pickup_combo_large,33,0
 "","",health_pickup_health_large,33,0
-"","",mp_ability_void_ring,15,0
-"","",mp_ability_redeploy_balloon,15,0
 "","",mp_ability_mobile_respawn_beacon,15,0
 "","","",0,0
 "",gold_any,"",0,0
@@ -1170,8 +1164,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","","",0,0
 "",flyer_deathbox_gadget,"",0,0
 "","",mp_ability_mobile_respawn_beacon,10,0
-"","",mp_ability_void_ring,30,0
-"","",mp_ability_redeploy_balloon,30,0
 "","","",0,0
 "",flyer_deathbox_ordnance,"",0,0
 "","",ordnance,100,0
@@ -1557,7 +1549,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "",secret_bin_loot_survival,"",0,0
 "","",secret_bin_loot_survival_heatshield,2,0
 "","",secret_bin_loot_survival_respawn,1,0
-"","",mp_ability_redeploy_balloon,2,0
 "","",secret_bin_loot_improved,3,0
 "","","",0,0
 "",secret_bin_loot_meds,"",0,0
@@ -1777,8 +1768,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",stock_tactical_l3,8.25,0
 "","",laser_sight_l3,8.25,0
 "","",barrel_stabilizer_l3,8.25,0
-"","",mp_ability_void_ring,0.5,0
-"","",mp_ability_redeploy_balloon,0.5,0
 "","","",0,0
 "",Explosive_Hold_Ammo,"",0,0
 "","",bullet,26,0
@@ -1813,8 +1802,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",Backpack_High_nogold,4,0
 "","",Incapshield_High_nogold,1,0
 "","",mp_ability_mobile_respawn_beacon,0.75,0
-"","",mp_ability_void_ring,1,0
-"","",mp_ability_redeploy_balloon,1,0
 "","",blank,10.5,0
 "","","",0,0
 "",Attachment_High_nogold,"",0,3
@@ -2018,7 +2005,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",helmet_pickup_lv3,0,0
 "","",armor_pickup_lv4_all_fast,5,0
 "","",helmet_pickup_lv4_abilities,0,0
-"","",mp_ability_redeploy_balloon,30,0
 "","","",0,0
 "",control_airdrop_right,"",0,0
 "","",control_purple_kitted_weapons,0,0
@@ -2058,7 +2044,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",health_pickup_combo_small,0,0
 "","",control_blue_kitted_weapons,0,0
 "","",control_ordnance,0,0
-"","",mp_ability_redeploy_balloon,30,0
 "","","",0,0
 "",control_carepackage_left_tier_2,"",0,0
 "","",armor_pickup_lv2,100,0
@@ -2076,7 +2061,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",health_pickup_combo_small,0,0
 "","",control_purple_kitted_weapons,0,0
 "","",control_ordnance,0,0
-"","",mp_ability_redeploy_balloon,30,0
 "","","",0,0
 "",control_carepackage_left_tier_3,"",0,0
 "","",armor_pickup_lv3,100,0
@@ -2094,7 +2078,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",health_pickup_combo_small,0,0
 "","",control_gold_kitted_weapons,0,0
 "","",control_ordnance,0,0
-"","",mp_ability_redeploy_balloon,30,0
 "","","",0,0
 "",control_carepackage_left_tier_4,"",0,0
 "","",armor_pickup_lv4_all_fast,100,0
@@ -2112,7 +2095,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",crate_weapons_lategame,0,0
 "","",control_gold_kitted_weapons,0,0
 "","",control_ordnance,0,0
-"","",mp_ability_redeploy_balloon,30,0
 "","","",0,0
 "",control_ordnance,"",0,0
 "","",mp_weapon_thermite_grenade,35,0
@@ -2209,8 +2191,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",stock_tactical_l3,8.25,0
 "","",laser_sight_l3,8.25,0
 "","",barrel_stabilizer_l3,8.25,0
-"","",mp_ability_void_ring,0.5,0
-"","",mp_ability_redeploy_balloon,0.5,0
 "","",gold_weapons,0.25,0
 "","","",0,0
 "",telephaser_loot_roller_contents_legendary,"",0,0

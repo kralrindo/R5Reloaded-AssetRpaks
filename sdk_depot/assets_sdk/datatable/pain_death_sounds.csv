@@ -1,5 +1,6 @@
 "featureFlag","event","priority","blocksNextPriority","method","bodyType","alias_1p_victim_only","alias_3p_except_victim","alias_3p_attacker_only","alias_3p_except_attacker"
 "HAS_NPC_PROWLER","death",105,false,"SE_GIB","NPC_PROWLER","","","",""
+"","death",500,true,"SE_ANY","CLASS_TITAN","titan_death_explode","titan_death_explode","",""
 "","death",120,true,"SE_EXECUTION","CLASS_BANSHEE","","","",""
 "","death",290,true,"SE_ANY","CLASS_BANSHEE","diag_mp_wraith_effort_deathCam_3p","diag_mp_wraith_effort_death_3p","",""
 "","death",120,true,"SE_EXECUTION","CLASS_BLOODHOUND","","","",""
