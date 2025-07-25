@@ -200,6 +200,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x35163C8DE92A9F32.rpak",
+      "$guid": "0x35163C8DE92A9F32"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x355A436B0B1BB536.rpak",
       "$guid": "0x355A436B0B1BB536"
     },
@@ -267,6 +272,11 @@
       "_type": "shdr",
       "_path": "shader/0x3F760317264543E7.rpak",
       "$guid": "0x3F760317264543E7"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x41698AE6D94E505D.rpak",
+      "$guid": "0x41698AE6D94E505D"
     },
     {
       "_type": "shdr",
@@ -407,6 +417,11 @@
       "_type": "shdr",
       "_path": "shader/0x5D79E1E6F56F0545.rpak",
       "$guid": "0x5D79E1E6F56F0545"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5E95AF7510C1EB9F.rpak",
+      "$guid": "0x5E95AF7510C1EB9F"
     },
     {
       "_type": "shdr",
@@ -805,6 +820,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xAE2ECB46E4ED47D.rpak",
+      "$guid": "0xAE2ECB46E4ED47D"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xB1DD57C311615950.rpak",
       "$guid": "0xB1DD57C311615950"
     },
@@ -867,6 +887,11 @@
       "_type": "shdr",
       "_path": "shader/0xBB55D35DD4969AD9.rpak",
       "$guid": "0xBB55D35DD4969AD9"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBB5D97DAECBBFE99.rpak",
+      "$guid": "0xBB5D97DAECBBFE99"
     },
     {
       "_type": "shdr",
@@ -1012,6 +1037,11 @@
       "_type": "shdr",
       "_path": "shader/0xCD6FB9E8EE9265C3.rpak",
       "$guid": "0xCD6FB9E8EE9265C3"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xCD944543B46162EE.rpak",
+      "$guid": "0xCD944543B46162EE"
     },
     {
       "_type": "shdr",
@@ -1235,6 +1265,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xFC79C6661FEA3BEF.rpak",
+      "$guid": "0xFC79C6661FEA3BEF"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xFD48B709F50F2218.rpak",
       "$guid": "0xFD48B709F50F2218"
     },
@@ -1312,6 +1347,11 @@
       "_type": "shds",
       "_path": "shaderset/0x237DEEC2A99BAB06.rpak",
       "$guid": "0x237DEEC2A99BAB06"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x23CCDF237D89818E.rpak",
+      "$guid": "0x23CCDF237D89818E"
     },
     {
       "_type": "shds",
@@ -1395,6 +1435,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x324CFAC3528A8800.rpak",
+      "$guid": "0x324CFAC3528A8800"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x32E65B61809BE65B.rpak",
       "$guid": "0x32E65B61809BE65B"
     },
@@ -1422,6 +1467,11 @@
       "_type": "shds",
       "_path": "shaderset/0x36627716165FC7DA.rpak",
       "$guid": "0x36627716165FC7DA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x36A36256CC4A7BEE.rpak",
+      "$guid": "0x36A36256CC4A7BEE"
     },
     {
       "_type": "shds",
@@ -1580,6 +1630,16 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x520489CE84FC3706.rpak",
+      "$guid": "0x520489CE84FC3706"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x529D7BCCEC4475AB.rpak",
+      "$guid": "0x529D7BCCEC4475AB"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x52E7B80A2FA7C9BC.rpak",
       "$guid": "0x52E7B80A2FA7C9BC"
     },
@@ -1702,6 +1762,11 @@
       "_type": "shds",
       "_path": "shaderset/0x6FCE82A69292C730.rpak",
       "$guid": "0x6FCE82A69292C730"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x708ACB8D387917B3.rpak",
+      "$guid": "0x708ACB8D387917B3"
     },
     {
       "_type": "shds",
@@ -1862,6 +1927,11 @@
       "_type": "shds",
       "_path": "shaderset/0x8DFE2D63AE39B3D7.rpak",
       "$guid": "0x8DFE2D63AE39B3D7"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x911BA52AC304E09E.rpak",
+      "$guid": "0x911BA52AC304E09E"
     },
     {
       "_type": "shds",
@@ -2072,6 +2142,11 @@
       "_type": "shds",
       "_path": "shaderset/0xBE3B0D1C36343DCB.rpak",
       "$guid": "0xBE3B0D1C36343DCB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xBEF355764C29947B.rpak",
+      "$guid": "0xBEF355764C29947B"
     },
     {
       "_type": "shds",
@@ -2377,6 +2452,11 @@
       "_type": "shds",
       "_path": "shaderset/0xFED3988790BF82FF.rpak",
       "$guid": "0xFED3988790BF82FF"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xFFEC9D2048FB43B4.rpak",
+      "$guid": "0xFFEC9D2048FB43B4"
     },
     {
       "_type": "shds",
@@ -2865,6 +2945,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x23F30389A6053B47.rpak",
+      "$guid": "0x23F30389A6053B47"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x240E8E8CBD957018.rpak",
       "$guid": "0x240E8E8CBD957018"
     },
@@ -3172,6 +3257,11 @@
       "_type": "txtr",
       "_path": "texture/0x2D213E06ACC985E1.rpak",
       "$guid": "0x2D213E06ACC985E1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2D337A1CF87512C5.rpak",
+      "$guid": "0x2D337A1CF87512C5"
     },
     {
       "_type": "txtr",
@@ -4637,6 +4727,11 @@
       "_type": "txtr",
       "_path": "texture/0x65FB892EEAE1C4EB.rpak",
       "$guid": "0x65FB892EEAE1C4EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x660DC5451DBDFA0B.rpak",
+      "$guid": "0x660DC5451DBDFA0B"
     },
     {
       "_type": "txtr",
@@ -6255,6 +6350,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xA716488B638D3F3F.rpak",
+      "$guid": "0xA716488B638D3F3F"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xA71A00F82EA988D1.rpak",
       "$guid": "0xA71A00F82EA988D1"
     },
@@ -6715,6 +6815,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xB95E3E1C2A1F9443.rpak",
+      "$guid": "0xB95E3E1C2A1F9443"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xB9A6722A2786F91B.rpak",
       "$guid": "0xB9A6722A2786F91B"
     },
@@ -6977,6 +7082,11 @@
       "_type": "txtr",
       "_path": "texture/0xC3482F154E016C05.rpak",
       "$guid": "0xC3482F154E016C05"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC39F7F4A1B1A5C87.rpak",
+      "$guid": "0xC39F7F4A1B1A5C87"
     },
     {
       "_type": "txtr",
@@ -7420,6 +7530,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD43DE1961B1CB14D.rpak",
+      "$guid": "0xD43DE1961B1CB14D"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD462CE05D98969F5.rpak",
       "$guid": "0xD462CE05D98969F5"
     },
@@ -7542,6 +7657,11 @@
       "_type": "txtr",
       "_path": "texture/0xDACE9E57CC0AAAE2.rpak",
       "$guid": "0xDACE9E57CC0AAAE2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDAF40AA1287FB99B.rpak",
+      "$guid": "0xDAF40AA1287FB99B"
     },
     {
       "_type": "txtr",
@@ -7987,6 +8107,11 @@
       "_type": "txtr",
       "_path": "texture/0xEAAF935F6AD029C0.rpak",
       "$guid": "0xEAAF935F6AD029C0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEAD2A94D33118028.rpak",
+      "$guid": "0xEAD2A94D33118028"
     },
     {
       "_type": "txtr",
@@ -8669,6 +8794,16 @@
       "$guid": "0xFFBC75940DAAD409"
     },
     {
+      "_type": "txtr",
+      "_path": "texture/holo_cross_square.rpak",
+      "$guid": "holo_cross_square"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/holo_map_grid.rpak",
+      "$guid": "holo_map_grid"
+    },
+    {
       "_type": "matl",
       "_path": "material/depth/models/angel_city/ground_pile_trash_01_shadow_rgdp.rpak"
     },
@@ -8730,7 +8865,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_animated_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_shadow_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/signs/skygarden_signs_01_shadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -8870,7 +9013,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_animated_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_prepass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/signs/skygarden_signs_01_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9010,7 +9161,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_animated_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_vsm_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/signs/skygarden_signs_01_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9150,7 +9309,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_animated_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_tightshadow_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/signs/skygarden_signs_01_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9327,6 +9494,10 @@
     {
       "_type": "matl",
       "_path": "material/models/containers/underbelly_cargo_containers_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/desertlands/rampart_tt_vendit_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9530,6 +9701,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/monitor_large_IMC_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/pipe_ceiling_med_IMC_01_colpass_rgdp.rpak"
     },
     {
@@ -9610,6 +9785,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/lamps/industrial_wall_light_02_on_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/lamps/industrial_wall_light_02_on_colpass_rgdp.rpak"
     },
     {
@@ -9634,7 +9813,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/levels_terrain/mp_rr_skygarden/skygarden_banners_01_animated_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/levels_terrain/mp_rr_skygarden/skygarden_banners_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_animated_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9763,6 +9950,10 @@
     {
       "_type": "matl",
       "_path": "material/models/signs/sign_service_shaft_rise_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/signs/skygarden_signs_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -10546,6 +10737,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/desertlands/rampart_tt_vendit_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/dev/mp_spawn_rgdp.rpak"
     },
     {
@@ -10746,6 +10941,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/monitor_large_IMC_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/pipe_ceiling_med_IMC_01_rgdp.rpak"
     },
     {
@@ -10826,6 +11025,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/lamps/industrial_wall_light_02_on_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/lamps/industrial_wall_light_02_on_rgdp.rpak"
     },
     {
@@ -10854,7 +11057,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/levels_terrain/mp_rr_skygarden/skygarden_banners_01_animated_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/levels_terrain/mp_rr_skygarden/skygarden_banners_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/levels_terrain/mp_rr_skygarden/skygarden_banners_02_animated_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -10987,6 +11198,10 @@
     {
       "_type": "matl",
       "_path": "material/models/signs/sign_service_shaft_rise_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/signs/skygarden_signs_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12110,6 +12325,30 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_10.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_13.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/desertlands/research_station_server_wire_canopy_01.rmdl"
     },
     {
@@ -12542,6 +12781,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_terrain_centerplatform_section_01_lights_mu3.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_cover_speaker_01.rmdl"
     },
     {
@@ -12586,6 +12829,54 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_01_ripped.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_02_ripped.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_03_ripped.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_04_ripped.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_tv_mount_01.rmdl"
     },
     {
@@ -12595,6 +12886,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_hand_dryer_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_screen_tripple_01.rmdl"
     },
     {
       "_type": "mdl_",

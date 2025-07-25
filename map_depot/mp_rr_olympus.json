@@ -35965,10 +35965,15 @@
       ]
     },
     {
-      "_type": "arig",
-      "_path": "animrig/robots/marvin/marvin_base_v2.rrig",
-      "$sequences": [
+     "_type": "arig",
+     "_path" : "animrig/robots/marvin/marvin_base_v2.rrig",
+     "$sequences" : [
         "animseq/robots/marvin/marvin_base_v2/mrvn_buff_window.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_clap.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_gesture.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_newhand.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_shrug.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_wave.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_activate.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_bounce.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_buttons_playful.rseq",
@@ -35978,9 +35983,17 @@
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_headshot.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_knockback.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_spin.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_emp_reaction.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_grapple_reaction.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_headtilt.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_idle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_pain_headshot.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_pain_spin.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_pain_twitch.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_powerdown.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_bigwave.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_handle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_idle.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_twitch.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_loot_wave.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_pain_headspin.rseq",
@@ -35997,12 +36010,7 @@
         "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_small.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_small_alt.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_stun.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_salute.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_turn_90L.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_turn_90R.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_bartender.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_idle.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_wave.rseq"
+        "animseq/robots/marvin/marvin_base_v2/mrvn_salute.rseq"
       ]
     },
     {

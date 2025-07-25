@@ -4,12 +4,60 @@
   "name": "mp_rr_canyonlands_mu3",
   "streamFileMandatory": "paks/Win64/mp_rr_canyonlands_mu3.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_canyonlands_mu3.opt.starpak",
-  "streamCache": "cache/pc_roots.starmap",
+    "streamCache": "cache/pc_roots.starmap",
+    "streamCacheFilter": [
+        "paks/Win64/pc_all.starpak",
+        "paks/Win64/pc_all.opt.starpak",
+        "paks/Win64/pc_all(02).starpak",
+        "paks/Win64/pc_all(02).opt.starpak",
+        "paks/Win64/pc_all(03).starpak",
+        "paks/Win64/pc_all(03).opt.starpak"
+    ],
   "assetsDir": "./assetss8/",
   "outputDir": "./build/",
   "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
+       {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_A.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_B.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_C.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_D.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_A.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_B.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_C.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_D.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_center_glow.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_center_nrg.rpak"
+    },
     {
       "_type": "shdr",
       "_path": "shader/0x105BE9EDCC704E03.rpak",
