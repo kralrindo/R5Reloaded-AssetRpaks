@@ -12,7 +12,7 @@
 		"quality": "NONE",
 		"icon": "rui/menu/buttons/weapon_categories/marksman",
 		"grxMode": "NONE",
-		"statsKey": "shotgun",
+		"statsKey": "marksman",
 		"tags": [
 		],
 		"menuZoomOffset": "<5.000000,0.000000,0.000000>"

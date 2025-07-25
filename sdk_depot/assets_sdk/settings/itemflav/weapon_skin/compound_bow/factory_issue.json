@@ -13,7 +13,7 @@
 		"icon": "",
 		"grxMode": "NONE",
 		"grxMode": "NONE",
-		"grxRef": "weapon_skin_dmr_factory_issue",
+		"grxRef": "weapon_skin_bow_factory_issue",
 		"ownershipTarget": "",
 		"worldModel": "mdl/Weapons/sentinel/w_sentinel.rmdl",
 		"viewModel": "mdl/Weapons/compound_bow/ptpov_compound_bow.rmdl",

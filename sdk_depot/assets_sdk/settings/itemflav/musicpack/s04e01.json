@@ -4,6 +4,7 @@
 	"settings": {
 		"assetName": "settings/itemflav/musicpack/s04e01.rpak",
 		"itemType": "music_pack",
+		"parentItemFlavor": "",
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#MUSICPACK_005",
 		"localizationKey_NAME_SHORT": "#MUSICPACK_005",
@@ -11,8 +12,9 @@
 		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "EPIC",
 		"icon": "",
-		"grxMode": "NONE",
-		"grxMode": "NONE",
+		"tagIcon": "rui/events/s04e01/item_source_icon",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
 		"grxRef": "musicpack_s04e01",
 		"ownershipTarget": "",
 		"musicPreview": "Music_Sample_Season4_1",
@@ -25,14 +27,12 @@
 		"musicSkydive": "Music_Jump_Season4_1",
 		"musicWin": "Music_EndGame_Win_Season4_1",
 		"musicLoss": "Music_EndGame_Loss_Season4_1",
+		"musicFiringRange": "Music_FiringRange_Season4_1",
 		"character": "",
 		"portraitImage": "rui/events/s04e01/musicpack_portrait",
-		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/source_s04e01.rpak"
-			}
-		],
 		"portraitBlend": 1.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
 		"isTheEmpty": false,
 		"isTheRandom": false,
 		"isCharacterBased": false

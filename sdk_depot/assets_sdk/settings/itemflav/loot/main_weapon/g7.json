@@ -226,66 +226,6 @@
 			{
 				"flavor": "settings/itemflav/weapon_charm/none.rpak",
 				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/rank_gold.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/rank_platinum.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/rank_diamond.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/rank_predator.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/nessy.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/fireball.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/gas_canister.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/yeti.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/lifeline_drone.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/s03e01_jackolantern.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/clownhead.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/s03e01_witchhat.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/crow.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/jester.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/weapon_charm/s03e01_nessyghost.rpak",
-				"featureFlag": ""
 			}
 		],
 		"shippingWeapon": true

@@ -4,15 +4,17 @@
 	"settings": {
 		"assetName": "settings/itemflav/musicpack/pathfinder.rpak",
 		"itemType": "music_pack",
+		"parentItemFlavor": "",
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#character_pathfinder_NAME",
 		"localizationKey_NAME_SHORT": "#character_pathfinder_NAME_SHORT",
-		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
-		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "EPIC",
 		"icon": "",
-		"grxMode": "REGULAR",
-		"grxMode": "REGULAR",
+		"tagIcon": "rui/events/s02e01/item_source_icon",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
 		"grxRef": "musicpack_pathfinder",
 		"ownershipTarget": "",
 		"musicPreview": "Music_Sample_Pathfinder",
@@ -25,14 +27,12 @@
 		"musicSkydive": "Music_Jump_Pathfinder",
 		"musicWin": "Music_EndGame_Win_Pathfinder",
 		"musicLoss": "Music_EndGame_Loss_Pathfinder",
+		"musicFiringRange": "Music_FiringRange_Pathfinder",
 		"character": "settings/itemflav/character/pathfinder.rpak",
 		"portraitImage": "",
-		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
-			}
-		],
 		"portraitBlend": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
 		"isTheEmpty": false,
 		"isTheRandom": false,
 		"isCharacterBased": true

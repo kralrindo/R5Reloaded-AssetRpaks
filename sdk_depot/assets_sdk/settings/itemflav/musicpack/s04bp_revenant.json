@@ -4,6 +4,7 @@
 	"settings": {
 		"assetName": "settings/itemflav/musicpack/s04bp_revenant.rpak",
 		"itemType": "music_pack",
+		"parentItemFlavor": "",
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#character_revenant_NAME",
 		"localizationKey_NAME_SHORT": "#character_revenant_NAME_SHORT",
@@ -11,8 +12,9 @@
 		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "EPIC",
 		"icon": "",
-		"grxMode": "REGULAR",
-		"grxMode": "REGULAR",
+		"tagIcon": "rui/events/s04bp/item_source_icon",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
 		"grxRef": "musicpack_s04bp_revenant",
 		"ownershipTarget": "",
 		"musicPreview": "Music_Sample_Revenant",
@@ -25,14 +27,12 @@
 		"musicSkydive": "Music_Jump_Revenant",
 		"musicWin": "Music_EndGame_Win_Revenant",
 		"musicLoss": "Music_EndGame_Loss_Revenant",
+		"musicFiringRange": "Music_FiringRange_Revenant",
 		"character": "settings/itemflav/character/revenant.rpak",
 		"portraitImage": "",
-		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/source_battlepass_season04.rpak"
-			}
-		],
 		"portraitBlend": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
 		"isTheEmpty": false,
 		"isTheRandom": false,
 		"isCharacterBased": true

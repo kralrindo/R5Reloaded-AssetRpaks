@@ -169,9 +169,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_whiteset,7,0
 "","",mp_weapon_defender_whiteset,7,0
 "","",mp_weapon_volt_smg_whiteset,7,0
-"","",mp_weapon_3030_whiteset,7,0
-"","",mp_weapon_nemesis_whiteset,7,0
-"","",mp_weapon_dragon_lmg_whiteset,7,0
 "","","",0,0
 "",blue_kitted_weapons,"",0,3
 "","",mp_weapon_wingman_blueset,7,0
@@ -193,9 +190,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_blueset,7,0
 "","",mp_weapon_defender_blueset,7,0
 "","",mp_weapon_volt_smg_blueset,7,0
-"","",mp_weapon_3030_blueset,7,0
-"","",mp_weapon_nemesis_blueset,7,0
-"","",mp_weapon_dragon_lmg_blueset,7,0
 "","","",0,0
 "",purple_kitted_weapons,"",0,3
 "","",mp_weapon_wingman_purpleset,7,0
@@ -217,9 +211,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_purpleset,7,0
 "","",mp_weapon_defender_purpleset,7,0
 "","",mp_weapon_volt_smg_purpleset,7,0
-"","",mp_weapon_3030_purpleset,7,0
-"","",mp_weapon_nemesis_purpleset,7,0
-"","",mp_weapon_dragon_lmg_purpleset,7,0
 "","","",0,0
 "",gold_weapons,"",0,3
 "","",mp_weapon_hemlok_gold,15,0
@@ -433,7 +424,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_defender,0,0
 "","",mp_weapon_sentinel,0,0
 "","",mp_weapon_volt_smg,0,0
-"","",mp_weapon_nemesis,0,0
 "","","",0,0
 "",Weapon_Low,"",0,1
 "","",mp_weapon_wingman,5,0
@@ -455,9 +445,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_defender,0,0
 "","",mp_weapon_sentinel,2,0
 "","",mp_weapon_volt_smg,4,0
-"","",mp_weapon_3030,4,0
-"","",mp_weapon_dragon_lmg,3,0
-"","",mp_weapon_nemesis,5,0
 "","","",0,0
 "",Weapon_Medium,"",0,2
 "","",mp_weapon_wingman,5,0
@@ -479,9 +466,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_doubletake,2,0
 "","",mp_weapon_sentinel,3,0
 "","",mp_weapon_volt_smg,6,0
-"","",mp_weapon_3030,5,0
-"","",mp_weapon_dragon_lmg,4,0
-"","",mp_weapon_nemesis,5,0
 "","","",0,0
 "",Weapon_High,"",0,3
 "","",mp_weapon_wingman,4,0
@@ -503,9 +487,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_doubletake,3,0
 "","",mp_weapon_sentinel,3,0
 "","",mp_weapon_volt_smg,4,0
-"","",mp_weapon_3030,5,0
-"","",mp_weapon_dragon_lmg,5,0
-"","",mp_weapon_nemesis,5,0
 "","","",0,0
 "",ammo,"",0,0
 "","",bullet,25,0
@@ -1859,9 +1840,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_esaw_whiteset,7,0
 "","",mp_weapon_lmg_whiteset,7,0
 "","",mp_weapon_volt_smg_whiteset,7,0
-"","",mp_weapon_3030_whiteset,7,0
-"","",mp_weapon_nemesis_whiteset,7,0
-"","",mp_weapon_dragon_lmg_whiteset,7,0
 "","","",0,0
 "",arenas_blue_airdrop_weapons,"",0,3
 "","",mp_weapon_wingman_blueset,7,0
@@ -1877,9 +1855,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_lmg_blueset,7,0
 "","",mp_weapon_volt_smg_blueset,7,0
 "","",mp_weapon_doubletake_blueset,7,0
-"","",mp_weapon_3030_blueset,7,0
-"","",mp_weapon_nemesis_blueset,7,0
-"","",mp_weapon_dragon_lmg_blueset,7,0
 "","","",0,0
 "",arenas_purple_airdrop_weapons,"",0,3
 "","",mp_weapon_wingman_purpleset,7,0
@@ -1896,9 +1871,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_lmg_purpleset,7,0
 "","",mp_weapon_volt_smg_purpleset,7,0
 "","",mp_weapon_doubletake_purpleset,7,0
-"","",mp_weapon_3030_purpleset,7,0
-"","",mp_weapon_nemesis_purpleset,7,0
-"","",mp_weapon_dragon_lmg_purpleset,7,0
 "","","",0,0
 "",arenas_gold_airdrop_weapons,"",0,3
 "","",mp_weapon_wingman_gold,7,0
@@ -1914,9 +1886,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_lmg_gold,7,0
 "","",mp_weapon_volt_smg_gold,7,0
 "","",mp_weapon_doubletake_gold,7,0
-"","",mp_weapon_3030_gold,7,0
-"","",mp_weapon_nemesis_gold,7,0
-"","",mp_weapon_dragon_lmg_gold,7,0
 "","","",0,0
 "",arenas_red_airdrop_weapons,"",0,3
 "","",mp_weapon_sniper,20,0
@@ -1943,9 +1912,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_blueset,5,0
 "","",mp_weapon_defender_blueset,5,0
 "","",mp_weapon_volt_smg_blueset,10,0
-"","",mp_weapon_3030_blueset,5,0
-"","",mp_weapon_nemesis_blueset,15,0
-"","",mp_weapon_dragon_lmg_blueset,10,0
 "","","",0,0
 "",control_purple_kitted_weapons,"",0,0
 "","",mp_weapon_wingman_purpleset,5,0
@@ -1967,9 +1933,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_purpleset,5,0
 "","",mp_weapon_defender_purpleset,5,0
 "","",mp_weapon_volt_smg_purpleset,10,0
-"","",mp_weapon_3030_purpleset,5,0
-"","",mp_weapon_nemesis_purpleset,15,0
-"","",mp_weapon_dragon_lmg_purpleset,10,0
 "","","",0,0
 "",control_gold_kitted_weapons,"",0,0
 "","",mp_weapon_wingman_gold,5,0
@@ -1991,9 +1954,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_gold,10,0
 "","",mp_weapon_defender_gold,10,0
 "","",mp_weapon_volt_smg_gold,10,0
-"","",mp_weapon_3030_gold,5,0
-"","",mp_weapon_nemesis_gold,15,0
-"","",mp_weapon_dragon_lmg_gold,10,0
 "","","",0,0
 "",control_airdrop_left,"",0,0
 "","",control_purple_kitted_weapons,0,0
@@ -2130,7 +2090,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_vinson_purple_paintball,1,0
 "","","",0,0
 "",rampart_tt_gold_weapons,"",0,0
-"","",mp_weapon_dragon_lmg_gold_paintball,1,0
 "","",mp_weapon_rspn101_gold_paintball,1,0
 "","",mp_weapon_r97_gold_paintball,1,0
 "","",mp_weapon_dmr_gold_paintball,1,0
@@ -2226,12 +2185,8 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_blueset,7,0
 "","",mp_weapon_defender_blueset,7,0
 "","",mp_weapon_volt_smg_blueset,7,0
-"","",mp_weapon_3030_blueset,7,0
-"","",mp_weapon_nemesis_blueset,7,0
-"","",mp_weapon_dragon_lmg_blueset,7,0
 "","","",0,0
 "",IMC_Armory_Weapons,"",0,0
-"","",mp_weapon_nemesis,11,0
 "","",mp_weapon_doubletake,7,0
 "","",mp_weapon_mastiff,11,0
 "","",mp_weapon_vinson,11,0
@@ -2240,7 +2195,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_shotgun,11,0
 "","",mp_weapon_alternator_smg,8,0
 "","",mp_weapon_rspn101,11,0
-"","",mp_weapon_dragon_lmg,6,0
 "","",mp_weapon_shotgun_pistol,11,0
 "","",mp_weapon_r97,8,0
 "","",mp_weapon_pdw,8,0
@@ -2315,9 +2269,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_dmr,3,0
 "","",mp_weapon_doubletake,3,0
 "","",mp_weapon_volt_smg,4,0
-"","",mp_weapon_3030,3,0
-"","",mp_weapon_dragon_lmg,3,0
-"","",mp_weapon_nemesis,3,0
 "","","",0,0
 "",shield_battery,"",0,0
 "","",health_pickup_combo_large,100,0
@@ -2345,11 +2296,7 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_doubletake,1,0
 "","",mp_weapon_sentinel,1,0
 "","",mp_weapon_volt_smg,1,0
-"","",mp_weapon_3030,1,0
 "","",mp_weapon_sniper,1,0
-"","",mp_weapon_dragon_lmg,1,0
-"","",mp_weapon_nemesis,1,0
-"","",mp_weapon_throwingknife,1,0
 "","","",0,0
 "",weighted_blue_kitted_weapons,"",0,0
 "","",mp_weapon_wingman_blueset,4,0
@@ -2371,9 +2318,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_blueset,4,0
 "","",mp_weapon_defender_blueset,4,0
 "","",mp_weapon_volt_smg_blueset,4,0
-"","",mp_weapon_3030_blueset,4,0
-"","",mp_weapon_nemesis_blueset,4,0
-"","",mp_weapon_dragon_lmg_blueset,4,0
 "","","",0,0
 "",weighted_purple_kitted_weapons,"",0,0
 "","",mp_weapon_wingman_purpleset,4,0
@@ -2395,9 +2339,6 @@ featureFlag,groupRef,entryRef,entryDistribution,groupTier
 "","",mp_weapon_sentinel_purpleset,4,0
 "","",mp_weapon_defender_purpleset,4,0
 "","",mp_weapon_volt_smg_purpleset,4,0
-"","",mp_weapon_3030_purpleset,4,0
-"","",mp_weapon_nemesis_purpleset,8,0
-"","",mp_weapon_dragon_lmg_purpleset,4,0
 "","","",0,0
 "",weighted_gold_kitted_weapons,"",0,0
 "","",mp_weapon_wingman_gold,4,0

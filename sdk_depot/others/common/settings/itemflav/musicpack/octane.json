@@ -4,15 +4,17 @@
 	"settings": {
 		"assetName": "settings/itemflav/musicpack/octane.rpak",
 		"itemType": "music_pack",
+		"parentItemFlavor": "",
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#character_octane_NAME",
 		"localizationKey_NAME_SHORT": "#character_octane_NAME_SHORT",
-		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
-		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "EPIC",
 		"icon": "",
-		"grxMode": "REGULAR",
-		"grxMode": "REGULAR",
+		"tagIcon": "rui/events/s02bp/item_source_icon",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
 		"grxRef": "musicpack_octane",
 		"ownershipTarget": "",
 		"musicPreview": "Music_Sample_Octane",
@@ -25,14 +27,12 @@
 		"musicSkydive": "Music_Jump_Octane",
 		"musicWin": "Music_EndGame_Win_Octane",
 		"musicLoss": "Music_EndGame_Loss_Octane",
+		"musicFiringRange": "Music_FiringRange_Octane",
 		"character": "settings/itemflav/character/octane.rpak",
 		"portraitImage": "",
-		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/source_battlepass_season02.rpak"
-			}
-		],
 		"portraitBlend": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
 		"isTheEmpty": false,
 		"isTheRandom": false,
 		"isCharacterBased": true

@@ -151828,10 +151828,6 @@
     {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/sound_wattson_zap_execution_riser.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/execution_hide_weapons.rpak"
     }
   ]
 }

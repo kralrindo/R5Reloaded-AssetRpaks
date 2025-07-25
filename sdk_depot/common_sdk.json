@@ -23,6 +23,127 @@
   "compressWorkers": 16,
 
   "files": [
+    //////PING STGS///////
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_area_visited.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_attacking.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_battle.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_crafting_generic.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_crafting_harvester.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_crafting_workbench.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_crafting_workbench_airdropped.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_defending.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_enemy.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_ent_black_market.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_ent_dronemedic.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_ent_echo_locator.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_ent_imc_armory.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_ent_phase_tunnel.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_evac_ship.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_go.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_hostile_poi.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_hovervehicle.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_hovervehicle_enemy.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_i_go.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_legend_death.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_looting.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_nemisis.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_objective.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_quest_drill.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_quest_objective.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_shadow_death.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_spawn_region.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_watching.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_wounded.rpak"
+    },
     //////MISSING STGS ASSETS (DEPENDENCIES)
     {
       "_type": "stgs",
@@ -124,15 +245,6 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/grx_currency/heirloom.rpak"
-    },
-    //////BOW
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/loot/main_weapon/compound_bow.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/weapon_skin/compound_bow/factory_issue.rpak"
     },
     //////REPEATER
     {
@@ -407,27 +519,203 @@
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/musicpack/s04bp_revenant.rpak"//NEWER MUSIC PACK, PORTED BACK
+      "_path": "settings/itemflav/musicpack/bangalore.rpak"
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/musicpack/s04bp_assimilation.rpak"//NEWER MUSIC PACK, PORTED BACK
+      "_path": "settings/itemflav/musicpack/bloodhound.rpak"
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/musicpack/s04e02.rpak"//NEWER MUSIC PACK, PORTED BACK
+      "_path": "settings/itemflav/musicpack/caustic.rpak"
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/musicpack/s04e01.rpak"//NEWER MUSIC PACK, PORTED BACK
+      "_path": "settings/itemflav/musicpack/default.rpak"
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/musicpack/s03e02.rpak"//NEWER MUSIC PACK, PORTED BACK
+      "_path": "settings/itemflav/musicpack/favorite.rpak"
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/musicpack/s03e01.rpak"//REPLACED TO MAKE MUSIC PACK NON GRX
+      "_path": "settings/itemflav/musicpack/lifeline.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/mirage.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/octane.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/pathfinder.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/random.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s03bp_crypto.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s03bp_gibraltar.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s03e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s03e02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04bp_assimilation.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04bp_revenant.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s04e02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s05bp_loba.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s05bp_season5.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s05e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s06bp_rampart.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s06bp_season6.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s06e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s06e02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s07bp_horizon.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s07bp_season7.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s08bp_fuse.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s08bp_season8.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s08e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s09bp_season9.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s09bp_valkyrie.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s09e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s10bp_season10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s10bp_seer.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s10e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s11bp_ash.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s11bp_season11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s12ace.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s12bp_madmaggie.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s12bp_season12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s12e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s13bp_newcastle.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s13bp_season13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s13e01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s14bp_season14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/s14bp_vantage.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/season02_event01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/wattson.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/wraith.rpak"
     },
     {
       "_type": "stgs",
@@ -2292,7 +2580,7 @@
     /////////DUMMIE AND RANDOM SETTING ASSETS///////////
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/character/pilot.rpak"
+      "_path": "settings/itemflav/character/pilots/pilot.rpak"
     },
     {
       "_type": "stgs",
@@ -3280,6 +3568,14 @@
     ////////////////////////DATATABLES/////////////////////
     {
       "_type": "dtbl",
+      "_path": "datatable/comms_actions.rpak"//PING DATATABLE FROM SEASON 14
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/dialogue/story_marvin_dialogue.rpak"//MARVIN STORY EVENT
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/winterexpress_dialogues.rpak"//WINTER EXPRESS CORE DATATABLE
     },
     {
@@ -3293,6 +3589,10 @@
     {
       "_type": "dtbl",
       "_path": "datatable/survival_loot_sdk.rpak"//SDK LOOT DATATABLE
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/titanfall_loot_sdk.rpak"//TITANFALL LOOT DATATABLE
     },
     {
       "_type": "dtbl",
@@ -3334,7 +3634,21 @@
       "_type": "dtbl",
       "_path": "datatable/custom/sdk_contributors.rpak"//CUSTOM DATATABLE, CONTAINS CREDIT DATA
     },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/weapon_itemflavor_sdk.rpak"
+    },
     /////////////////////////SHADERS///////////////////////////
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB06D0E7D55CC4D3B.rpak",
+      "$guid": "0xB06D0E7D55CC4D3B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBB661E6839B1E591.rpak",
+      "$guid": "0xBB661E6839B1E591"
+    },
     {
       "_type": "shdr",
       "_path": "shader/uberDepthVsmEntcolmeEntcolmdCutUv0m0_ps.rpak"
@@ -3974,6 +4288,16 @@
       "$guid": "0xCA5E470FE6A8170A"
     },
     ////////////////////////SHADERSETS//////////////////////////
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x138B5DFAE598EFA5.rpak",
+      "$guid": "0x138B5DFAE598EFA5"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA7BF898D4E4201A1.rpak",
+      "$guid": "0xA7BF898D4E4201A1"
+    },
     {
       "_type": "shds",
       "_path": "shaderset/0x29F800875015551D.rpak",
@@ -4656,7 +4980,97 @@
       "$guid": "0x10E360F24FD81D0D"
     },
     ///////////////////TEXTURES/////////////////////////
-      {
+        {
+      "_type": "txtr",
+      "_path": "texture/0x1F3ACBD5A543FF6.rpak",
+      "$guid": "0x1F3ACBD5A543FF6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x47CBEE4DF56B70EA.rpak",
+      "$guid": "0x47CBEE4DF56B70EA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5C92FFD2C2223B4C.rpak",
+      "$guid": "0x5C92FFD2C2223B4C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8622A37A6F2637EE.rpak",
+      "$guid": "0x8622A37A6F2637EE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA4D65B01B6873F5F.rpak",
+      "$guid": "0xA4D65B01B6873F5F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE2B348E8974834A2.rpak",
+      "$guid": "0xE2B348E8974834A2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF2A81E3EC02FFA76.rpak",
+      "$guid": "0xF2A81E3EC02FFA76"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x327796A50BD8E31F.rpak",
+      "$guid": "0x327796A50BD8E31F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4AF12F80344F9E16.rpak",
+      "$guid": "0x4AF12F80344F9E16"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x67EA27E7E1F11356.rpak",
+      "$guid": "0x67EA27E7E1F11356"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x686D1C46592D0F29.rpak",
+      "$guid": "0x686D1C46592D0F29"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6D54217C05EF25F7.rpak",
+      "$guid": "0x6D54217C05EF25F7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x91EB5472586DE2A4.rpak",
+      "$guid": "0x91EB5472586DE2A4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB28747181934B0EB.rpak",
+      "$guid": "0xB28747181934B0EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8F139394ABD40.rpak",
+      "$guid": "0xB8F139394ABD40"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC4D46F4E5676A9D9.rpak",
+      "$guid": "0xC4D46F4E5676A9D9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD406162DFB917AFF.rpak",
+      "$guid": "0xD406162DFB917AFF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE7242BA00D48C4D3.rpak",
+      "$guid": "0xE7242BA00D48C4D3"
+    },
+    {
       "_type": "txtr",
       "_path": "texture/0x1FA86E8044B1DB8B.rpak",
       "$guid": "0x1FA86E8044B1DB8B"
@@ -13879,6 +14293,14 @@
     //////////////////////MATERIALS/////////////////////////
     {
       "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/currency/crafting/crafting_heirloom_colpass_rgdp.rpak"
     },
     {
@@ -13892,62 +14314,6 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/misc_holo_spray_base/holo_spray_base_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_1x2x_sight/bow_1x2x_sight_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_acgs_sight/bow_acgs_sight_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_hcog_sight/bow_hcog_sight_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_holo_reflex_sight/bow_holo_reflex_sight_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_iron_sight/bow_iron_sight_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/bow_compound/bow_compound_bow_acc_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/bow_compound/bow_compound_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_1x2x_sight/bow_1x2x_sight_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_acgs_sight/bow_acgs_sight_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_hcog_sight/bow_hcog_sight_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_holo_reflex_sight/bow_holo_reflex_sight_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/bow_iron_sight/bow_iron_sight_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/bow_compound/bow_compound_bow_acc_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/bow_compound/bow_compound_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -24205,6 +24571,14 @@
       "_type": "matl",
       "_path": "material/models/weapons/ported_weapons/Trigger_sknp.rpak"
     },
+    {
+      "_type": "matl",
+      "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_arrows_main_blend_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_arrows_main_blend_rgdp.rpak"
+    },
     ////////////////////////ANIMSEQS////////////////////////
     {
       "_type": "aseq",
@@ -24215,7 +24589,7 @@
       "_path": "animseq/props/loot_bin/loot_bin_02_close.rseq"
     },
     ////////////////////////ANIMRIGS////////////////////////
-        {
+    {
       "_type": "arig",
       "_path": "animrig/props/lifeline_drone/lifeline_drone.rrig",
       "$sequences": [
@@ -25187,812 +25561,7 @@
       "_type": "arig",
       "_path": "animrig/humans/pete/pete_core.rrig",
       "$sequences": [
-        "animseq/humans/pete/pete_core/a_crouch_2_stand.rseq",
-        "animseq/humans/pete/pete_core/a_panic_run_stumble.rseq",
-        "animseq/humans/pete/pete_core/a_panic_run_stumble_small.rseq",
-        "animseq/humans/pete/pete_core/a_pt_wallrun_left.rseq",
-        "animseq/humans/pete/pete_core/a_pt_wallrun_pistol_left.rseq",
-        "animseq/humans/pete/pete_core/a_pt_wallrun_pistol_right.rseq",
-        "animseq/humans/pete/pete_core/a_pt_wallrun_right.rseq",
-        "animseq/humans/pete/pete_core/a_pt_wallrun_up.rseq",
-        "animseq/humans/pete/pete_core/a_pt_wallrun_up_Pistol.rseq",
-        "animseq/humans/pete/pete_core/a_stand_2_crouch.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_across.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_across_back.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_down.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_down_roll.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_down_slow.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_over_fast.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_over_spin.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_up.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_jump_up_64.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_rooftop_128.rseq",
-        "animseq/humans/pete/pete_core/a_traverse_rooftop_256.rseq",
-        "animseq/humans/pete/pete_core/add_face_fierce.rseq",
-        "animseq/humans/pete/pete_core/add_face_fierce.rseq",
-        "animseq/humans/pete/pete_core/add_face_fire.rseq",
-        "animseq/humans/pete/pete_core/add_face_fire.rseq",
-        "animseq/humans/pete/pete_core/add_face_focused.rseq",
-        "animseq/humans/pete/pete_core/add_face_focused.rseq",
-        "animseq/humans/pete/pete_core/add_face_idle_casual.rseq",
-        "animseq/humans/pete/pete_core/add_face_idle_casual.rseq",
-        "animseq/humans/pete/pete_core/add_face_melee_charge.rseq",
-        "animseq/humans/pete/pete_core/add_face_melee_charge.rseq",
-        "animseq/humans/pete/pete_core/add_face_MP_fire_Pistol.rseq",
-        "animseq/humans/pete/pete_core/add_face_MP_fire_Rifle.rseq",
-        "animseq/humans/pete/pete_core/add_face_pain.rseq",
-        "animseq/humans/pete/pete_core/add_face_pain.rseq",
-        "animseq/humans/pete/pete_core/add_face_pain_alt.rseq",
-        "animseq/humans/pete/pete_core/add_face_Poised.rseq",
-        "animseq/humans/pete/pete_core/add_face_Poised.rseq",
-        "animseq/humans/pete/pete_core/add_face_surprise.rseq",
-        "animseq/humans/pete/pete_core/add_face_surprise.rseq",
-        "animseq/humans/pete/pete_core/add_face_test.rseq",
-        "animseq/humans/pete/pete_core/ADS_CrouchIdle_MP.rseq",
-        "animseq/humans/pete/pete_core/ADS_Idle_MP.rseq",
-        "animseq/humans/pete/pete_core/ads_mp_left.rseq",
-        "animseq/humans/pete/pete_core/ads_mp_right.rseq",
-        "animseq/humans/pete/pete_core/Aim_cover.rseq",
-        "animseq/humans/pete/pete_core/Aim_cover.rseq",
-        "animseq/humans/pete/pete_core/Aim_crouch.rseq",
-        "animseq/humans/pete/pete_core/Aim_crouch.rseq",
-        "animseq/humans/pete/pete_core/Aim_crouch_Pistol.rseq",
-        "animseq/humans/pete/pete_core/Aim_crouch_Pistol.rseq",
-        "animseq/humans/pete/pete_core/Aim_Crouchmove_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_evade.rseq",
-        "animseq/humans/pete/pete_core/Aim_evade.rseq",
-        "animseq/humans/pete/pete_core/Aim_Float_Backward_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Float_Backward_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Float_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Float_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Float_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Float_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_move.rseq",
-        "animseq/humans/pete/pete_core/Aim_move.rseq",
-        "animseq/humans/pete/pete_core/Aim_move_ADS_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_move_ADS_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_move_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_move_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_Crouchmove.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_Crouchmove_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_Crouchmove_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_move.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_move.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_slide_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Pistol_slide_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_Crouch.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_Crouch.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_Crouch_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_Crouch_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_Crouchmove_ADS_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_Crouchmove_ADS_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_stand.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_stand.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_stand_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_Rocket_stand_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_Satchel.rseq",
-        "animseq/humans/pete/pete_core/Aim_Satchel.rseq",
-        "animseq/humans/pete/pete_core/Aim_slide_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_slide_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_sprint_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_sprint_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_sprint_PistolAIM_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_sprint_PistolAIM_MP.rseq",
-        "animseq/humans/pete/pete_core/Aim_standwindow_L.rseq",
-        "animseq/humans/pete/pete_core/Aim_standwindow_L.rseq",
-        "animseq/humans/pete/pete_core/Aim_standwindow_R.rseq",
-        "animseq/humans/pete/pete_core/Aim_standwindow_R.rseq",
-        "animseq/humans/pete/pete_core/Aim_static.rseq",
-        "animseq/humans/pete/pete_core/Aim_static.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_Crouch_pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_Crouch_pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_pistol.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_pistol.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_SP.rseq",
-        "animseq/humans/pete/pete_core/Aim_static_SP.rseq",
-        "animseq/humans/pete/pete_core/Bullet_flinch_MP.rseq",
-        "animseq/humans/pete/pete_core/Bullet_flinch_MP_chest.rseq",
-        "animseq/humans/pete/pete_core/Bullet_flinch_MP_melee.rseq",
-        "animseq/humans/pete/pete_core/Bullet_flinch_MP_primary.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_135L.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_135R.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_180L.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_180R.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_45L.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_45R.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_90L.rseq",
-        "animseq/humans/pete/pete_core/casual_walkturn_90R.rseq",
-        "animseq/humans/pete/pete_core/coop_grenade_throw.rseq",
-        "animseq/humans/pete/pete_core/CQB_corner_L_pie.rseq",
-        "animseq/humans/pete/pete_core/CQB_corner_L_pie_fast.rseq",
-        "animseq/humans/pete/pete_core/CQB_corner_L_pie_scan.rseq",
-        "animseq/humans/pete/pete_core/CQB_corner_R_pie.rseq",
-        "animseq/humans/pete/pete_core/CQB_corner_R_pie_fast.rseq",
-        "animseq/humans/pete/pete_core/CQB_corner_R_pie_scan.rseq",
-        "animseq/humans/pete/pete_core/CQB_CoverLow.rseq",
-        "animseq/humans/pete/pete_core/CQB_Crouch_Aim.rseq",
-        "animseq/humans/pete/pete_core/CQB_Crouch_Casual.rseq",
-        "animseq/humans/pete/pete_core/CQB_Crouch_Casual_B.rseq",
-        "animseq/humans/pete/pete_core/CQB_crouch_reload.rseq",
-        "animseq/humans/pete/pete_core/CQB_crouch_reload_duck.rseq",
-        "animseq/humans/pete/pete_core/CQB_crouch_reload_fast.rseq",
-        "animseq/humans/pete/pete_core/CQB_crouch_reload_slap.rseq",
-        "animseq/humans/pete/pete_core/CQB_CrouchIdle.rseq",
-        "animseq/humans/pete/pete_core/CQB_CrouchIdle_MP.rseq",
-        "animseq/humans/pete/pete_core/CQB_Crouchtwitch.rseq",
-        "animseq/humans/pete/pete_core/CQB_dodge_L.rseq",
-        "animseq/humans/pete/pete_core/CQB_dodge_R.rseq",
-        "animseq/humans/pete/pete_core/CQB_Fire.rseq",
-        "animseq/humans/pete/pete_core/CQB_Fire_Crouch.rseq",
-        "animseq/humans/pete/pete_core/CQB_Fire_Crouch_alt.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_Casual.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_Casual_noloop.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_MP.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_MP_Pistol.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_MP_Pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_Scan.rseq",
-        "animseq/humans/pete/pete_core/CQB_Idle_static.rseq",
-        "animseq/humans/pete/pete_core/CQB_melee_elbowstrike.rseq",
-        "animseq/humans/pete/pete_core/CQB_melee_kick.rseq",
-        "animseq/humans/pete/pete_core/CQB_melee_push.rseq",
-        "animseq/humans/pete/pete_core/CQB_pain_2_retreat.rseq",
-        "animseq/humans/pete/pete_core/CQB_pain_retreat_wounded.rseq",
-        "animseq/humans/pete/pete_core/CQB_Reload.rseq",
-        "animseq/humans/pete/pete_core/CQB_Reload_dodge_left.rseq",
-        "animseq/humans/pete/pete_core/CQB_Reload_dodge_right.rseq",
-        "animseq/humans/pete/pete_core/CQB_Reload_duck.rseq",
-        "animseq/humans/pete/pete_core/CQB_Reload_static.rseq",
-        "animseq/humans/pete/pete_core/CQB_ReloadB.rseq",
-        "animseq/humans/pete/pete_core/CQB_Scan_Crouch.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_check_corner_L.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_check_corner_R.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_check_L.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_check_L2.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_check_R.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_check_R2.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_corner_L.rseq",
-        "animseq/humans/pete/pete_core/CQB_traverse_corner_R.rseq",
-        "animseq/humans/pete/pete_core/CQB_walk_scan_back.rseq",
-        "animseq/humans/pete/pete_core/CQB_walk_scan_front.rseq",
-        "animseq/humans/pete/pete_core/CQB_walk_scan_sides.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_135L.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_135R.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_180L.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_180R.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_45L.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_45R.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_90L.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_90R.rseq",
-        "animseq/humans/pete/pete_core/crouch_2_run_F.rseq",
-        "animseq/humans/pete/pete_core/crouch_bound_F.rseq",
-        "animseq/humans/pete/pete_core/CrouchAim_Satchel.rseq",
-        "animseq/humans/pete/pete_core/CrouchAim_Satchel.rseq",
-        "animseq/humans/pete/pete_core/CrouchIdle_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/CrouchIdle_Pistol_MP_ADS.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/CrouchRUN_mp_left.rseq",
-        "animseq/humans/pete/pete_core/CrouchRUN_mp_left_Pistol.rseq",
-        "animseq/humans/pete/pete_core/CrouchRUN_mp_right.rseq",
-        "animseq/humans/pete/pete_core/CrouchRUN_mp_right_Pistol.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_PISTOL_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_PISTOL_Backward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_pistol_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_pistol_forward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_Satchel_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/CrouchRun_Satchel_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_180L.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_180L2.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_180R.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_180R2.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_90L.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_90L2.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_90R.rseq",
-        "animseq/humans/pete/pete_core/crouchTurn_90R2.rseq",
-        "animseq/humans/pete/pete_core/CrouchWalk_mp_left.rseq",
-        "animseq/humans/pete/pete_core/CrouchWalk_mp_left_Pistol.rseq",
-        "animseq/humans/pete/pete_core/CrouchWalk_mp_right.rseq",
-        "animseq/humans/pete/pete_core/CrouchWalk_mp_right_Pistol.rseq",
-        "animseq/humans/pete/pete_core/dash_seq.rseq",
-        "animseq/humans/pete/pete_core/Detonator_Idle_MP.rseq",
-        "animseq/humans/pete/pete_core/Detonator_IdleCrouch_MP.rseq",
-        "animseq/humans/pete/pete_core/Doublejump_Backward_MP.rseq",
-        "animseq/humans/pete/pete_core/Doublejump_Backward_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/Doublejump_MP.rseq",
-        "animseq/humans/pete/pete_core/Doublejump_Pistol_MP.rseq",
-        "animseq/humans/pete/pete_core/FaceAim_sprint_MP.rseq",
-        "animseq/humans/pete/pete_core/FaceAim_sprint_MP.rseq",
-        "animseq/humans/pete/pete_core/Float_dodge_Backward.rseq",
-        "animseq/humans/pete/pete_core/Float_dodge_Forward.rseq",
-        "animseq/humans/pete/pete_core/Float_pistol_Backward.rseq",
-        "animseq/humans/pete/pete_core/Float_pistol_Forward.rseq",
-        "animseq/humans/pete/pete_core/Float_Rifle_Backward.rseq",
-        "animseq/humans/pete/pete_core/Float_Rifle_Forward.rseq",
-        "animseq/humans/pete/pete_core/Float_ROCKET_Backward.rseq",
-        "animseq/humans/pete/pete_core/Float_ROCKET_Forward.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shoot_Sprint_Pistol.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shootCrouch.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shootCrouch_Pistol.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shootCrouch_Pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shootStand.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shootStand_Pistol.rseq",
-        "animseq/humans/pete/pete_core/gesture_mp_shootStand_Pistol_ADS.rseq",
-        "animseq/humans/pete/pete_core/gesture_reload.rseq",
-        "animseq/humans/pete/pete_core/gesture_reload2.rseq",
-        "animseq/humans/pete/pete_core/gesture_shoot_add.rseq",
-        "animseq/humans/pete/pete_core/gun_run.rseq",
-        "animseq/humans/pete/pete_core/gun_run2.rseq",
-        "animseq/humans/pete/pete_core/gun_run3.rseq",
-        "animseq/humans/pete/pete_core/gun_runRifle.rseq",
-        "animseq/humans/pete/pete_core/gun_runRifle_backward.rseq",
-        "animseq/humans/pete/pete_core/gun_runRifle_forward.rseq",
-        "animseq/humans/pete/pete_core/gun_runRifle_forward2.rseq",
-        "animseq/humans/pete/pete_core/gun_runRifle_left.rseq",
-        "animseq/humans/pete/pete_core/gun_runRifle_right.rseq",
-        "animseq/humans/pete/pete_core/gun_walk.rseq",
-        "animseq/humans/pete/pete_core/gun_walkRifle.rseq",
-        "animseq/humans/pete/pete_core/gun_walkRifle_backward.rseq",
-        "animseq/humans/pete/pete_core/gun_walkRifle_forward.rseq",
-        "animseq/humans/pete/pete_core/gun_walkRifle_left.rseq",
-        "animseq/humans/pete/pete_core/gun_walkRifle_right.rseq",
-        "animseq/humans/pete/pete_core/Jump_dodge_Backward.rseq",
-        "animseq/humans/pete/pete_core/Jump_dodge_Forward.rseq",
-        "animseq/humans/pete/pete_core/Jump_float_MP.rseq",
-        "animseq/humans/pete/pete_core/jump_holding_land.rseq",
-        "animseq/humans/pete/pete_core/Jump_land_MP.rseq",
-        "animseq/humans/pete/pete_core/jump_loop.rseq",
-        "animseq/humans/pete/pete_core/Jump_Pistol_Backward.rseq",
-        "animseq/humans/pete/pete_core/Jump_Pistol_Forward.rseq",
-        "animseq/humans/pete/pete_core/Jump_Rifle_Backward.rseq",
-        "animseq/humans/pete/pete_core/Jump_Rifle_Forward.rseq",
-        "animseq/humans/pete/pete_core/Jump_ROCKET_Backward.rseq",
-        "animseq/humans/pete/pete_core/Jump_ROCKET_Forward.rseq",
-        "animseq/humans/pete/pete_core/jump_start.rseq",
-        "animseq/humans/pete/pete_core/Jump_start_MP.rseq",
-        "animseq/humans/pete/pete_core/ladder_climb_down.rseq",
-        "animseq/humans/pete/pete_core/ladder_climb_up.rseq",
-        "animseq/humans/pete/pete_core/ladder_end.rseq",
-        "animseq/humans/pete/pete_core/ladder_start.rseq",
-        "animseq/humans/pete/pete_core/Land_dodge.rseq",
-        "animseq/humans/pete/pete_core/Land_dodge_Backward.rseq",
-        "animseq/humans/pete/pete_core/Land_dodge_Forward.rseq",
-        "animseq/humans/pete/pete_core/Land_Pistol_Backward.rseq",
-        "animseq/humans/pete/pete_core/Land_Pistol_Forward.rseq",
-        "animseq/humans/pete/pete_core/Land_Rifle_Backward.rseq",
-        "animseq/humans/pete/pete_core/Land_Rifle_Forward.rseq",
-        "animseq/humans/pete/pete_core/Land_ROCKET_Backward.rseq",
-        "animseq/humans/pete/pete_core/Land_ROCKET_Forward.rseq",
-        "animseq/humans/pete/pete_core/layer_run_aiming.rseq",
-        "animseq/humans/pete/pete_core/lean_add.rseq",
-        "animseq/humans/pete/pete_core/lean_add.rseq",
-        "animseq/humans/pete/pete_core/LKP_assault_L1.rseq",
-        "animseq/humans/pete/pete_core/LKP_assault_R1.rseq",
-        "animseq/humans/pete/pete_core/melee_grounded_execution.rseq",
-        "animseq/humans/pete/pete_core/melee_Jump_MP.rseq",
-        "animseq/humans/pete/pete_core/melee_seq.rseq",
-        "animseq/humans/pete/pete_core/melee_seq_alt1.rseq",
-        "animseq/humans/pete/pete_core/melee_seq_crouch.rseq",
-        "animseq/humans/pete/pete_core/melee_seq_slide.rseq",
-        "animseq/humans/pete/pete_core/mp_Alternator_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Alternator_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_AntiTitan_to_Pistol_SWAP.rseq",
-        "animseq/humans/pete/pete_core/MP_AntiTitan_to_Pistol_SWAP_Crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_AntiTitan_to_Rifle_SWA_CrouchP.rseq",
-        "animseq/humans/pete/pete_core/MP_AntiTitan_to_Rifle_SWAP.rseq",
-        "animseq/humans/pete/pete_core/mp_Car_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Car_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_DMR_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_DMR_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Doubletake_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Doubletake_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_EPG_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_EPG_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_ESAW_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_ESAW_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_G2_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_G2_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_gesture_reload2.rseq",
-        "animseq/humans/pete/pete_core/mp_gesture_reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Hemlok_LMG_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Hemlok_LMG_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Hemlok_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Hemlok_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Kraber_reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Kraber_reload_Crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_LSTAR_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_LSTAR_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_MGL_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_MGL_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Move_Satchel_Detonator.rseq",
-        "animseq/humans/pete/pete_core/MP_Move_Satchel_Pull.rseq",
-        "animseq/humans/pete/pete_core/MP_Move_Satchel_Throw.rseq",
-        "animseq/humans/pete/pete_core/mp_P2011_Auto_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_P2011_Auto_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_P2011_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_P2011_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_P2011SP_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_P2011SP_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Pistol_Move_Satchel_Pull.rseq",
-        "animseq/humans/pete/pete_core/MP_Pistol_Move_Satchel_Throw.rseq",
-        "animseq/humans/pete/pete_core/MP_Pistol_to_AntiTitan_SWAP.rseq",
-        "animseq/humans/pete/pete_core/MP_Pistol_to_AntiTitan_SWAP_Crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Pistol_to_Rifle_SWAP.rseq",
-        "animseq/humans/pete/pete_core/MP_Pistol_to_Rifle_SWAP_Crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Pt_Pistol_Slide_Float.rseq",
-        "animseq/humans/pete/pete_core/MP_Pt_ROCKET_Slide_Float.rseq",
-        "animseq/humans/pete/pete_core/MP_Pt_Slide_Float.rseq",
-        "animseq/humans/pete/pete_core/mp_Pulse_LMG_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Pulse_LMG_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_R97_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_R97_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Rifle_to_AntiTitan_SWAP.rseq",
-        "animseq/humans/pete/pete_core/MP_Rifle_to_AntiTitan_SWAP_Crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Rifle_to_Pistol_SWAP.rseq",
-        "animseq/humans/pete/pete_core/MP_Rifle_to_Pistol_SWAP_Crouch.rseq",
-        "animseq/humans/pete/pete_core/MP_Rifle_to_Rifle_SWAP.rseq",
-        "animseq/humans/pete/pete_core/MP_Rifle_to_Rifle_SWAP_Crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Rocket_reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Rocket_reload_Crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_RSPN101_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_RSPN101_OG_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_RSPN101_OG_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_RSPN101_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Shotgun_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Shotgun_Pistol_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Shotgun_Pistol_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Shotgun_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Sidewinder_reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Sidewinder_reload_Crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Vinson_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Vinson_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Volt_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Volt_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_wingman_n_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_wingman_n_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_wingman_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_wingman_Reload_crouch.rseq",
-        "animseq/humans/pete/pete_core/mp_Zipline_Reload.rseq",
-        "animseq/humans/pete/pete_core/mp_Zipline_Reload_pistol.rseq",
-        "animseq/humans/pete/pete_core/path_unstick_jump.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_bored.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_bored_scripted_endidle.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_bored_scripted_startidle.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_highport.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_highport_scripted_endidle.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_highport_scripted_startidle.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_lowport.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_lowport_scripted_endidle.rseq",
-        "animseq/humans/pete/pete_core/patrol_walk_lowport_scripted_startidle.rseq",
-        "animseq/humans/pete/pete_core/pie_right_slow.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_crawl_B.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_crawl_F.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_crawl_L.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_crawl_R.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_fall.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_float.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_idle.rseq",
-        "animseq/humans/pete/pete_core/Pilot_doomed_revive_healthy.rseq",
-        "animseq/humans/pete/pete_core/Pilot_doomed_revive_injured.rseq",
-        "animseq/humans/pete/pete_core/pilot_doomed_trans.rseq",
-        "animseq/humans/pete/pete_core/pilot_downed_execution_attacker.rseq",
-        "animseq/humans/pete/pete_core/pilot_downed_execution_victim.rseq",
-        "animseq/humans/pete/pete_core/Pilot_Eviscerate_attack.rseq",
-        "animseq/humans/pete/pete_core/pilot_unarmed_idle_bigguy.rseq",
-        "animseq/humans/pete/pete_core/pilot_unarmed_idle_famous.rseq",
-        "animseq/humans/pete/pete_core/pilot_unarmed_idle_hunched.rseq",
-        "animseq/humans/pete/pete_core/pilot_unarmed_idle_hyper.rseq",
-        "animseq/humans/pete/pete_core/pilot_unarmed_idle_tracker.rseq",
-        "animseq/humans/pete/pete_core/Prowler_Rider_Idle.rseq",
-        "animseq/humans/pete/pete_core/pt_activate_drone.rseq",
-        "animseq/humans/pete/pete_core/pt_activate_drone_indoor.rseq",
-        "animseq/humans/pete/pete_core/pt_activate_drone_spin.rseq",
-        "animseq/humans/pete/pete_core/pt_assault_LKP_dodge.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_2_cover_L_back.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_2_cover_L_front.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_2_cover_R_back.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_2_cover_R_front.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_2_crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_2_stand.rseq",
-        "animseq/humans/pete/pete_core/pt_backpedal_loop.rseq",
-        "animseq/humans/pete/pete_core/pt_BurnCard_Throw.rseq",
-        "animseq/humans/pete/pete_core/pt_casual_skit_drinking.rseq",
-        "animseq/humans/pete/pete_core/pt_casual_skit_gunslinger.rseq",
-        "animseq/humans/pete/pete_core/pt_casual_skit_knife.rseq",
-        "animseq/humans/pete/pete_core/pt_casual_skit_pee.rseq",
-        "animseq/humans/pete/pete_core/pt_casual_skit_sleepy.rseq",
-        "animseq/humans/pete/pete_core/pt_casual_skit_sleepy_alt.rseq",
-        "animseq/humans/pete/pete_core/pt_crouch_2_backpedal.rseq",
-        "animseq/humans/pete/pete_core/pt_crouch_2_stand_nodelta.rseq",
-        "animseq/humans/pete/pete_core/pt_crouch_2_strafeL.rseq",
-        "animseq/humans/pete/pete_core/pt_crouch_2_strafeR.rseq",
-        "animseq/humans/pete/pete_core/pt_crouch_grenade_far.rseq",
-        "animseq/humans/pete/pete_core/pt_data_knife_spectre_leech_end.rseq",
-        "animseq/humans/pete/pete_core/pt_data_knife_spectre_leech_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_data_knife_spectre_leech_start.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_L_burst.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_L_duck.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_L_fireover.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_L_shift.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_R_duck.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_R_fireover.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_R_snap.rseq",
-        "animseq/humans/pete/pete_core/pt_dodge_R_wildfire.rseq",
-        "animseq/humans/pete/pete_core/pt_evade_charge.rseq",
-        "animseq/humans/pete/pete_core/pt_evade_dodge_L.rseq",
-        "animseq/humans/pete/pete_core/pt_evade_dodge_R.rseq",
-        "animseq/humans/pete/pete_core/pt_evade_duck.rseq",
-        "animseq/humans/pete/pete_core/pt_evade_kneedrop.rseq",
-        "animseq/humans/pete/pete_core/pt_evade_strafe_L.rseq",
-        "animseq/humans/pete/pete_core/pt_exit_180_blindfire.rseq",
-        "animseq/humans/pete/pete_core/pt_exit_180_hop.rseq",
-        "animseq/humans/pete/pete_core/pt_exit_180_knee.rseq",
-        "animseq/humans/pete/pete_core/pt_exit_180_stutterstep.rseq",
-        "animseq/humans/pete/pete_core/pt_GRAPPLE_MP.rseq",
-        "animseq/humans/pete/pete_core/Pt_GravityStar_PullOut.rseq",
-        "animseq/humans/pete/pete_core/pt_GravityStar_Throw.rseq",
-        "animseq/humans/pete/pete_core/pt_Into_Window_L.rseq",
-        "animseq/humans/pete/pete_core/pt_Into_Window_R.rseq",
-        "animseq/humans/pete/pete_core/pt_Move_grenade_pullout.rseq",
-        "animseq/humans/pete/pete_core/pt_Move_grenade_Throw.rseq",
-        "animseq/humans/pete/pete_core/pt_PhaseShift.rseq",
-        "animseq/humans/pete/pete_core/pt_PhaseShift_start.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_core_2_downed.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_downed_death.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_downed_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_downed_move_B.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_downed_move_F.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_downed_move_L.rseq",
-        "animseq/humans/pete/pete_core/pt_pilot_downed_move_R.rseq",
-        "animseq/humans/pete/pete_core/pt_Pistol_Move_grenade_pullout.rseq",
-        "animseq/humans/pete/pete_core/pt_Pistol_Move_grenade_Throw.rseq",
-        "animseq/humans/pete/pete_core/Pt_Pistol_Slide_Out_BL_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Pistol_Slide_Out_BR_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Pistol_Slide_Out_F_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Pistol_Slide_Out_L_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Pistol_Slide_Out_R_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_PulseBlade_PullOut.rseq",
-        "animseq/humans/pete/pete_core/pt_PulseBlade_Throw.rseq",
-        "animseq/humans/pete/pete_core/pt_react_floordrop_A.rseq",
-        "animseq/humans/pete/pete_core/pt_react_floordrop_B.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_Aim_Float_MP.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_Aim_Float_MP.rseq",
-        "animseq/humans/pete/pete_core/Pt_ROCKET_Slide_Out_BL_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_ROCKET_Slide_Out_BR_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_ROCKET_Slide_Out_F_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_ROCKET_Slide_Out_L_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_ROCKET_Slide_Out_R_mp.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_wallrun_Jump_left.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_wallrun_Jump_right.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_wallrun_left.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_WallRun_Left_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_WallRun_Left_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_wallrun_right.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_WallRun_Right_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_ROCKET_WallRun_Right_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_search_LKP.rseq",
-        "animseq/humans/pete/pete_core/pt_search_LKP_A.rseq",
-        "animseq/humans/pete/pete_core/pt_search_LKP_B.rseq",
-        "animseq/humans/pete/pete_core/pt_search_LKP_callin.rseq",
-        "animseq/humans/pete/pete_core/pt_search_LKP_checkhigh.rseq",
-        "animseq/humans/pete/pete_core/pt_search_LKP_static.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_135L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_135R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_180L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_180R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_45L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_45R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_90L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_90R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_wave.rseq",
-        "animseq/humans/pete/pete_core/pt_search_start_wave_alt.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_135L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_135R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_180L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_180R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_45L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_45R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_90L.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_90R.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_wave.rseq",
-        "animseq/humans/pete/pete_core/pt_search_stop_wave_alt.rseq",
-        "animseq/humans/pete/pete_core/pt_shift_L.rseq",
-        "animseq/humans/pete/pete_core/pt_shift_R.rseq",
-        "animseq/humans/pete/pete_core/pt_skyfall.rseq",
-        "animseq/humans/pete/pete_core/pt_skyfall_lean.rseq",
-        "animseq/humans/pete/pete_core/Pt_Slide_Out_BL_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Slide_Out_BR_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Slide_Out_F_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Slide_Out_L_mp.rseq",
-        "animseq/humans/pete/pete_core/Pt_Slide_Out_R_mp.rseq",
-        "animseq/humans/pete/pete_core/pt_sloperun_down.rseq",
-        "animseq/humans/pete/pete_core/pt_sloperun_down_aim.rseq",
-        "animseq/humans/pete/pete_core/pt_sloperun_up_aim.rseq",
-        "animseq/humans/pete/pete_core/pt_sloperun_up_jog.rseq",
-        "animseq/humans/pete/pete_core/pt_sloperun_up_sprint.rseq",
-        "animseq/humans/pete/pete_core/pt_stand_2_backpedal.rseq",
-        "animseq/humans/pete/pete_core/pt_stand_2_crouch_nodelta.rseq",
-        "animseq/humans/pete/pete_core/pt_stand_2_strafeL.rseq",
-        "animseq/humans/pete/pete_core/pt_stand_2_strafeR.rseq",
-        "animseq/humans/pete/pete_core/pt_stand_grenade_far.rseq",
-        "animseq/humans/pete/pete_core/pt_stand_grenade_far_chuck.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_A2B.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_A2B_fast.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_B2A.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_check.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_check_flinch.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_check_signal.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_grenade.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_grenade_out.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_idle_A.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_in_45F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_in_F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_in_side.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_out_45F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_L_out_F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_A2B.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_A2B_fast.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_B2A.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_check.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_check_flinch.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_check_signal.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_grenade.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_grenade_out.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_idle_A.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_in_45F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_in_F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_in_side.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_out_45F.rseq",
-        "animseq/humans/pete/pete_core/pt_standcorner_R_out_F.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_L_A2C.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_L_C2A.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_L_fire_C.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_L_idle_C.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_R_A2C.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_R_C2A.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_R_fire_C.rseq",
-        "animseq/humans/pete/pete_core/pt_standwindow_R_idle_C.rseq",
-        "animseq/humans/pete/pete_core/pt_strafeL_2_crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_strafeL_2_stand.rseq",
-        "animseq/humans/pete/pete_core/pt_strafeR_2_crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_strafeR_2_stand.rseq",
-        "animseq/humans/pete/pete_core/Pt_ThermiteGrenade_PullOut.rseq",
-        "animseq/humans/pete/pete_core/pt_ThermiteGrenade_Throw.rseq",
-        "animseq/humans/pete/pete_core/pt_traverse_down_128.rseq",
-        "animseq/humans/pete/pete_core/pt_traverse_jump_down_64.rseq",
-        "animseq/humans/pete/pete_core/pt_traverse_jumproll_down_64.rseq",
-        "animseq/humans/pete/pete_core/pt_traverse_up_128.rseq",
-        "animseq/humans/pete/pete_core/pt_turn_180_quick.rseq",
-        "animseq/humans/pete/pete_core/pt_turn_180_stumble.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_bound_back.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_look_L.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_look_R.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_point.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_rehcamber.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_shift_forward.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_shift_left.rseq",
-        "animseq/humans/pete/pete_core/pt_twitch_signal_forward.rseq",
-        "animseq/humans/pete/pete_core/pt_wall_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_wall_idle_pistol.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Above.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Above_Crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Above_Pistol.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Below.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Below_Crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Below_Pistol.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_HighAbove.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_HighAbove_Crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_HighAbove_Pistol.rseq",
-        "animseq/humans/pete/pete_core/pt_wallmantle_jumpoff.rseq",
-        "animseq/humans/pete/pete_core/pt_wallmantle_jumpoff_Pistol.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Level.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Level_Crouch.rseq",
-        "animseq/humans/pete/pete_core/pt_WallMantle_Level_Pistol.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_fall_back.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_fall_front.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_fall_left.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_fall_right.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_aim.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_aim.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_front.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_left.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_right.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_hang_up.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Jump_left.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Jump_pistol_left.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Jump_pistol_right.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Jump_right.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Jump_up.rseq",
-        "animseq/humans/pete/pete_core/pt_WallRun_Left_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_WallRun_Left_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Pistol_hang_aim.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Pistol_hang_front.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Pistol_hang_idle.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Pistol_hang_left.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Pistol_hang_right.rseq",
-        "animseq/humans/pete/pete_core/pt_wallrun_Pistol_hang_up.rseq",
-        "animseq/humans/pete/pete_core/pt_WallRun_Right_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_WallRun_Right_AIM.rseq",
-        "animseq/humans/pete/pete_core/pt_window_grab_left.rseq",
-        "animseq/humans/pete/pete_core/pt_window_grab_right.rseq",
-        "animseq/humans/pete/pete_core/ROCKET_Aim_slide_MP.rseq",
-        "animseq/humans/pete/pete_core/ROCKET_Aim_slide_MP.rseq",
-        "animseq/humans/pete/pete_core/Rocket_CrouchIdle_MP.rseq",
-        "animseq/humans/pete/pete_core/Rocket_CrouchRun_ADS_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Rocket_CrouchRun_ADS_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/ROCKET_Doublejump_Backward_MP.rseq",
-        "animseq/humans/pete/pete_core/ROCKET_Doublejump_MP.rseq",
-        "animseq/humans/pete/pete_core/Rocket_Idle_ADS_MP.rseq",
-        "animseq/humans/pete/pete_core/Rocket_Idle_MP.rseq",
-        "animseq/humans/pete/pete_core/Rocket_IdleCrouch_ADS_MP.rseq",
-        "animseq/humans/pete/pete_core/Rocket_Run_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Rocket_Run_Backward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/Rocket_Run_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Rocket_Run_forward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/ROCKET_Slide_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_135L.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_135R.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_180L.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_180R.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_45L.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_45R.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_90L.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_90R.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_F.rseq",
-        "animseq/humans/pete/pete_core/run_2_crouch_F_alt.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_135L.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_135R.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_180L.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_180R.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_45L.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_45R.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_90L.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_90R.rseq",
-        "animseq/humans/pete/pete_core/run_2_stand_F.rseq",
-        "animseq/humans/pete/pete_core/run_backward.rseq",
-        "animseq/humans/pete/pete_core/Run_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Run_Backward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/run_backward_panic.rseq",
-        "animseq/humans/pete/pete_core/Run_Backward_Satchel_mp.rseq",
-        "animseq/humans/pete/pete_core/run_forward.rseq",
-        "animseq/humans/pete/pete_core/Run_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Run_forward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/Run_forward_Satchel_mp.rseq",
-        "animseq/humans/pete/pete_core/Run_mp_left.rseq",
-        "animseq/humans/pete/pete_core/Run_mp_left_pistol.rseq",
-        "animseq/humans/pete/pete_core/Run_mp_right.rseq",
-        "animseq/humans/pete/pete_core/Run_mp_right_pistol.rseq",
-        "animseq/humans/pete/pete_core/Run_PISTOL_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Run_PISTOL_Backward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/Run_pistol_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Run_pistol_forward_mp_ADS.rseq",
-        "animseq/humans/pete/pete_core/search_corpse_high.rseq",
-        "animseq/humans/pete/pete_core/search_dumpster_L.rseq",
-        "animseq/humans/pete/pete_core/search_dumpster_R.rseq",
-        "animseq/humans/pete/pete_core/search_findbody_A.rseq",
-        "animseq/humans/pete/pete_core/search_findbody_B.rseq",
-        "animseq/humans/pete/pete_core/search_findbody_C.rseq",
-        "animseq/humans/pete/pete_core/search_look_around.rseq",
-        "animseq/humans/pete/pete_core/search_look_around_static.rseq",
-        "animseq/humans/pete/pete_core/search_railing.rseq",
-        "animseq/humans/pete/pete_core/search_walk.rseq",
-        "animseq/humans/pete/pete_core/search_walk_leadA.rseq",
-        "animseq/humans/pete/pete_core/slide_float_MP_B.rseq",
-        "animseq/humans/pete/pete_core/slide_float_MP_F.rseq",
-        "animseq/humans/pete/pete_core/slide_float_MP_F_Lean.rseq",
-        "animseq/humans/pete/pete_core/slide_float_MP_L.rseq",
-        "animseq/humans/pete/pete_core/slide_float_MP_R.rseq",
-        "animseq/humans/pete/pete_core/slide_float_RIFLE_F_Lean.rseq",
-        "animseq/humans/pete/pete_core/Slide_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Slide_Pistol_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/sprint.rseq",
-        "animseq/humans/pete/pete_core/sprint2.rseq",
-        "animseq/humans/pete/pete_core/sprint3.rseq",
-        "animseq/humans/pete/pete_core/sprint_backward.rseq",
-        "animseq/humans/pete/pete_core/sprint_F.rseq",
-        "animseq/humans/pete/pete_core/sprint_F_Fast.rseq",
-        "animseq/humans/pete/pete_core/sprint_flee.rseq",
-        "animseq/humans/pete/pete_core/sprint_flee2.rseq",
-        "animseq/humans/pete/pete_core/sprint_L.rseq",
-        "animseq/humans/pete/pete_core/SPRINT_Land_Pistol_Forward.rseq",
-        "animseq/humans/pete/pete_core/SPRINT_Land_Rifle_Forward.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_backward.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_forward.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_forward_car_Aim.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_forward_Pistol.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_forward_Pistol_Aim.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_forward_r97_Aim.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_left.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_RifleAim_.rseq",
-        "animseq/humans/pete/pete_core/Sprint_mp_right.rseq",
-        "animseq/humans/pete/pete_core/sprint_R.rseq",
-        "animseq/humans/pete/pete_core/SPRINT_ROCKET_Land_Forward.rseq",
-        "animseq/humans/pete/pete_core/Sprint_ROCKET_mp_forward.rseq",
-        "animseq/humans/pete/pete_core/Sprint_Satchel_forward.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_135L.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_135R.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_180.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_180_panic.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_45L.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_45R.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_90L.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_90L_fast.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_90R.rseq",
-        "animseq/humans/pete/pete_core/Sprint_turn_90R_fast.rseq",
-        "animseq/humans/pete/pete_core/stair_down_turnR.rseq",
-        "animseq/humans/pete/pete_core/stair_up_turnL.rseq",
-        "animseq/humans/pete/pete_core/stairclimb_down.rseq",
-        "animseq/humans/pete/pete_core/stairclimb_down_aim.rseq",
-        "animseq/humans/pete/pete_core/stairclimb_up.rseq",
-        "animseq/humans/pete/pete_core/stairclimb_up_aim.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_135L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_135R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_180L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_180R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_45L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_45R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_90L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_90R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_run_F_v2.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_135L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_135R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_180L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_180R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_45L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_45R.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_90L.rseq",
-        "animseq/humans/pete/pete_core/stand_2_walk_90R.rseq",
-        "animseq/humans/pete/pete_core/test_casual_add_face.rseq",
-        "animseq/humans/pete/pete_core/test_face_death_scream.rseq",
-        "animseq/humans/pete/pete_core/test_face_fearful.rseq",
-        "animseq/humans/pete/pete_core/test_face_fire.rseq",
-        "animseq/humans/pete/pete_core/test_face_focused.rseq",
-        "animseq/humans/pete/pete_core/test_face_melee_charge.rseq",
-        "animseq/humans/pete/pete_core/test_face_pain.rseq",
-        "animseq/humans/pete/pete_core/test_face_pained.rseq",
-        "animseq/humans/pete/pete_core/test_face_poised.rseq",
-        "animseq/humans/pete/pete_core/test_face_surprise.rseq",
-        "animseq/humans/pete/pete_core/test_run_add_face.rseq",
-        "animseq/humans/pete/pete_core/turn_180L.rseq",
-        "animseq/humans/pete/pete_core/turn_180R.rseq",
-        "animseq/humans/pete/pete_core/turn_90L.rseq",
-        "animseq/humans/pete/pete_core/turn_90R.rseq",
-        "animseq/humans/pete/pete_core/UseTurretIdle.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_135L.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_135R.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_180L.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_180R.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_45L.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_45R.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_90L.rseq",
-        "animseq/humans/pete/pete_core/walk_2_stand_90R.rseq",
-        "animseq/humans/pete/pete_core/Walk_ADS_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_ADS_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_ADS_Pistol_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_mp_left.rseq",
-        "animseq/humans/pete/pete_core/Walk_mp_left_Pistol.rseq",
-        "animseq/humans/pete/pete_core/Walk_mp_right.rseq",
-        "animseq/humans/pete/pete_core/Walk_mp_right_Pistol.rseq",
-        "animseq/humans/pete/pete_core/Walk_Pistol_ADS_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_Pistol_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_Pistol_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_ROCKET_ADS_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_ROCKET_ADS_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_ROCKET_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/Walk_ROCKET_forward_mp.rseq",
-        "animseq/humans/pete/pete_core/WalkSatchel_Backward_mp.rseq",
-        "animseq/humans/pete/pete_core/WalkSatchel_forward_mp.rseq"
+
       ]
     },
     {
@@ -31194,6 +30763,14 @@
     /////////////////////////MODELS//////////////////////////////
     {
       "_type": "mdl_",
+      "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_arrows_mn.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/robotics_r5/marvin/marvin_base_v2_arm.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/Weapons/holo_spray/w_holo_spray.rmdl"
     },
     {
@@ -32895,10 +32472,6 @@
     {
       "_type": "mdl_",
       "_path": "mdl/props/charm/charm_rampartr5r.rmdl"
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/weapons/compound_bow/ptpov_compound_bow.rmdl"
     },
     {
       "_type": "mdl_",

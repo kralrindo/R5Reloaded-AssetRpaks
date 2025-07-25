@@ -4,6 +4,7 @@
 	"settings": {
 		"assetName": "settings/itemflav/musicpack/s03e02.rpak",
 		"itemType": "music_pack",
+		"parentItemFlavor": "",
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#MUSICPACK_003",
 		"localizationKey_NAME_SHORT": "#MUSICPACK_003",
@@ -11,8 +12,9 @@
 		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "EPIC",
 		"icon": "",
-		"grxMode": "NONE",
-		"grxMode": "NONE",
+		"tagIcon": "rui/events/s03e02/item_source_icon",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
 		"grxRef": "musicpack_s03e02",
 		"ownershipTarget": "",
 		"musicPreview": "Music_Sample_Event4",
@@ -25,14 +27,12 @@
 		"musicSkydive": "Music_Jump_Event4",
 		"musicWin": "Music_EndGame_Win_Event4",
 		"musicLoss": "Music_EndGame_Loss_Event4",
+		"musicFiringRange": "Music_FiringRange_Event4",
 		"character": "",
 		"portraitImage": "rui/events/s03e02/musicpack_portrait",
-		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/source_s03e02.rpak"
-			}
-		],
 		"portraitBlend": 1.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
 		"isTheEmpty": false,
 		"isTheRandom": false,
 		"isCharacterBased": false

@@ -34,6 +34,15 @@
 		"5": "0xC94CD89F4B51F228",
 		"6": "0xE86D8D1FE9BAA238"
 	},
+	"$textureTypes": {
+		"0": "albedoTexture",
+		"1": "normalTexture",
+		"2": "glossTexture",
+		"3": "specTexture",
+		"4": "emissiveTexture",
+		"5": "aoTexture",
+		"6": "cavityTexture"
+	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",

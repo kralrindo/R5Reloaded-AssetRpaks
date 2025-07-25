@@ -17,6 +17,14 @@
 
   "files": [
     {
+      "_type": "rlcd",
+      "_path": "lcd_screen_effect/lcd_titanscreen.rpak"
+    },
+    {
+      "_type": "rlcd",
+      "_path": "lcd_screen_effect/lcd_titanscreen_startup.rpak"
+    },
+    {
       "_type": "stlt",
       "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
     },

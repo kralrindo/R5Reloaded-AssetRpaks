@@ -24,6 +24,146 @@
 			{
 				"flavor": "settings/itemflav/weapon_skin/compound_bow/factory_issue.rpak",
 				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_01.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_02.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_03.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_04.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_05.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_06.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_07.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_08.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_09.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_10.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_11.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_12.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_13.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_14.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/common_15.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_01.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_02.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_03.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_04.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_05.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_06.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_07.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_08.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_09.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_10.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_11.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_12.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_13.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_14.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/rare_15.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/epic_01.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/epic_02.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/epic_03.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/epic_04.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
+			},
+			{
+				"flavor": "settings/itemflav/weapon_skin/compound_bow/epic_05.rpak",
+				"featureFlag": "HAS_WEAPON_BOW"
 			}
 		],
 		"charms": [

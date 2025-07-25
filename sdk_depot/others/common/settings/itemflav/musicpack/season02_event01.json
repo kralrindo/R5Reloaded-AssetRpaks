@@ -4,15 +4,17 @@
 	"settings": {
 		"assetName": "settings/itemflav/musicpack/season02_event01.rpak",
 		"itemType": "music_pack",
+		"parentItemFlavor": "",
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#MUSICPACK_001",
 		"localizationKey_NAME_SHORT": "#MUSICPACK_001",
-		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
-		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
 		"quality": "EPIC",
 		"icon": "",
-		"grxMode": "REGULAR",
-		"grxMode": "REGULAR",
+		"tagIcon": "rui/events/s02e01/item_source_icon",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
+		"grxMode": "NONE",//"grxMode": "REGULAR",
 		"grxRef": "musicpack_season02_event01",
 		"ownershipTarget": "",
 		"musicPreview": "Music_Sample_Event2",
@@ -25,14 +27,12 @@
 		"musicSkydive": "Music_Jump_Event2",
 		"musicWin": "Music_EndGame_Win_Event2",
 		"musicLoss": "Music_EndGame_Loss_Event2",
+		"musicFiringRange": "Music_FiringRange_Event2",
 		"character": "",
-		"portraitImage": "rui/events/season02_event01/musicpack_portrait",
-		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/source_season02_event01.rpak"
-			}
-		],
+		"portraitImage": "rui/events/s02e01/musicpack_portrait",
 		"portraitBlend": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
 		"isTheEmpty": false,
 		"isTheRandom": false,
 		"isCharacterBased": false
