@@ -1260,6 +1260,13 @@
           "posY": 1668,
           "width": 128,
           "height": 128
+        },
+        {
+          "path": "rui/hud/gamestate/spectate_icon",
+          "posX": 1808,
+          "posY": 1500,
+          "width": 128,
+          "height": 96
         }
       ]
     },

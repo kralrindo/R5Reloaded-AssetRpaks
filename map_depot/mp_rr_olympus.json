@@ -16,6 +16,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xC56567C49ADA58C9.rpak",
+      "$guid": "0xC56567C49ADA58C9"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x100CBD595941C8BC.rpak",
       "$guid": "0x100CBD595941C8BC"
     },
@@ -3713,6 +3718,10 @@
       "_type": "shdr",
       "_path": "shader/0xFDA0F3180FB319E3.rpak",
       "$guid": "0xFDA0F3180FB319E3"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavCbstUv0m0m0InterpPSSamp2222222_sknp.rpak"
     },
     {
       "_type": "shds",
@@ -27667,6 +27676,22 @@
     {
       "_type": "matl",
       "_path": "material/models/robotics_r2/mobile_hardpoint/rbt_mobile_hardpoint_chassis_b_skn_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_01_dup_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_01_dup_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_sknp.rpak"
     },
     {
       "_type": "matl",
