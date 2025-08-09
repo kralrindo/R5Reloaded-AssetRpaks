@@ -20,6 +20,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xC56567C49ADA58C9.rpak",
+      "$guid": "0xC56567C49ADA58C9"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x100CBD595941C8BC.rpak",
       "$guid": "0x100CBD595941C8BC"
     },
@@ -3847,6 +3852,10 @@
       "_type": "shdr",
       "_path": "shader/0xA8FE79504F160320.rpak",
       "$guid": "0xA8FE79504F160320"//7.1 shader, careful
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavCbstUv0m0m0InterpPSSamp2222222_sknp.rpak"
     },
     {
       "_type": "shds",
@@ -28356,6 +28365,22 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_01_dup_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_01_dup_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/robotics_r5/marvin/marvin_v1_chassis_screen_colpass_sknp.rpak"
     },
     {
@@ -42585,8 +42610,60 @@
       "_path": "mdl/rise/catwalk_hanging_wires_01.rmdl"
     },
     {
+     "_type": "arig",
+     "_path" : "animrig/robots/marvin/marvin_base_v2.rrig",
+     "$sequences" : [
+        "animseq/robots/marvin/marvin_base_v2/mrvn_buff_window.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_clap.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_gesture.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_newhand.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_shrug.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_giveloot_wave.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_activate.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_bounce.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_buttons_playful.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_buttons_serious.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_fallforward.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_headshot.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_knockback.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_death_spin.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_emp_reaction.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_grapple_reaction.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_headtilt.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_idle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_pain_headshot.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_pain_spin.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_pain_twitch.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_powerdown.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_bigwave.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_handle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_idle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_twitch.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_wave.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_pain_headspin.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_death_flail.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_death_knockback.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_death_knockback_alt.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_death_knockback_spin.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_death_twist.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_death_twitst_alt.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_glitch.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_idle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_big.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_grapple.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_small.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_small_alt.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_powerdown_pain_stun.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_salute.rseq"
+      ]
+    },
+    {
       "_type": "mdl_",
-      "_path": "mdl/robots/marvin/marvin_base_v2.rmdl"
+      "_path": "mdl/robots/marvin/marvin_base_v2.rmdl",
+      "$animrigs": [
+        "animrig/robots/marvin/marvin_base_v2.rrig"
+      ]
     },
     {
       "_type": "mdl_",
