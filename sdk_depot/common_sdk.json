@@ -3576,6 +3576,10 @@
     },
     {
       "_type": "dtbl",
+      "_path": "datatable/dialogue/nightrun_dialogue.rpak"//FREELANCE STORY EVENT
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/winterexpress_dialogues.rpak"//WINTER EXPRESS CORE DATATABLE
     },
     {
@@ -4287,7 +4291,27 @@
       "_path": "shader/0xCA5E470FE6A8170A.rpak",
       "$guid": "0xCA5E470FE6A8170A"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x33CFFDB649ED984F.rpak",
+      "$guid": "0x33CFFDB649ED984F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x97C8B05BD5DD7D29.rpak",
+      "$guid": "0x97C8B05BD5DD7D29"
+    },
     ////////////////////////SHADERSETS//////////////////////////
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6BCC3087AB24AF3.rpak",
+      "$guid": "0x6BCC3087AB24AF3"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xAC8FB64577BA6ACB.rpak",
+      "$guid": "0xAC8FB64577BA6ACB"
+    },
     {
       "_type": "shds",
       "_path": "shaderset/0x138B5DFAE598EFA5.rpak",
@@ -4980,7 +5004,172 @@
       "$guid": "0x10E360F24FD81D0D"
     },
     ///////////////////TEXTURES/////////////////////////
-        {
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1B6127DEF83089A6.rpak",
+      "$guid": "0x1B6127DEF83089A6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x26FF827B2E96C332.rpak",
+      "$guid": "0x26FF827B2E96C332"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x38E11B345F3E0000.rpak",
+      "$guid": "0x38E11B345F3E0000"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4497DB0B429C1733.rpak",
+      "$guid": "0x4497DB0B429C1733"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x51C71376BA22B935.rpak",
+      "$guid": "0x51C71376BA22B935"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x63D83EE02ADF262D.rpak",
+      "$guid": "0x63D83EE02ADF262D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x64DC7061EA20B4CF.rpak",
+      "$guid": "0x64DC7061EA20B4CF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6FD3B319CE79E2FA.rpak",
+      "$guid": "0x6FD3B319CE79E2FA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x82E91004E5A886D0.rpak",
+      "$guid": "0x82E91004E5A886D0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x84BCAF3C8328E0C.rpak",
+      "$guid": "0x84BCAF3C8328E0C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA9B080708E23D1A8.rpak",
+      "$guid": "0xA9B080708E23D1A8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB5ABF4AA3E263A57.rpak",
+      "$guid": "0xB5ABF4AA3E263A57"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC8C151955554DE2D.rpak",
+      "$guid": "0xC8C151955554DE2D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCAD7518A04732583.rpak",
+      "$guid": "0xCAD7518A04732583"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1A6A2C28B6BB8096.rpak",
+      "$guid": "0x1A6A2C28B6BB8096"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD226D0F99D1F78DD.rpak",
+      "$guid": "0xD226D0F99D1F78DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDEBC274BFC2B63B5.rpak",
+      "$guid": "0xDEBC274BFC2B63B5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF09DC0055E71500B.rpak",
+      "$guid": "0xF09DC0055E71500B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFB1C92887C16C5A1.rpak",
+      "$guid": "0xFB1C92887C16C5A1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2426F70ACF6FC95F.rpak",
+      "$guid": "0x2426F70ACF6FC95F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2DB3F49D98B14354.rpak",
+      "$guid": "0x2DB3F49D98B14354"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x43C181B7331480D9.rpak",
+      "$guid": "0x43C181B7331480D9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x53DA414B52075B6.rpak",
+      "$guid": "0x53DA414B52075B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x565CC51FF7D2E065.rpak",
+      "$guid": "0x565CC51FF7D2E065"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6DEF3099FCFB72E0.rpak",
+      "$guid": "0x6DEF3099FCFB72E0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x75F74FCC8D164767.rpak",
+      "$guid": "0x75F74FCC8D164767"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8D2F946EF7DA03AD.rpak",
+      "$guid": "0x8D2F946EF7DA03AD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x90F962DB74E46203.rpak",
+      "$guid": "0x90F962DB74E46203"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA024FEAF6FCC9132.rpak",
+      "$guid": "0xA024FEAF6FCC9132"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBF65628451DBCA3B.rpak",
+      "$guid": "0xBF65628451DBCA3B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC32F30F0B616D0CD.rpak",
+      "$guid": "0xC32F30F0B616D0CD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD307D5FF5B1EAF28.rpak",
+      "$guid": "0xD307D5FF5B1EAF28"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFB7E26883EAF7CC6.rpak",
+      "$guid": "0xFB7E26883EAF7CC6"
+    },
+    {
       "_type": "txtr",
       "_path": "texture/0x1F3ACBD5A543FF6.rpak",
       "$guid": "0x1F3ACBD5A543FF6"
@@ -14291,6 +14480,42 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_ash_head/ash_head_1_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_ash_head/ash_head_2_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_ash_head/ash_head_1_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_ash_head/ash_head_2_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_ash_head/ash_head_glass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_treasure_hunt_drill/treasure_hunt_drill_acc_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_treasure_hunt_drill/treasure_hunt_drill_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_treasure_hunt_drill/treasure_hunt_drill_acc_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_treasure_hunt_drill/treasure_hunt_drill_sknp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/models/robotics_r5/marvin/rbt_marvin_v1_chassis_top_skn_02_colpass_rgdp.rpak"
@@ -24591,6 +24816,110 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
+      "_path": "animrig/props/treasure_hunt_drill/treasure_hunt_drill.rrig"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/arms/pov_mp_core.rrig",
+      "$sequences": [
+        "animseq/weapons/arms/pov_mp_core/Aim_dataknife_AIM.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povA_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povA_jump.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povB_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povB_jump.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povC_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povC_jump.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povD_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/Classic_MP_flyin_exit_povD_jump.rseq",
+        "animseq/weapons/arms/pov_mp_core/idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_above.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_above_crouch.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_below.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_below_crouch.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_high.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_high_crouch.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_jumpoff.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_level.rseq",
+        "animseq/weapons/arms/pov_mp_core/mantle_level_crouch.rseq",
+        "animseq/weapons/arms/pov_mp_core/mp_ptpov_downed_pain_trans_short.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_fire.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_fire_trans.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_lower.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_lower_trans.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_poses.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_poses.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_pull_01.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_pull_02.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_switch.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_switch_quick.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_cloudcity_grapple_switch_slow.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_core_scan_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_core_leech_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_end_ALT.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_idle_ALT.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_remoteturret_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_console_leech_start_ALT.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_spectre_leech_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_spectre_leech_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_data_knife_spectre_leech_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_health_injector_long.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_health_injector_scene/ptpov_health_injector_scene.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_health_injector_short.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_medium_antenna_hack_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_medium_antenna_hack_mid.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_medium_antenna_hack_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mobile_hardpoint_laptop_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mobile_hardpoint_laptop_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mobile_hardpoint_laptop_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mp_battery_port_insert.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mp_battery_port_remove.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mp_healthkit_large.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_mp_healthkit_small.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_pathfinder_antenna_hack_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_pathfinder_antenna_hack_mid.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_pathfinder_antenna_hack_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_pegasus_wallhack_end.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_pegasus_wallhack_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_pegasus_wallhack_start.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_quest_se05.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_dismount.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_113.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_146.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_180.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_213.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_246.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_280.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rampart_turret_mount_80.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_entrance_F_front.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_trans_F2L.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_trans_F2R.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_trans_L2F.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_trans_L2R.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_trans_R2F.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_rodeo_trans_R2L.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_trainingpod_doors_close.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_trainingpod_doors_open.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_trainingpod_handle_close.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_trainingpod_handle_open.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_trainingpod_idle.rseq",
+        "animseq/weapons/arms/pov_mp_core/ptpov_wall_climb.rseq",
+        "animseq/weapons/arms/pov_mp_core/traversal_window_left.rseq",
+        "animseq/weapons/arms/pov_mp_core/traversal_window_right.rseq",
+        "animseq/weapons/arms/pov_mp_core/wall_climb.rseq",
+        "animseq/weapons/arms/pov_mp_core/zipline_mount.rseq",
+        "animseq/weapons/arms/pov_mp_core/zipline_mount_vertical.rseq",
+        "animseq/weapons/arms/pov_pete_core_wilds/ptpov_OG_grave.rseq",
+        "animseq/weapons/burn_card/ptpov_burn_card/ptpov_burn_card_activate_seq_gladcard.rseq",
+        "animseq/weapons/empty_handed/ptpov_emptyhand/ptpov_downed_transition.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/props/lifeline_drone/lifeline_drone.rrig",
       "$sequences": [
         "animseq/feline_drone/lifeline_drone_revive.rseq",
@@ -30685,6 +31014,13 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/props/quest_s05/object.rmdl",
+      "$sequences": [
+        "animseq/props/quest_s05/object/prop_quest_se05.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/robotics_r5/marvin/marvin_base_v2_arm.rmdl"
     },
     {
@@ -32249,6 +32585,17 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/props/treasure_hunt_drill/treasure_hunt_drill.rmdl",
+      "$animrigs": [
+        "animrig/props/treasure_hunt_drill/treasure_hunt_drill.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/treasure_hunt_drill_box/treasure_hunt_drill_box.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/dev/empty_model_revenant.rmdl",
       "$sequences": [
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_revenant_impale_execution_heavy_attacker_emptymodel.rseq"
@@ -32430,6 +32777,1754 @@
     {
       "_type": "mdl_",
       "_path": "mdl/currency/crafting/heirloom.rmdl"
-    }
+    }/*,
+    ////////////////////VALKYRIE HERE////////////////
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1AAC5D884CC658D2.rpak",
+      "$guid": "0x1AAC5D884CC658D2"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1F47785327527E33.rpak",
+      "$guid": "0x1F47785327527E33"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x307836291E03D231.rpak",
+      "$guid": "0x307836291E03D231"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x369B5A8E994AE816.rpak",
+      "$guid": "0x369B5A8E994AE816"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x391BE351EB54AB59.rpak",
+      "$guid": "0x391BE351EB54AB59"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x45C72C307DD4B448.rpak",
+      "$guid": "0x45C72C307DD4B448"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x493E125D3338819E.rpak",
+      "$guid": "0x493E125D3338819E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x50DDFAC79A99648.rpak",
+      "$guid": "0x50DDFAC79A99648"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x55AF0F8DE96FEF80.rpak",
+      "$guid": "0x55AF0F8DE96FEF80"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5F931224982A20C9.rpak",
+      "$guid": "0x5F931224982A20C9"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x69FD5B2876B42BCA.rpak",
+      "$guid": "0x69FD5B2876B42BCA"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x6FA869AF63D1BA2.rpak",
+      "$guid": "0x6FA869AF63D1BA2"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x91A6AFF698775E98.rpak",
+      "$guid": "0x91A6AFF698775E98"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x95CAC30B7DC8C588.rpak",
+      "$guid": "0x95CAC30B7DC8C588"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA03E8124106C2DCD.rpak",
+      "$guid": "0xA03E8124106C2DCD"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA2177E40C162B6E5.rpak",
+      "$guid": "0xA2177E40C162B6E5"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA874ADBBF3CFF1F5.rpak",
+      "$guid": "0xA874ADBBF3CFF1F5"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAEFF4A1085946.rpak",
+      "$guid": "0xAEFF4A1085946"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAF5ED2A605059A22.rpak",
+      "$guid": "0xAF5ED2A605059A22"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAFB536F105F97DBC.rpak",
+      "$guid": "0xAFB536F105F97DBC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC56567C49ADA58C9.rpak",
+      "$guid": "0xC56567C49ADA58C9"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC6D8A7B767C87385.rpak",
+      "$guid": "0xC6D8A7B767C87385"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xCB5E5E7F2CE140E4.rpak",
+      "$guid": "0xCB5E5E7F2CE140E4"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD4DB19945620709F.rpak",
+      "$guid": "0xD4DB19945620709F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD5A979AB5E255FCD.rpak",
+      "$guid": "0xD5A979AB5E255FCD"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xDFD12493F4B49EEE.rpak",
+      "$guid": "0xDFD12493F4B49EEE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2C2FC3238B60F596.rpak",
+      "$guid": "0x2C2FC3238B60F596"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3EC64E9575C8076A.rpak",
+      "$guid": "0x3EC64E9575C8076A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3F8EACC391D335D9.rpak",
+      "$guid": "0x3F8EACC391D335D9"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3FA8BC5D105A1F12.rpak",
+      "$guid": "0x3FA8BC5D105A1F12"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x422C1AA81B083E40.rpak",
+      "$guid": "0x422C1AA81B083E40"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x4E2CEF1322668473.rpak",
+      "$guid": "0x4E2CEF1322668473"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x577E2A1528503F36.rpak",
+      "$guid": "0x577E2A1528503F36"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x60351BA218352D90.rpak",
+      "$guid": "0x60351BA218352D90"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x69CE978448F4F44D.rpak",
+      "$guid": "0x69CE978448F4F44D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6C1DFD736CC0289C.rpak",
+      "$guid": "0x6C1DFD736CC0289C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x82DC0A9F3405CCDB.rpak",
+      "$guid": "0x82DC0A9F3405CCDB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x84487906D211423E.rpak",
+      "$guid": "0x84487906D211423E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x86FE49D55E036D16.rpak",
+      "$guid": "0x86FE49D55E036D16"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x87F6ECE6370ED188.rpak",
+      "$guid": "0x87F6ECE6370ED188"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x96E1BD921781BFD2.rpak",
+      "$guid": "0x96E1BD921781BFD2"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA5708059910DDC66.rpak",
+      "$guid": "0xA5708059910DDC66"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA8E76B0145401CAB.rpak",
+      "$guid": "0xA8E76B0145401CAB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xAE5751C674332351.rpak",
+      "$guid": "0xAE5751C674332351"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xAF88B42C2355520F.rpak",
+      "$guid": "0xAF88B42C2355520F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB22D4B2685B4C761.rpak",
+      "$guid": "0xB22D4B2685B4C761"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB65960F3D6AA8565.rpak",
+      "$guid": "0xB65960F3D6AA8565"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEE64DFECA5784045.rpak",
+      "$guid": "0xEE64DFECA5784045"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x134D0EB565220852.rpak",
+      "$guid": "0x134D0EB565220852"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1645B498220E5DB4.rpak",
+      "$guid": "0x1645B498220E5DB4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x170B55D2D8439A4B.rpak",
+      "$guid": "0x170B55D2D8439A4B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x19DC2C513C9E98C6.rpak",
+      "$guid": "0x19DC2C513C9E98C6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1AEF87F57230D606.rpak",
+      "$guid": "0x1AEF87F57230D606"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1E1AA66483A75413.rpak",
+      "$guid": "0x1E1AA66483A75413"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1E4867451986D035.rpak",
+      "$guid": "0x1E4867451986D035"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x212CE2FFDC061D7C.rpak",
+      "$guid": "0x212CE2FFDC061D7C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x216AE81487365F1D.rpak",
+      "$guid": "0x216AE81487365F1D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2199880D42E03C51.rpak",
+      "$guid": "0x2199880D42E03C51"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2427F308441BFEB5.rpak",
+      "$guid": "0x2427F308441BFEB5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x243BD9A14790505E.rpak",
+      "$guid": "0x243BD9A14790505E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x263ABECDE5E76235.rpak",
+      "$guid": "0x263ABECDE5E76235"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x27B9F725D92352EB.rpak",
+      "$guid": "0x27B9F725D92352EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2821EBD8D9C1F57F.rpak",
+      "$guid": "0x2821EBD8D9C1F57F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x29365165CEA1B577.rpak",
+      "$guid": "0x29365165CEA1B577"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x31113A7AD7CA932C.rpak",
+      "$guid": "0x31113A7AD7CA932C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x31C7214FBCCCE932.rpak",
+      "$guid": "0x31C7214FBCCCE932"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x31DFB1F3E122D564.rpak",
+      "$guid": "0x31DFB1F3E122D564"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3348C83CCDD86DD7.rpak",
+      "$guid": "0x3348C83CCDD86DD7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x34E2BDBEFAAED632.rpak",
+      "$guid": "0x34E2BDBEFAAED632"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x36CEA1354A465D0A.rpak",
+      "$guid": "0x36CEA1354A465D0A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x37C31BA1C9F5714D.rpak",
+      "$guid": "0x37C31BA1C9F5714D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3A4E85D92997D365.rpak",
+      "$guid": "0x3A4E85D92997D365"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3CC6E05B697BE5A4.rpak",
+      "$guid": "0x3CC6E05B697BE5A4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3DD4789877BC98F8.rpak",
+      "$guid": "0x3DD4789877BC98F8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3F7BF19E3A4791DE.rpak",
+      "$guid": "0x3F7BF19E3A4791DE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x41DA1B4A82E90A67.rpak",
+      "$guid": "0x41DA1B4A82E90A67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x427E199E116D896E.rpak",
+      "$guid": "0x427E199E116D896E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x456A30DA42F38541.rpak",
+      "$guid": "0x456A30DA42F38541"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46480BEB232433EE.rpak",
+      "$guid": "0x46480BEB232433EE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x47A26300AFEA1847.rpak",
+      "$guid": "0x47A26300AFEA1847"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x48AE2239E5C1C702.rpak",
+      "$guid": "0x48AE2239E5C1C702"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x498554F7DA24E805.rpak",
+      "$guid": "0x498554F7DA24E805"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4AFB42504AD86694.rpak",
+      "$guid": "0x4AFB42504AD86694"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4F01DC87BE97CD6C.rpak",
+      "$guid": "0x4F01DC87BE97CD6C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4F284EFC7453E7B1.rpak",
+      "$guid": "0x4F284EFC7453E7B1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x52BAD458F8D2D43C.rpak",
+      "$guid": "0x52BAD458F8D2D43C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x52C2FFF26D50A408.rpak",
+      "$guid": "0x52C2FFF26D50A408"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x52ED99D91738F894.rpak",
+      "$guid": "0x52ED99D91738F894"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x544FE30D97694858.rpak",
+      "$guid": "0x544FE30D97694858"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x58B7641212F594B.rpak",
+      "$guid": "0x58B7641212F594B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5986F01E000B11B8.rpak",
+      "$guid": "0x5986F01E000B11B8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5BA3735AC85EFD3.rpak",
+      "$guid": "0x5BA3735AC85EFD3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5C3B0742C57E7761.rpak",
+      "$guid": "0x5C3B0742C57E7761"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E6508064A23DAE0.rpak",
+      "$guid": "0x5E6508064A23DAE0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x64E511076AE2269F.rpak",
+      "$guid": "0x64E511076AE2269F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6760ACD42FE19A21.rpak",
+      "$guid": "0x6760ACD42FE19A21"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6E8CF655C0A24CA8.rpak",
+      "$guid": "0x6E8CF655C0A24CA8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x701D65977E53C33E.rpak",
+      "$guid": "0x701D65977E53C33E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x771C24A81F2CC397.rpak",
+      "$guid": "0x771C24A81F2CC397"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x77A0939DB14F5F05.rpak",
+      "$guid": "0x77A0939DB14F5F05"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x796AD914079D8E5B.rpak",
+      "$guid": "0x796AD914079D8E5B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7C4B8EA25E3BA598.rpak",
+      "$guid": "0x7C4B8EA25E3BA598"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7FBF2AC4402E9B07.rpak",
+      "$guid": "0x7FBF2AC4402E9B07"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x80ACD041E230877B.rpak",
+      "$guid": "0x80ACD041E230877B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x82FE2B3C95D3FD3.rpak",
+      "$guid": "0x82FE2B3C95D3FD3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x87C3D4387CA9B1A1.rpak",
+      "$guid": "0x87C3D4387CA9B1A1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x89C6C749ABC0A00E.rpak",
+      "$guid": "0x89C6C749ABC0A00E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8A8728EE0F14BAB9.rpak",
+      "$guid": "0x8A8728EE0F14BAB9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8A9F5566F5B4253E.rpak",
+      "$guid": "0x8A9F5566F5B4253E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8BAEEA8C5CBC18EF.rpak",
+      "$guid": "0x8BAEEA8C5CBC18EF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8FFD02244D0CB5D.rpak",
+      "$guid": "0x8FFD02244D0CB5D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x91044ACBCF19891F.rpak",
+      "$guid": "0x91044ACBCF19891F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x91C00B11C028BED0.rpak",
+      "$guid": "0x91C00B11C028BED0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x92B3C2633B3551DD.rpak",
+      "$guid": "0x92B3C2633B3551DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9618E2813FA46691.rpak",
+      "$guid": "0x9618E2813FA46691"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9BA2397646A25797.rpak",
+      "$guid": "0x9BA2397646A25797"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9BA6192C6C7D4097.rpak",
+      "$guid": "0x9BA6192C6C7D4097"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9CA738099B772791.rpak",
+      "$guid": "0x9CA738099B772791"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9CF04C77FBD5DC8B.rpak",
+      "$guid": "0x9CF04C77FBD5DC8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9D351071BCE1F1C2.rpak",
+      "$guid": "0x9D351071BCE1F1C2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9FA254004F54753A.rpak",
+      "$guid": "0x9FA254004F54753A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA02D11023D1C1A6A.rpak",
+      "$guid": "0xA02D11023D1C1A6A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA19FC80B0112BE1A.rpak",
+      "$guid": "0xA19FC80B0112BE1A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA27F27726CF1D22C.rpak",
+      "$guid": "0xA27F27726CF1D22C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA32674FCA8127C39.rpak",
+      "$guid": "0xA32674FCA8127C39"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA3FB80E4F33979A9.rpak",
+      "$guid": "0xA3FB80E4F33979A9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA4E2B009B1E186D9.rpak",
+      "$guid": "0xA4E2B009B1E186D9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA6FD63CFC14589C.rpak",
+      "$guid": "0xA6FD63CFC14589C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAAED8AD8916C51E1.rpak",
+      "$guid": "0xAAED8AD8916C51E1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xADDE9E5631EE621F.rpak",
+      "$guid": "0xADDE9E5631EE621F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE4DBFBEBC436E23.rpak",
+      "$guid": "0xAE4DBFBEBC436E23"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE78991262B2B5CC.rpak",
+      "$guid": "0xAE78991262B2B5CC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAF23CA28D0EA9F4D.rpak",
+      "$guid": "0xAF23CA28D0EA9F4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB1040968C3C2F0C.rpak",
+      "$guid": "0xB1040968C3C2F0C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB278954FA05A76D9.rpak",
+      "$guid": "0xB278954FA05A76D9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB29D4B4DDE2C09FA.rpak",
+      "$guid": "0xB29D4B4DDE2C09FA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB48EDEF12EE9ABDF.rpak",
+      "$guid": "0xB48EDEF12EE9ABDF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB56E3CDA66B375C2.rpak",
+      "$guid": "0xB56E3CDA66B375C2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB57E2D48CB0B6410.rpak",
+      "$guid": "0xB57E2D48CB0B6410"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB63277D6601B0513.rpak",
+      "$guid": "0xB63277D6601B0513"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8617B14C022B5D.rpak",
+      "$guid": "0xB8617B14C022B5D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8C10584675B6D09.rpak",
+      "$guid": "0xB8C10584675B6D09"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBB43DFC80BB97E6C.rpak",
+      "$guid": "0xBB43DFC80BB97E6C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBDD99F32EDD9BAC1.rpak",
+      "$guid": "0xBDD99F32EDD9BAC1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBE14D154AD1041F8.rpak",
+      "$guid": "0xBE14D154AD1041F8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC073B90482B47CDF.rpak",
+      "$guid": "0xC073B90482B47CDF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC2C791FD85541FD6.rpak",
+      "$guid": "0xC2C791FD85541FD6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC5BDEF03B16C0C4F.rpak",
+      "$guid": "0xC5BDEF03B16C0C4F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC61520F819D1FB96.rpak",
+      "$guid": "0xC61520F819D1FB96"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC6325A953693E4C0.rpak",
+      "$guid": "0xC6325A953693E4C0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC836632640032A52.rpak",
+      "$guid": "0xC836632640032A52"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC8F57EDAE91896B1.rpak",
+      "$guid": "0xC8F57EDAE91896B1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC9C58CBE456DAFEB.rpak",
+      "$guid": "0xC9C58CBE456DAFEB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC9DE95F3F4627065.rpak",
+      "$guid": "0xC9DE95F3F4627065"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCDAD03520B162211.rpak",
+      "$guid": "0xCDAD03520B162211"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCF55978B6C41D314.rpak",
+      "$guid": "0xCF55978B6C41D314"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD235F56E6D271DB7.rpak",
+      "$guid": "0xD235F56E6D271DB7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD47608CB6C1783D4.rpak",
+      "$guid": "0xD47608CB6C1783D4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD8D4C63A00ABED33.rpak",
+      "$guid": "0xD8D4C63A00ABED33"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD983286654CA181A.rpak",
+      "$guid": "0xD983286654CA181A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDC2DA589702F61E9.rpak",
+      "$guid": "0xDC2DA589702F61E9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDDBCFB31EFF9C5E3.rpak",
+      "$guid": "0xDDBCFB31EFF9C5E3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE2153CCD531BC4B1.rpak",
+      "$guid": "0xE2153CCD531BC4B1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE2D172AD674DCD39.rpak",
+      "$guid": "0xE2D172AD674DCD39"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE41FFD1267FACD80.rpak",
+      "$guid": "0xE41FFD1267FACD80"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE4D43A03E82ADDA7.rpak",
+      "$guid": "0xE4D43A03E82ADDA7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE4F82DC657B720FD.rpak",
+      "$guid": "0xE4F82DC657B720FD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE680AB9F5451C008.rpak",
+      "$guid": "0xE680AB9F5451C008"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE6C49B944EF9D05F.rpak",
+      "$guid": "0xE6C49B944EF9D05F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE82AD9DACE128CB1.rpak",
+      "$guid": "0xE82AD9DACE128CB1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE8878BD036209F7.rpak",
+      "$guid": "0xE8878BD036209F7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEA08469A1F31FE45.rpak",
+      "$guid": "0xEA08469A1F31FE45"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEBC5246FB5DFE4B0.rpak",
+      "$guid": "0xEBC5246FB5DFE4B0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xECC6918CAE5799B6.rpak",
+      "$guid": "0xECC6918CAE5799B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEF7A6D08C30D6217.rpak",
+      "$guid": "0xEF7A6D08C30D6217"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF26EF697B31B13B1.rpak",
+      "$guid": "0xF26EF697B31B13B1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF2DC977610AF156B.rpak",
+      "$guid": "0xF2DC977610AF156B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF4B80D0955E4C8BE.rpak",
+      "$guid": "0xF4B80D0955E4C8BE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF69170FF2BE7DCB5.rpak",
+      "$guid": "0xF69170FF2BE7DCB5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF73D5D8D9D197A00.rpak",
+      "$guid": "0xF73D5D8D9D197A00"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF788FE96100AE40E.rpak",
+      "$guid": "0xF788FE96100AE40E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFFBF598F0B304BA3.rpak",
+      "$guid": "0xFFBF598F0B304BA3"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_body_common_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_gear_common_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_hair_common_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_head_common_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_body_epic_01_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_gear_epic_01_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_body_epic_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_gear_epic_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_body_epic_03_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_gear_epic_03_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_body_epic_04_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_gear_epic_04_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_body_epic_05_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_gear_epic_05_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_body_rare_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_gear_rare_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_hair_rare_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_head_rare_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_body_s09_rareplus_jpnlegacy_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_gear_s09_rareplus_jpnlegacy_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_hair_s09_rareplus_jpnlegacy_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_head_s09_rareplus_jpnlegacy_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_body_s09_jpnlegacy_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_gear_s09_jpnlegacy_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_hair_s09_jpnlegacy_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_head_s09_jpnlegacy_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_body_s09_rareplus_twitch_01_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_gear_s09_rareplus_twitch_01_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_hair_s09_rareplus_twitch_01_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_head_s09_rareplus_twitch_01_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_body_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_gear_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_hair_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_head_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_body_common_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_gear_common_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_hair_common_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_head_common_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_body_epic_01_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_gear_epic_01_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_body_epic_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_gear_epic_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_body_epic_03_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_gear_epic_03_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_body_epic_04_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_gear_epic_04_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_body_epic_05_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_gear_epic_05_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_body_rare_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_gear_rare_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_hair_rare_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_head_rare_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_body_s09_rareplus_jpnlegacy_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_gear_s09_rareplus_jpnlegacy_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_hair_s09_rareplus_jpnlegacy_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_head_s09_rareplus_jpnlegacy_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_body_s09_jpnlegacy_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_gear_s09_jpnlegacy_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_hair_s09_jpnlegacy_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_head_s09_jpnlegacy_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_body_s09_rareplus_twitch_01_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_gear_s09_rareplus_twitch_01_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_hair_s09_rareplus_twitch_01_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_head_s09_rareplus_twitch_01_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_body_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_gear_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_hair_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_head_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_body_common_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_gear_common_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_hair_common_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_head_common_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_body_epic_01_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_gear_epic_01_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_body_epic_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_gear_epic_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_body_epic_03_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_gear_epic_03_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_body_epic_04_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_gear_epic_04_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_body_epic_05_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_gear_epic_05_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_body_rare_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_gear_rare_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_hair_rare_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_head_rare_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_body_s09_rareplus_jpnlegacy_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_gear_s09_rareplus_jpnlegacy_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_hair_s09_rareplus_jpnlegacy_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_head_s09_rareplus_jpnlegacy_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_body_s09_jpnlegacy_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_gear_s09_jpnlegacy_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_hair_s09_jpnlegacy_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_head_s09_jpnlegacy_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_body_s09_rareplus_twitch_01_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_gear_s09_rareplus_twitch_01_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_hair_s09_rareplus_twitch_01_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_head_s09_rareplus_twitch_01_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_body_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_gear_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_hair_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_head_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_body_common_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_gear_common_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_hair_common_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_head_common_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_body_epic_01_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_gear_epic_01_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_body_epic_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_gear_epic_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_body_epic_03_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_gear_epic_03_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_body_epic_04_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_gear_epic_04_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_body_epic_05_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_gear_epic_05_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_body_rare_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_gear_rare_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_hair_rare_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_head_rare_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_body_s09_rareplus_jpnlegacy_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_gear_s09_rareplus_jpnlegacy_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_hair_s09_rareplus_jpnlegacy_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_head_s09_rareplus_jpnlegacy_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_body_s09_jpnlegacy_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_gear_s09_jpnlegacy_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_hair_s09_jpnlegacy_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_head_s09_jpnlegacy_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_body_s09_rareplus_twitch_01_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_gear_s09_rareplus_twitch_01_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_hair_s09_rareplus_twitch_01_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_head_s09_rareplus_twitch_01_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_body_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_gear_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_hair_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_head_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_body_common_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_gear_common_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_hair_common_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_head_common_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_body_epic_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_gear_epic_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_body_epic_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_gear_epic_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_body_epic_03_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_gear_epic_03_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_body_epic_04_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_gear_epic_04_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_body_epic_05_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_gear_epic_05_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_body_rare_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_gear_rare_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_hair_rare_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_head_rare_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_body_s09_rareplus_jpnlegacy_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_gear_s09_rareplus_jpnlegacy_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_hair_s09_rareplus_jpnlegacy_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_head_s09_rareplus_jpnlegacy_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_body_s09_jpnlegacy_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_gear_s09_jpnlegacy_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_hair_s09_jpnlegacy_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_head_s09_jpnlegacy_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_body_s09_rareplus_twitch_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_gear_s09_rareplus_twitch_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_hair_s09_rareplus_twitch_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_head_s09_rareplus_twitch_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_body_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_gear_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_hair_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_head_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_body_common_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_gear_common_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_hair_common_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/common/valkyrie_head_common_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_body_epic_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_01/valkyrie_gear_epic_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_body_epic_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_02/valkyrie_gear_epic_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_body_epic_03_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_03/valkyrie_gear_epic_03_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_body_epic_04_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_04/valkyrie_gear_epic_04_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_body_epic_05_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/epic_05/valkyrie_gear_epic_05_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_body_rare_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_gear_rare_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_hair_rare_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/rare/valkyrie_head_rare_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_body_s09_rareplus_jpnlegacy_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_gear_s09_rareplus_jpnlegacy_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_hair_s09_rareplus_jpnlegacy_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy/valkryie_head_s09_rareplus_jpnlegacy_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_body_s09_jpnlegacy_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_gear_s09_jpnlegacy_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_hair_s09_jpnlegacy_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_jpnlegacy_02/valkyrie_head_s09_jpnlegacy_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_body_s09_rareplus_twitch_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_gear_s09_rareplus_twitch_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_hair_s09_rareplus_twitch_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/skins/s09_rareplus_twitch_01/valkyrie_head_s09_rareplus_twitch_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_body_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_gear_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_hair_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_head_sknp.rpak"
+    },
+    {
+     "_type": "arig",
+     "_path" : "animrig/humans/class/medium/pilot_medium_valkyrie.rrig",
+     "$sequences" : [
+        "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_menu_lobby_center_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_menu_lobby_select_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_menu_readyUp.rseq",
+        "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_menu_readyUp_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_menu_select.rseq",
+        "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_menu_select_idle.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Humans/class/medium/pilot_medium_valkyrie.rmdl",
+      "$animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_valkyrie.rrig"
+        //"animrig/humans/class/medium/pilot_medium_bangalore.rrig"
+      ]
+    }*/
   ]
 }

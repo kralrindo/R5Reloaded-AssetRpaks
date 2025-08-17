@@ -1101,172 +1101,200 @@
           "height": 320
         },
         {
-          "path": "rui/cqb_reticle_volt",
+          "path": "rui/menu/logo_valkyrie",
           "posX": 1542,
           "posY": 20,
+          "width": 630,
+          "height": 204
+        },
+        {
+          "path": "rui/cqb_reticle_volt",
+          "posX": 1542,
+          "posY": 264,
           "width": 256,
           "height": 256
         },
         {
           "path": "models/weapons/attachments/diamond_reticle_rear",
           "posX": 1838,
-          "posY": 20,
+          "posY": 264,
           "width": 256,
           "height": 256
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_arrows",
           "posX": 1542,
-          "posY": 316,
+          "posY": 560,
           "width": 256,
           "height": 256
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
           "posX": 1838,
-          "posY": 316,
+          "posY": 560,
           "width": 256,
           "height": 256
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
-          "posX": 1542,
-          "posY": 612,
+          "posX": 20,
+          "posY": 1700,
           "width": 256,
           "height": 256
         },
         {
           "path": "models/weapons/attachments/volt_triangle_bars",
-          "posX": 1838,
-          "posY": 612,
+          "posX": 316,
+          "posY": 1700,
           "width": 256,
           "height": 256
         },
         {
           "path": "rui/weapon_icons/r5/weapon_throwingknife",
           "posX": 1542,
-          "posY": 908,
+          "posY": 856,
           "width": 256,
           "height": 128
         },
         {
           "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_wingman_elite",
           "posX": 1838,
-          "posY": 908,
+          "posY": 856,
           "width": 256,
           "height": 128
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_boomjuice",
-          "posX": 20,
+          "posX": 612,
           "posY": 1700,
           "width": 170,
           "height": 170
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_heavy",
-          "posX": 230,
-          "posY": 1700,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_kraber",
-          "posX": 440,
-          "posY": 1700,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_light",
-          "posX": 650,
-          "posY": 1700,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_shotgun",
-          "posX": 860,
+          "posX": 822,
           "posY": 1500,
           "width": 170,
           "height": 170
         },
         {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_kraber",
+          "posX": 822,
+          "posY": 1710,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_light",
+          "posX": 1032,
+          "posY": 1500,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_shotgun",
+          "posX": 1032,
+          "posY": 1710,
+          "width": 170,
+          "height": 170
+        },
+        {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_special",
-          "posX": 1070,
+          "posX": 1242,
           "posY": 1500,
           "width": 170,
           "height": 170
         },
         {
           "path": "rui/pilot_loadout/mods/empty_laser_sight",
-          "posX": 860,
+          "posX": 1242,
           "posY": 1710,
           "width": 152,
           "height": 152
         },
         {
           "path": "rui/pilot_loadout/mods/empty_mag_sniper",
-          "posX": 1052,
+          "posX": 1434,
           "posY": 1710,
           "width": 152,
           "height": 152
         },
         {
           "path": "rui/pilot_loadout/mods/laser_sight",
-          "posX": 1244,
-          "posY": 1710,
+          "posX": 1452,
+          "posY": 1500,
           "width": 152,
           "height": 152
         },
         {
           "path": "rui/hud/loot/loot_marvin_arm",
-          "posX": 1280,
-          "posY": 1500,
-          "width": 152,
-          "height": 152
-        },
-        {
-          "path": "rui/pilot_loadout/mods/sniper_mag",
-          "posX": 1436,
+          "posX": 1626,
           "posY": 1692,
           "width": 152,
           "height": 152
         },
         {
-          "path": "models/weapons/attachments/aog_reticle_dot",
-          "posX": 1472,
+          "path": "rui/pilot_loadout/mods/sniper_mag",
+          "posX": 1644,
           "posY": 1500,
+          "width": 152,
+          "height": 152
+        },
+        {
+          "path": "rui/menu/logo_small",
+          "posX": 1818,
+          "posY": 1692,
+          "width": 122,
+          "height": 135
+        },
+        {
+          "path": "models/weapons/attachments/aog_reticle_dot",
+          "posX": 1836,
+          "posY": 1500,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/menu/lobby/blog_icon",
+          "posX": 1980,
+          "posY": 1668,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/cqb_dot_front_col",//not being used
-          "posX": 1628,
-          "posY": 1668,
+          "posX": 2004,
+          "posY": 1500,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/menu/lobby/dc_icon",
+          "posX": 612,
+          "posY": 1910,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/gametype_icons/survival/mobile_respawn_beacon_icon",
-          "posX": 1640,
-          "posY": 1500,
+          "posX": 1980,
+          "posY": 1836,
           "width": 128,
           "height": 128
         },
         {
-          "path": "rui/hud/custom_badges/r5r_badge",
-          "posX": 1796,
-          "posY": 1668,
+          "path": "rui/hud/custom_badges/valk_badge",
+          "posX": 1626,
+          "posY": 1884,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/gamestate/spectate_icon",
-          "posX": 1808,
+          "posX": 700,
           "posY": 1500,
-          "width": 128,
-          "height": 96
+          "width": 64,
+          "height": 64
         }
       ]
     },

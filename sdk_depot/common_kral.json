@@ -26,6 +26,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/ability/titanfall2/pilots/pilot_f_ultimate.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/gcard_stance/empty.rpak"
     },
     {

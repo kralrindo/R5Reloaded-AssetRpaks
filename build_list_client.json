@@ -18,7 +18,7 @@
         "sdk_depot/patch_master.json",
 
         //MAP PAKS
-        "map_depot/mp_lobby.json",//Season 5 Lobby
+        "map_depot/mp_lobby_s6.json",//Season 5 Lobby
         "map_depot/mp_rr_canyonlands_staging.json",//Season 14 Firing Range
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",//Canyonlands MU1, Original S3 variant
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",//Canyonlands 64K, Original S3 variant

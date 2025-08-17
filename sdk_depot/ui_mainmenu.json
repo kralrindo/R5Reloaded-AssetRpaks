@@ -20,8 +20,8 @@
       "images": [
         {
           "path": "ui/menu/title_screen/title_art",
-          "width": 3523, //DO NOT CHANGE THIS
-          "height": 2159,
+          "width": 3840, //DO NOT CHANGE THIS
+          "height": 2160,
           "posX": 0,
           "posY": 0
         }
